@@ -13,7 +13,7 @@ my %rephash = (
       'SS' =>'Stochastic Oversold ',
       'SB' => 'Stochastic Overbought '
     );
-
+my ($PASSWORD) = $ENV{DBPASSWORD};
 sub new
 {
     my $class = shift;
@@ -487,7 +487,7 @@ sub getpricehistory
                          Bearish  => 'Sell',
                          nochange => '&nbsp;',
                         ); 
-my $dbh = DBI->connect('dbi:mysql:tickmaster','root','Neha*2005') or die "Connection Error: $DBI::errstr\n";
+my $dbh = DBI->connect('dbi:mysql:tickmaster','root',$PASSWORD) or die "Connection Error: $DBI::errstr\n";
 my $sql ="select a.price_date, a.close_price,ema_diff,ema_macd_9, (ema_diff - ema_macd_9) as signalstrength, ema_diff_5_35,ema_macd_5, (ema_diff_5_35 - ema_macd_5) as signalstrength2 from tickerprice a where a.ticker_id = $ticker_id ORDER BY a.price_date DESC LIMIT 0,$no_of_days;";
   my $resulthtml  = '<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center">';
  $resulthtml  .= '<tr bgcolor="#00FFFF"><th colspan=12>MACD Signal and Crossover Data for the last 50 days</th></tr>';
@@ -643,7 +643,7 @@ sub getSignal2
  my $self = shift;
  my $ticker_id = shift;
  my (%rephashflag,@row);
- my $dbh = DBI->connect('dbi:mysql:tickmaster','root','Neha*2005') or die "Connection Error: $DBI::errstr\n";
+ my $dbh = DBI->connect('dbi:mysql:tickmaster','root',$PASSWORD) or die "Connection Error: $DBI::errstr\n";
  my $sql ="select report_flag from report where ticker_id = $ticker_id and report_flag in ('OS','OB','SS','SB','RS','RB')";
  my $sth = $dbh->prepare($sql);
  $sth->execute or die "SQL Error: $DBI::errstr\n";
@@ -664,8 +664,7 @@ sub getSignal
  my ($signallast) = 0;
  my ($signaldate) = 0;
  my(%signalhash,@row);
- #print "GGGGGGGGG\n";
-my $dbh = DBI->connect('dbi:mysql:tickmaster','root','Neha*2005') or die "Connection Error: $DBI::errstr\n";
+my $dbh = DBI->connect('dbi:mysql:tickmaster','root',$PASSWORD) or die "Connection Error: $DBI::errstr\n";
  my $sql ="select a.price_date, a.close_price,ema_diff,ema_macd_9, (ema_diff - ema_macd_9) as signalstrength, ema_diff_5_35,ema_macd_5, (ema_diff_5_35 - ema_macd_5) as signalstrength2 from tickerprice a where a.ticker_id = $ticker_id ORDER BY a.price_date DESC LIMIT 0,$no_of_days;";
  my $sth = $dbh->prepare($sql);
  $sth->execute or die "SQL Error: $DBI::errstr\n";
@@ -762,7 +761,7 @@ sub getlatestdma
  my $tickerhashref = shift;
 my ($ticker_id,$flag,@row);
 my $lasttrade = $$tickerhashref{LastTrade}; 
-my $dbh = DBI->connect('dbi:mysql:tickmaster','root','Neha*2005') or die "Connection Error: $DBI::errstr\n";
+my $dbh = DBI->connect('dbi:mysql:tickmaster','root',$PASSWORD) or die "Connection Error: $DBI::errstr\n";
  my $sql = "select ticker_id,comp_name,sector,industry from tickermaster where ticker = '$$tickerhashref{Ticker}'";
 #print "tom1:$sql\n";
   my $sth = $dbh->prepare($sql);

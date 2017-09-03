@@ -10,7 +10,7 @@ use Date::Calc qw(Day_of_Week);
 use strict;
 use warnings;
 #my ($ticker,%hash,$ret,@rest,$last_price) ;
-
+my ($PASSWORD) = $ENV{DBPASSWORD};
 package UpdateTickerPriceData;
 
 sub new
@@ -31,7 +31,7 @@ my $webcrawler = new Webcrawler();
 my ($price_date) = $webcrawler->getToday();
 my ($offset,$dmaday,$dma10,$dma50,$ret,$deletesql,$insertsql,$dma200,$dma12,$dma26,$dma5,$dma35);
 #print "date:$price_date\n";
-my $dbh = DBI->connect('dbi:mysql:tickmaster','root','Neha*2005') or die "Connection Error: $DBI::errstr\n";
+my $dbh = DBI->connect('dbi:mysql:tickmaster','root',$PASSWORD) or die "Connection Error: $DBI::errstr\n";
 my $tickerdb = new TickerDB($price_date,$dbh);
 $last_price = $webcrawler->getLastPrice($ticker);
 #print "last:last_price\n";
@@ -211,7 +211,7 @@ sub getTickerID
 {
   my $self = shift;
   my $ticker = shift;
-  my $dbh = DBI->connect('dbi:mysql:tickmaster','root','Neha*2005') or die "Connection Error: $DBI::errstr\n";
+  my $dbh = DBI->connect('dbi:mysql:tickmaster','root',$PASSWORD) or die "Connection Error: $DBI::errstr\n";
   my $query = "select ticker_id from tickermaster where ticker = '$ticker'";
    #print "tom::$query\n";
   my(@row,$ticker_id);

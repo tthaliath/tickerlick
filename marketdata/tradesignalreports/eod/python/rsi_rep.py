@@ -2,11 +2,12 @@
 
 import MySQLdb as mdb
 import sys
-
+import os
+dbpassword = os.environ['DBPASSWORD']
 cur_date = sys.argv[1] 
 print cur_date
 try:
-    con = mdb.connect("localhost","root","Neha*2005","tickmaster" )
+    con = mdb.connect("localhost","root",dbpassword,"tickmaster" )
 
     cur = con.cursor()
     os_query = "select a.ticker_id,rsi_14,b.price_date from tickermaster a, tickerpricersi b where a.ticker_id = b.ticker_id and b.price_date = '"+cur_date+"'  and rsi_14 > 3 and rsi_14 < 30 and  close_price > 5 order by rsi_14 asc"

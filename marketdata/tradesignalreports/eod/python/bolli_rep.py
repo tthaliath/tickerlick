@@ -2,11 +2,12 @@
 
 import MySQLdb as mdb
 import sys
-
+import os
+dbpassword = os.environ['DBPASSWORD']
 cur_date = sys.argv[1] 
 print cur_date
 try:
-    con = mdb.connect("localhost","root","Neha*2005","tickmaster" )
+    con = mdb.connect("localhost","root",dbpassword,"tickmaster" )
 
     cur = con.cursor()
 #bolli oversold

@@ -4,9 +4,6 @@ tradevanatge
 
 Python modules to download intraday stock quotes and generate BUY/SELL signals based on  technical indicators
 
-.. image:: https://travis-ci.org/lukaszbanasiak/yahoo-finance.svg?branch=master
-    :target: https://travis-ci.org/lukaszbanasiak/yahoo-finance
-
 Intraday quoues are pulled from http://alphavantage.co via their interface. If this service is down/having credential issues, the system downloads quotes fro  marketwatch.com
 To use alphavantage.co, user needs to acquire their free api key. The free key is available at https://www.alphavantage.co/support/#api-key
 

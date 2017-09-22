@@ -2,6 +2,8 @@
 MANIFEST
 MANIFEST.in
 setup.py
-tradevantage/GenSignals.py
-tradevantage/WebCrawler.py
 tradevantage/__init__.py
+tradevantage/alphartq.py
+tradevantage/reportquery.py
+tradevantage/signalload.py
+tradevantage/tradealert.py

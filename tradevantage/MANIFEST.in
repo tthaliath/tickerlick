@@ -1,7 +1,16 @@
-include README MANIFEST MANIFEST.in
+include README 
+include MANIFEST
+include MANIFEST.in
+include README.rst
 include setup.py
+recursive-include tradevantage/test *
+recursive-include tradevantage/schema *
+include tradevantage/test/test.sh
+include tradevantage/schema/schema.sql
 include tradevantage/*.py
 include tradevantage/schema/*.sql
 include tradevantage/test/*.sh
 include tradevantage/cron/*.txt
-include radevantage/conf/*.json
+include tradevantage/conf/*.json
+
+global-exclude *.pyc

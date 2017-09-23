@@ -1,3 +1,7 @@
 include README MANIFEST MANIFEST.in
 include setup.py
 include tradevantage/*.py
+include tradevantage/schema/*.sql
+include tradevantage/test/*.sh
+include tradevantage/cron/*.txt
+include radevantage/conf/*.json

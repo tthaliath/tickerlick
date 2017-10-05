@@ -1,0 +1,16 @@
+include README 
+include MANIFEST
+include MANIFEST.in
+include README.rst
+include setup.py
+recursive-include macdtrader/test *
+recursive-include macdtrader/schema *
+include macdtrader/test/test.sh
+include macdtrader/schema/schema.sql
+include macdtrader/*.py
+include macdtrader/schema/*.sql
+include macdtrader/test/*.sh
+include macdtrader/cron/*.txt
+include macdtrader/conf/*.json
+
+global-exclude *.pyc

@@ -1,5 +1,5 @@
 =============
-tradevanatge
+tradevantage
 =============
 
 Python modules to download intraday stock quotes and generate BUY/SELL signals based on  technical indicators
@@ -23,7 +23,7 @@ From development repo (requires git)
 .. code:: bash
 
     $ git clone git://github.com/.git
-    $ cd tradevanatage 
+    $ cd tradevantage 
     $ python setup.py install
 
 Install Database

@@ -82,13 +82,13 @@ try:
 		res = cur_sec_master.fetchone()
 		if (res):
 			if (res[0] == 'N'):
-				print "new ticker. loading historical data first"
+				print "New ticker. Loading historical data first"
 				ph.processhistoricalprice(con,cur,ticker)
 			#set the flag to Y
 				cur_sec_master.execute("update securitymaster set signal_process_flag = 'Y' where ticker  = '%s'" % ticker)
 				con.commit()	
 		else:
-			print "new ticker. adding into securitymaster table and then loading historical data"
+			print "New ticker. Adding into securitymaster table and then loading historical data"
 			cur_sec_master.execute("insert into securitymaster (ticker,signal_process_flag) VALUES (%s,%s)", (ticker,'Y'))
 			ph.processhistoricalprice(con,cur,ticker)
 			con.commit()
@@ -104,8 +104,7 @@ try:
 			cur.execute("replace into secpricelast (ticker,price_date,close_price,low_price,high_price) VALUES (%s,%s,%s,%s,%s)", (ticker,price_date,mo.group(1),mo.group(2),mo.group(3)))	
 			con.commit()
 	for ticker in (tickerlist.split(",")):	
-		print ticker
-		print "Calculating short MACD (5-35-5)\n"
+		#print "Calculating short MACD (5-35-5)\n"
 		#print "Calculating EMA5\n"
 		offsetmain = dma.getoffset(con,cur,ticker)
 		if (offsetmain < 35):
@@ -128,7 +127,7 @@ try:
 		if (macdoffset > 0):
 			dma.setEMAMACD535(con,cur,ticker,macdoffset,cur_ema_diff,cur_ema_macd)	
 		
-		print "Calculating long MACD (12-26-9)\n"
+		#print "Calculating long MACD (12-26-9)\n"
 		#print "Calculating EMA12\n"
 		offset = offsetmain - 12 
 		dmaday = 12 

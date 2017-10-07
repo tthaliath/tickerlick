@@ -4,3 +4,7 @@
 
 /usr/local/bin/python macdgen.py -t AAPL,SNAP,SRPT,AMD,NVDA,AMZN,GOOGL,TSLA,FB,NFLX,AGN,BABA,AVEO,BLK,FEYE,EFX,ORCL,SAGE
 
+#generate reports every two minutes. if email credentials are setup config.json file, report will be emailed
+
+/usr/local/bin/python reportquery.py
+

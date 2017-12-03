@@ -1,0 +1,144 @@
+ PID         TTY      STAT     TIME   COMMAND
+    1         ?         S      0:00 init [3]
+    2         ?        SN      0:00 [ksoftirqd/0]
+    3         ?         S      0:00 [watchdog/0]
+    4         ?        S<      0:00 [events/0]
+    5         ?        S<      0:00 [khelper]
+    6         ?        S<      0:00 [kthread]
+   10         ?        S<      0:00 \_ [kblockd/0]
+   11         ?        S<      0:00 \_ [kacpid]
+  336         ?        S<      0:00 \_ [khubd]
+  388         ?         S      0:00 \_ [pdflush]
+  391         ?        S<      0:00 \_ [aio/0]
+  481         ?        S<      0:00 \_ [kseriod]
+  557         ?        S<      0:00 \_ [ata/0]
+  561         ?        S<      0:00 \_ [scsi_eh_0]
+  562         ?        S<      0:00 \_ [scsi_eh_1]
+  577         ?        S<      0:00 \_ [scsi_eh_2]
+  578         ?        S<      0:00 \_ [scsi_eh_3]
+ 7642         ?         S      0:00 \_ [pdflush]
+  390         ?         S      0:03 [kswapd0]
+  586         ?         S      0:02 [kjournald]
+  830         ?       S<s      0:00 udevd
+ 1406         ?         S      0:00 [kjournald]
+ 1623         ?        Ss      0:00 xfs -droppriv -daemon
+ 1935         ?        Ss      0:00 /sbin/dhclient -1 -q -lf /var/lib/dhcp/dhclient-eth0.leases -pf /var/run/dhclient-eth0.pid eth0
+ 1973         ?        Ss      0:00 syslogd -m 0
+ 1975         ?        Ss      0:00 klogd -x
+ 2020         ?        Ss      0:00 /usr/sbin/sshd
+16167         ?        Ss      0:00 \_ sshd: quark [priv]
+16169         ?         S      0:00    \_ sshd: quark@pts/0
+16170     pts/0        Ss      0:00       \_ -bash
+16227     pts/0        R+      0:00          \_ ps -e l
+ 2047         ?       Ssl      0:00 /usr/sbin/nscd
+ 2085         ?       S<s      0:00 /sbin/dhclient -1 -q -lf /var/lib/dhcp/dhclient-eth0.leases -pf /var/run/dhclient-eth0.pid eth0
+ 2127         ?        Ss      0:00 sendmail: accepting connections
+ 2143         ?        Ss      0:00 crond
+ 2157      tty1       Ss+      0:00 /sbin/mingetty tty1
+ 2159      tty2       Ss+      0:00 /sbin/mingetty tty2
+ 2160      tty3       Ss+      0:00 /sbin/mingetty tty3
+ 2161      tty4       Ss+      0:00 /sbin/mingetty tty4
+ 2162      tty5       Ss+      0:00 /sbin/mingetty tty5
+ 2167      tty6       Ss+      0:00 /sbin/mingetty tty6
+ 3269         ?         S      0:00 /usr/bin/postmaster -p 5432 -D /srv/lib/pgsql/data
+ 3274         ?         S      0:00 \_ postgres: logger process
+ 3276         ?         S      0:00 \_ postgres: writer process
+ 3277         ?         S      0:06 \_ postgres: stats buffer process
+ 3278         ?         S      0:12    \_ postgres: stats collector process
+13646         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10947) idle
+13654         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10950) idle
+13659         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10953) idle
+13664         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10955) idle
+13665         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10956) idle
+13667         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10957) idle
+13687         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10967) idle
+13690         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10968) idle
+13698         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10973) idle
+13701         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(10974) idle
+13702         ?         S      0:00 \_ postgres: vindicia vindicia 10.150.1.202(56717) idle
+13902         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57667) idle
+13906         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57670) idle
+13908         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57672) idle
+13910         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57674) idle
+13913         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57676) idle
+13915         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57678) idle
+13922         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(57681) idle
+13940         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(51370) idle
+13942         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(51371) idle
+13951         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(33862) idle
+13961         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(11121) idle
+13966         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(31184) idle
+14053         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(5398) idle
+14060         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(5400) idle
+14062         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(5401) idle
+14067         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(39475) idle
+14069         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(39476) idle
+14078         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(17204) idle
+14080         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(17205) idle
+14089         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(49781) idle
+14091         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(49782) idle
+14098         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(49785) idle
+14100         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(49786) idle
+15558         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(10981) idle
+15574         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(47742) idle
+15576         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(47743) idle
+15599         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(27541) idle
+15631         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(27567) idle
+15633         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(27568) idle
+15636         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(27569) idle
+15638         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(27570) idle
+15682         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(27614) idle
+15759         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(4764) idle
+15765         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(4769) idle
+15767         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(4770) idle
+15790         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(49158) idle
+15803         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(60402) idle
+15820         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(60419) idle
+15847         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(16297) idle
+15848         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(16298) idle
+15849         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(16299) idle
+15850         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(16300) idle
+15851         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(16301) idle
+15852         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(16302) idle
+16035         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(50164) idle
+16072         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(61295) idle
+16124         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(31813) idle
+16139         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(34385) idle
+16140         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(34386) idle
+16141         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(34387) idle
+16142         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(34388) idle
+16143         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(34389) idle
+16144         ?         S      0:00 \_ postgres: vindicia vindicia 127.0.0.1(34390) idle
+10527         ?       SLs      0:00 ntpd -p /var/run/ntpd.pid
+10773         ?        Ss      0:03 /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+15550         ?         S      0:12 \_ /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+15676         ?         S      0:23 \_ /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+15750         ?         S      0:10 \_ /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+15757         ?         S      0:10 \_ /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+15758         ?         S      0:09 \_ /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+15814         ?         S      0:02 \_ /usr/sbin/apache -f /home/wai/vindicia/apache/conf/httpd.conf -d /home/wai/vindicia/apache -C ErrorLog /home/wai/vindicia/var/logs/httpd/error.log -D SSL
+13635         ?        Ss      0:03 /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13637         ?         S      0:00 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13638         ?         S      0:00 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13639         ?         S      0:01 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13640         ?         S      0:00 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13641         ?         S      0:04 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13647         ?         S      0:04 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13648         ?         S      0:03 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13649         ?         S      0:00 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13653         ?         S      0:00 \_ /usr/sbin/apache -f /home/quark/vindicia/apache/conf/httpd.conf -d /home/quark/vindicia/apache -C ErrorLog /home/quark/vindicia/logs/httpd/error.log -D SSL
+13893         ?        Ss      0:03 /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13895         ?         S      0:02 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13896         ?         S      0:00 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13897         ?         S      0:01 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13898         ?         S      0:01 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13899         ?         S      0:00 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13903         ?         S      0:01 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+13911         ?         S      0:00 \_ /usr/sbin/apache -f /home/elrod/vindicia/apache/conf/httpd.conf -d /home/elrod/vindicia/apache -C ErrorLog /home/elrod/vindicia/var/logs/httpd/error.log -D SSL
+15275         ?        Ss      0:03 /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL
+15563         ?         S      0:05 \_ /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL
+15566         ?         S      0:04 \_ /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL
+15567         ?         S      0:08 \_ /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL
+15570         ?         S      0:05 \_ /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL
+15571         ?         S      0:03 \_ /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL
+15572         ?         S      0:06 \_ /usr/sbin/apache -f /home/enlightenext/vindicia/apache/conf/httpd.conf -d /home/enlightenext/vindicia/apache -C ErrorLog /home/enlightenext/vindicia/var/logs/httpd/error.log -D SSL

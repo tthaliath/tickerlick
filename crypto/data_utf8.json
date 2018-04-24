@@ -1,0 +1,97 @@
+{"ord": "16", "ticker": "XBS", "name": "Bitstake", "lastprice": 8.49}
+{"ord": "39", "ticker": "AGS", "name": "Aegis", "lastprice": 0.004841}
+{"ord": "29", "ticker": "SPR", "name": "Spreadcoin", "lastprice": 0.2623}
+{"ord": "28", "ticker": "CHASH", "name": "CleverHash", "lastprice": 0.07738}
+{"ord": "26", "ticker": "XPD", "name": "PetroDollar", "lastprice": 0.01406}
+{"ord": "17", "ticker": "XPY", "name": "PayCoin", "lastprice": 0.02689}
+{"ord": "50", "ticker": "BEN", "name": "Benjamins", "lastprice": 0.01076}
+{"ord": "19", "ticker": "YBC", "name": "YbCoin", "lastprice": 6001}
+{"ord": "51", "ticker": "BET", "name": "BetaCoin", "lastprice": 0.003918}
+{"ord": "59", "ticker": "MOON", "name": "MoonCoin", "lastprice": 3.739e-05}
+{"ord": "18", "ticker": "PRC", "name": "ProsperCoin", "lastprice": 0.000922}
+{"ord": "10", "ticker": "BTS", "name": "Bitshares", "lastprice": 0.1713}
+{"ord": "73", "ticker": "BTM", "name": "BitMark", "lastprice": 0.4915}
+{"ord": "98", "ticker": "DMD", "name": "Diamond", "lastprice": 6.96}
+{"ord": "36", "ticker": "ACOIN", "name": "ACoin", "lastprice": 0.07798}
+{"ord": "74", "ticker": "BUK", "name": "CryptoBuk", "lastprice": 3.11}
+{"ord": "32", "ticker": "XDP", "name": "DogeParty", "lastprice": 0.1623}
+{"ord": "12", "ticker": "XRP", "name": "Ripple", "lastprice": 0.5735}
+{"ord": "21", "ticker": "GIVE", "name": "GiveCoin", "lastprice": 0.0003072}
+{"ord": "7", "ticker": "ETC", "name": "Ethereum Classic", "lastprice": 15.25}
+{"ord": "49", "ticker": "BCX", "name": "BattleCoin", "lastprice": 0.004147}
+{"ord": "2", "ticker": "ETH", "name": "Ethereum", "lastprice": 467.42}
+{"ord": "64", "ticker": "QRK", "name": "QuarkCoin", "lastprice": 0.01006}
+{"ord": "76", "ticker": "CANN", "name": "CannabisCoin", "lastprice": 0.05138}
+{"ord": "84", "ticker": "CXC", "name": "CheckCoin", "lastprice": 0.01521}
+{"ord": "25", "ticker": "SUP", "name": "Supcoin", "lastprice": 0.07011}
+{"ord": "72", "ticker": "BTG*", "name": "BitGem", "lastprice": 8.29}
+{"ord": "88", "ticker": "CMC", "name": "CosmosCoin", "lastprice": 0.01544}
+{"ord": "31", "ticker": "WOLF", "name": "Insanity Coin", "lastprice": 0.03838}
+{"ord": "92", "ticker": "COOL", "name": "CoolCoin", "lastprice": 0.001996}
+{"ord": "47", "ticker": "AUR", "name": "Aurora Coin", "lastprice": 1.05}
+{"ord": "87", "ticker": "CLR", "name": "CopperLark", "lastprice": 0.004069}
+{"ord": "9", "ticker": "ZEC", "name": "ZCash", "lastprice": 207.85}
+{"ord": "60", "ticker": "ZET", "name": "ZetaCoin", "lastprice": 0.005911}
+{"ord": "23", "ticker": "DT", "name": "DarkToken", "lastprice": 0.002917}
+{"ord": "65", "ticker": "RIC", "name": "Riecoin", "lastprice": 0.07922}
+{"ord": "78", "ticker": "CASH", "name": "CashCoin", "lastprice": 0.01215}
+{"ord": "91", "ticker": "COMM", "name": "Community Coin", "lastprice": 0.0009979}
+{"ord": "37", "ticker": "AERO", "name": "Aero Coin", "lastprice": 0.02111}
+{"ord": "99", "ticker": "XVG", "name": "Verge", "lastprice": 0.0861}
+{"ord": "61", "ticker": "SXC", "name": "SexCoin", "lastprice": 0.01735}
+{"ord": "57", "ticker": "BQC", "name": "BQCoin", "lastprice": 0.00307}
+{"ord": "22", "ticker": "KOBO", "name": "KoboCoin", "lastprice": 0.02334}
+{"ord": "30", "ticker": "NXTI", "name": "NXTI", "lastprice": 0.2819}
+{"ord": "79", "ticker": "CAT1", "name": "Catcoin", "lastprice": 0.02165}
+{"ord": "89", "ticker": "CNC", "name": "ChinaCoin", "lastprice": 0.0003839}
+{"ord": "90", "ticker": "CNL", "name": "ConcealCoin", "lastprice": 0.003148}
+{"ord": "13", "ticker": "BTCD", "name": "BitcoinDark", "lastprice": 52.5}
+{"ord": "53", "ticker": "BLU", "name": "BlueCoin", "lastprice": 0.003222}
+{"ord": "54", "ticker": "BLK", "name": "BlackCoin", "lastprice": 0.239}
+{"ord": "93", "ticker": "CRACK", "name": "CrackCoin", "lastprice": 0.003764}
+{"ord": "85", "ticker": "CLAM", "name": "CLAMS", "lastprice": 3.81}
+{"ord": "3", "ticker": "LTC", "name": "Litecoin", "lastprice": 122.16}
+{"ord": "77", "ticker": "CAP", "name": "BottleCaps", "lastprice": 0.1153}
+{"ord": "1", "ticker": "BTC", "name": "Bitcoin", "lastprice": 7682.44}
+{"ord": "67", "ticker": "LIMX", "name": "LimeCoinX", "lastprice": 0.2178}
+{"ord": "75", "ticker": "CACH", "name": "Cachecoin", "lastprice": 0.01982}
+{"ord": "52", "ticker": "BITB", "name": "BitBean", "lastprice": 0.008219}
+{"ord": "62", "ticker": "QTL", "name": "Quatloo", "lastprice": 0.01721}
+{"ord": "71", "ticker": "BTE", "name": "ByteCoin", "lastprice": 0.02458}
+{"ord": "48", "ticker": "AXR", "name": "AXRON", "lastprice": 0.01913}
+{"ord": "69", "ticker": "BTB", "name": "BitBar", "lastprice": 14.63}
+{"ord": "4", "ticker": "DASH", "name": "DigitalCash", "lastprice": 343.56}
+{"ord": "27", "ticker": "GEO", "name": "GeoCoin", "lastprice": 1.72}
+{"ord": "58", "ticker": "XMY", "name": "MyriadCoin", "lastprice": 0.006837}
+{"ord": "5", "ticker": "XMR", "name": "Monero", "lastprice": 184.64}
+{"ord": "44", "ticker": "ARCH", "name": "ArchCoin", "lastprice": 0.004608}
+{"ord": "81", "ticker": "CCN", "name": "CannaCoin", "lastprice": 0.05791}
+{"ord": "86", "ticker": "CLOAK", "name": "CloakCoin", "lastprice": 8.59}
+{"ord": "97", "ticker": "DEM", "name": "eMark", "lastprice": 0.02335}
+{"ord": "40", "ticker": "AMC", "name": "AmericanCoin", "lastprice": 0.003456}
+{"ord": "63", "ticker": "ENRG", "name": "EnergyCoin", "lastprice": 0.09831}
+{"ord": "35", "ticker": "AC", "name": "Asia Coin", "lastprice": 0.004916}
+{"ord": "100", "ticker": "DRKC", "name": "DarkCash", "lastprice": 0.07519}
+{"ord": "80", "ticker": "CBX", "name": "CryptoBullion", "lastprice": 2.47}
+{"ord": "95", "ticker": "CRYPT", "name": "CryptCoin", "lastprice": 0.2442}
+{"ord": "41", "ticker": "ALN", "name": "AlienCoin", "lastprice": 0.001152}
+{"ord": "38", "ticker": "ALF", "name": "AlphaCoin", "lastprice": 0.001382}
+{"ord": "33", "ticker": "2015", "name": "2015 coin", "lastprice": 0.02249}
+{"ord": "70", "ticker": "CAIX", "name": "CAIx", "lastprice": 0.03869}
+{"ord": "96", "ticker": "CSC", "name": "CasinoCoin", "lastprice": 0.01152}
+{"ord": "8", "ticker": "DOGE", "name": "Dogecoin", "lastprice": 0.003696}
+{"ord": "11", "ticker": "DGB", "name": "DigiByte", "lastprice": 0.02412}
+{"ord": "66", "ticker": "DGC", "name": "DigiCoin", "lastprice": 0.02034}
+{"ord": "20", "ticker": "DANK", "name": "DarkKush", "lastprice": 0.002073}
+{"ord": "56", "ticker": "BOST", "name": "BoostCoin", "lastprice": 0.01021}
+{"ord": "24", "ticker": "CETI", "name": "CETUS Coin", "lastprice": 0.0002303}
+{"ord": "83", "ticker": "CINNI", "name": "CINNICOIN", "lastprice": 0.01182}
+{"ord": "82", "ticker": "CIN", "name": "CinderCoin", "lastprice": 0.2665}
+{"ord": "14", "ticker": "PPC", "name": "PeerCoin", "lastprice": 1.87}
+{"ord": "45", "ticker": "ARG", "name": "Argentum", "lastprice": 0.1407}
+{"ord": "46", "ticker": "ARI", "name": "AriCoin", "lastprice": 0.001689}
+{"ord": "94", "ticker": "CRC*", "name": "CraftCoin"}
+{"ord": "43", "ticker": "APEX", "name": "ApexCoin", "lastprice": 0.009905}
+{"ord": "6", "ticker": "NXT", "name": "Nxt", "lastprice": 0.1495}
+{"ord": "15", "ticker": "CRAIG", "name": "CraigsCoin", "lastprice": 0.001459}
+{"ord": "34", "ticker": "42", "name": "42 Coin", "lastprice": 26492.03}

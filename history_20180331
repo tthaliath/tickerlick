@@ -1,0 +1,1000 @@
+   41  ate
+   42  e
+   43  crontab -e
+   44  date
+   45  crontab -e
+   46  view loadprice.sh 
+   47  view pricehistnew.csv
+   48  ipython
+   49  ls
+   50  cd tickerlick/daily/
+   51  view loadprice.sh 
+   52  view pricehistnew.csv
+   53  date
+   54  crontab -e
+   55  view loadprice.sh 
+   56   cp /home/tthaliath/USE_20180323.csv pricehistnew.csv
+   57  view pricehistnew.csv
+   58  date
+   59  crontab -e
+   60  exit
+   61  cd tickerlick/daily/
+   62  view pricehistnew.csv
+   63  view loadprice.sh 
+   64  date
+   65  crontab -e
+   66  date
+   67  cd
+   68  ipython
+   69  ipythin
+   70  ipython
+   71  ls
+   72  mkdir pyweb
+   73  cd pyweb/
+   74  view quotes_spider.py
+   75  scrapy runspider quotes_spider.py -o quotes.json
+   76  ls -ltr
+   77  view quotes.json 
+   78  AttributeError: 'HtmlResponse' object has no attribute 'follow'
+   79  su root
+   80  scrapy runspider quotes_spider.py -o quotes.json
+   81  ls -ltr
+   82  view quotes.json 
+   83  view ex1
+   84  exit
+   85  view /home/tthaliath/Tickermain/DMA.pm
+   86  cd tickerlick/daily/
+   87  view loadprice.sh 
+   88  view /home/tthaliath/tickerlick/daily/loadprice_daily.pl
+   89  view loadprice.sh 
+   90  view /home/tthaliath/tickerlick/daily/getustickerhistorysummary_eod.pl 
+   91  cd /home/tthaliath/tickerdata/history/price/daily/20180223
+   92  ls -ltr
+   93  cd -
+   94  view loadprice.sh 
+   95  ./loadprice.sh 
+   96  view loadprice.sh 
+   97  ./loadprice.sh 
+   98  ls
+   99  ls -ltr
+  100  cd pyweb/
+  101  ls
+  102  rm *
+  103  scrapy startproject tutorial
+  104  ls
+  105  cd tutorial/
+  106  ls
+  107  cd tutorial/
+  108  view pipelines.py 
+  109  cd spiders/
+  110  view quotes_spider.py
+  111  cd ../../
+  112  ls
+  113  view scrapy.cfg 
+  114  scrapy crawl quotes
+  115  ls
+  116  ls -ltr
+  117  view quotes-1.html 
+  118  view quotes-2.html 
+  119  view quotes-1.html 
+  120  cd tutorial/
+  121  ls
+  122  cd spiders/
+  123  ls -ltr
+  124  view quotes_spider_new.py
+  125  cd ../../
+  126  ;s
+  127  ls
+  128  scrapy crawl quotesnew
+  129  ls -ltr
+  130  scrapy shell 'http://quotes.toscrape.com/page/1/'
+  131  scrapy shell 'http://quotes.toscrape.com/'
+  132  cd tickerlick/daily/
+  133  date
+  134  ./loadprice.sh 
+  135  view loadprice.sh 
+  136  ./loadprice.sh 
+  137  view loadprice.sh 
+  138  ./loadprice.sh 
+  139  view loadprice.sh 
+  140  ./loadprice.sh 
+  141  view loadprice.sh 
+  142  ./loadprice.sh 
+  143  view loadprice.sh 
+  144  ./loadprice.sh 
+  145  view loadprice.sh 
+  146  ./loadprice.sh 
+  147  view loadprice.sh 
+  148  view loadprice_daily.pl 
+  149  view loadprice_all.pl
+  150  view loadprice_all.sh
+  151  view loadprice_all.pl
+  152  perl loadprice_all.pl 
+  153  view loadprice_all.pl
+  154  perl loadprice_all.pl 
+  155  view loadprice_all.pl
+  156  perl loadprice_all.pl 
+  157  view loadprice_all.pl
+  158  view loadprice.sh 
+  159  view l.sh
+  160  crontab -e
+  161  view l.sh
+  162  view loadprice_all.pl
+  163  view l.sh
+  164  perl loadprice_all.pl 
+  165  view l.sh
+  166  view loadprice_all.pl
+  167  perl loadprice_all.pl 
+  168  grep system *.pl
+  169  view loadprice_all.pl
+  170  view l.sh
+  171  perl loadprice_all.pl 
+  172  view l.sh
+  173  grep system *.pl
+  174  Q
+  175  view l.sh
+  176  view loadprice_all.pl
+  177  perl loadprice_all.pl 
+  178  view loadprice_all.pl
+  179  ls /home/tthaliath/tickerlick/daily/l.sh
+  180  chmod 777 /home/tthaliath/tickerlick/daily/l.sh
+  181  view loadprice_all.pl
+  182  perl loadprice_all.pl 
+  183  view loadprice_all.pl
+  184  perl loadprice_all.pl 
+  185  view loadprice_all.pl
+  186  view l.sh
+  187  cd tickerlick/daily/
+  188  view l.sh 
+  189  perl loadprice_all.pl 
+  190  view l.sh 
+  191  perl loadprice_all.pl 
+  192  view l.sh 
+  193  perl loadprice_all.pl 
+  194  view l.sh 
+  195  perl loadprice_all.pl 
+  196  view l.sh 
+  197  perl loadprice_all.pl 
+  198  view l.sh 
+  199  crontab -e
+  200  cd tickerlick/daily/
+  201  view loadprice_all.pl 
+  202  chmod 777 loadprice_all.pl
+  203  date
+  204  crontab -e
+  205  date
+  206  ps -ef
+  207  date
+  208  ps -ef
+  209  crontab -e
+  210  ls -ltr /home/tthaliath/tickerlick/daily/loadprice_all.pl
+  211  view /home/tthaliath/tickerlick/daily/loadprice_all.pl
+  212  crontab -e
+  213  view  /home/tthaliath/tickerlick/history/new1/load_security_data.pl
+  214  view /home/tthaliath/tickerlick/daily/loadprice_all.pl
+  215  date
+  216  crontab -e
+  217  date
+  218  ps -ef
+  219  date
+  220  ps -ef
+  221  exit
+  222  cd tickerlick/daily/
+  223  view l.sh 
+  224  rm .l.sh.swp
+  225  view l.sh 
+  226  perl loadprice_all.pl 
+  227  view l.sh 
+  228  perl loadprice_all.pl 
+  229  view l.sh 
+  230  perl loadprice_all.pl 
+  231  view l.sh 
+  232  perl loadprice_all.pl 
+  233  view l.sh 
+  234  view loadprice.sh 
+  235  view loadprice_all.pl 
+  236  perl loadprice_all.pl 
+  237  date
+  238  exit
+  239  ipython
+  240  pwd
+  241  exit
+  242  cd pyweb/
+  243  ls
+  244  cd tutorial/
+  245  ls
+  246  cd tutorial/
+  247  ls
+  248  cd spiders/
+  249  ls
+  250  view quotes_spider_new.py
+  251  scrapy shell 'http://www.luckyticker.com
+  252  '
+  253  scrapy shell 'http://www.luckyticker.com'
+  254  scrapy shell 'http://www.luckyticker.com/quote?q=AMGN'
+  255  ld
+  256  view quotes_spider.py
+  257  view quotes_spider_2.py
+  258  cd ../../
+  259  ls
+  260  pwd
+  261  scrapy crawl quotes2
+  262  ls -ltr
+  263  view tutorial/spiders/quotes_spider2.py
+  264  pwd
+  265  cd tutorial/spiders/
+  266  ls -lter
+  267  ls -ltr
+  268  view quotes_spider_2.py
+  269  pwd
+  270  cd ../../
+  271  ls
+  272  scrapy crawl quotes233
+  273  scrapy crawl quotes2
+  274  scrapy crawl quotes2 -o quotes2.json
+  275  ls
+  276  view quotes2.json 
+  277  scrapy crawl quotes2 -o quotes2.ji
+  278  scrapy shell "http://quotes.toscrape.com/page/1/"
+  279  view tutorial/spiders/quotes_spider_2.py
+  280  cd ../../
+  281  scrapy crawl quotes2 -o quotes2.json
+  282  pwd
+  283  cd -
+  284  ls
+  285  scrapy crawl quotes2 -o quotes2.json
+  286  pwd
+  287  view tutorial/spiders/quotes_spider_2.py
+  288  scrapy crawl quotes2 -o quotes2.json
+  289  ls -ltr
+  290  crntab -e
+  291  crontab -e
+  292  cd pyweb/
+  293  cd tutorial/
+  294  ls
+  295  history
+  296  pwd
+  297  cd ../
+  298  scrapy startproject secdata
+  299  cd secdata/
+  300  ls
+  301  cd secdata/spiders/
+  302  view sec_brkb_sa.py
+  303  pwd
+  304  cd ../../
+  305  ;s
+  306  ls
+  307  scrapy crawl brkb-sa
+  308  scrapy shell 'https://seekingalpha.com/article/4158230-berkshire-hathaway-2017-valuation'
+  309  scrapy crawl brkb-sa -o brkb-sa.json
+  310  ls -ltr
+  311  scrapy shell 'https://seekingalpha.com/article/4158230-berkshire-hathaway-2017-valuation'
+  312  cd ../../
+  313  ls
+  314  pwd
+  315  cd -
+  316  cd ../tutorial/tutorial/spiders/
+  317  view author.py
+  318  cd ../../../
+  319  lcd tu
+  320  cd tutorial/
+  321  scrapy crawl author 
+  322  scrapy crawl author -0 author.jso
+  323  scrapy crawl author -0 author.json
+  324  scrapy crawl author -o author.json
+  325  ls -ltr
+  326  view author.json 
+  327  exit
+  328  ls
+  329  crontab -e
+  330  ls -ltr
+  331  exit
+  332  cd tickerdata/history/price/daily/
+  333  ls -ltre
+  334  ls -ltr=
+  335  ls -ltr
+  336  mkdir 20180323
+  337  mkdir 20180326
+  338  mkdir 20180327
+  339  mkdir 20180328
+  340  mkdir 20180329
+  341  cd
+  342  cd tickerlick/daily/
+  343  pwd
+  344  view loadprice.sh 
+  345  cp /home/tthaliath/USE_20180326.csv pricehistnew.csv
+  346  view pricehistnew.csv
+  347  date
+  348  crontab -e
+  349  ps -ef
+  350  mysql -uroot -p
+  351  free
+  352  crontab -e
+  353  view /home/tthaliath/tickerlick/daily/loadprice_all.pl
+  354  cd 
+  355  cd tickerdata/history/price/daily/
+  356  ls -ltr 
+  357  ls  20*
+  358  ls -ltr 
+  359  ls 
+  360  ls -la
+  361  ls -ltr > /home/tthaliath/dats
+  362  cd
+  363  view dats
+  364  cut -d ' ' -f 3
+  365  cut -d ' ' -f 3 dats 
+  366  view dats
+  367  cut -d ' ' -f 4 dats 
+  368  cut -d ' ' -f 4 dats > tdates
+  369  view tdates 
+  370  cut -d ' ' -f 4 dats 
+  371  view dats
+  372  view dat.pl
+  373  perl dat.pl 
+  374  perl dat.pl | more
+  375  perl dat.pl > tdates
+  376  view tdates 
+  377  cp tdates tickerlick/daily/
+  378  cd tickerlick/daily/
+  379  mysql -uroot -p
+  380  view loadprice.sh 
+  381  view loadprice_full.pl 
+  382  cp loadprice_all.pl loadpricefull.pl
+  383  view loadpricefull.pl 
+  384  view tdates 
+  385  view split.pl
+  386  perl split.pl 
+  387  view split.pl
+  388  perl split.pl 
+  389  perl split.pl > alldates
+  390  vie alldates 
+  391  view alldates 
+  392  view loadprice_all.pl 
+  393  view loadpricefull.pl 
+  394  ls -ltr
+  395  view loadpricefull.pl 
+  396  view loadprice.sh 
+  397  view home/tthaliath/tickerlick/daily/getustickerhistorysummary_eod.pl
+  398  view /home/tthaliath/tickerlick/daily/getustickerhistorysummary_eod.pl
+  399  view loadprice.sh 
+  400  view /home/tthaliath/tickerlick/daily/loadprice_daily.p
+  401  view /home/tthaliath/tickerlick/daily/loadprice_daily.pl
+  402  pwd
+  403  view /home/tthaliath/tickerlick/daily/loadprice_daily.pl
+  404  cd /home/tthaliath/tickerdata/history/price/daily/
+  405  ls -ltr
+  406  cd 20180312
+  407  ls
+  408  cd ../
+  409  cd /home/tthaliath/tickerlick/daily/
+  410  ls -ltr
+  411  view loadprice.sh 
+  412  view /home/tthaliath/tickerlick/daily/loadprice_daily.pl
+  413  view loadpricefull.pl
+  414  view loadprice.sh 
+  415  date
+  416  crontab -e
+  417  date
+  418  crontab -e
+  419  ps -ef
+  420  view loadpricefull.pl 
+  421  ps -ef
+  422  perl loadpricefull.pl 
+  423  mysql -uroot -p
+  424  view alldates 
+  425  view loadpricefull.pl 
+  426  date
+  427  crontab -e
+  428  ps -ef
+  429  free
+  430  ps -ef
+  431  kill -9 21604
+  432  ps -ef
+  433  cd tickerlick/daily/
+  434  view loadprice.sh 
+  435  ls -ltr
+  436  view alldates 
+  437  muysql -uroot -p
+  438  Neha*2005
+  439  muysql -uroot -p
+  440  mysql -uroot -p
+  441  date
+  442  crontab -e
+  443  date
+  444  ps -ef
+  445  crontab -e
+  446  free
+  447  ps -ef
+  448  exit
+  449  ps -ef
+  450  free
+  451  ps -ef
+  452  kill -9 5485
+  453  ps -ef
+  454  kill 19973
+  455  ps -ef
+  456  kill 19985
+  457  ps -ef
+  458  ls -ltr
+  459  view tdates 
+  460  cp tdates tdatesfull
+  461  view tdates
+  462  crontab -e
+  463  free
+  464  mysql -uroot -p
+  465  cd tickerlick/daily/
+  466  view loadprice.sh 
+  467  date
+  468  crontab -e
+  469  date
+  470  ps -ef
+  471  kill -9 20161
+  472  ps -ef
+  473  kill -9 20161
+  474  ps -ef
+  475  kill -9 20162
+  476  ps -ef
+  477  mysql -uroot -p
+  478  cd 
+  479  cd tickerdata/history/price/daily/
+  480  ls -ltr
+  481  cd feed
+  482  ls
+  483  cd ../
+  484  ls -ltr
+  485  cd tthaliath/
+  486  ls
+  487  cd ../../
+  488  ls
+  489  pwd
+  490  cd ../
+  491  ls
+  492  cd price/
+  493  ls
+  494  cd daily/
+  495  ls
+  496  pwd
+  497  cd ../../
+  498  ls
+  499  cd ../
+  500  ls
+  501  cd ../tickerlick/daily/
+  502  ls -ltr
+  503  view loadpricefull.pl
+  504  view loadprice_all.pl
+  505  cp loadprice_all.pl loadprice_single.pl
+  506  view loadprice_single.pl
+  507  perl loadprice_single.pl 
+  508  view alldates 
+  509  view tdates 
+  510  ls -ltr
+  511  du -k
+  512  du -s
+  513  df -k
+  514  mysql -uroot -p
+  515  df -k
+  516  mysql -uroot -p
+  517  df -k
+  518  perl loadprice_single.pl 
+  519  ls --ltr
+  520  ls -ltr
+  521  view loadprice_all.pl
+  522  view loadpricefull.pl
+  523  crontab -e
+  524  view loadpricefull.pl
+  525  view alldates 
+  526  view tdates 
+  527  view loadpricefull.pl
+  528  date
+  529  crontab -e
+  530  ps -ef
+  531  su root
+  532  view ~/.ssh/config
+  533  exit
+  534  cd python
+  535  mkdir bs
+  536  cd bs
+  537  view test.py
+  538  python test.py 
+  539  ls
+  540  view test.py
+  541  python test.py 
+  542  view test.py
+  543  python test.py 
+  544  exit
+  545  cd bd
+  546  cd bdcd bs
+  547  cd bs
+  548  pwd
+  549  cd python
+  550  ls
+  551  cd bs
+  552  cd selenium/
+  553  ls
+  554  view test.py 
+  555  python test.py 
+  556  python rrr.py 
+  557  cronbtab -e
+  558  crontab -e
+  559  ps -ef
+  560  ls
+  561  ls -ltr
+  562  exit
+  563  ps -ef
+  564  mysql -uroot -p
+  565  crontab -e
+  566  ps -ef
+  567  free
+  568  du -s
+  569  du -k
+  570  cd pyweb
+  571  ls -ltr
+  572  ps -ef
+  573  exit
+  574  ps -ef
+  575  cd tickerdata/history/price/daily/
+  576  ls -ltr
+  577  cd
+  578  cd tickerlick/daily/
+  579  view tdates 
+  580  view loadprice.sh 
+  581  cd 
+  582  cd tickerdata/history/price/daily/
+  583  ls -ltr
+  584  cd 20180326
+  585  ls
+  586  cd ../20180323
+  587  ls
+  588  cd ../
+  589  cd -
+  590  cd
+  591  cd tickerlick/daily/
+  592  history | grep USE
+  593  view pricehistnew.csv
+  594  view loadprice.sh 
+  595  date
+  596  crontab -e
+  597  ls 
+  598  ls -ltr
+  599  ps -ef
+  600  ls -ltr
+  601  ps -ef
+  602  ls -ltr
+  603  ps -ef
+  604  history | grep USE
+  605  cp /home/tthaliath/USE_20180327.csv pricehistnew.csv
+  606  view pricehistnew.csv
+  607  view loadprice
+  608  view loadprice.sh 
+  609  date
+  610  crontab -e
+  611  ls -ltr
+  612  ps -ef
+  613  cp /home/tthaliath/USE_20180328.csv pricehistnew.csv
+  614  view pricehistnew.csv
+  615  view pricehist.csv
+  616  date
+  617  view loadprice.sh 
+  618  date
+  619  crontab -e
+  620  date
+  621  ps -ef
+  622  date
+  623  crontab -e
+  624  ls -ltr
+  625  view pricehist.csv
+  626  mysql -uroot -p
+  627  view pricehistnew.csv
+  628  mysql -uroot -p
+  629  cp /home/tthaliath/USE_20180329.csv pricehistnew.csv
+  630  view pricehistnew.csv
+  631  view loadprice.sh 
+  632  date
+  633  crontab -e
+  634  cd
+  635  cd pyweb/
+  636  ls
+  637  history
+  638  https://en.wikipedia.org/wiki/List_of_cryptocurrencies
+  639  ls
+  640  scrapy startproject crypto
+  641  cd crypto/
+  642  ls
+  643  cd crypto/spiders/
+  644  ls
+  645  view import scrapy
+  646  vieq cryptoquotes.py
+  647  view cryptoquotes.py
+  648  pytho cryptoquotes.py 
+  649  python cryptoquotes.py 
+  650  view cryptoquotes.py 
+  651  cd pyweb/
+  652  ls
+  653  cd crypto/crypto/spiders/
+  654  ls
+  655  view cryptoquotes.py 
+  656  scrapy shell https://min-api.cryptocompare.com/data/all/coinlist
+  657  view cryptoquotes.py 
+  658  cd ../../
+  659  view cryptoquotes.py 
+  660  c d-
+  661  cd -
+  662  view cryptoquotes.py 
+  663  cd -
+  664  scrapy cryptomaster cryptoquotes -o quotes.json
+  665  cd -
+  666  view cryptoquotes.py 
+  667  scrapy crawl cryptomaster
+  668  scrapy crawl cryptomaster -o data.json
+  669  view data.json 
+  670  view cryptoquotes.py 
+  671  cd -
+  672  scrapy crawl cryptomaster
+  673  cd -
+  674  view cryptoquotes.py 
+  675  cd -
+  676  scrapy crawl cryptomaster
+  677  view cryptoquotes.py 
+  678  cd -
+  679  view cryptoquotes.py 
+  680  cd -
+  681  scrapy crawl cryptomaster
+  682  cd -
+  683  view cryptoquotes.py 
+  684  cd -
+  685  scrapy crawl cryptomaster
+  686  cd -
+  687  view cryptoquotes.py 
+  688  cd -
+  689  scrapy crawl cryptomaster
+  690  cd -
+  691  view cryptoquotes.py 
+  692  cd -
+  693  scrapy crawl cryptomaster
+  694  cd -
+  695  view cryptoquotes.py 
+  696  cd -
+  697  scrapy crawl cryptomaster
+  698  cd -
+  699  view cryptoquotes.py 
+  700  cd -
+  701  scrapy crawl cryptomaster
+  702  exit
+  703  crontab -e
+  704  cd tickerlick/daily/
+  705  view loadprice.sh 
+  706  cd
+  707  free
+  708  crontab -e
+  709  mysql -uroot -p
+  710  su root
+  711  mysql -uroot -p
+  712  cd tickerlick/daily/
+  713  ls -ltr
+  714  view loadprice.sh 
+  715  ls -ltr /var/lib/mysql 
+  716  cd /var/lib/mysql 
+  717  ls -ltr
+  718  tail -f ibdata1 
+  719  sudo root
+  720  su root
+  721  cd
+  722  view ibdatasize
+  723  mysql -uroot -p
+  724  ls -ltr /var/lib/mysql 
+  725  du -k
+  726  ds -k
+  727  df -k
+  728  ls
+  729  ls -ltr
+  730  du -k
+  731  df -k
+  732  ls -ltr USE*
+  733  rm  USE_2017*
+  734  rm  USE_2016*
+  735  rm  USE_2015*
+  736  rm  USE_2014*
+  737  df -k
+  738  view ibdatasize 
+  739  ls
+  740  rm  USE_201801*
+  741  rm  USE_201802*
+  742  ls -ltr
+  743  ls mongo*.tgz
+  744  rm mongo*.tgz
+  745  su rm mongo*.tgz
+  746  sudo rm mongo*.tgz
+  747  ls -la mongo*.tgz
+  748  su root
+  749  df -k
+  750  ls -ltr
+  751  ls -S
+  752  ls -laS
+  753  rm firefox-47.0.tar.bz2
+  754  df -k
+  755  view ibdatasize 
+  756  ls -laS
+  757  rm jqia2.source.zip
+  758  view spaceusage
+  759  ls
+  760  cd tickerdata/history/price/daily/
+  761  ls -ltr
+  762  mysql -uroot -p
+  763  ls -ltr
+  764  cd 
+  765  cd tickerlick/daily/
+  766  ls -ltr
+  767  view loadprice.sh 
+  768  view loadprice_single.pl
+  769  cd ../../tickerdata/history/price/daily/
+  770  ls -ltr
+  771  view loadprice_single.pl
+  772  cd -
+  773  view loadprice_single.pl
+  774  perl loadprice_single.pl
+  775  history
+  776   ls -ltr /var/lib/mysql
+  777  free
+  778  df -k
+  779  view loadprice.sh 
+  780  ps -ef
+  781  view loadprice.sh 
+  782  view /home/tthaliath/tickerlick/daily/loadprice_daily.pl
+  783  mysql -uroot -p
+  784  cd /var/log
+  785  ls -ltr
+  786  cd httpd/
+  787  su root
+  788  cd 
+  789  crontab -e
+  790  cd tickerlick/daily/
+  791  ls -ltr
+  792  view prevdate
+  793  rm prevdate1
+  794  rm prevdate
+  795  grep prevdate1 *
+  796  view get_prev_date1.pl
+  797  grep prevdate *
+  798  grep delete *
+  799  view loadprice_daily.pl 
+  800  ls -ltr
+  801  view alldates 
+  802  view tdates 
+  803  view loadpricefull.pl
+  804  date
+  805  crontab -e
+  806  view loadpricefull.pl
+  807  date
+  808  crontab -e
+  809  date
+  810  ls -ltr /var/lib/mysql/
+  811  ps -ef
+  812  view loadprice.sh 
+  813  ps -ef
+  814  ls -ltr /var/lib/mysql/
+  815  date
+  816  ps -ef
+  817  mysql -uroot -p
+  818  ls -ltr /var/lib/mysql/
+  819  ps -ef
+  820  cd
+  821  cd pyweb/
+  822  which python
+  823  cd /usr/local/bin/
+  824  ls -ltr
+  825  ls -ltr p*
+  826  python --version
+  827  pwd
+  828  cd
+  829  cd pyweb/
+  830  ls
+  831  cd crypto/crypto/spiders/
+  832  ;s
+  833  ls
+  834  view cryptoquotes.py
+  835  python cryptoquotes.py
+  836  ls
+  837  view data.json 
+  838  ls -ltr
+  839  cd ../../
+  840  history | grep cry
+  841  scrapy crawl cryptomaster
+  842  cd -
+  843  view *.py
+  844  ls
+  845  view cryptoquotes.py
+  846  :q
+  847  cd -
+  848  scrapy crawl cryptomaster
+  849  ls -ltr
+  850  history | grep cry
+  851  scrapy cryptomaster cryptoquotes -o quotes.json
+  852  scrapy crawl cryptomaster -o quotes.json
+  853  ls -ltr
+  854  scrapy crawl cryptomaster -o ticker.json -
+  855  cd -
+  856  view cryptoquotes.py
+  857  cd -
+  858  scrapy crawl cryptomaster
+  859  ls -ltr
+  860  rm quotes.json 
+  861  rm ticker.json 
+  862  cd -
+  863  view cryptoquotes.py
+  864  cd -
+  865  scrapy crawl cryptomaster -o quotes.json -t json
+  866  ls -ltr
+  867  cd -
+  868  view cryptoquotes.py
+  869  cd -
+  870  scrapy crawl cryptomaster
+  871  ls -ltr
+  872  view quotes.json 
+  873  cd -
+  874  view cryptoquotes.py
+  875  cd -
+  876  scrapy crawl cryptomaster
+  877  ls -ltr
+  878  date
+  879  view quotes.json 
+  880  cd -
+  881  view cryptoquotes.py
+  882  cd -
+  883  view quotes.json 
+  884  cd -
+  885  view cryptoquotes.py
+  886  cd -
+  887  scrapy crawl cryptomaster
+  888  cd -
+  889  view cryptoquotes.py
+  890  cd -
+  891  scrapy crawl cryptomaster
+  892  ls -ltr
+  893  view quotes.json 
+  894  rm quotes.json 
+  895  scrapy crawl cryptomaster
+  896  ls -ltr
+  897  view quotes.json 
+  898  cd -
+  899  view cryptoquotes.py
+  900  cd -
+  901  view cryptoquotes.py
+  902  cd -
+  903  scrapy crawl cryptomaster
+  904  ls -ltr
+  905  view quotes.json 
+  906  cd -
+  907  view cryptoquotes.py
+  908  cd -
+  909  scrapy crawl cryptomaster
+  910  cd -
+  911  view cryptoquotes.py
+  912  cd -
+  913  scrapy crawl cryptomaster
+  914  cd -
+  915  view cryptoquotes.py
+  916  cd -
+  917  scrapy crawl cryptomaster
+  918  cd -
+  919  view cryptoquotes.py
+  920  cd -
+  921  scrapy crawl cryptomaster
+  922  cd -
+  923  view cryptoquotes.py
+  924  cd -
+  925  scrapy crawl cryptomaster
+  926  echo $LANG
+  927  cd -
+  928  view cryptoquotes.py
+  929  cd -
+  930  scrapy crawl cryptomaster
+  931  cd -
+  932  view cryptoquotes.py
+  933  cd -
+  934  scrapy crawl cryptomaster
+  935  ls -ltr
+  936  view quotes.json 
+  937  cd -
+  938  view cryptoquotes.py
+  939  cd -
+  940  scrapy crawl cryptomaster > ticker
+  941  view ticker 
+  942  view quotes.json 
+  943  view ticker 
+  944  cd -
+  945  view cryptoquotes.py
+  946  cd -
+  947  scrapy crawl cryptomaster > tickerlist
+  948  ls -ltr
+  949  wc -l ticker
+  950  wc -l tickerlist 
+  951  view tickerlist 
+  952  cd -
+  953  view cryptoquotes.py
+  954  cd -
+  955  scrapy crawl cryptomaster > tickerlist1
+  956  ls -ltr
+  957  view tickerlist1
+  958  view quotes.json 
+  959  grep GREXIT *
+  960  grep GREXIT ti*
+  961  ls -ltr
+  962  view ticker
+  963  sort ticker 
+  964  sort ticker | unique
+  965  sort ticker | uniqu
+  966  sort ticker | wc -l
+  967  cd -
+  968  view cryptoquotes.py
+  969  cd -
+  970  scrapy crawl cryptomaster > tickerlist1
+  971  ls -ltr
+  972  view tickerlist1
+  973  cd -
+  974  view cryptoquotes.py
+  975  locale -a | grep "UTF-8"
+  976  locale -a | grep "C"
+  977  su root
+  978  view cryptoquotes.py
+  979  cd -
+  980  scrapy crawl cryptomaster > tickerlist1
+  981  ls -ltr
+  982  view tickerlist1
+  983  view ticker
+  984  cd -
+  985  view cryptoquotes.py
+  986  cd ../
+  987  ls
+  988  view pipelines.py 
+  989  grep ITEM_PIPELINES *
+  990  view settings.py
+  991  ls -ltr /var/lib/mysql/
+  992  ps -ef
+  993  ls -ltr /home/tthaliath/tickerlick/daily/
+  994  view settings.py
+  995  ps -ef
+  996  history
+  997  ls -ltr /var/lib/mysql/
+  998  cd pyweb/crypto/
+  999  cd git
+ 1000  ls
+ 1001  git
+ 1002  cd 
+ 1003  cd pyweb/
+ 1004  git clone https://github.com/scrapy/quotesbot
+ 1005  ls
+ 1006  remote set-url origin https://tthaliath@github.com/scrapy/quotesbot
+ 1007  git remote set-url origin https://tthaliath@github.com/scrapy/quotesbot
+ 1008  cd 
+ 1009  cd git
+ 1010  git clone https://github.com/scrapy/quotesbot
+ 1011  git remote set-url origin https://tthaliath@github.com/scrapy/quotesbot
+ 1012  ls
+ 1013  git remote -v
+ 1014  git clone https://github.com/scrapy/quotesbot
+ 1015  ls
+ 1016  ls -ltr
+ 1017  git push -u origin master
+ 1018  git clone http://github.com/scrapy/quotesbot
+ 1019  git remote set-url origin http://tthaliath@github.com/scrapy/quotesbot
+ 1020  git push -u origin master
+ 1021  git clone http://github.com/scrapy/quotesbot
+ 1022  git remote set-url origin https://tthaliath@github.com/scrapy/quotesbot
+ 1023  git push -u origin master
+ 1024  git -v
+ 1025  git --version
+ 1026  pwd
+ 1027  where git
+ 1028  which git
+ 1029  ls -ltr /usr/bin/git
+ 1030  su root
+ 1031  git status
+ 1032  ls
+ 1033  cd
+ 1034  grep git hist*
+ 1035  cd -
+ 1036  git remote set-url origin https://tthaliath@github.com/scrapy/quotesbot.git
+ 1037  git push -u origin master
+ 1038  git clone git://github.com/scrapy/quotesbot.git
+ 1039  ls -ltr
+ 1040  history > history_20180331

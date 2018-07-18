@@ -1,3 +1,0 @@
-include README MANIFEST MANIFEST.in
-include setup.py
-include testpackages/*.py

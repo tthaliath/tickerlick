@@ -1,0 +1,89 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+EMIH,Deutsche X-trackers Emerging Ma,,
+JPMV,iShares MSCI Japan Minimum Vola ,,
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+TWM,ProShares UltraShort Russell2000 ETF,Commodity Based ETF,
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+YCL,ProShares Ultra Yen ETF,Commodity Based ETF,
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+SRTY,ProShares UltraPro Short Russell2000 ETF,Commodity Based ETF,
+SEF,ProShares Short Financials ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+SDD,ProShares UltraShort SmallCap600 ETF,Commodity Based ETF,
+RWM,ProShares Short Russell2000 ETF,Commodity Based ETF,
+SIJ,ProShares UltraShort Industrials ETF,Commodity Based ETF,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+HTD, John Hancock Tax Advantaged Div ,Financial,Closed-End Fund - Equity
+VMM, Delaware Investments Minnesota  ,Financial,Closed-End Fund - Debt
+BTZ, BlackRock Credit Allocation Inc ,Financial,Closed-End Fund - Debt
+BHK, Blackrock Core Bond Trust Black ,Financial,Closed-End Fund - Debt
+BKK, Blackrock Municipal 2020 Term T ,Financial,Closed-End Fund - Debt
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+BSCK,Guggenheim BulletShares 2020 Corp Bond ETF,Fixed Income ETF,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+CORP,PIMCO Investment Grade Corporate Bond Index Fund ETF,Fixed Income ETF,
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+BAB,PowerShares Build America Bond Portfolio ETF,Fixed Income ETF,
+TLO,SPDR Barclays Capital Long Term Treasury ETF,Fixed Income ETF,
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+CMF,iShares S&P Cali Muni Bond ETF,Fixed Income ETF,
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+SCIF,Market Vectors India Small-Cap ETF,Global Equity ETF,
+INCO,EGShares India Consumer ETF,Global Equity ETF,
+SMIN,iShares MSCI India Small Cap ETF,Global Equity ETF,
+IST,SPDR S&P International Telecommunications Sector ETF,Global Equity ETF,
+EGPT,Market Vectors Egypt Index ETF,Global Equity ETF,
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+NVDQ, Novadaq Technologies Inc ,Healthcare,Medical Laboratories & Research
+ISTB,iShares Core Short-Term US Bond ,N/A,N/A
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+TZA, Direxion Small Cap Bear 3X Shar ,N/A,N/A
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+FLAT, iPath US Treasury Flattener ETN ,N/A,N/A
+EMAG,Market Vectors Emerg Mkt Aggt Bd ETF ,N/A,N/A
+AFA, American Financial Group  Inc.  ,N/A,N/A
+RELX,RELX PLC,N/A,N/A
+RVNU,db X-trackers Muni Infras Revn Bd ETF ,N/A,N/A
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+MIDZ, Direxion Mid Cap Bear 3X Shares ,N/A,N/A
+CSI, Cutwater Select Income Fund ,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+HPI, John Hancock Preferred Income F ,N/A,N/A
+HPS, John Hancock Preferred Income F ,N/A,N/A
+JJP, iPath DJ-UBS Precious Metals Su ,N/A,N/A
+INP, Barclays Bank Plc iPath ETNs li ,N/A,N/A
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+NTT, Nippon Telegraph and Telephone  ,Technology,Telecom Services - Foreign
+RVLT,Revolution Lighting Technologies Inc. ,Technology,Diversified Electronics
+MRVC,MRV Communications Inc. ,Technology,Semiconductor - Integrated Circuits
+DCM,NTT DOCOMO Inc American Deposi ,Technology,Telecom Services - Foreign
+TEF,Telefonica SA Common ,Technology,Telecom Services - Foreign
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+BTAL,QuantShares U.S. Market Neutral Anti-Beta Fund ETF,US Equity ETF,
+CAFD,8point3 Energy Partners LP,Utilities,Diversified Utilities

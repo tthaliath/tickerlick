@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+REX,REX American Resources Corporat ,Basic Materials,Specialty Chemicals
+SNAK,Inventure Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+SPWH,Sportsman's Warehouse Holdings Inc. ,Consumer Goods,Sporting Goods
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+CINF,Cincinnati Financial Corporatio ,Financial,Property & Casualty Insurance
+PROV,Provident Financial Holdings I ,Financial,Savings & Loans
+FNLC,First Bancorp Inc (ME) ,Financial,Regional - Northeast Banks
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+JBN, Select Asset Inc. Select Asset  ,N/A,N/A
+FINL,The Finish Line Inc. ,Services,Specialty Retail Other
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+KONA,Kona Grill Inc. ,Services,Restaurants
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores

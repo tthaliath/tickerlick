@@ -1,0 +1,45 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEXEA,Liberty Expedia Holdings  Inc.,,
+SOVB,Cambria Sovereign High Yield Bo,,
+SE,Spectra Energy Corp Common Stoc ,Basic Materials,Oil & Gas Pipelines
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+ADM,Archer-Daniels-Midland Company  ,Consumer Goods,Farm Products
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+NUM, Nuveen Michigan Quality Income  ,Financial,Closed-End Fund - Debt
+CMO,Capstead Mortgage Corporation C ,Financial,REIT - Diversified
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+PDM,Piedmont Office Realty Trust I ,Financial,REIT - Office
+NAC, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+EARN,N/A ,Financial,REIT - Diversified
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+AGNC,American Capital Agency Corp. ,Financial,REIT - Residential
+URA,Global X Uranium ETF,Global Equity ETF,
+LPNT,LifePoint Hospitals Inc. ,Healthcare,Hospitals
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+AFAM,Almost Family Inc ,Healthcare,Home Health Care
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CIR,CIRCOR International Inc. Comm ,Industrial Goods,Industrial Equipment & Components
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+TCMD,Tactile Systems Technology  Inc.,N/A,N/A
+ICOL,iShares MSCI Colombia Capped ,N/A,N/A
+MSGN,MSG Networks Inc.,N/A,N/A
+ATH,Athene Holding Ltd.,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+SPSC,SPS Commerce Inc. ,Services,Business Services
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+SCVL,Shoe Carnival Inc. ,Services,Apparel Stores
+AMD,Advanced Micro Devices Inc. Co ,Technology,Semiconductor - Broad Line
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+NLSN, Nielsen Holdings N.V. Common St ,Technology,Information & Delivery Services
+GOGO,Gogo Inc. ,Technology,Diversified Communication Services
+QSII,Quality Systems Inc. ,Technology,Healthcare Information Services
+CRTO,Criteo SA ,Technology,Internet Information Providers
+QTM,Quantum Corporation Common Stoc ,Technology,Data Storage Devices

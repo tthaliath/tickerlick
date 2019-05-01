@@ -1,0 +1,80 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPUU,Direxion Daily S&P 500 Bull 2X  ,,
+HOML,ETRACS Monthly Reset 2xLeverage,,
+ITEQ,BlueStar TA-BIGITech Israel Tec,,
+CSA,VictoryShares US Small Cap Vola,,
+EQWS,PowerShares Russell 2000 Equal,,
+NUSC,NuShares ESG Small-Cap ETF,,
+EQWL,PowerShares Russell Top 200 Equ,,
+CSML,IQ Chaikin U.S. Small Cap ETF,,
+SMLF,iShares Edge MSCI Multifactor U,,
+XTH,SPDR S&P Technology Hardware ET,,
+FQAL,Fidelity Quality Factor ETF,,
+DSKE,Daseke  Inc.,,
+MTFBW,Motif Bio plc - Warrant,,
+KOP,Koppers Holdings Inc. Koppers H ,Basic Materials,Specialty Chemicals
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+SAA,ProShares Ultra SmallCap600 ETF,Commodity Based ETF,
+KNDI,Kandi Technolgies Corp. ,Consumer Goods,Auto Manufacturers - Major
+OSK,Oshkosh Corporation Common Stoc ,Consumer Goods,Trucks & Other Vehicles
+BERY, Berry Plastics Group  Inc. Comm ,Consumer Goods,Rubber & Plastics
+ENFC,Entegra Financial Corp.,Financial,Regional - Southeast Banks
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+CHCO,City Holding Company ,Financial,Regional - Mid-Atlantic Banks
+C,Citigroup Inc. Common ,Financial,Money Center Banks
+EPU,iShares MSCI All Peru Capped Index Fund ETF,Global Equity ETF,
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+NPO,Enpro Industries Inc ,Industrial Goods,Industrial Equipment & Components
+TXT,Textron Inc. Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+THR, Thermon Group Holdings  Inc. Co ,Industrial Goods,Diversified Machinery
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+ITW,Illinois Tool Works Inc. Common ,Industrial Goods,Diversified Machinery
+DWAS, PowerShares DWA SmallCap Techni ,N/A,N/A
+TNA, Direxion Small Cap Bull 3X Shar ,N/A,N/A
+LIVN,LivaNova PLC,N/A,N/A
+BFOR,Barron's 400 ETF ,N/A,N/A
+XSLV,PowerShares SandP SmallCap Low Volatility ,N/A,N/A
+SQ,Square  Inc.,N/A,N/A
+THRK,SPDR Russell 3000 ETF ,N/A,N/A
+BUFF,Blue Buffalo Pet Products  Inc.,N/A,N/A
+EQLT,ALPS Workplace Equality ETF ,N/A,N/A
+FIDU,Fidelity MSCI Industrials Index ETF ,N/A,N/A
+SMLV,SPDR Russell 2000 Low Volatility ETF ,N/A,N/A
+FMAT,Fidelity MSCI Materials Index ETF ,N/A,N/A
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+FV,First Trust Dorsey Wright Focus 5 ETF ,N/A,N/A
+JP,Jupai Holdings Limited,N/A,N/A
+SKYW,SkyWest Inc. ,Services,Regional Airlines
+ONVI,Onvia Inc. ,Services,Business Services
+GDOT,Green Dot Corporation Class A C ,Services,Business Services
+URI,United Rentals Inc. Common Sto ,Services,Rental & Leasing Services
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+MCRI,Monarch Casino & Resort Inc. ,Services,Resorts & Casinos
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+QGEN,Qiagen N.V. ,Services,Research Services
+COUP,Coupons.com Incorporated ,Technology,Internet Software & Services
+TEL,TE Connectivity Ltd. New Switze ,Technology,Diversified Electronics
+MRIN,Marin Software Incorporated ,Technology,Application Software
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments
+APH,Amphenol Corporation Common Sto ,Technology,Diversified Electronics
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+IYJ,iShares Dow Jones U.S. Industrial Sector Index Fund ETF,US Equity ETF,
+PSCM,PowerShares S&P SmallCap Materials Portfolio ETF,US Equity ETF,
+XLI,SPDR Industrial Select Sector Fund ETF,US Equity ETF,
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,
+NFO,Guggenheim Insider Sentiment ETF,US Equity ETF,
+IWC,iShares Russell Microcap Index Fund ETF,US Equity ETF,
+JKJ,iShares Morningstar Small Core Index Fund ETF,US Equity ETF,
+PZI,PowerShares Zacks Micro Cap ETF,US Equity ETF,
+SLYG,SPDR S&P 600 Small Cap Value ETF (SLYG) ETF,US Equity ETF,
+FTC,First Trust Large Cap Growth Opportunities AlphaDEX Fund ETF,US Equity ETF,
+FDM,First Trust DJ Select MicroCap ETF,US Equity ETF,
+IWM,iShares Russell 2000 ETF,US Equity ETF,
+VTWO,Vanguard Russell 2000 ETF,US Equity ETF,
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,
+IWO,iShares Russell 2000 Growth ETF,US Equity ETF,
+PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio ETF,US Equity ETF,
+VXF,Vanguard Extended Market ETF,US Equity ETF,

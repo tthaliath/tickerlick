@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+FARM,Farmer Brothers Company ,Consumer Goods,Processed & Packaged Goods
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+CENT,Central Garden & Pet Company ,Consumer Goods,Food - Major Diversified
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+BXP,Boston Properties Inc. Common  ,Financial,REIT - Office
+DFS,Discover Financial Services Com ,Financial,Credit Services
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+AMSF,AMERISAFE Inc. ,Financial,Property & Casualty Insurance
+SYF,Synchrony Financial Common Stoc,Financial,Credit Services
+FNHC, Federated National Holding Comp ,Financial,Property & Casualty Insurance
+CIM,Chimera Investment Corporation  ,Financial,REIT - Diversified
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+ARCB,ArcBest Corporation ,N/A,N/A
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+CENTA,Central Garden &amp; Pet Company ,NULL,NULL
+VIA,Viacom Inc. ,NULL,NULL
+CCRN,Cross Country Healthcare Inc. ,Services,Staffing & Outsourcing Services
+SHLD,Sears Holdings Corporation ,Services,Department Stores
+AEO,American Eagle Outfitters Inc. ,Services,Apparel Stores
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+IMAX, Imax Corporation Common ,Services,Entertainment - Diversified
+VIAB, Viacom Inc. ,Services,CATV Systems
+GES,Guess? Inc. Common ,Services,Apparel Stores
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+CNK,Cinemark Holdings Inc Cinemark  ,Services,Movie Production Theaters
+BCOV,Brightcove Inc. ,Technology,Application Software

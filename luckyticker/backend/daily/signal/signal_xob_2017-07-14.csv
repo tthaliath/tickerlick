@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPOS,Renaissance Capital Greenwich F,,
+BCH,Banco De Chile Banco De Chile A ,Financial,Foreign Regional Banks
+HNH, Handy & Harman Ltd. ,Industrial Goods,Industrial Equipment & Components
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+CIGI,Colliers International Group Inc.,N/A,N/A
+TAL,TAL International Group Inc. C ,Services,Rental & Leasing Services
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits

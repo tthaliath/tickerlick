@@ -1,0 +1,7 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AGNC,American Capital Agency Corp. ,Financial,REIT - Residential
+COO,Cooper Companies Inc. (The) Co ,Healthcare,Medical Instruments & Supplies
+CAFE, iPath Pure Beta Coffee ETN ,N/A,N/A
+LON,Loncor Resources Inc. ,N/A,N/A
+EROS,Eros International Plc ,Services,Movie Production
+QLYS, Qualys  Inc. ,Technology,Application Software

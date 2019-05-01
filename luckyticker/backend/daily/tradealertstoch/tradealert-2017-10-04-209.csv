@@ -1,0 +1,39 @@
+Buy,AAPL,Apple Inc. ,19.7289
+Buy,COP,ConocoPhillips Common ,8.51785
+Buy,GS,Goldman Sachs Group Inc. (The) ,9.70013
+Buy,MA,Mastercard Incorporated Common  ,13.7119
+Buy,PEP,Pepsico Inc. Common ,16.9988
+Buy,FB, Facebook  Inc. ,11.4453
+Buy,HD, Home Depot  Inc. (The) Common S ,15.3844
+Sell,AIG,American International Group I ,80.6698
+Sell,AMGN,Amgen Inc. ,84.7897
+Sell,AMZN,Amazon.com Inc. ,97.18
+Sell,CL,Colgate-Palmolive Company Commo ,92.7835
+Sell,CMCSA,Comcast Corporation ,80.1201
+Sell,COST,Costco Wholesale Corporation ,84.0662
+Sell,CSCO,Cisco Systems Inc. ,88.4619
+Sell,DOW,Dow Chemical Company (The) Comm ,92.3083
+Sell,DUK,Duke Energy Corporation (Holdin ,96.8271
+Sell,EXC,Exelon Corporation Common ,92.5964
+Sell,F,Ford Motor Company Common ,95.834
+Sell,GD,General Dynamics Corporation Co ,97.7778
+Sell,GM,General Motors Company Common S ,80.1153
+Sell,JNJ,Johnson & Johnson Common ,89.56
+Sell,LMT,Lockheed Martin Corporation Com ,89.3882
+Sell,MDT,Medtronic Inc. Common ,86.9039
+Sell,MET,MetLife Inc. Common ,87.9602
+Sell,MMM,3M Company Common ,84.7765
+Sell,MRK,Merck & Company Inc. Common St ,81.5447
+Sell,MS,Morgan Stanley Common ,93.0815
+Sell,MSFT,Microsoft Corporation ,90.2338
+Sell,NEE,NextEra Energy Inc. Common Sto ,94.399
+Sell,NKE,Nike Inc. Common ,98.5663
+Sell,NVDA,NVIDIA Corporation ,86.9603
+Sell,PM,Philip Morris International Inc ,80.0005
+Sell,RTN,Raytheon Company Common ,95.0005
+Sell,SO,Southern Company (The) Common S ,92.5964
+Sell,SPG,Simon Property Group Inc. Comm ,97.4356
+Sell,BLK,BlackRock Inc,96.7206
+Sell,HAL, Halliburton Company Common Stoc ,80.8512
+Sell,MDLZ, Mondelez International  Inc. ,87.6231
+Sell,BABA,Alibaba Group Holding Limited A,85.8297

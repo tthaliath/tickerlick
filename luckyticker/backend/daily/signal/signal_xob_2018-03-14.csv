@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MYOV,Myovant Sciences Ltd.,,
+NVUS,Novus Therapeutics  Inc.,,
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+ZG,Zillow Group  Inc.,Financial,Property Management
+UCBA,United Community Bancorp ,Financial,Savings & Loans
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+CMRX,Chimerix Inc. ,Healthcare,Biotechnology
+CCXI, ChemoCentryx  Inc. ,Healthcare,Biotechnology
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+SNDX,Syndax Pharmaceuticals  Inc.,N/A,N/A
+MTCH,Match Group  Inc.,N/A,N/A
+PTI,Proteostasis Therapeutics  Inc.,N/A,N/A
+BANX,StoneCastle Financial Corp. ,N/A,N/A
+GAIA,Gaiam Inc. ,Services,Catalog & Mail Order Houses
+ABCD,Cambium Learning Group Inc. ,Services,Education & Training Services
+INFN,Infinera Corporation ,Technology,Communication Equipment
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+ASUR,Asure Software Inc ,Technology,Business Software & Services

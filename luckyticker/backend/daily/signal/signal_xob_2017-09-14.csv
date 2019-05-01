@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DIVA,QuantShares Hedged Dividend Inc,,
+VET,Vermilion Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+ACH,Aluminum Corporation of China L ,Basic Materials,Aluminum
+MMM,3M Company Common ,Conglomerates,Conglomerates
+PHG,Koninklijke Philips Electronics ,Consumer Goods,Electronic Equipment
+STZ,Constellation Brands Inc. Comm ,Consumer Goods,Beverages - Wineries & Distillers
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+LEA,Lear Corporation Common ,Consumer Goods,Auto Parts
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+GCBC, Greene County Bancorp  Inc. ,Financial,Savings & Loans
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+HALO, Halozyme Therapeutics  Inc. ,Healthcare,Biotechnology
+TRS,TriMas Corporation ,Industrial Goods,Industrial Equipment & Components
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+OFLX,Omega Flex Inc. ,Industrial Goods,Industrial Equipment & Components
+FXCH, CurrencyShares Chinese Renminbi ,N/A,N/A
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+PRGS,Progress Software Corporation ,Technology,Application Software
+MGIC,Magic Software Enterprises Ltd. ,Technology,Application Software
+DLB,Dolby Laboratories Common ,Technology,Diversified Electronics
+GILT,Gilat Satellite Networks Ltd. ,Technology,Communication Equipment
+KEQU,Kewaunee Scientific Corporation ,Technology,Scientific & Technical Instruments
+VCRA, Vocera Communications  Inc. Com ,Technology,Communication Equipment

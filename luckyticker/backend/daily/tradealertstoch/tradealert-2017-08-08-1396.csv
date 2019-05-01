@@ -1,0 +1,65 @@
+Buy,AXP,American Express Company Common ,9.05376
+Buy,CB,Chubb Corporation (The) Common  ,11.315
+Buy,CELG,Celgene Corporation ,19.6155
+Buy,CERN,Cerner Corporation ,9.96753
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,7.03192
+Buy,DISH,DISH Network Corporation ,16.231
+Buy,DOW,Dow Chemical Company (The) Comm ,16.3458
+Buy,DRI,Darden Restaurants Inc. Common ,7.18013
+Buy,DVA,DaVita Inc. Common ,4.38266
+Buy,EL,Estee Lauder Companies Inc. (T ,9.7029
+Buy,EMR,Emerson Electric Company Common ,18.2209
+Buy,EQIX,Equinix Inc. ,4.30698
+Buy,GILD,Gilead Sciences Inc. ,11.5962
+Buy,GOOG,Alphabet Inc.,14.9632
+Buy,INTC,Intel Corporation ,19.2909
+Buy,IT,Gartner Inc. Common ,3.85004
+Buy,ITW,Illinois Tool Works Inc. Common ,2.66708
+Buy,LUV,Southwest Airlines Company Comm ,16.0172
+Buy,MAS,Masco Corporation Common ,12.4999
+Buy,MCHP,Microchip Technology Incorporat ,19.3497
+Buy,MCK,McKesson Corporation Common Sto ,13.8886
+Buy,MLM,Martin Marietta Materials Inc. ,8.8205
+Buy,MTB,M&T Bank Corporation Common Sto ,2.9723
+Buy,NOV,National Oilwell Varco Inc. Co ,18.4101
+Buy,NUE,Nucor Corporation Common ,17.5305
+Buy,NWS,News Corporation ,16.0493
+Buy,OXY,Occidental Petroleum Corporatio ,17.8321
+Buy,PBCT,People's United Financial Inc. ,17.9782
+Buy,RIG,Transocean Ltd (Switzerland) Co ,6.77507
+Buy,RRC,Range Resources Corporation Com ,5.14273
+Buy,RSG,Republic Services Inc. Common  ,6.16483
+Buy,SHW,Sherwin-Williams Company (The)  ,12.9912
+Buy,SIG,Signet Jewelers Limited Common  ,16.6616
+Buy,SLB,Schlumberger N.V. Common ,15.733
+Buy,ZION,Zions Bancorporation ,11.3017
+Buy,DLPH, Delphi Automotive plc Ordinary  ,15.1064
+Buy,FBHS, Fortune Brands Home & Security  ,12.4935
+Buy,HCA, HCA Holdings  Inc. Common ,14.2963
+Buy,HOLX, Hologic  Inc. ,15.8342
+Buy,HP, Helmerich & Payne  Inc. Common  ,13.9845
+Buy,HRB, H&R Block  Inc. Common ,11.9182
+Sell,CBS,CBS Corporation Class B Common  ,83.3899
+Sell,CCL,Carnival Corporation Common Sto ,89.2749
+Sell,CNC,Centene Corporation Common Stoc ,88.8231
+Sell,CNP,CenterPoint Energy Inc (Holdin ,91.8829
+Sell,COH,Coach Inc. Common ,87.0074
+Sell,DLTR,Dollar Tree Inc. ,87.8289
+Sell,EOG,EOG Resources Inc. Common Stoc ,84.9139
+Sell,GM,General Motors Company Common S ,85.5557
+Sell,GPS,Gap Inc. (The) Common ,89.081
+Sell,GRMN,Garmin Ltd. ,87.6533
+Sell,GS,Goldman Sachs Group Inc. (The) ,87.2669
+Sell,IPG,Interpublic Group of Companies ,81.4813
+Sell,MAA,Mid-America Apartment Communiti ,90.2853
+Sell,MCD,McDonald's Corporation Common S ,85.0645
+Sell,MJN,Mead Johnson Nutrition Company  ,81.25
+Sell,MU,Micron Technology Inc. ,95.6348
+Sell,NRG,NRG Energy Inc. Common ,81.6745
+Sell,NTAP,NetApp Inc. ,91.4805
+Sell,RL,Ralph Lauren Corporation Common ,83.5287
+Sell,ROST,Ross Stores Inc. ,85.2116
+Sell,RTN,Raytheon Company Common ,83.4223
+Sell,SCG,SCANA Corporation Common ,86.8418
+Sell,SEE,Sealed Air Corporation Common S ,90.986
+Sell,PYPL,PayPal Holdings  Inc.,93.5388

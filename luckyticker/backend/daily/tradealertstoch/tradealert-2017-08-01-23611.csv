@@ -1,0 +1,136 @@
+Buy,ADS,Alliance Data Systems Corporati ,18.1149
+Buy,ADSK,Autodesk Inc. ,12.8561
+Buy,AEE,Ameren Corporation Common ,13.5771
+Buy,AET,Aetna Inc. Common ,15.7377
+Buy,AGN,Allergan Inc. Common ,10.4759
+Buy,AJG,Arthur J. Gallagher & Co. Commo ,9.52407
+Buy,ALK,Alaska Air Group Inc. Common S ,13.5337
+Buy,ALXN,Alexion Pharmaceuticals Inc. ,12.7097
+Buy,AMGN,Amgen Inc. ,13.4258
+Buy,AMP,Ameriprise Financial Inc. Comm ,4.85314
+Buy,AN,AutoNation Inc. Common ,8.66445
+Buy,AXP,American Express Company Common ,14.2876
+Buy,BK,Bank of New York Mellon Corpora ,19.4438
+Buy,CAH,Cardinal Health Inc. Common St ,6.53712
+Buy,CAT,Caterpillar Inc. Common ,4.79925
+Buy,CI,Cigna Corporation Common ,2.73797
+Buy,CL,Colgate-Palmolive Company Commo ,12.4952
+Buy,CMS,CMS Energy Corporation Common S ,5.55591
+Buy,CNC,Centene Corporation Common Stoc ,10.8716
+Buy,COF,Capital One Financial Corporati ,4.67796
+Buy,CSX,CSX Corporation Common ,4.6876
+Buy,DE,Deere & Company Common ,8.99258
+Buy,DFS,Discover Financial Services Com ,16.1552
+Buy,DG,Dollar General Corporation Comm ,7.40657
+Buy,DGX,Quest Diagnostics Incorporated  ,10.2403
+Buy,DLR,Digital Realty Trust Inc. Comm ,10.3808
+Buy,DOV,Dover Corporation Common ,19.3782
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,10.2549
+Buy,DUK,Duke Energy Corporation (Holdin ,14.0739
+Buy,ED,Consolidated Edison Inc. Commo ,16.1619
+Buy,EQIX,Equinix Inc. ,6.86469
+Buy,INTU,Intuit Inc. ,5.71438
+Buy,IR,Ingersoll-Rand plc (Ireland) ,5.82869
+Buy,IRM,Iron Mountain Incorporated (Del ,8.35223
+Buy,IT,Gartner Inc. Common ,12.9758
+Buy,ITW,Illinois Tool Works Inc. Common ,7.90609
+Buy,LRCX,Lam Research Corporation ,19.3564
+Buy,LUK,Leucadia National Corporation C ,16.6667
+Buy,LUV,Southwest Airlines Company Comm ,19.1005
+Buy,MCK,McKesson Corporation Common Sto ,11.9111
+Buy,MCO,Moody's Corporation Common Stoc ,9.879
+Buy,MLM,Martin Marietta Materials Inc. ,6.23813
+Buy,ORLY,O'Reilly Automotive Inc. ,5.75809
+Buy,PEP,Pepsico Inc. Common ,10.2569
+Buy,ROK,Rockwell Automation Inc. Commo ,8.40094
+Buy,SNA,Snap-On Incorporated Common Sto ,6.13467
+Buy,SO,Southern Company (The) Common S ,17.2834
+Buy,WHR,Whirlpool Corporation Common St ,6.50598
+Buy,WYN,Wyndham Worldwide Corp Common   ,8.04621
+Buy,DLPH, Delphi Automotive plc Ordinary  ,19.7884
+Buy,ETN, Eaton Corporation Common ,18.2139
+Buy,HCA, HCA Holdings  Inc. Common ,4.55699
+Buy,GOOGL,Alphabet Inc.,15.6436
+Buy,SYF,Synchrony Financial Common Stoc,14.7145
+Buy,WBA,Walgreens Boots Alliance Inc.,18.6865
+Buy,KHC,The Kraft Heinz Company,1.23115
+Buy,SPGI,S&P Global  Inc.,7.76329
+Buy,ARNC,Arconic Inc.,3.86446
+Sell,ADP,Automatic Data Processing Inc. ,98.4924
+Sell,AES,The AES Corporation Common Stoc ,86.4194
+Sell,AIV,Apartment Investment and Manage ,92.2226
+Sell,AIZ,Assurant Inc. Common ,88.7807
+Sell,AKAM,Akamai Technologies Inc. ,88.381
+Sell,APA,Apache Corporation Common ,81.314
+Sell,APC,Anadarko Petroleum Corporation  ,91.8989
+Sell,APD,Air Products and Chemicals Inc ,84.7852
+Sell,APH,Amphenol Corporation Common Sto ,82.4096
+Sell,ARE,Alexandria Real Estate Equities ,98.6925
+Sell,AVY,Avery Dennison Corporation Comm ,98.6118
+Sell,AYI,Acuity Brands Inc (Holding Comp ,83.8302
+Sell,BAX,Baxter International Inc. Commo ,93.4562
+Sell,BBT,BB&T Corporation Common ,91.0707
+Sell,BBY,Best Buy Co. Inc. Common ,87.6202
+Sell,BCR,C.R. Bard Inc. Common ,86.2472
+Sell,BHGE,Baker Hughes Incorporated Commo ,98.6108
+Sell,BMY,Bristol-Myers Squibb Company Co ,95.0596
+Sell,BXP,Boston Properties Inc. Common  ,80.3691
+Sell,CCL,Carnival Corporation Common Sto ,85.9739
+Sell,CERN,Cerner Corporation ,84.1215
+Sell,CF,CF Industries Holdings Inc. Co ,94.6488
+Sell,CHTR,Charter Communications Inc. ,92.9948
+Sell,CMA,Comerica Incorporated Common St ,98.5188
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,80.0233
+Sell,CMI,Cummins Inc. Common ,82.5255
+Sell,COH,Coach Inc. Common ,97.4069
+Sell,CXO,Concho Resources Inc. Common St ,91.4015
+Sell,DHI,D.R. Horton Inc. Common ,88.6195
+Sell,DISCA,Discovery Communications Inc ,90.123
+Sell,DISCK,Discovery Communications Inc ,92.7768
+Sell,DISH,DISH Network Corporation ,85.019
+Sell,DRI,Darden Restaurants Inc. Common ,96.5333
+Sell,DVN,Devon Energy Corporation Common ,87.9602
+Sell,EL,Estee Lauder Companies Inc. (T ,82.2181
+Sell,EMN,Eastman Chemical Company Common ,88.845
+Sell,EQR,Equity Residential Common Share ,82.6285
+Sell,EQT,EQT Corporation Common ,85.7257
+Sell,GRMN,Garmin Ltd. ,89.6358
+Sell,INTC,Intel Corporation ,97.4209
+Sell,IP,International Paper Company Com ,89.066
+Sell,MAS,Masco Corporation Common ,87.7186
+Sell,MHK,Mohawk Industries Inc. Common  ,84.9339
+Sell,OKE,ONEOK Inc. Common ,87.7345
+Sell,OMC,Omnicom Group Inc. Common ,90.2794
+Sell,OXY,Occidental Petroleum Corporatio ,82.4148
+Sell,PAYX,Paychex Inc. ,85.9648
+Sell,PBCT,People's United Financial Inc. ,85.7163
+Sell,PCG,Pacific Gas & Electric Co. Comm ,81.4793
+Sell,RHT,Red Hat Inc. Common ,81.463
+Sell,RIG,Transocean Ltd (Switzerland) Co ,84.9324
+Sell,RJF,Raymond James Financial Inc. C ,89.3367
+Sell,RL,Ralph Lauren Corporation Common ,98.1184
+Sell,ROST,Ross Stores Inc. ,93.5631
+Sell,SBUX,Starbucks Corporation ,88.8078
+Sell,SIG,Signet Jewelers Limited Common  ,88.0948
+Sell,SPG,Simon Property Group Inc. Comm ,86.5612
+Sell,WM,Waste Management Inc. Common S ,84.6415
+Sell,WMT,Wal-Mart Stores Inc. Common St ,93.9495
+Sell,WY,Weyerhaeuser Company Common Sto ,82.3868
+Sell,XEC,Cimarex Energy Co Common ,94.1357
+Sell,XL,XL Group plc ,90.0011
+Sell,XOM,Exxon Mobil Corporation Common  ,81.2188
+Sell,ZION,Zions Bancorporation ,80.6208
+Sell,FITB, Fifth Third Bancorp ,86.667
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,97.3283
+Sell,HBAN, Huntington Bancshares Incorpora ,93.0985
+Sell,HBI, Hanesbrands Inc. Common ,95.202
+Sell,HCN, Health Care REIT  Inc. Common S ,93.5668
+Sell,HCP, HCP  Inc. Common ,81.9448
+Sell,HES, Hess Corporation Common ,90.4168
+Sell,HIG, Hartford Financial Services Gro ,94.8013
+Sell,HPQ, Hewlett-Packard Company Common  ,90.2792
+Sell,CFG,Citizens Financial Group Inc.,96.5615
+Sell,PYPL,PayPal Holdings  Inc.,90.3492
+Sell,HPE,Hewlett Packard Enterprise Company,90.4334
+Sell,DXC,DXC Technology Company,97.598
+Sell,UAA,Under Armour  Inc. Class A,82.923

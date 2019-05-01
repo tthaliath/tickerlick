@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AIMT,Aimmune Therapeutics,,
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+NXTM,NxStage Medical Inc. ,Healthcare,Medical Appliances & Equipment
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+PWR,Quanta Services Inc. Common St ,Industrial Goods,General Contractors
+MYRG,MYR Group Inc. ,Industrial Goods,General Contractors
+SVT, Servotronics  Inc. Common ,Industrial Goods,Industrial Electrical Equipment
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+M,Macy's Inc Common ,Services,Department Stores
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+KFRC,Kforce Inc. ,Services,Staffing & Outsourcing Services
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+FL,Footlocker Inc. ,Services,Apparel Stores
+TAST,Carrols Restaurant Group Inc. ,Services,Restaurants
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+DSW,DSW Inc. Common ,Services,Apparel Stores
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+EUFX,ProShares Short Euro,US Equity Income ETF,
+JE, Just Energy Group  Inc. Ordinar ,Utilities,Diversified Utilities

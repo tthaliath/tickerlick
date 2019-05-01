@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SGU,Star Gas Partners L.P. Common  ,Basic Materials,Oil & Gas Pipelines
+MTEX,Mannatech Incorporated ,Consumer Goods,Personal Products
+MC,Moelis ,Financial,Asset Management
+MBTF,M B T Financial Corp ,Financial,Regional - Northeast Banks
+IRDMB,Iridium Communications Inc,N/A,N/A
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+WMAR,West Marine Inc. ,Services,Specialty Retail Other
+PIR,Pier 1 Imports Inc. Common Sto ,Services,Home Furnishing Stores
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities

@@ -1,0 +1,37 @@
+Buy,AIG,American International Group I ,5.15114
+Buy,BK,Bank of New York Mellon Corpora ,2.52243
+Buy,COF,Capital One Financial Corporati ,1.24479
+Buy,COST,Costco Wholesale Corporation ,10.6591
+Buy,DD,E.I. du Pont de Nemours and Com ,2.27269
+Buy,KO,Coca-Cola Company (The) Common  ,4.97013
+Buy,MCD,McDonald's Corporation Common S ,6.32006
+Buy,MDT,Medtronic Inc. Common ,8.43368
+Buy,MO,Altria Group Inc. ,19.4343
+Buy,PEP,Pepsico Inc. Common ,3.29162
+Buy,PG,Procter & Gamble Company (The)  ,19.0481
+Buy,RTN,Raytheon Company Common ,10.6305
+Buy,TWX,Time Warner Inc. New Common Sto ,10.2339
+Buy,HON, Honeywell International Inc. Co ,6.59007
+Buy,VIX,VOLATILITY S&P 500,13.4099
+Sell,AMGN,Amgen Inc. ,97.2889
+Sell,BA,Boeing Company (The) Common Sto ,80.2858
+Sell,C,Citigroup Inc. Common ,83.1163
+Sell,CELG,Celgene Corporation ,90.1267
+Sell,CL,Colgate-Palmolive Company Commo ,80.0007
+Sell,CSCO,Cisco Systems Inc. ,89.6547
+Sell,CVX,Chevron Corporation Common Stoc ,95.9701
+Sell,DHR,Danaher Corporation Common Stoc ,80.7232
+Sell,FDX,FedEx Corporation Common ,97.0733
+Sell,GM,General Motors Company Common S ,87.0371
+Sell,INTC,Intel Corporation ,97.0822
+Sell,JNJ,Johnson & Johnson Common ,97.7801
+Sell,MA,Mastercard Incorporated Common  ,98.1985
+Sell,MRK,Merck & Company Inc. Common St ,91.1395
+Sell,MSFT,Microsoft Corporation ,97.7942
+Sell,NVDA,NVIDIA Corporation ,97.6893
+Sell,OXY,Occidental Petroleum Corporatio ,96.2965
+Sell,QCOM,QUALCOMM Incorporated ,89.2303
+Sell,SO,Southern Company (The) Common S ,81.1495
+Sell,SPG,Simon Property Group Inc. Comm ,80.7337
+Sell,HAL, Halliburton Company Common Stoc ,87.5417
+Sell,LLY, Eli Lilly and Company Common St ,86.1849

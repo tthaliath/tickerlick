@@ -1,0 +1,49 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+TSE,Trinseo S.A. Ordinary Shares,Basic Materials,Synthetics
+AG,First Majestic Silver Corp. Ord ,Basic Materials,Silver
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+NEU,NewMarket Corp Common ,Basic Materials,Specialty Chemicals
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+CHD,Church & Dwight Company Inc. C ,Consumer Goods,Cleaning Products
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+MET,MetLife Inc. Common ,Financial,Life Insurance
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+DERM,Dermira Inc.,Healthcare,Biotechnology
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+CCF,Chase Corporation Common ,Industrial Goods,Industrial Equipment & Components
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+SNR,New Senior Investment Group Inc,N/A,N/A
+CPTA,Capitala Finance Corp. ,N/A,N/A
+BLMN, Bloomin' Brands  Inc. ,Services,Restaurants
+HBP,Huttig Building Products Inc. ,Services,Building Materials Wholesale
+BH,Biglari Holdings Inc. ,Services,Restaurants
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+VEC,Vectrus Inc. Common,Services,Business Services
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+BNFT,Benefitfocus Inc. ,Technology,Application Software
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+NPTN, NeoPhotonics Corporation ,Technology,Semiconductor - Broad Line
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+SABR,Sabre Corporation ,Technology,Information Technology Services
+INFN,Infinera Corporation ,Technology,Communication Equipment
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+JCOM,j2 Global Inc. ,Technology,Internet Software & Services
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,
+HNP, Huaneng Power Intl Common ,Utilities,Electric Utilities

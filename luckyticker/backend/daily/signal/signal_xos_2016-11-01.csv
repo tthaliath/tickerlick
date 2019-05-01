@@ -1,0 +1,74 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMLL,Direxiion Daily Small Cap Bull  ,,
+QGBR,SPDR MSCI United Kingdom Qualit ,,
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+CRR,Carbo Ceramics Inc. Common Sto ,Basic Materials,Oil & Gas Equipment & Services
+PNRG,PrimeEnergy Corporation ,Basic Materials,Independent Oil & Gas
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+TEP,Tallgrass Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+DTEA,DAVIDsTEA Inc.,Consumer Goods,Food - Major Diversified
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+HRZN, Horizon Technology Finance Corp ,Financial,Asset Management
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+SIGI,Selective Insurance Group Inc. ,Financial,Property & Casualty Insurance
+RMT, Royce Micro-Cap Trust  Inc. Com ,Financial,Closed-End Fund - Equity
+WPG,Washington Prime Group Inc. Com,Financial,Property Management
+SLG,SL Green Realty Corporation Com ,Financial,REIT - Retail
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+LMNX,Luminex Corporation ,Healthcare,Medical Instruments & Supplies
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+EGLT,Egalet Ltd. ,Healthcare,Biotechnology
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+RMD,ResMed Inc. Common ,Healthcare,Medical Appliances & Equipment
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+MCRN,Milacron Holdings Corp.,Industrial Goods,Diversified Machinery
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+MTH,Meritage Homes Corporation Comm ,Industrial Goods,Residential Construction
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+LYTS,LSI Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+BOI,Brookfield Mortgage Opportunity ,N/A,N/A
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+SHPG, Shire plc ,N/A,N/A
+TGR, iShares S&P Target Date Retirem ,N/A,N/A
+FXS, Rydex CurrencyShares Swedish Kr ,N/A,N/A
+IEUS,iShares Developed Small Cap ex,N/A,N/A
+BETR,Amplify Snack Brands,N/A,N/A
+MDCA,MDC Partners Inc. ,NULL,NULL
+SFL,Ship Finance International Limi ,Services,Shipping
+HZO, MarineMax  Inc. Common ,Services,Specialty Retail  Other
+YUM,Yum! Brands Inc. ,Services,Restaurants
+NAT, Nordic American Tankers Limited ,Services,Shipping
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+MNI,McClatchy Company (The) Common  ,Services,Publishing - Newspapers
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+BLDR,Builders FirstSource Inc. ,Services,Home Improvement Stores
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+BSFT,BroadSoft Inc. ,Technology,Application Software
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+AYI,Acuity Brands Inc (Holding Comp ,Technology,Diversified Electronics
+FYX,First Trust Small Cap Core AlphaDEX ETF,US Equity ETF,
+VTWG,Vanguard Russell 2000 Growth ETF,US Equity ETF,
+FYC,First Trust Small Cap Growth AlphaDEX ETF,US Equity ETF,
+VBK,Vanguard Small-Cap Growth ETF,US Equity ETF,
+IWO,iShares Russell 2000 Growth ETF,US Equity ETF,
+FXH,First Trust Health Care AlphaDEX ETF,US Equity ETF,
+XHS,SPDR S&P Health Care Services ETF,US Equity ETF,

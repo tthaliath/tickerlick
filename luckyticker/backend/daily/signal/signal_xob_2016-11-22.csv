@@ -1,0 +1,65 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMLL,Direxiion Daily Small Cap Bull  ,,
+CE,Celanese Corporation Celanese C ,Basic Materials,Chemicals - Major Diversified
+WNR,Western Refining Inc. Western R ,Basic Materials,Oil & Gas Refining & Marketing
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+MOV,Movado Group Inc. Common ,Consumer Goods,Recreational Goods Other
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+EVBN,Evans Bancorp Inc. Common Stoc ,Financial,Regional - Northeast Banks
+DHIL,Diamond Hill Investment Group  ,Financial,Asset Management
+MBVT,Merchants Bancshares Inc. ,Financial,Regional - Northeast Banks
+TRCB,Two River Bancorp ,Financial,Regional - Northeast Banks
+PLBC, Plumas Bancorp ,Financial,Regional - Pacific Banks
+HEOP, Heritage Oaks Bancorp ,Financial,Regional - Pacific Banks
+FNWB,First Northwest Bancorp,Financial,Savings & Loans
+PBCT,People's United Financial Inc. ,Financial,Savings & Loans
+BOCH,Bank of Commerce Holdings (CA) ,Financial,Regional - Pacific Banks
+BKOR,Oak Ridge Financial Services I ,Financial,Regional - Mid-Atlantic Banks
+TSBK, Timberland Bancorp  Inc. ,Financial,Savings & Loans
+FBNC,First Bancorp ,Financial,Regional - Mid-Atlantic Banks
+ISTR,Investar Holding Corporation,Financial,Regional - Southwest  Banks
+EIG,Employers Holdings Inc Common S ,Financial,Property & Casualty Insurance
+STAR,iStar Financial Inc. ,Financial,REIT - Diversified
+BNCN,BNC Bancorp ,Financial,Regional - Mid-Atlantic Banks
+CNOB,ConnectOne Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+NWFL,Norwood Financial Corp. ,Financial,Regional - Northeast Banks
+VBFC,Village Bank and Trust Financia ,Financial,Regional - Mid-Atlantic Banks
+OCUL,Ocular Therapeutix Inc.,Healthcare,Biotechnology
+UAM,Universal American Corporation  ,Healthcare,Health Care Plans
+CWST,Casella Waste Systems Inc. ,Industrial Goods,Waste Management
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+LSTR,Landstar System Inc. ,Services,Trucking
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+CSV,Carriage Services Inc. Common  ,Services,Personal Services
+CASS,Cass Information Systems Inc ,Services,Business Services
+AAL,American Airlines Group Inc. ,Services,Major Airlines
+ADS,Alliance Data Systems Corporati ,Services,Business Services
+BBY,Best Buy Co. Inc. Common ,Services,Electronics Stores
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+JACK,Jack In The Box Inc. ,Services,Restaurants
+WINA,Winmark Corporation ,Services,Specialty Retail Other
+RDI,Reading International Inc ,Services,Movie Production Theaters
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+AVNW,Aviat Networks Inc. ,Technology,Communication Equipment
+BSQR,BSQUARE Corporation ,Technology,Application Software
+IIVI, II-VI Incorporated ,Technology,Scientific & Technical Instruments
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+MRVL,Marvell Technology Group Ltd. ,Technology,Semiconductor - Integrated Circuits
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+SLAB,Silicon Laboratories Inc. ,Technology,Semiconductor - Specialized
+MU,Micron Technology Inc. ,Technology,Semiconductor- Memory Chips
+LOCK, LifeLock  Inc. Common ,Technology,Application Software
+KLAC,KLA-Tencor Corporation ,Technology,Semiconductor Equipment & Materials
+PSI,PowerShares Dynamic Semiconductors ETF,US Equity ETF,
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund ETF,US Equity ETF,
+YORW,The York Water Company ,Utilities,Water Utilities
+MSEX,Middlesex Water Company ,Utilities,Water Utilities
+CWT,California Water Service Group  ,Utilities,Water Utilities

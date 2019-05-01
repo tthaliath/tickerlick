@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KEMP,KraneShares FTSE Emerging Marke,,
+KBA,KraneShares Bosera MSCI China A ,,
+CHN, China Fund  Inc. (The) Common S ,Financial,Closed-End Fund - Foreign
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+PGJ,PowerShares Golden Dragon Halter USX China Portfolio ETF,Global Equity ETF,
+GXC,SPDR S&P China ETF,Global Equity ETF,
+TAO,Guggenheim China Real Estate ETF,Global Equity ETF,
+HAO,Guggenheim China Small Cap ETF,Global Equity ETF,
+XBIT,XBiotech  Inc.,Healthcare,Biotechnology
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+MCI, Babson Capital Corporate Invest ,N/A,N/A
+MXPT,MaxPoint Interactive Inc. Comm,Technology,Application Software

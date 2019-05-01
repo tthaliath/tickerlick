@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LOAN,Manhattan Bridge Capital Inc ,Financial,Credit Services
+ARL,American Realty Investors Inc. ,Financial,Property Management
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+GERN,Geron Corporation ,Healthcare,Biotechnology
+SRDX,SurModics Inc. ,Healthcare,Diagnostic Substances
+PFSW,PFSweb Inc. ,Services,Business Services
+CTRN,Citi Trends Inc. ,Services,Apparel Stores

@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+MSB,Mesabi Trust Common ,Financial,Diversified Investments
+CCBG,Capital City Bank Group ,Financial,Regional - Mid-Atlantic Banks
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+NBN,Northeast Bancorp ,Financial,Regional - Northeast Banks
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MCRB,Seres Therapeutics  Inc.,Healthcare,Biotechnology
+RMTI,Rockwell Medical Inc. ,Healthcare,Medical Appliances & Equipment
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+CCC,Calgon Carbon Corporation Commo ,Industrial Goods,Pollution & Treatment Controls
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+QNST,QuinStreet Inc. ,Services,Advertising Agencies
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+CHEF, The Chefs' Warehouse  Inc. ,Services,Food Wholesale
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+TTGT,TechTarget Inc. ,Technology,Internet Information Providers
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments

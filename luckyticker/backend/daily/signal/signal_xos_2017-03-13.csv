@@ -1,0 +1,112 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BSJM,Guggenheim BulletShares 2022 Hi ,,
+BSJL,Guggenheim BulletShares 2021 Hi ,,
+APA,Apache Corporation Common ,Basic Materials,Independent Oil & Gas
+SD,Sandridge Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+OIS,Oil States International Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+REN,Resolute Energy Corporation Com ,Basic Materials,Independent Oil & Gas
+DWSN,Dawson Geophysical Company ,Basic Materials,Oil & Gas Equipment & Services
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+TLF,Tandy Leather Factory Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+WEYS,Weyco Group Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+PLOW,Douglas Dynamics Inc. Common S ,Consumer Goods,Auto Parts
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+BPOP,Popular Inc. ,Financial,Foreign Regional Banks
+WPG,Washington Prime Group Inc. Com,Financial,Property Management
+SMMF,Summit Financial Group Inc. ,Financial,Regional - Mid-Atlantic Banks
+EVY, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+BTA, BlackRock Long-Term Municipal A ,Financial,Closed-End Fund - Debt
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+IRET,Investors Real Estate Trust ,Financial,REIT - Retail
+AKP, Alliance California Municipal I ,Financial,Closed-End Fund - Debt
+FPO,First Potomac Realty Trust Comm ,Financial,REIT - Office
+WRE,Washington Real Estate Investme ,Financial,REIT - Retail
+AFB, AllianceBernstein National Muni ,Financial,Closed-End Fund - Debt
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+TMP,Tompkins Financial Corporation  ,Financial,Regional - Northeast Banks
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+UBOH,United Bancshares Inc. ,Financial,Money Center Banks
+MQY, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+AWF, Alliancebernstein Global High I ,Financial,Closed-End Fund - Debt
+BFS,Saul Centers Inc. Common ,Financial,REIT - Retail
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+TCRD,THL Credit Inc. ,Financial,Asset Management
+SIFI,SI Financial Group Inc. ,Financial,Savings & Loans
+BHV, BlackRock Virginia Municipal Bo ,Financial,Closed-End Fund - Debt
+UBA,Urstadt Biddle Properties Inc.  ,Financial,REIT - Retail
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+NHI,National Health Investors Inc. ,Financial,REIT - Healthcare Facilities
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+DUC, Duff & Phelps Utility & Corpora ,Financial,Closed-End Fund - Debt
+NUM, Nuveen Michigan Quality Income  ,Financial,Closed-End Fund - Debt
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+MUI, Blackrock Muni Intermediate Dur ,Financial,Closed-End Fund - Debt
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+AMBC,Ambac Financial Group Inc. ,Financial,Surety & Title Insurance
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+MVT, Blackrock MuniVest Fund II  Inc ,Financial,Closed-End Fund - Debt
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+GTY, Getty Realty Corporation Common ,Financial,REIT - Retail
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+LXP,Lexington Realty Trust Common S ,Financial,REIT - Diversified
+EVP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+HYG,iShares iBoxx $ HY Corp Bond Fund ETF,Fixed Income ETF,
+ANGL,Market Vectors Fallen Angel HY Bond ETF,Fixed Income ETF,
+JNK,SPDR Barclays Capital High Yield Bond ETF,Fixed Income ETF,
+AMRI,Albany Molecular Research Inc. ,Healthcare,Biotechnology
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+BETR,Amplify Snack Brands,N/A,N/A
+IIM, Invesco Value Municipal Income  ,N/A,N/A
+NQP, Nuveen Pennsylvania Investment  ,N/A,N/A
+RIF, RMR Real Estate Income Fund Com ,N/A,N/A
+IGI, Western Asset Investment Grade  ,N/A,N/A
+PNI, Pimco New York Municipal Income ,N/A,N/A
+SHYG,iShares 0-5 Year High Yield Corp Bd ,N/A,N/A
+GBAB, Guggenheim Build America Bonds  ,N/A,N/A
+USL, United States 12 Month Oil ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+AIC,Arlington Asset Investment Corp,N/A,N/A
+DJP, iPath Dow Jones UBS Commodity I ,N/A,N/A
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+RJI, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+VFL, Delaware Investments National M ,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+MUC, Blackrock MuniHoldings Californ ,N/A,N/A
+NBH, Neuberger Berman Intermediate M ,N/A,N/A
+NIQ,Nuveenn Intermediate Duration Q ,N/A,N/A
+BAF, BlackRock Municipal Income Inve ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+APTS, Preferred Apartment Communities ,N/A,N/A
+BSJK,Guggenheim BulletShares 2020 HY C Bd ETF ,N/A,N/A
+GSC, Goldman Sachs Connect S&P Enhan ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+BCM, iPath Pure Beta Broad Commodity ,N/A,N/A
+NEA, Nuveen AMT-Free Municipal Incom ,N/A,N/A
+NVG, Nuveen Dividend Advantage Munic ,N/A,N/A
+NID,Nuveen Intermediate Duration Mu ,N/A,N/A
+UE,Urban Edge Properties Common Sh,N/A,N/A
+UBP,Urstadt Biddle Properties Inc.  ,NULL,NULL
+TISI,Team Inc. Common ,Services,Business Services
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+GPX,GP Strategies Corporation Commo ,Services,Education & Training Services
+CONN,Conn's Inc. ,Services,Electronics Stores
+CVG,Convergys Corporation Common St ,Technology,Business Software & Services
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+USM,United States Cellular Corporat ,Technology,Wireless Communications
+ROOF,IndexIQ US Real Estate Small Cap ETF,US Equity ETF,
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities

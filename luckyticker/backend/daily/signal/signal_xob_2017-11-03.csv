@@ -1,0 +1,30 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HEWG,iShares Currency Hedged MSCI Ge ,,
+GSJY,Goldman Sachs ActiveBeta Japan,,
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+EC,Ecopetrol S.A. American Deposit ,Basic Materials,Major Integrated Oil & Gas
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,Chemicals - Major Diversified
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+THO,Thor Industries Inc. Common St ,Consumer Goods,Recreational Vehicles
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+CNA,CNA Financial Corporation Commo ,Financial,Property & Casualty Insurance
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+EWJ,iShares MSCI Japan Index Fund ETF,Global Equity ETF,
+WCG,Wellcare Health Plans Inc. Com ,Healthcare,Health Care Plans
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+NEOS,Neos Therapeutics  Inc.,Healthcare,Drugs - Generic
+EXAC,Exactech Inc. ,Healthcare,Medical Appliances & Equipment
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+TDY,Teledyne Technologies Incorpora ,Industrial Goods,Aerospace/Defense Products & Services
+DXGE,WisdomTree Germany Hedged Equity Fund ,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+DBGR,db X-trackers MSCI Germany Hedged Eq ETF ,N/A,N/A
+NOVT,Novanta Inc.,N/A,N/A
+MCRI,Monarch Casino & Resort Inc. ,Services,Resorts & Casinos
+NATH,Nathan's Famous Inc. ,Services,Restaurants
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+INTC,Intel Corporation ,Technology,Semiconductor - Broad Line

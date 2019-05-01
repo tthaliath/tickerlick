@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UAN, CVR Partners  LP Common Units r ,Basic Materials,Agricultural Chemicals
+DO,Diamond Offshore Drilling Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+SENEA,Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+BGG,Briggs & Stratton Corporation C ,Industrial Goods,Diversified Machinery
+PARR,Par Petroleum Corporation.  Com,N/A,N/A
+WEAT, Teucrium Wheat Fund ETV ,N/A,N/A
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+USAK,USA Truck Inc. ,Services,Trucking
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+WIT,Wipro Limited Common ,Technology,Information Technology Services

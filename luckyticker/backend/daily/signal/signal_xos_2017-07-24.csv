@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ROCK,Gibraltar Industries Inc. ,Basic Materials,Steel & Iron
+SMK,ProShares UltraShort MSCI Mexico Investable Market ETF,Commodity Based ETF,
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+MBFI,MB Financial Inc. ,Financial,Regional - Midwest Banks
+NTRS,Northern Trust Corporation ,Financial,Regional - Midwest Banks
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+MGI,Moneygram International Inc. N ,Services,Business Services
+PRTY,Party City Holdco Inc.,Services,Specialty Retail  Other
+CATM,Cardtronics Inc. ,Services,Business Services
+IBM, International Business Machines ,Technology,Diversified Computer Systems

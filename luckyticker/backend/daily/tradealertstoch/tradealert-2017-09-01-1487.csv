@@ -1,0 +1,38 @@
+Buy,CSCO,Cisco Systems Inc. ,18.9882
+Buy,DD,E.I. du Pont de Nemours and Com ,11.1003
+Buy,DHR,Danaher Corporation Common Stoc ,2.76139
+Buy,EXC,Exelon Corporation Common ,14.2861
+Buy,JNJ,Johnson & Johnson Common ,3.52594
+Buy,LMT,Lockheed Martin Corporation Com ,3.47229
+Buy,MA,Mastercard Incorporated Common  ,7.11195
+Buy,MCD,McDonald's Corporation Common S ,6.04444
+Buy,MDT,Medtronic Inc. Common ,7.68258
+Buy,MMM,3M Company Common ,2.94021
+Buy,MO,Altria Group Inc. ,14.3443
+Buy,MRK,Merck & Company Inc. Common St ,19.1576
+Buy,MSFT,Microsoft Corporation ,2.68181
+Buy,PCLN,priceline.com Incorporated ,11.092
+Buy,PFE,Pfizer Inc. Common ,18.7973
+Buy,QCOM,QUALCOMM Incorporated ,4.36135
+Buy,BRK-B,Berkshire Hathaway Inc.,9.5689
+Buy,HON, Honeywell International Inc. Co ,8.74876
+Buy,LLY, Eli Lilly and Company Common St ,13.4793
+Buy,FOX,Twenty-First Century Fox Inc. ,13.3519
+Buy,FOXA,Twenty-First Century Fox Inc. ,19.2306
+Buy,PYPL,PayPal Holdings  Inc.,18.3002
+Buy,VIX,VOLATILITY S&P 500,4.798
+Sell,BA,Boeing Company (The) Common Sto ,84.4643
+Sell,BAC,Bank of America Corporation Com ,90.4034
+Sell,CVX,Chevron Corporation Common Stoc ,95.631
+Sell,GE,General Electric Company Common ,88.0081
+Sell,GM,General Motors Company Common S ,89.1161
+Sell,GS,Goldman Sachs Group Inc. (The) ,93.5262
+Sell,JPM,JP Morgan Chase & Co. Common St ,95.3621
+Sell,MET,MetLife Inc. Common ,92.0744
+Sell,MS,Morgan Stanley Common ,92.6316
+Sell,OXY,Occidental Petroleum Corporatio ,88.9576
+Sell,SLB,Schlumberger N.V. Common ,93.7373
+Sell,SPG,Simon Property Group Inc. Comm ,97.4644
+Sell,XOM,Exxon Mobil Corporation Common  ,96.1847
+Sell,HAL, Halliburton Company Common Stoc ,92.3521
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,90.0679

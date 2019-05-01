@@ -1,0 +1,109 @@
+ticker,name,sector,industry
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+SLG,SL Green Realty Corporation Com ,Financial,REIT - Retail
+CMA,Comerica Incorporated Common St ,Financial,Regional - Midwest Banks
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+MUR,Murphy Oil Corporation Common S ,Basic Materials,Oil & Gas Refining & Marketing
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+DFS,Discover Financial Services Com ,Financial,Credit Services
+NAVI,Navient Corporation ,Technology,Information Technology Services
+NLSN, Nielsen Holdings N.V. Common St ,Technology,Information & Delivery Services
+APA,Apache Corporation Common ,Basic Materials,Independent Oil & Gas
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+BDCS, UBS AG Exchange Traded Access S ,N/A,N/A
+CFR,Cullen/Frost Bankers Inc. Comm ,Financial,Regional - Southwest  Banks
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+LARK,Landmark Bancorp Inc. ,Financial,Regional - Southwest  Banks
+MTU,Mitsubishi UFJ Financial Group ,Financial,Money Center Banks
+WMK,Weis Markets Inc. Common ,Services,Grocery Stores
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+DB,Deutsche Bank AG Common ,Financial,Foreign Regional Banks
+DTYS, iPath US Treasury 10 Yr Bear ET ,N/A,N/A
+FAUS,First Trust Australia AlphaDEX ETF,Global Equity ETF,
+FSIC,FS Investment Corporation Commo ,N/A,N/A
+HTGC, Hercules Technology Growth Capi ,Financial,Mortgage Investment
+ING,ING Group N.V. Common ,NULL,NULL
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+MTEX,Mannatech Incorporated ,Consumer Goods,Personal Products
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+NORD,Nord Anglia Education Inc. ,Services,Education & Training Services
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+STKL,SunOpta Inc. ,NULL,NULL
+TZOO,Travelzoo Inc. ,Technology,Internet Information Providers
+BID,Sotheby's Common ,Services,Specialty Retail Other
+CNXC,CNX Coal Resources LP,N/A,N/A
+DXJF,WisdomTree Japan Hedged Financials ,N/A,N/A
+GWB,Great Western Bancorp Inc. Com,Financial,Money Center Banks
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+QIWI,Qiwi plc ,Financial,Credit Services
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+BIZD,Market Vectors BDC Income ETF ,N/A,N/A
+BZUN,Baozun Inc.,Services,Catalog & Mail Order Houses
+CONN,Conn's Inc. ,Services,Electronics Stores
+DFRG, Del Frisco's Restaurant Group   ,Services,Restaurants
+EMIH,Deutsche X-trackers Emerging Ma,,
+FBSS,Fauquier Bankshares Inc. ,Financial,Regional - Southeast Banks
+G,Genpact Limited Common ,Services,Management Services
+HVT, Haverty Furniture Companies  In ,Services,Home Furnishing Stores
+JBSS,John B. Sanfilippo & Son Inc. ,Consumer Goods,Processed & Packaged Goods
+LKFN,Lakeland Financial Corporation ,Financial,Regional - Midwest Banks
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+RISE,Sit Rising Rate ETF,,
+SIF,SIFCO Industries Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+SYV,SPDR MFS Systematic Value Equit ,,
+TMHC,Taylor Morrison Home Corporation ,Industrial Goods,Residential Construction
+WEBK, Wellesley Bancorp  Inc. ,Financial,Regional - Northeast Banks
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+CROP,IndexIQ Global Agribusiness Small Cap ETF,Global Equity ETF,
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+HWKN, Hawkins  Inc. ,Basic Materials,Synthetics
+LSCC,Lattice Semiconductor Corporati ,Technology,Semiconductor - Specialized
+RH,Restoration Hardware Holdings Inc. ,Services,Home Furnishing Stores
+AFG,American Financial Group Inc.  ,Financial,Property & Casualty Insurance
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+CBSHP,Commerce Bancshares Inc.,N/A,N/A
+ESBA,Empire State Realty OP L.P. ,N/A,N/A
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+GBX,Greenbrier Companies Inc. (The ,Services,Railroads
+ICCC, ImmuCell Corporation ,Healthcare,Biotechnology
+JO, iPath DJ-UBS Coffee Subindex To ,N/A,N/A
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+TAPR,Barclays PLC ,,
+TPH,TRI Pointe Homes Inc. ,Industrial Goods,Residential Construction
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+CCS,Century Communities Inc. Commo,Financial,Real Estate Development
+CTRN,Citi Trends Inc. ,Services,Apparel Stores
+FRGI, Fiesta Restaurant Group  Inc. ,Services,Restaurants
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+RM, Regional Management Corp. Commo ,Financial,Credit Services
+WATT,Energous Corporation ,N/A,N/A
+BDCL, 2xLeveraged Long Exchange Trade ,N/A,N/A
+BSRR,Sierra Bancorp ,Financial,Regional - Pacific Banks
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+EUFX,ProShares Short Euro,US Equity Income ETF,
+FLIC,The First of Long Island Corpor ,Financial,Regional - Northeast Banks
+GLOB,Globant S.A. Common Shares,Technology,Information Technology Services
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+KEYW,The KEYW Holding Corporation ,Technology,Security Software & Services
+MSFG,MainSource Financial Group Inc ,Financial,Regional - Midwest Banks
+NDSN,Nordson Corporation ,Industrial Goods,Diversified Machinery
+NMR,Nomura Holdings Inc ADR America ,Financial,Investment Brokerage - National
+POOL,Pool Corporation ,Consumer Goods,Sporting Goods
+SCSS,Select Comfort Corporation ,Consumer Goods,Home Furnishings & Fixtures
+SPWR, SunPower Corporation ,Technology,Semiconductor - Specialized
+TCRD,THL Credit Inc. ,Financial,Asset Management

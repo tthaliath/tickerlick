@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEDD,iPath Pure Beta Lead ETN ,,
+DWSN,Dawson Geophysical Company ,Basic Materials,Oil & Gas Equipment & Services
+WILC,G. Willi-Food International  L ,Consumer Goods,Food - Major Diversified
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+BSBR,Banco Santander Brasil SA Ameri ,Financial,Foreign Regional Banks
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+CZFC,Citizens First Corporation ,Financial,Regional - Southeast Banks
+KAMN,Kaman Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+MDLY,Medley Management Inc. Class A,N/A,N/A
+CDOR,Condor Hospitality Trust Inc.,N/A,N/A
+Z, Zillow  Inc. ,Services,Business Services
+STON,StoneMor Partners L.P. Common U ,Services,Personal Services
+ENV,Envestnet Inc Common ,Services,Business Services
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+PTNR,Partner Communications Company  ,Technology,Wireless Communications
+EGOV,NIC Inc. ,Technology,Application Software

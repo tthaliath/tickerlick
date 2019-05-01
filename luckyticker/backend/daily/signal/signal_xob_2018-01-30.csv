@@ -1,0 +1,39 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ESGF,Oppenheimer Revenue Weighted ET,,
+ADVM,Adverum Biotechnologies  Inc.,,N/A
+DEMG,Deutsche X-trackers FTSE Emergi,,
+SPXE,ProShares S&P 500 Ex-Energy ETF,,
+RKDA,Arcadia Biosciences  Inc.,Basic Materials,Agricultural Chemicals
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+BLBD,BOLDFACE GROUP INC.,Consumer Goods,Auto Manufacturers - Major
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+PNC,PNC Financial Services Group I ,Financial,Money Center Banks
+RLI,RLI Corp. Common ,Financial,Property & Casualty Insurance
+CWBC,Community West Bancshares ,Financial,Regional - Pacific Banks
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+JNP,Juniper Pharmaceuticals  Inc.,Healthcare,Drugs - Generic
+VCEL,Vericel Corporation,Healthcare,Biotechnology
+HCA, HCA Holdings  Inc. Common ,Healthcare,Hospitals
+LH,Laboratory Corporation of Ameri ,Healthcare,Medical Laboratories & Research
+ABAX,ABAXIS Inc. ,Healthcare,Diagnostic Substances
+CASC,Cascadian Therapeutics, Inc.,Healthcare,Biotechnology
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+NOC,Northrop Grumman Corporation Co ,Industrial Goods,Aerospace/Defense - Major Diversified
+PSTG,Pure Storage  Inc.,N/A,N/A
+JJG, iPath Dow Jones UBS Grains Tota ,N/A,N/A
+FDIS,Fidelity MSCI Consumer Discretionary ETF ,N/A,N/A
+INST,Instructure  Inc.,N/A,N/A
+FMS,Fresenius Medical Care AG Commo ,NULL,NULL
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+ISCA,International Speedway Corporat ,Services,Sporting Activities
+UBNT, Ubiquiti Networks  Inc. ,Technology,Wireless Communications
+CALD,Callidus Software Inc. ,Technology,Business Software & Services
+STX,Seagate Technology. ,Technology,Data Storage Devices
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+VCR,Vanguard Consumer Discretion ETF - DNQ ETF,US Equity ETF,
+IYC,iShares Dow Jones U.S. Consumer Index Fund ETF,US Equity ETF,
+XLY,SPDR Consumer Discretionary Select Sector Fund ETF,US Equity ETF,
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

@@ -1,0 +1,2 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DG,Dollar General Corporation Comm ,Services,2015-10-08,66.2,-0.938542604446411,23.7205,29.549,2.44728,9.78913497924805

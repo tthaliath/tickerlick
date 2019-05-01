@@ -1,0 +1,56 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EQAL,PowerShares Russell 1000 Equal,,
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+POL,PolyOne Corporation Common Stoc ,Basic Materials,Specialty Chemicals
+AE,Adams Resources & Energy Inc.  ,Basic Materials,Oil & Gas Refining & Marketing
+CXO,Concho Resources Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+PSX, Phillips 66 Common ,Basic Materials,Oil & Gas Refining & Marketing
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+KNDI,Kandi Technolgies Corp. ,Consumer Goods,Auto Manufacturers - Major
+ENFC,Entegra Financial Corp.,Financial,Regional - Southeast Banks
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+CIO,City Office Reit Inc. ,Financial,REIT - Office
+FBC,Flagstar Bancorp Inc. New Comm ,Financial,Savings & Loans
+EXI,iShares S&P Global Industrials Sector Index Fund ETF,Global Equity ETF,
+EPU,iShares MSCI All Peru Capped Index Fund ETF,Global Equity ETF,
+ENTL,Entellus Medical Inc.,Healthcare,Medical Instruments & Supplies
+ECYT, Endocyte  Inc. ,Healthcare,Biotechnology
+MNKD,MannKind Corporation ,Healthcare,Biotechnology
+ELGX,Endologix Inc. ,Healthcare,Medical Instruments & Supplies
+MMSI,Merit Medical Systems Inc. ,Healthcare,Medical Instruments & Supplies
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+CMCO,Columbus McKinnon Corporation ,Industrial Goods,Farm & Construction Machinery
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+WWD, Woodward  Inc. ,Industrial Goods,Industrial Electrical Equipment
+TOL,Toll Brothers Inc. Common ,Industrial Goods,Residential Construction
+GENC,Gencor Industries Inc. ,Industrial Goods,Farm & Construction Machinery
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+LRGF,iShares FactorSelect MSCI USA,N/A,N/A
+AIRR,First Trust RBA American Indl Rnsnc ,N/A,N/A
+JP,Jupai Holdings Limited,N/A,N/A
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+MCO,Moody's Corporation Common Stoc ,Services,Business Services
+ISCA,International Speedway Corporat ,Services,Sporting Activities
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+GDOT,Green Dot Corporation Class A C ,Services,Business Services
+XOXO, XO Group  Inc. Common ,Services,Specialty Retail  Other
+RHI,Robert Half International Inc.  ,Services,Staffing & Outsourcing Services
+ENV,Envestnet Inc Common ,Services,Business Services
+PNK,Pinnacle Entertainment Inc. Co ,Services,Resorts & Casinos
+WINA,Winmark Corporation ,Services,Specialty Retail Other
+VHC,VirnetX Holding Corp Common Sto ,Technology,Internet Software & Services
+APH,Amphenol Corporation Common Sto ,Technology,Diversified Electronics
+RHT,Red Hat Inc. Common ,Technology,Application Software
+RZV,Guggenheim S&P SmallCap 600 Pure Value ETF,US Equity ETF,
+IWP,iShares Russell Midcap Growth Index ETF,US Equity ETF,
+FAD,First Trust Multi CG AlphaDEX ETF,US Equity ETF,
+PSCI,PowerShares S&P SmallCap Industrials Portfolio ETF,US Equity ETF,
+EXT,WisdomTree Total Earnings Fund ETF,US Equity ETF,
+FYT,First Trust Small Cap Value AlphaDEX ETF,US Equity ETF,
+DEF,Guggenheim Defensive Equity ETF,US Equity ETF,
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,
+FEX,First Trust Large Cap Core AlphaDEX ETF,US Equity ETF,
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

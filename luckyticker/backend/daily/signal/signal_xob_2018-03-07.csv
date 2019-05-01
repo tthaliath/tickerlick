@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TUSK,Mammoth Energy Services  Inc.,,
+GTHX,G1 Therapeutics  Inc.,,
+ZG,Zillow Group  Inc.,Financial,Property Management
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+VCEL,Vericel Corporation,Healthcare,Biotechnology
+BL,BlackLine  Inc.,N/A,N/A
+CTMX,CytomX Therapeutics  Inc.,N/A,N/A
+ARA,American Renal Associates Holdings  Inc.,N/A,N/A
+SBPH,Spring Bank Pharmaceuticals  Inc.,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+CLSD,Clearside BioMedical  Inc.,N/A,N/A
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+Z, Zillow  Inc. ,Services,Business Services
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+HSII, Heidrick & Struggles Internatio ,Services,Staffing & Outsourcing Services
+JOBS,51job Inc. ,Services,Staffing & Outsourcing Services
+APEI,American Public Education Inc. ,Services,Business Services
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+KEYS,Keysight Technologies Inc. Comm,Technology,Scientific & Technical Instruments

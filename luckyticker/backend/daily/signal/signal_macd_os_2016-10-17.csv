@@ -1,0 +1,104 @@
+ticker,name,sector,industry
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+LMT,Lockheed Martin Corporation Com ,Industrial Goods,Aerospace/Defense Products & Services
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+MMM,3M Company Common ,Conglomerates,Conglomerates
+AES,The AES Corporation Common Stoc ,Utilities,Electric Utilities
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+GLD, SPDR Gold Trust ,N/A,N/A
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+SZO, PowerShares DB Crude Oil Short  ,N/A,N/A
+DCOM,Dime Community Bancshares Inc. ,Financial,Savings & Loans
+OTTR,Otter Tail Corporation ,Utilities,Diversified Utilities
+UBG, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+IAU, ishares Gold Trust ,N/A,N/A
+PSR,PowerShares Active U.S. Real Estate Fund ETF,US Equity ETF,
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities
+RGLD, Royal Gold  Inc. ,Basic Materials,Gold
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+EPU,iShares MSCI All Peru Capped Index Fund ETF,Global Equity ETF,
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+DBS, PowerShares DB Silver Fund ,N/A,N/A
+SUN,Sunoco Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+SLVO,Credit Suisse Silver Shares Cov Call ETN ,N/A,N/A
+PAH,Platform Specialty Products Corporation ,Basic Materials,Specialty Chemicals
+TDS,Telephone and Data Systems Inc ,Technology,Wireless Communications
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+SWC,Stillwater Mining Company Commo ,Basic Materials,Industrial Metals & Minerals
+FSV,FirstService Corporation,N/A,N/A
+EGP,EastGroup Properties Inc. Comm ,Financial,REIT - Industrial
+CIX,CompX International Inc. Common ,Industrial Goods,Machine Tools & Accessories
+CIR,CIRCOR International Inc. Comm ,Industrial Goods,Industrial Equipment & Components
+COW, iPath Dow Jones UBS Livestock T ,N/A,N/A
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+CTX, Qwest Corporation 7.00% Notes d ,N/A,N/A
+TR,Tootsie Roll Industries Inc. C ,Consumer Goods,Confectioners
+ETH,Ethan Allen Interiors Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+RSO,Resource Capital Corp. Resource ,Financial,REIT - Retail
+WPG,Washington Prime Group Inc. Com,Financial,Property Management
+DIVA,QuantShares Hedged Dividend Inc,,
+FMS,Fresenius Medical Care AG Commo ,NULL,NULL
+PHYS, Sprott Physical Gold Trust ETV ,N/A,N/A
+SHY,iShares Barclays 1-3 Year Treasury Bond Fund ETF,Fixed Income ETF,
+DGLY,Digital Ally Inc. ,Technology,Scientific & Technical Instruments
+TOTL,SPDR DoubleLine Total Return Ta,,
+AFA, American Financial Group  Inc.  ,N/A,N/A
+FICO,Fair Isaac Incorporated Commo ,Services,Business Services
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+JJP, iPath DJ-UBS Precious Metals Su ,N/A,N/A
+INZ,Ing Groep NV Perpetual Debt Sec ,NULL,NULL
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+TRIB,Trinity Biotech plc ,Healthcare,Diagnostic Substances
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+OUNZ,Merk Gold Trust ETV ,,
+CTW, Qwest Corporation 7.50% Notes d ,N/A,N/A
+OHI,Omega Healthcare Investors Inc ,Financial,REIT - Healthcare Facilities
+FDIV,First Trust Strategic Income ET ,,
+SST,SPDR Barclays Capital Short Term Treasury ETF,Fixed Income ETF,
+IPE,SPDR Barclays Capital TIPS ETF,Fixed Income ETF,
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+JOE,St. Joe Company (The) Common St ,Financial,Real Estate Development
+SLV, iShares Silver Trust ,N/A,N/A
+HDLV,ETRACS Montly Pay 2xLeveraged U ,,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+BHV, BlackRock Virginia Municipal Bo ,Financial,Closed-End Fund - Debt
+AI,Arlington Asset Investment Corp ,Financial,Investment Brokerage - Regional
+RS,Reliance Steel & Aluminum Co. C ,Industrial Goods,Metal Fabrication
+FSBK, First South Bancorp Inc ,Financial,Savings & Loans
+CLF,Cliffs Natural Resources Inc Co ,Basic Materials,Steel & Iron
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+CZFC,Citizens First Corporation ,Financial,Regional - Southeast Banks
+EMSH,ProShares Shrt Term USD Emrg Mkts Bd ETF ,N/A,N/A
+ECC,Eagle Point Credit Company Inc.,N/A,N/A
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+MRGR,ProShares Merger ETF ,,
+EE,El Paso Electric Company Common ,Utilities,Electric Utilities
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+ENOC,EnerNOC Inc. ,Services,Business Services
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+BT,BT Group plc Common ,Technology,Telecom Services - Foreign
+SMB,Market Vectors Short Municipal Index ETF,Fixed Income ETF,
+IPU,SPDR S&P International Utilities Sector ETF,Global Equity ETF,
+FLRN, SPDR Barclays Capital Investmen ,N/A,N/A
+GNL,Global Net Lease  Inc.,N/A,N/A
+FOR, Forestar Group Inc Common ,Financial,Real Estate Development
+SIVR, ETFS Physical Silver Shares Tru ,N/A,N/A
+ISG,ING Group N.V. Perpetual Dent  ,NULL,NULL
+NNN,National Retail Properties Comm ,Financial,REIT - Diversified
+FBHS, Fortune Brands Home & Security  ,Consumer Goods,Home Furnishings & Fixtures
+HIFR,InfraREIT Inc. Common,N/A,N/A
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+QMN,IQ Hedge Market Neutral Tracker ETF ,N/A,N/A
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+ORA,Ormat Technologies Inc. Common ,Utilities,Electric Utilities

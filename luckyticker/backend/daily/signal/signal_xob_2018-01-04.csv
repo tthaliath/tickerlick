@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GSD,WisdomTree Global SmallCap Divi,,
+SU,Suncor Energy  Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+PKX,POSCO Common ,Basic Materials,Steel & Iron
+SNP,China Petroleum & Chemical Corp ,Basic Materials,Major Integrated Oil & Gas
+EFO,ProShares Ultra MSCI EAFE ETF,Commodity Based ETF,
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+RFP, Resolute Forest Products Inc. C ,Consumer Goods,Paper & Paper Products
+CCS,Century Communities Inc. Commo,Financial,Real Estate Development
+HILO,EGShares Low Volatility Emerging Markets Dividend ETF,Global Equity ETF,
+ARNA,Arena Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CHE,Chemed Corp ,Healthcare,Home Health Care
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+ASTE,Astec Industries Inc. ,Industrial Goods,Farm & Construction Machinery
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+DZK, Direxion Developed Markets Bull ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+BOLD,Audentes Therapeutics  Inc.,N/A,N/A
+EDC, Direxion Emerging Markets Bull  ,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+GLNG,Golar LNG Limited ,Services,Shipping
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+UPS,United Parcel Service Inc. Com ,Services,Air Delivery & Freight Services

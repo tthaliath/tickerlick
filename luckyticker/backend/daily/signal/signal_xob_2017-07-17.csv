@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BAK,Braskem SA ADR ,Basic Materials,Chemicals - Major Diversified
+DDC,Dominion Diamond Corporation ,Basic Materials,Nonmetallic Mineral Mining
+OEC,Orion Engineered Carbons S.A Co,Basic Materials,Specialty Chemicals
+BCH,Banco De Chile Banco De Chile A ,Financial,Foreign Regional Banks
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+OFLX,Omega Flex Inc. ,Industrial Goods,Industrial Equipment & Components
+MXF, Mexico Fund  Inc. (The) Common  ,N/A,N/A
+TDF, Templeton Dragon Fund  Inc. Com ,N/A,N/A
+ETO, Eaton Vance Tax-Advantage Globa ,N/A,N/A
+BZUN,Baozun Inc.,Services,Catalog & Mail Order Houses
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+CTRL,Control4 Corporation ,Technology,Diversified Electronics
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+NTP,Nam Tai Property Inc. ,Technology,Diversified Electronics
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities

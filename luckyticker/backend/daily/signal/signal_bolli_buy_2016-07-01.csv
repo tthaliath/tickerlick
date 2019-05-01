@@ -1,0 +1,5 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+AIRT,Air T Inc. ,2016-07-01,21.09,,,37.2565,14.6175,0.18248035365114018
+BSET,Bassett Furniture Industries I ,2016-07-01,24.5,,,37.0505,24.3591,0.2216380874705372
+DRI,Darden Restaurants Inc. Common ,2016-07-01,63,,,39.6464,21.4242,0.10420565775072607
+CMCT,CIM Commerical Trust Corp. ,2016-07-01,16.12,,,32.8301,6.16391,0.15954936874322345

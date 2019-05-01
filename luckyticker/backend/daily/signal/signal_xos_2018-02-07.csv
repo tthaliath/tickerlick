@@ -1,0 +1,278 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMHD,ETRACS Monthly Pay 2xLeveraged ,,
+REET,iShares Trust iShares Global RE ,,
+SRET,Global X SuperDividend REIT ETF,,
+WBIA,WBI SMID Tactical Growth Shares ,,
+SMDV,ProShares Russell 2000 Dividend,,
+BSJM,Guggenheim BulletShares 2022 Hi ,,
+WBIC,WBI SMID Tactical Yield Shares ,,
+REGL,ProShares S&P MidCap 400 Divide,,
+HDLV,ETRACS Montly Pay 2xLeveraged U ,,
+BSJL,Guggenheim BulletShares 2021 Hi ,,
+CSF,Compass EMP U.S. Discovery 500 ,,
+WBIH,WBI Tactical High Income Shares ,,
+UNIT,Uniti Group Inc.,,
+KREF,KKR Real Estate Finance Trust I,,
+HEFV,iShares Edge MSCI Min Vol EAFE,,
+AGGP,IQ Enhanced Core Plus Bond U.S.,,
+PUTW,WisdomTree CBOE S&P 500 PutWrit,,
+DHDG,WisdomTree Dynamic Currency Hed,,
+XSHD,PowerShares S&P SmallCap High D,,
+HEWC,iShares Currency Hedged MSCI Ca,,
+CLNS,Colony NorthStar  Inc.,,
+CSB,VictoryShares US Small Cap High,,
+OLD,The Long-Term Care ETF,,
+INDF,iShares Edge MSCI Multifactor I,,
+EXIV,VelocityShares 1x Daily Inverse,,
+LBDC,2xLeveraged Long ETRACS Wells F,,
+RORE,Hartford Multifactor REIT ETF,,
+BSJO,Guggenheim BulletShares 2024 Hi,,
+GHII,Guggenheim S&P High Income Infr,,
+REML,Credit Suisse AG Credit Suisse,,
+GUSH,Direxion Daily S&P Oil & Gas Ex,,
+RARX,Ra Pharmaceuticals  Inc.,,
+XIVH,UBS AG VelocityShares VIX Short,,
+LVHD,Legg Mason Low Volatility High,,
+XUSA,QuantX Dynamic Beta US Equity E,,
+BSJN,Guggenheim BulletShares 2023 Hi,,
+HYLB,Deutsche X-trackers USD High Yi,,
+NANR,SPDR S&P North American Natural,,
+EQWS,PowerShares Russell 2000 Equal,,
+CLPR,Clipper Realty Inc.,,
+OUSM,OShares FTSE Russell Small Cap,,
+MFCB,MFC Bancorp Ltd.,Basic Materials,Industrial Metals & Minerals
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+FNV, Franco Nev Corp Common (Canada) ,Basic Materials,Gold
+REGI, Renewable Energy Group  Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+IOSP,Innospec Inc. ,Basic Materials,Specialty Chemicals
+COG,Cabot Oil & Gas Corporation Com ,Basic Materials,Independent Oil & Gas
+MUSA,Metals USA Holdings Corp. Commo ,Basic Materials,Steel & Iron
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+DIG,ProShares Ultra Oil & Gas ETF,Commodity Based ETF,
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+TG,Tredegar Corporation Common Sto ,Conglomerates,Conglomerates
+CLX,Clorox Company (The) Common Sto ,Consumer Goods,Housewares & Accessories
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+HRL, Hormel Foods Corporation Common ,Consumer Goods,Meat Products
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+FBHS, Fortune Brands Home & Security  ,Consumer Goods,Home Furnishings & Fixtures
+VGR,Vector Group Ltd. Common ,Consumer Goods,Cigarettes
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+SCL,Stepan Company Common ,Consumer Goods,Cleaning Products
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+SR,Spire Inc.,Consumer Goods,Office Supplies
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+TAP,Molson Coors Brewing Company Cl ,Consumer Goods,Beverages - Brewers
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+UMH,UMH Properties Inc. Common Sto ,Financial,REIT - Diversified
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+MYF, Blackrock MuniYield Investment  ,Financial,Closed-End Fund - Debt
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+DB,Deutsche Bank AG Common ,Financial,Foreign Regional Banks
+SC,Santander Consumer USA Holdings Inc. ,Financial,Mortgage Investment
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+ACRE, Ares Commercial Real Estate Cor ,Financial,REIT - Diversified
+WMC, Western Asset Mortgage Capital  ,Financial,Mortgage Investment
+IVR,INVESCO MORTGAGE CAPITAL INC Co ,Financial,Mortgage Investment
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+CZNC,Citizens & Northern Corp ,Financial,Regional - Mid-Atlantic Banks
+AFB, AllianceBernstein National Muni ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+ATLO,Ames National Corporation ,Financial,Regional - Northeast Banks
+OLP,One Liberty Properties Inc. Co ,Financial,REIT - Diversified
+AIZ,Assurant Inc. Common ,Financial,Accident & Health Insurance
+BFS,Saul Centers Inc. Common ,Financial,REIT - Retail
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+PFG,Principal Financial Group Inc C ,Financial,Asset Management
+TMK,Torchmark Corporation Common St ,Financial,Life Insurance
+WPC,W.P. Carey & Co. LLC Common Sto ,Financial,Real Estate Development
+CLI,Mack-Cali Realty Corporation Co ,Financial,REIT - Office
+EPR,Entertainment Properties Trust  ,Financial,REIT - Retail
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+STWD,STARWOOD PROPERTY TRUST INC. S ,Financial,REIT - Diversified
+AWF, Alliancebernstein Global High I ,Financial,Closed-End Fund - Debt
+KRG,Kite Realty Group Trust Common  ,Financial,REIT - Retail
+ROIC,Retail Opportunity Investments  ,Financial,REIT - Diversified
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+STAR,iStar Financial Inc. ,Financial,REIT - Diversified
+AJX,Great Ajax Corp. Common,Financial,REIT - Diversified
+DX,Dynex Capital Inc. Common Stoc ,Financial,Mortgage Investment
+MFA,MFA Financial Inc. ,Financial,REIT - Diversified
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+TOWN,Towne Bank ,Financial,Regional - Mid-Atlantic Banks
+AKR,Acadia Realty Trust Common Stoc ,Financial,Property Management
+MET,MetLife Inc. Common ,Financial,Life Insurance
+HR, Healthcare Realty Trust Incorpo ,Financial,REIT - Healthcare Facilities
+BXMT,Blackstone Mortgage Trust Inc. ,Financial,REIT - Diversified
+CNO,CNO Financial Group Inc. Commo ,Financial,Accident & Health Insurance
+BHK, Blackrock Core Bond Trust Black ,Financial,Closed-End Fund - Debt
+JRS, Nuveen Real Estate Income Fund  ,Financial,Closed-End Fund - Equity
+EARN,N/A ,Financial,REIT - Diversified
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+CLDT,Chatham Lodging Trust (REIT) Co ,Financial,REIT - Hotel/Motel
+UHT,Universal Health Realty Income  ,Financial,REIT - Healthcare Facilities
+WTM,White Mountains Insurance Group ,Financial,Property & Casualty Insurance
+BEN,Franklin Resources Inc. Common ,Financial,Asset Management
+CUZ,Cousins Properties Incorporated ,Financial,REIT - Diversified
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+IVZ,Invesco Plc New Common ,Financial,Asset Management
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+CHMI,Cherry Hill Mortgage Investment Corporation ,Financial,REIT - Residential
+ANGL,Market Vectors Fallen Angel HY Bond ETF,Fixed Income ETF,
+PFXF,Market Vectors Pref Secs ex Fincls ETF,Fixed Income ETF,
+EMB,iShares JP Morgan Em Bond Fd ETF,Fixed Income ETF,
+JNK,SPDR Barclays Capital High Yield Bond ETF,Fixed Income ETF,
+EWC,iShares MSCI Canada Index Fund ETF,Global Equity ETF,
+FCAN,First Trust Canada AlphaDEX ETF,Global Equity ETF,
+ACWV,iShares MSCI All Country World Minimum Volatility Index Fund ETF,Global Equity ETF,
+RWO,SPDR Dow Jones Global Real Estate ETF,Global Equity ETF,
+GII,SPDR FTSE/Macquarie Global Infrastructure 100 ETF,Global Equity ETF,
+ENY,Guggenheim Canadian Energy Income ETF,Global Equity ETF,
+KXI,iShares S&P Global Consumer Staples Sector Index Fund ETF,Global Equity ETF,
+CNDA,IndexIQ Canada Small Cap ETF,Global Equity ETF,
+SOIL,Global X Fertilizers/Potash ETF,Global Equity ETF,
+FRAK,Market Vectors Unconventl Oil &amp; Gas ETF,Global Equity ETF,
+CGW,Guggenheim S&P Global Water Index ETF,Global Equity ETF,
+IGF,iShares S&P Global Infrastructure ETF,Global Equity ETF,
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+ENZ,Enzo Biochem Inc. Common ,Healthcare,Medical Laboratories & Research
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+LLY, Eli Lilly and Company Common St ,Healthcare,Drug Manufacturers - Major
+XRAY,DENTSPLY International Inc. ,Healthcare,Medical Instruments & Supplies
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+ATRC,AtriCure Inc. ,Healthcare,Medical Instruments & Supplies
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+TEX,Terex Corporation Common ,Industrial Goods,Farm & Construction Machinery
+AGX,Argan Inc. Common ,Industrial Goods,Heavy Construction
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+LECO,Lincoln Electric Holdings Inc. ,Industrial Goods,Small Tools & Accessories
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+BDC,Belden Inc Common ,Industrial Goods,Industrial Electrical Equipment
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+PWR,Quanta Services Inc. Common St ,Industrial Goods,General Contractors
+PARR,Par Petroleum Corporation.  Com,N/A,N/A
+FCPT,Four Corners Property Trust  Inc.,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+BOKFL,BOK Financial Corporation ,N/A,N/A
+GNL,Global Net Lease  Inc.,N/A,N/A
+ACRS,Aclaris Therapeutics  Inc.,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+SHPG, Shire plc ,N/A,N/A
+PDT, John Hancock Premium Dividend F ,N/A,N/A
+DIV,Global X SuperDividend™ US ETF ,N/A,N/A
+TOLZ,ProShares DJ Brookfield Glbl Infras ETF ,N/A,N/A
+NRE,Northstar Realty Europe Corp.,N/A,N/A
+MHLA,Maiden Holdings  Ltd. 6.625% No ,N/A,N/A
+INWK, InnerWorkings  Inc. ,N/A,N/A
+ORC,Orchid Island Capital Inc. ,N/A,N/A
+CHUBA,CommerceHub  Inc.,N/A,N/A
+SPHD,PowerShares Sandamp;P 500 High Div Portfolio ,N/A,N/A
+IYLD,  ,N/A,N/A
+ZF, Zweig Fund  Inc. (The) Common S ,N/A,N/A
+IRT,Independence Realty Trust  Inc. ,N/A,N/A
+XSLV,PowerShares SandP SmallCap Low Volatility ,N/A,N/A
+EQC,Equity Commonwealth Common Shar,N/A,N/A
+NSA,National Storage Affiliates,N/A,N/A
+GASL, Direxion Daily Natural Gas Rela ,N/A,N/A
+MUC, Blackrock MuniHoldings Californ ,N/A,N/A
+NQP, Nuveen Pennsylvania Investment  ,N/A,N/A
+FTLB,First Trust Low Beta Income ETF ,N/A,N/A
+VCV, Invesco Van Kampen California V ,N/A,N/A
+CHUBK,CommerceHub  Inc.,N/A,N/A
+ZIV, VelocityShares Daily Inverse VI ,N/A,N/A
+IRCP,IRSA Propiedades Comerciales S.A.,N/A,N/A
+VWOB,Vanguard Emerg Mkts Govt Bd Idx ETF ,N/A,N/A
+RIF, RMR Real Estate Income Fund Com ,N/A,N/A
+QINC,First Trust RBA Quality Income ,N/A,N/A
+APLE,Apple Hospitality REIT  Inc.,N/A,N/A
+ARR, ARMOUR Residential REIT  Inc. ,N/A,N/A
+UE,Urban Edge Properties Common Sh,N/A,N/A
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+MUE, Blackrock MuniHoldings Quality  ,N/A,N/A
+NRK, Nuveen New York AMT-Free Munici ,N/A,N/A
+FT, Franklin Universal Trust Common ,N/A,N/A
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+ERX, Direxion Energy Bull 3X Shares ,N/A,N/A
+XIV, VelocityShares Daily Inverse VI ,N/A,N/A
+SPXH,VelocityShares Volatility Hdgd Lg Cp ETF ,N/A,N/A
+AOM, iShares S&P Moderate Allocation ,N/A,N/A
+INKM, SPDR SSgA Income Allocation ETF ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+KORU,Direxion Daily South Korea Bull 3X Shrs ,N/A,N/A
+XMLV,PowerShares SandP MidCap Low Volatility ,N/A,N/A
+EMLP, First Trust North American Ener ,N/A,N/A
+MITT, AG Mortgage Investment Trust  I ,N/A,N/A
+SMLV,SPDR Russell 2000 Low Volatility ETF ,N/A,N/A
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+JACK,Jack In The Box Inc. ,Services,Restaurants
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale
+HMSY, HMS Holdings Corp ,Services,Business Services
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+TSQ,Townsquare Media Inc. Class A ,Services,Broadcasting - Radio
+ABM,ABM Industries Incorporated Com ,Services,Business Services
+HMHC,HMH Holdings (Delaware) Inc. ,Services,Education & Training Services
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+ALEX,Alexander & Baldwin Inc. Commo ,Services,Shipping
+NATH,Nathan's Famous Inc. ,Services,Restaurants
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+YRCW,YRC Worldwide Inc. ,Services,Trucking
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+OMCL,Omnicell Inc. ,Technology,Computer Based Systems
+CDNS,Cadence Design Systems Inc. ,Technology,Application Software
+RCI,Rogers Communication Inc. Comm ,Technology,Wireless Communications
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+CRUS,Cirrus Logic Inc. ,Technology,Semiconductor - Specialized
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+CRTO,Criteo SA ,Technology,Internet Information Providers
+MANH,Manhattan Associates Inc. ,Technology,Application Software
+FNK,First Trust Mid Cap Value AlphaDEX ETF,US Equity ETF,
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+ROOF,IndexIQ US Real Estate Small Cap ETF,US Equity ETF,
+MORT,Market Vectors Mortgage REIT Income ETF,US Equity ETF,
+IJJ,iShares S&P MidCap 400 Value Index Fund ETF,US Equity ETF,
+MDYV,SPDR S&P 400 Mid Cap Value ETF (MDYV) ETF,US Equity ETF,
+FDM,First Trust DJ Select MicroCap ETF,US Equity ETF,
+FDL,First Trust Morningstar ETF,US Equity ETF,
+DHS,WisdomTree High-Yielding Equity Fund ETF,US Equity ETF,
+REM,iShares FTSE NAREIT Mortgage REITs Index Fund ETF,US Equity ETF,
+PXMV,PowerShares Fundamental Pure Mid Value Portfolio ETF,US Equity ETF,
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,US Equity ETF,
+QCLN,First Trust NASDAQ Clean Edge U.S. Liquid Series Index Fund ETF,US Equity ETF,
+FVD,First Trust VL Dividend ETF,US Equity ETF,
+PEY,PowerShares Dividend Achievers ETF,US Equity ETF,
+KBWY,PowerShares KBW Premium Yield Equity REIT Portfolio ETF,US Equity ETF,
+JKL,iShares Morningstar Small Value Index Fund ETF,US Equity ETF,
+PXSV,PowerShares Fundamental Pure Small Value Portfolio ETF,US Equity ETF,
+HDV,iShares High Dividend Equity ETF,US Equity ETF,
+PSCC,PowerShares S&P SmallCap Consumer Staples Portfolio ETF,US Equity ETF,
+NFG,National Fuel Gas Company Commo ,Utilities,Gas Utilities
+EQT,EQT Corporation Common ,Utilities,Gas Utilities
+TRP,Transcanada Corporation (Holdin ,Utilities,Gas Utilities

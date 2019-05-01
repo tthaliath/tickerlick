@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+BOIL,ProShares Ultra DJ-UBS Natural Gas ETF,Commodity Based ETF,
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+NAII,Natural Alternatives Internatio ,Healthcare,Drug Related Products
+UGAZ, VelocityShares 3X Long Natural  ,N/A,N/A
+UNG, United States Natural Gas Fund  ,N/A,N/A
+UNL, United States 12 Month Natural  ,N/A,N/A
+CRMT,America's Car-Mart Inc. ,Services,Auto Dealerships
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities

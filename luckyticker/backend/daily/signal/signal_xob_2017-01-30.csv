@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+NOA,North American Energy Partners ,Basic Materials,Oil & Gas Equipment & Services
+CELP,Cypress Energy Partners L.P. ,Basic Materials,Oil & Gas Equipment & Services
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+PPT, Putnam Premier Income Trust Com ,Financial,Closed-End Fund - Debt
+DNBF,DNB Financial Corp ,Financial,Regional - Pacific Banks
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+MGCD,MGC Diagnostics Corporation ,Healthcare,Medical Appliances & Equipment
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+HEES, H&E Equipment Services  Inc. ,Industrial Goods,Industrial Equipment & Components
+PFN, PIMCO Income Strategy Fund II ,N/A,N/A
+CNXC,CNX Coal Resources LP,N/A,N/A
+IPKW,PowerShares International BuyBack Achiev ,N/A,N/A
+SPLP, Steel Partners Holdings LP LTD  ,N/A,N/A
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+URI,United Rentals Inc. Common Sto ,Services,Rental & Leasing Services
+MXIM,Maxim Integrated Products Inc. ,Technology,Semiconductor - Broad Line
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+FLEX,Flextronics International Ltd. ,Technology,Printed Circuit Boards
+RCI,Rogers Communication Inc. Comm ,Technology,Wireless Communications
+MLNX,Mellanox Technologies Ltd. ,Technology,Semiconductor - Broad Line
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities

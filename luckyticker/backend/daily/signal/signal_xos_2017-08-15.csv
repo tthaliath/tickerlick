@@ -1,0 +1,55 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UNVR,Univar Inc.,Basic Materials,Chemicals - Major Diversified
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+DORM,Dorman Products Inc. ,Consumer Goods,Auto Parts
+NUS,Nu Skin Enterprises Inc. Commo ,Consumer Goods,Personal Products
+PEO, Petroleum Resources Corporation ,Financial,Closed-End Fund - Equity
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+SOHO,Sotherly Hotels Inc. ,Financial,REIT - Hotel/Motel
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+ADMS,Adamas Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+CCXI, ChemoCentryx  Inc. ,Healthcare,Biotechnology
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+DEL,Deltic Timber Corporation Commo ,Industrial Goods,Lumber Wood Production
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+FLS,Flowserve Corporation Common St ,Industrial Goods,Diversified Machinery
+CVR,Chicago Rivet & Machine Co. Com ,Industrial Goods,Machine Tools & Accessories
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+SRV, The Cushing MLP Total Return Fu ,N/A,N/A
+KYE, Kayne Anderson Total Energy Ret ,N/A,N/A
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+FPL,First Trust New Opportunities M ,N/A,N/A
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+EURN,Euronav NV Ordinary Shares,N/A,N/A
+BKE,Buckle Inc. (The) Common ,Services,Apparel Stores
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+PLAB,Photronics Inc. ,Technology,Semiconductor - Integrated Circuits
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+DOX,Amdocs Limited Common ,Technology,Business Software & Services
+LSCC,Lattice Semiconductor Corporati ,Technology,Semiconductor - Specialized
+LVLT,Level 3 Communications Inc. Co ,Technology,Diversified Communication Services
+MXL,MaxLinear Inc Class A Common S ,Technology,Semiconductor Equipment & Materials
+CLRO,ClearOne Communications Inc. ,Technology,Communication Equipment
+PSCD,PowerShares S&P SmallCap Consumer Discretionary Portfolio ETF,US Equity ETF,

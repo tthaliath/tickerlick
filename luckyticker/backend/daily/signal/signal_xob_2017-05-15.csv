@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKQ,ARK Industrial Innovation ETF ,,
+ALDW,Alon USA Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+BCEI, Bonanza Creek Energy  Inc. Comm ,Basic Materials,Independent Oil & Gas
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+WF,Woori Finance Holdings Co Ltd A ,Financial,Foreign Regional Banks
+BAP,Credicorp Ltd. Common ,Financial,Money Center Banks
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+CIB,BanColombia S.A. Common ,Financial,Foreign Regional Banks
+BICK,First Trust BICK Index Fund ETF,Global Equity ETF,
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+NVMI,Nova Measuring Instruments Ltd. ,Industrial Goods,Diversified Machinery
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+BVXV,BiondVax Pharmaceuticals Ltd.,N/A,N/A
+LPSN,LivePerson Inc. ,Services,Business Services
+INCR,INC Research Holdings Inc.,Services,Research Services
+INTX,Intersections Inc. ,Services,Consumer Services
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+RICK,Rick's Cabaret International I ,Services,Restaurants
+EQIX,Equinix Inc. ,Technology,Telecom Services - Domestic
+NOK,Nokia Corporation Sponsored Ame ,Technology,Communication Equipment
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+CHKP,Check Point Software Technologi ,Technology,Security Software & Services
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+EA, Electronic Arts Inc. ,Technology,Multimedia & Graphics Software
+KVHI,KVH Industries Inc. ,Technology,Communication Equipment
+TTWO,Take-Two Interactive Software  ,Technology,Multimedia & Graphics Software
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+ASUR,Asure Software Inc ,Technology,Business Software & Services
+MXL,MaxLinear Inc Class A Common S ,Technology,Semiconductor Equipment & Materials
+PCYO,Pure Cycle Corporation ,Utilities,Water Utilities

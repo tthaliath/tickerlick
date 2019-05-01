@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKW,ARK Web x.0 ETF,,
+ALDW,Alon USA Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+QLD,ProShares Ultra QQQ ETF,Commodity Based ETF,
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+MCFT,MCBC Holdings Inc.,Consumer Goods,Recreational Vehicles
+NBN,Northeast Bancorp ,Financial,Regional - Northeast Banks
+ASBB, ASB Bancorp  Inc. ,Financial,Regional - Mid-Atlantic Banks
+PYPL,PayPal Holdings  Inc.,Financial,Credit Services
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+GLPI,Gaming and Leisure Properties Inc ,Financial,REIT - Diversified
+PDEX,Pro-Dex Inc. ,Healthcare,Medical Instruments & Supplies
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+IPXL,Impax Laboratories Inc. ,Healthcare,Drug Manufacturers - Major
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+NVMI,Nova Measuring Instruments Ltd. ,Industrial Goods,Diversified Machinery
+HDP,Hortonworks Inc.,N/A,N/A
+SZO, PowerShares DB Crude Oil Short  ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+INCR,INC Research Holdings Inc.,Services,Research Services
+CHGG,Chegg Inc. ,Services,Education & Training Services
+JOBS,51job Inc. ,Services,Staffing & Outsourcing Services
+LPSN,LivePerson Inc. ,Services,Business Services
+TTWO,Take-Two Interactive Software  ,Technology,Multimedia & Graphics Software
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+CPSI,Computer Programs and Systems  ,Technology,Healthcare Information Services
+SHOP,Shopify Inc.,Technology,Application Software
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+ASUR,Asure Software Inc ,Technology,Business Software & Services
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+EA, Electronic Arts Inc. ,Technology,Multimedia & Graphics Software
+QQQ,PowerShares QQQ Trust ETF,US Equity ETF,

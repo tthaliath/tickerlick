@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MULE,MuleSoft  Inc. Class A Common S,,
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances
+ENSG,The Ensign Group Inc. ,Healthcare,Long-Term Care Facilities
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+BL,BlackLine  Inc.,N/A,N/A
+TWLO,Twilio  Inc.,N/A,N/A
+WK,Workiva Inc. Class A Common Sto,N/A,N/A
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+WBAI,500.com Limited ,Services,Gaming Activities
+CHGG,Chegg Inc. ,Services,Education & Training Services
+LPSN,LivePerson Inc. ,Services,Business Services
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+KEYW,The KEYW Holding Corporation ,Technology,Security Software & Services
+CSGS,CSG Systems International Inc. ,Technology,Business Software & Services

@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LYB,LyondellBasell Industries NV Or ,Basic Materials,Specialty Chemicals
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+SRTY,ProShares UltraPro Short Russell2000 ETF,Commodity Based ETF,
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+IP,International Paper Company Com ,Consumer Goods,Paper & Paper Products
+BNCN,BNC Bancorp ,Financial,Regional - Mid-Atlantic Banks
+ENZY,Enzymotec Ltd. ,Healthcare,Biotechnology
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+LGCYO,Legacy Reserves LP,N/A,N/A
+NEWR,New Relic Inc. Common,N/A,N/A
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+IIVI, II-VI Incorporated ,Technology,Scientific & Technical Instruments
+WDC,Western Digital Corporation ,Technology,Data Storage Devices
+SWKS,Skyworks Solutions Inc. ,Technology,Semiconductor - Integrated Circuits
+NVEC,NVE Corporation ,Technology,Semiconductor - Specialized
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line
+TEL,TE Connectivity Ltd. New Switze ,Technology,Diversified Electronics
+IBM, International Business Machines ,Technology,Diversified Computer Systems

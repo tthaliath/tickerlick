@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+SMG,Scotts Miracle-Gro Company (The ,Basic Materials,Agricultural Chemicals
+MTL, Mechel OAO Mechel OAO American  ,Basic Materials,Steel & Iron
+SHBI,Shore Bancshares Inc ,Financial,Regional - Mid-Atlantic Banks
+TSBK, Timberland Bancorp  Inc. ,Financial,Savings & Loans
+UBNK,United Financial Bancorp Inc. ,Financial,Savings & Loans
+CASH,Meta Financial Group Inc. ,Financial,Savings & Loans
+KOL,Market Vectors Coal ETF,Global Equity ETF,
+ICLR, ICON plc ,Healthcare,Medical Laboratories & Research
+LGCYP,Legacy Reserves LP,N/A,N/A
+LGCYO,Legacy Reserves LP,N/A,N/A
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants

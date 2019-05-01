@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PKX,POSCO Common ,Basic Materials,Steel & Iron
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+TREE,Tree.com Inc. ,Financial,Mortgage Investment
+GNBC,Green Bancorp Inc.,Financial,Money Center Banks
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+JJC, iPath Dow Jones UBS Copper Tota ,N/A,N/A
+FNFV,FNFV Group of Fidelity National,N/A,N/A
+CPER,United States Copper ,N/A,N/A
+LBRDA,Liberty Broadband Corporation,N/A,N/A
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+LBRDK,Liberty Broadband Corporation,Services,Broadcasting - TV
+CHTR,Charter Communications Inc. ,Services,CATV Systems
+VVI,Viad Corp Common ,Services,Business Services
+DDS,Dillard's Inc. Common ,Services,Department Stores
+TRK,Speedway Motorsports Inc. Comm ,Services,Sporting Activities
+SHOR,ShoreTel Inc. ,Technology,Communication Equipment
+BIDU,Baidu Inc. ,Technology,Internet Information Providers
+MITL,Mitel Networks Corporation ,Technology,Communication Equipment

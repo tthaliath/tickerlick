@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HCLP, Hi-Crush Partners LP Common Uni ,Basic Materials,Industrial Metals & Minerals
+SD,Sandridge Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+ARLP,Alliance Resource Partners L.P ,Basic Materials,Industrial Metals & Minerals
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+PBT,Permian Basin Royalty Trust Com ,Basic Materials,Independent Oil & Gas
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+MAT,Mattel Inc. ,Consumer Goods,Toys & Games
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+RSXJ,Market Vectors Russia Small-Cap ETF,Global Equity ETF,
+CLH,Clean Harbors Inc. Common Stoc ,Industrial Goods,Waste Management
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+ATU,Actuant Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+TOWR,Tower International Inc. Commo ,Industrial Goods,Metal Fabrication
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+SLVO,Credit Suisse Silver Shares Cov Call ETN ,N/A,N/A
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+RMP,Rice Midstream Partners LP Comm,N/A,N/A
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+WCC,WESCO International Inc. Commo ,Services,Industrial Equipment Wholesale
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+SGA,Saga Communications Inc. New C ,Services,Broadcasting - Radio
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software

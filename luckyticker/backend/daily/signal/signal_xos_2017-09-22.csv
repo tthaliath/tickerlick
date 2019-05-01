@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FRPT,Freshpet Inc.,Consumer Goods,Food - Major Diversified
+TAP,Molson Coors Brewing Company Cl ,Consumer Goods,Beverages - Brewers
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+RUN,Sunrun,N/A,N/A
+RCII,Rent-A-Center Inc. ,Services,Rental & Leasing Services
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+TRUE,TrueCar Inc.,Technology,Internet Service Providers
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

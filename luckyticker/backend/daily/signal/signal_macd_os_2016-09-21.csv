@@ -1,0 +1,355 @@
+ticker,name,sector,industry
+NEM,Newmont Mining Corporation (Hol ,Basic Materials,Gold
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+ALLE,Allegion plc Ordinary Shares ,N/A,N/A
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+PPG,PPG Industries Inc. Common Sto ,Basic Materials,Specialty Chemicals
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+COL,Rockwell Collins Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+RHI,Robert Half International Inc.  ,Services,Staffing & Outsourcing Services
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+EL,Estee Lauder Companies Inc. (T ,Consumer Goods,Personal Products
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+KO,Coca-Cola Company (The) Common  ,Consumer Goods,Beverages - Soft Drinks
+MJN,Mead Johnson Nutrition Company  ,Consumer Goods,Processed & Packaged Goods
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+AMT,American Tower Corporation (REI ,Technology,Diversified Communication Services
+CRM,Salesforce.com Inc Common ,Technology,Application Software
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+HRL, Hormel Foods Corporation Common ,Consumer Goods,Meat Products
+XRAY,DENTSPLY International Inc. ,Healthcare,Medical Instruments & Supplies
+MLM,Martin Marietta Materials Inc. ,Industrial Goods,General Building Materials
+NOV,National Oilwell Varco Inc. Co ,Basic Materials,Oil & Gas Equipment & Services
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+TJX,TJX Companies Inc. (The) Commo ,Services,Department Stores
+VMC,Vulcan Materials Company (Holdi ,Industrial Goods,General Building Materials
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+WY,Weyerhaeuser Company Common Sto ,Financial,REIT - Industrial
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+PFE,Pfizer Inc. Common ,Healthcare,Drug Manufacturers - Major
+CCI,Crown Castle International Corp ,Technology,Diversified Communication Services
+CHD,Church & Dwight Company Inc. C ,Consumer Goods,Cleaning Products
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+MUE, Blackrock MuniHoldings Quality  ,N/A,N/A
+MXI,iShares S&P Global Materials Sector Index Fund ETF,Global Equity ETF,
+NOBL,ProShares SandP 500 Aristocrats ETF ,N/A,N/A
+ACM,Aecom Technology Corporation Co ,Services,Technical Services
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+AFK,Market Vectors-Africa Index ETF,Global Equity ETF,
+OA,Orbital ATK Inc. Common,Industrial Goods,Aerospace/Defense Products & Services
+OIL, Barclays Bank Plc iPath Exchang ,N/A,N/A
+APEI,American Public Education Inc. ,Services,Business Services
+PAAS,Pan American Silver Corp. ,NULL,NULL
+AU,AngloGold Ashanti Ltd. Common S ,Basic Materials,Gold
+PCY,PowerShares Emerging Markets Sovereign Debt Portfolio ETF,Fixed Income ETF,
+PFF, iShares S&P US Preferred ,N/A,N/A
+BCX, BlackRock Resources Common Shar ,N/A,N/A
+PGF,PowerShares Financial Preferred ETF,Fixed Income ETF,
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+PKB,PowerShares Dynamic Build & Construction ETF,US Equity ETF,
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+PSR,PowerShares Active U.S. Real Estate Fund ETF,US Equity ETF,
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+PXJ,PowerShares Dynamic Oil Services ETF,US Equity ETF,
+CCU,Compania Cervecerias Unidas S. ,Consumer Goods,Beverages - Brewers
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+RECN,Resources Connection Inc. ,Services,Management Services
+CR,Crane Company Common ,Industrial Goods,Diversified Machinery
+RLY, SPDR SSgA Multi Asset Real Retu ,N/A,N/A
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+DBO, PowerShares DB Oil Fund ,N/A,N/A
+RXI,iShares S&P Global Consumer Discretionary Sector Index Fund ETF,Global Equity ETF,
+SBNA,Scorpio Tankers Inc. 6.75% Seni,N/A,N/A
+DRH,Diamondrock Hospitality Company ,Financial,REIT - Hotel/Motel
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+DWM,WisdomTree DEFA Fund ETF,Global Equity ETF,
+SHLX,Shell Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+SPHQ,PowerShares S&P 500 High Quality Portfolio ETF,US Equity ETF,
+EMHY,iShares Emerging Markets High Yield Bond ETF,Fixed Income ETF,
+STO,Statoil ASA ,Basic Materials,Major Integrated Oil & Gas
+ENZL,iShares MSCI New Zealand Investable Market Index Fund (ENZL) ETF,Global Equity ETF,
+TACT,TransAct Technologies Incorpora ,Technology,Computer Peripherals
+ESGR,Enstar Group Limited ,Financial,Property & Casualty Insurance
+THHY,Market Vectors Treasury-Hedged Hi Yld Bd ,N/A,N/A
+EXP,Eagle Materials Inc Common Stoc ,Industrial Goods,Cement
+TLO,SPDR Barclays Capital Long Term Treasury ETF,Fixed Income ETF,
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+FMAT,Fidelity MSCI Materials Index ETF ,N/A,N/A
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+FXZ,First Trust Materials AlphaDEX Fund ETF,US Equity ETF,
+USL, United States 12 Month Oil ,N/A,N/A
+GGAL,Grupo Financiero Galicia S.A. ,Financial,Foreign Regional Banks
+UYM,ProShares Ultra Basic Materials ETF,Commodity Based ETF,
+GQRE,FlexShares Global Quality Real Estate ,N/A,N/A
+VGK,Vanguard European ETF,Global Equity ETF,
+GULF,WisdomTree Middle East Dividend ETF,Global Equity ETF,
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+HELE, Helen of Troy Limited ,Consumer Goods,Housewares & Accessories
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+HQCL,Hanwha Q CELLS Co. Ltd,Technology,Semiconductor - Specialized
+XLY,SPDR Consumer Discretionary Select Sector Fund ETF,US Equity ETF,
+HW, Headwaters Incorporated Common  ,Industrial Goods,General Building Materials
+IEX, IDEX Corporation Common ,Industrial Goods,Diversified Machinery
+IGOV,iShares S&P/Citigroup International Treasury Fund ETF,Fixed Income ETF,
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+IQDF,FlexShares International Qual Div ,N/A,N/A
+IST,SPDR S&P International Telecommunications Sector ETF,Global Equity ETF,
+JBR,Select Asset Inc. Corporate Bac ,N/A,N/A
+LBJ, Direxion Daily Latin America 3x ,N/A,N/A
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+MUI, Blackrock Muni Intermediate Dur ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+NFRA,FlexShares STOXX Global Broad Infras ,N/A,N/A
+AAT,American Assets Trust  Inc. Com,Financial,REIT - Office
+NORW,Global X FTSE Norway 30 ETF,Global Equity ETF,
+ADRA,PowerShares BLDRS Asia 50 ADR Index Fund ETF,US Equity ETF,
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+AHL,Aspen Insurance Holdings Limite ,Financial,Property & Casualty Insurance
+OFC,Corporate Office Properties Tru ,Financial,REIT - Office
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+ATRA,Atara Biotherapeutics Inc.,N/A,N/A
+PAGG,PowerShares Global Agriculture Portfolio ETF,Global Equity ETF,
+AUNZ,WisdomTree Australia & New Zealand Debt Fund,Fixed Income ETF,
+PDT, John Hancock Premium Dividend F ,N/A,N/A
+BAP,Credicorp Ltd. Common ,Financial,Money Center Banks
+PFI,PowerShares Dynamic Financial ETF,US Equity ETF,
+BDC,Belden Inc Common ,Industrial Goods,Industrial Electrical Equipment
+PGP, Pimco Global ,N/A,N/A
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+PKX,POSCO Common ,Basic Materials,Steel & Iron
+BNO, United States Brent Oil Fund  L ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+BSCN,Guggenheim BulletShares 2023 Co ,,
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+CATM,Cardtronics Inc. ,Services,Business Services
+PXMV,PowerShares Fundamental Pure Mid Value Portfolio ETF,US Equity ETF,
+CEF,Central Fund of Canada Limited  ,Basic Materials,Industrial Metals & Minerals
+QMN,IQ Hedge Market Neutral Tracker ETF ,N/A,N/A
+CHT,Chunghwa Telecom Co Ltd America ,Technology,Telecom Services - Domestic
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+COMT,iShares Commodities Select Stra,N/A,N/A
+RHP, Ryman Hospitality Properties  I ,Services,Lodging
+ROOF,IndexIQ US Real Estate Small Cap ETF,US Equity ETF,
+CYAD,Celyad SA,N/A,N/A
+RWO,SPDR Dow Jones Global Real Estate ETF,Global Equity ETF,
+DDS,Dillard's Inc. Common ,Services,Department Stores
+RYI,Ryerson Holding Corporation Com,N/A,N/A
+DHIL,Diamond Hill Investment Group  ,Financial,Asset Management
+SCHH,Schwab U.S. REIT ETF,US Equity ETF,
+DTH,WisdomTree DEFA High-Yielding Equity Fund ETF,Global Equity ETF,
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+DWX,SPDR S&P International Dividend ETF,Global Equity ETF,
+SHO,Sunstone Hotel Investors Inc.  ,Financial,REIT - Hotel/Motel
+ELA, Entergy Louisiana  LLC First Mo ,N/A,N/A
+SPXH,VelocityShares Volatility Hdgd Lg Cp ETF ,N/A,N/A
+EMIF,iShares S&P Emerging Markets Infrastructure Index Fund ETF,Global Equity ETF,
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+EOD, Wells Fargo Advantage Global Di ,N/A,N/A
+TAX, JTH Holding Inc. D/B/A Liberty  ,Services,Personal Services
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+THRK,SPDR Russell 3000 ETF ,N/A,N/A
+FAX, Aberdeen Asia-Pacific Income Fu ,N/A,N/A
+TLTD,FlexShares Mstar Dev Mk ex-US Fct Tl Idx ETF,Global Equity ETF,
+FFR,First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund ETF,Global Equity ETF,
+TWO,Two Harbors Investment Corp ,Financial,REIT - Residential
+FMX,Fomento Economico Mexicano S.A. ,Consumer Goods,Beverages - Brewers
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+FSM, Fortuna Silver Mines Inc Ordina ,Basic Materials,Silver
+URTH,iShares MSCI World ETF,Global Equity ETF,
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+USO, United States Oil Fund ,N/A,N/A
+GHM,Graham Corporation Common ,Industrial Goods,Metal Fabrication
+VAW,Vanguard Materials ETF - DNQ ETF,US Equity ETF,
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A
+GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund ETF,Global Equity ETF,
+VOD,Vodafone Group Plc ,NULL,NULL
+WNRL,Western Refining Logistics LP ,Basic Materials,Oil & Gas Pipelines
+HEWJ,iShares Currency Hedged MSCI Ja ,,
+WWE,World Wrestling Entertainment  ,Services,Entertainment - Diversified
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+HYI, Western Asset High Yield Define ,N/A,N/A
+IEZ,iShares Dow Jones U.S. Oil Equipment & Services Index Fund ETF,US Equity ETF,
+IHD, ING Emerging Markets High Divid ,N/A,N/A
+INF, Brookfield Global Listed Infras ,N/A,N/A
+IQDY,FlexShares International Qualit ,,
+IVH,Ivy High Income Opportunities F ,N/A,N/A
+JHX,James Hardie Industries SE NV A ,Industrial Goods,Cement
+KXI,iShares S&P Global Consumer Staples Sector Index Fund ETF,Global Equity ETF,
+LFL,Lan Airlines S.A. ,Services,Regional Airlines
+MDY,SPDR S&P MidCap 400 ETF,US Equity ETF,
+MOO,Market Vectors-Agribusiness ETF,Global Equity ETF,
+MT,Arcelor Mittal NY Registry Shar ,Basic Materials,Steel & Iron
+MUS, Blackrock MuniHoldings Quality  ,N/A,N/A
+NE,Noble Corporation  New Common S ,Basic Materials,Oil & Gas Drilling & Exploration
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+AAV,Advantage Oil & Gas Ltd  Ordina ,Basic Materials,Oil & Gas Drilling & Exploration
+AEGN, Aegion Corp ,Industrial Goods,Heavy Construction
+NUW, Nuveen AMT-Free Municipal Value ,N/A,N/A
+AIN,Albany International Corporatio ,Industrial Goods,Textile Industrial
+OIH,Market Vectors Oil Services ETF,US Equity ETF,
+ANFI, Amira Nature Foods Ltd Ordinary ,N/A,N/A
+ONEK,SPDR Russell 1000 ETF ,N/A,N/A
+ATU,Actuant Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+PCEF,PowerShares CEF Income Composite Portfolio (Fund) ETF,Fixed Income ETF,
+AWF, Alliancebernstein Global High I ,Financial,Closed-End Fund - Debt
+PEIX,Pacific Ethanol Inc. ,Basic Materials,Specialty Chemicals
+BBN, BlackRock Build America Bond Tr ,N/A,N/A
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+BDN,Brandywine Realty Trust Common  ,Financial,REIT - Diversified
+PHI,Philippine Long Distance Teleph ,Technology,Telecom Services - Foreign
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+PPX,PPL Capital Funding  Inc. 2013  ,N/A,N/A
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+PWV,PowerShares Dynamic LargeCap Value ETF,US Equity ETF,
+CBPX,Continental Building Products Inc. ,Industrial Goods,General Building Materials
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+CIZ,Compass EMP International 500 E ,,
+REGI, Renewable Energy Group  Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+COT,Cott Corporation Common ,Consumer Goods,Beverages - Soft Drinks
+RHS,Guggenheim S&P Equal Weight Consumer Staples ETF,US Equity ETF,
+CSIQ,Canadian Solar Inc. ,Technology,Semiconductor - Specialized
+RPD,Rapid7  Inc.,Technology,Application Software
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+RWR,SPDR Dow Jones REIT ETF,US Equity ETF,
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+SCHV,Schwab U.S. Large-Cap Value ETF,US Equity ETF,
+DVP,Deep Value ETF ,,
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+DXJ,WisdomTree Japan Total Dividend Fund ETF,Global Equity ETF,
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+ELB, Entergy Louisiana  Inc. 6.0% Se ,N/A,N/A
+SSWN,Seaspan Corporation 6.375% Note ,N/A,N/A
+ENOC,EnerNOC Inc. ,Services,Business Services
+SXCL,Steel Excel Inc.,Basic Materials,Oil & Gas Equipment & Services
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+TD,Toronto Dominion Bank (The) Com ,Financial,Money Center Banks
+EWM,iShares MSCI Malaysia Index Fund ETF,Global Equity ETF,
+FCOR,Fidelity Corporate Bond ETF ,,
+TMST,Timken Steel Corporation Common,Basic Materials,Steel & Iron
+FIDU,Fidelity MSCI Industrials Index ETF ,N/A,N/A
+UAN, CVR Partners  LP Common Units r ,Basic Materials,Agricultural Chemicals
+FONE,First Trust NASDAQ CEA Smartphone Index Fund ETF,Global Equity ETF,
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+FSTA,Fidelity MSCI Consumer Staples Index ETF ,N/A,N/A
+USAK,USA Truck Inc. ,Services,Trucking
+GEQ, Guggenheim Equal Weight Enhance ,N/A,N/A
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+GIM, Templeton Global Income Fund  I ,Financial,Closed-End Fund - Debt
+VCV, Invesco Van Kampen California V ,N/A,N/A
+GREK,Global X FTSE Greece 20 ETF,Global Equity ETF,
+GWB,Great Western Bancorp Inc. Com,Financial,Money Center Banks
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+WPS,iShares S&P World ex-US Property ETF,Global Equity ETF,
+HGI,Guggenheim International Multi-Asset Income ETF,Global Equity ETF,
+HPI, John Hancock Preferred Income F ,N/A,N/A
+XLI,SPDR Industrial Select Sector Fund ETF,US Equity ETF,
+HSEB,HSBC Holdings plc ,N/A,N/A
+IDLV,PowerShares S&amp;P Intl Dev Low Volatility ETF,Global Equity ETF,
+IFGL,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund ETF,Global Equity ETF,
+IILG, Interval Leisure Group  Inc. ,Services,Business Services
+INZ,Ing Groep NV Perpetual Debt Sec ,NULL,NULL
+IRET,Investors Real Estate Trust ,Financial,REIT - Retail
+IXP,iShares S&P Global Telecommunications Index Fund ETF,Global Equity ETF,
+JRO, Nuveen Floating Rate Income Opp ,N/A,N/A
+LADR,Ladder Capital Corp ,Financial,Savings & Loans
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+MVT, Blackrock MuniVest Fund II  Inc ,Financial,Closed-End Fund - Debt
+NEA, Nuveen AMT-Free Municipal Incom ,N/A,N/A
+NID,Nuveen Intermediate Duration Mu ,N/A,N/A
+NRO, Neuberger Berman Real Estate Se ,N/A,N/A
+AFA, American Financial Group  Inc.  ,N/A,N/A
+NZH, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+AIRM,Air Methods Corporation ,Services,Air Services Other
+OII,Oceaneering International Inc. ,Basic Materials,Oil & Gas Equipment & Services
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+OUNZ,Merk Gold Trust ETV ,,
+ATW,Atwood Oceanics Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+PCTY,Paylocity Holding Corporation ,N/A,N/A
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+BCE,BCE Inc. Common ,Technology,Telecom Services - Domestic
+PFM,PowerShares Dividend Achievers ETF,US Equity ETF,
+BFK, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+BMA,Banco Macro S.A.  ADR (represen ,Financial,Foreign Regional Banks
+PMR,PowerShares Dynamic Retail ETF,US Equity ETF,
+BOXC,Brookfield Canada Office Properties ,Financial,REIT - Office
+PSCD,PowerShares S&P SmallCap Consumer Discretionary Portfolio ETF,US Equity ETF,
+BYM, Blackrock Municipal Income Qual ,N/A,N/A
+PXF,PowerShares FTSE RAFI Developed Markets ex-U.S. Portfolio ETF,Global Equity ETF,
+QEFA,SPDR EURO STOXX Small Cap ETF ,,
+QVAL,ValueShares U.S. Quantitative V ,,
+CNQ,Canadian Natural Resources Limi ,Basic Materials,Independent Oil & Gas
+RGR,Sturm Ruger & Company Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+RLJ, RLJ Lodging Trust Common Shares ,Financial,REIT - Hotel/Motel
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+RTM,Guggenheim S&P Equal Weight Materials ETF,US Equity ETF,
+DBJP, db-X MSCI Japan Currency Hedged ,N/A,N/A
+RWV,REVENUESHARES NAVELLIER OVERALL A-100 FUND ETF,US Equity ETF,
+DGT,SPDR DJ Global Titans ETF,Global Equity ETF,
+SBGL,Sibanye Gold Limited ,Basic Materials,Gold
+DOO,WisdomTree International Dividend Top 100 Fund ETF,Global Equity ETF,
+SCPB,SPDR Barclays Capital Short Term Corporate Bond ETF,Fixed Income ETF,
+DWAT,Arrow DWA Tactical ETF ,,
+SHLD,Sears Holdings Corporation ,Services,Department Stores
+EFFE,Global X JPMorgan Efficiente In ,,
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,
+EMCR, EGShares Emerging Markets CORE  ,N/A,N/A
+STN,Stantec Inc Common ,Services,Technical Services
+ENOR,iShares MSCI Norway Cppd Investable Mkt,Global Equity ETF,
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+ERIC,Ericsson ,NULL,NULL
+TDF, Templeton Dragon Fund  Inc. Com ,N/A,N/A
+EXI,iShares S&P Global Industrials Sector Index Fund ETF,Global Equity ETF,
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+FDIS,Fidelity MSCI Consumer Discretionary ETF ,N/A,N/A
+TNGO, Tangoe  Inc. ,Technology,Business Software & Services
+FIVE, Five Below  Inc. ,Services,Specialty Retail  Other
+UBP,Urstadt Biddle Properties Inc.  ,NULL,NULL
+FPT, Federated Premier Intermediate  ,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+USG,USG Corporation Common ,Industrial Goods,General Building Materials
+GFI,Gold Fields Ltd. American Depos ,Basic Materials,Gold
+UWTI, VelocityShares 3X Long Crude ET ,N/A,N/A
+GNR,SPDR S&P Global Natural Resources ETF,Global Equity ETF,
+VEGI,iShares MSCI Global Agriculture Producers Fund ETF,Global Equity ETF,
+GTAA,AdvisorShares Cambria Global Tactical ETF,Global Equity ETF,
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+HAP,Market Vectors RVE Hard Assets Prod ETF,Global Equity ETF,
+WCC,WESCO International Inc. Commo ,Services,Industrial Equipment Wholesale
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,
+WRE,Washington Real Estate Investme ,Financial,REIT - Retail
+HI, Hillenbrand Inc Common ,Industrial Goods,Diversified Machinery
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,US Equity ETF,
+HPS, John Hancock Preferred Income F ,N/A,N/A
+XLP,SPDR Consumer Staples Select Sector Fund ETF,US Equity ETF,
+HUN, Huntsman Corporation Common Sto ,Basic Materials,Specialty Chemicals
+IDOG,ALPS International Sector Div Dogs ETF ,N/A,N/A
+IGE,iShares Goldman Sachs Natural Resources Index Fund ETF,US Equity ETF,
+ILF,iShares Latin America 40 Index Fund ETF,Global Equity ETF,
+IQDE,FlexShares International Qual Div Dfnsv ,N/A,N/A
+ISD, Prudential Short Duration High  ,N/A,N/A
+IYM,iShares Dow Jones U.S. Basic Materials Index ETF,US Equity ETF,
+LAQ, Aberdeen Latin America Equity F ,Financial,Closed-End Fund - Foreign
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+MN, Manning & Napier  Inc. Class A  ,N/A,N/A

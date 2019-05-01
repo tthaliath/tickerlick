@@ -1,0 +1,67 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QVAL,ValueShares U.S. Quantitative V ,,
+SPYB,SPDR S&P 500 Buyback ETF,,
+SPMO,PowerShares S&P 500 Momentum Po,,
+ANDAU,Andina Acquisition Corp. II - U,,
+HACW,iShares Currency Hedged MSCI AC,,
+OILX,ETRACS S&P GSCI Crude Oil Total,,
+SPXT,ProShares S&P 500 Ex-Technology,,
+ISZE,iShares Edge MSCI Intl Size Fac,,
+JHMC,John Hancock Multifactor Consum,,
+KRP,Kimbell Royalty Partners Common,,
+OSN,Ossen Innovation Co. Ltd. ,Basic Materials,Steel & Iron
+USAP,Universal Stainless & Alloy Pro ,Basic Materials,Steel & Iron
+UPV,ProShares Ultra MSCI Europe ETF,Commodity Based ETF,
+ARES,Ares Management L.P. Common Uni,Financial,Asset Management
+IX, Orix Corp Ads Common ,Financial,Credit Services
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+NCOM,NATIONAL COMMERCE CORP,Financial,Regional - Southeast Banks
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+AJG,Arthur J. Gallagher & Co. Commo ,Financial,Insurance Brokers
+EWEM,Guggenheim MSCI Emerging Markets Equal Weight ETF,Global Equity ETF,
+EWI,iShares MSCI Italy Index Fund ETF,Global Equity ETF,
+IXG,iShares S&P Global Financial Index Fund ETF,Global Equity ETF,
+EDIV,SPDR S&P Emerging Markets Dividend ETF,Global Equity ETF,
+EUFN,iShares MSCI Europe Financials Sector Index Fund ETF,Global Equity ETF,
+SGMO,Sangamo BioSciences Inc. ,Healthcare,Biotechnology
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+FGEN,FibroGen Inc,Healthcare,Biotechnology
+HRTX,Heron Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+RTN,Raytheon Company Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+NOC,Northrop Grumman Corporation Co ,Industrial Goods,Aerospace/Defense - Major Diversified
+GVAL,Cambria Global Value ETF ,N/A,N/A
+GBB, iPath Goldman Sachs iPath GBP/U ,N/A,N/A
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+WMW, DEUTSCHE BANK AKTIENGESELLSCHAF ,N/A,N/A
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+FXCH, CurrencyShares Chinese Renminbi ,N/A,N/A
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+RGT,Royce Global Value Trust  Inc.  ,N/A,N/A
+EOCC,Empresa Nacional de Electricidad S.A.,N/A,N/A
+OSB,Norbord  Inc.,N/A,N/A
+SBV,iPath Pure Beta SandP GSCI-Weighted ETN ,N/A,N/A
+FNDB,Schwab Fundamental US Broad Market ETF ,N/A,N/A
+SYG,SPDR MFS Systematic Growth Equity ETF ,N/A,N/A
+LOR, Lazard World Dividend & Income  ,N/A,N/A
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+ISCA,International Speedway Corporat ,Services,Sporting Activities
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+FICO,Fair Isaac Incorporated Commo ,Services,Business Services
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+MELI,MercadoLibre Inc. ,Services,Business Services
+PKW,PowerShares Buyback Achievers ETF,US Equity ETF,
+IYG,iShares Dow Jones U.S. Financial Services Index Fund ETF,US Equity ETF,
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,
+SCHG,Schwab U.S. Large-Cap Growth ETF,US Equity ETF,

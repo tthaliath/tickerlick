@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YTRA,Yatra Online  Inc. - Ordinary S,,
+DRIP,Direxion Daily S&P Oil & Gas Ex,,
+UAA,Under Armour  Inc. Class A,,
+DFIN,Donnelley Financial Solutions ,,
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+DUG,ProShares UltraShort Oil & Gas ETF,Commodity Based ETF,
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+ADM,Archer-Daniels-Midland Company  ,Consumer Goods,Farm Products
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+OHI,Omega Healthcare Investors Inc ,Financial,REIT - Healthcare Facilities
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+BLE, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+BSMX, Grupo Financiero Santander Mexi ,Financial,Foreign Regional Banks
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+TMUSP,T-Mobile US  Inc.,N/A,N/A
+DBVT,DBV Technologies S.A.,N/A,N/A
+DIV,Global X SuperDividend™ US ETF ,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+HSIC, Henry Schein  Inc. ,Services,Medical Equipment Wholesale
+BNED,Barnes & Noble Education  Inc.,Services,Specialty Retail  Other
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+FNGN,Financial Engines Inc. ,Services,Business Services
+TIME,Time Inc. Common,Services,Publishing - Periodicals
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+CATM,Cardtronics Inc. ,Services,Business Services
+VZ,Verizon Communications Inc. Com ,Technology,Telecom Services - Domestic
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+TMUS,T-Mobile US Inc. ,Technology,Wireless Communications
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities

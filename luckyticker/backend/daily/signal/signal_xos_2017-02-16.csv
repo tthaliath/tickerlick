@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HES, Hess Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+FOSL,Fossil Inc. ,Consumer Goods,Recreational Goods Other
+BTN,Ballantyne Strong Inc. Common  ,Consumer Goods,Photographic Equipment & Supplies
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+TATT, TAT Technologies Ltd. ,Industrial Goods,Aerospace/Defense Products & Services
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+PMX, PIMCO Municipal Income Fund III ,N/A,N/A
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+WR,Westar Energy Inc. Common Stoc ,Utilities,Diversified Utilities

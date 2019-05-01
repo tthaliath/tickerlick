@@ -1,0 +1,39 @@
+Buy,AAPL,Apple Inc. ,18.6794
+Buy,ALL,Allstate Corporation (The) Comm ,7.97101
+Buy,CL,Colgate-Palmolive Company Commo ,3.567
+Buy,DUK,Duke Energy Corporation (Holdin ,18.4275
+Buy,EXC,Exelon Corporation Common ,7.71627
+Buy,LMT,Lockheed Martin Corporation Com ,14.652
+Buy,MRK,Merck & Company Inc. Common St ,9.04925
+Buy,MSFT,Microsoft Corporation ,18.1818
+Buy,QCOM,QUALCOMM Incorporated ,10.1549
+Buy,PYPL,PayPal Holdings  Inc.,14.358
+Buy,VIX,VOLATILITY S&P 500,16.6655
+Sell,ABT,Abbott Laboratories Common Stoc ,97.2223
+Sell,AIG,American International Group I ,84.7457
+Sell,BIIB,Biogen Idec Inc. ,87.6479
+Sell,C,Citigroup Inc. Common ,80.1744
+Sell,CAT,Caterpillar Inc. Common ,93.0043
+Sell,CMCSA,Comcast Corporation ,80.3612
+Sell,COST,Costco Wholesale Corporation ,85.3419
+Sell,CVX,Chevron Corporation Common Stoc ,90.4108
+Sell,FDX,FedEx Corporation Common ,88.1987
+Sell,GE,General Electric Company Common ,88.2922
+Sell,GM,General Motors Company Common S ,85.101
+Sell,GOOG,Alphabet Inc.,87.0779
+Sell,GS,Goldman Sachs Group Inc. (The) ,83.6642
+Sell,JPM,JP Morgan Chase & Co. Common St ,81.0873
+Sell,MET,MetLife Inc. Common ,84.6793
+Sell,MON,Monsanto Company Common ,80.9526
+Sell,MS,Morgan Stanley Common ,96.1716
+Sell,NKE,Nike Inc. Common ,84.8791
+Sell,ORCL,Oracle Corporation ,82.0834
+Sell,PCLN,priceline.com Incorporated ,96.2694
+Sell,PFE,Pfizer Inc. Common ,98.9927
+Sell,PG,Procter & Gamble Company (The)  ,96.8524
+Sell,RTN,Raytheon Company Common ,83.4575
+Sell,SLB,Schlumberger N.V. Common ,94.0639
+Sell,TGT,Target Corporation Common ,88.6597
+Sell,GLD, SPDR Gold Trust ,81.9589
+Sell,IBM, International Business Machines ,82.5141
+Sell,ABBV,AbbVie Inc. ,84.9852

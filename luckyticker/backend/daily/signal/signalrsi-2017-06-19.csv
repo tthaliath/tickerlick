@@ -1,0 +1,89 @@
+OS,COST,Costco Wholesale Corporation ,164.34,27.8018
+OS,DLTR,Dollar Tree Inc. ,70.55,26.6913
+OS,FL,Footlocker Inc. ,51.45,16.0515
+OS,FTI,FMC Technologies Inc. Common S ,27.23,29.0164
+OS,KR,Kroger Company (The) Common Sto ,22.64,20.8723
+OS,MAT,Mattel Inc. ,20.43,28.8602
+OS,TAP,Molson Coors Brewing Company Cl ,86.58,29.8993
+OS,XEC,Cimarex Energy Co Common ,93.45,20.9332
+OS,TRIP, TripAdvisor  Inc. ,36.1,27.7143
+OS,HPE,Hewlett Packard Enterprise Company,16.72,26.7735
+OB,ABT,Abbott Laboratories Common Stoc ,48.89,82.817
+OB,ACN,Accenture plc. Class A Ordinary ,127.77,71.2908
+OB,AET,Aetna Inc. Common ,151.73,73.3172
+OB,AFL,AFLAC Incorporated Common ,79.26,75.3964
+OB,ALL,Allstate Corporation (The) Comm ,89.41,72.9398
+OB,AME,AMETEK Inc. ,62.86,70.0726
+OB,AON,Aon plc Class A Ordinary Shares ,136.8,88.3108
+OB,AXP,American Express Company Common ,81.88,73.4816
+OB,BA,Boeing Company (The) Common Sto ,199.08,77.2974
+OB,BCR,C.R. Bard Inc. Common ,315.19,76.5403
+OB,BK,Bank of New York Mellon Corpora ,50.28,75.8593
+OB,BLL,Ball Corporation Common ,41.89,70.4764
+OB,BSX,Boston Scientific Corporation C ,28.25,73.9383
+OB,CB,Chubb Corporation (The) Common  ,147.11,70.6634
+OB,CCL,Carnival Corporation Common Sto ,66.32,70.8235
+OB,CHD,Church & Dwight Company Inc. C ,53.75,70.8592
+OB,CI,Cigna Corporation Common ,170.26,72.3649
+OB,CLX,Clorox Company (The) Common Sto ,141.15,72.6662
+OB,CMA,Comerica Incorporated Common St ,74.62,70.0953
+OB,CME,CME Group Inc. ,127.44,72.7997
+OB,COO,Cooper Companies Inc. (The) Co ,242.11,75.4011
+OB,CTAS,Cintas Corporation ,131.35,71.0659
+OB,CTSH,Cognizant Technology Solutions  ,67.4,71.0405
+OB,DE,Deere & Company Common ,126.99,74.3161
+OB,ED,Consolidated Edison Inc. Commo ,84.75,71.951
+OB,EL,Estee Lauder Companies Inc. (T ,98.19,76.6713
+OB,EMN,Eastman Chemical Company Common ,86,72.2651
+OB,ESS,Essex Property Trust Inc. Comm ,268.39,71.3141
+OB,EW,Edwards Lifesciences Corporatio ,118.84,70.5823
+OB,FDX,FedEx Corporation Common ,210.95,77.1098
+OB,IP,International Paper Company Com ,56.94,74.4884
+OB,IR,Ingersoll-Rand plc (Ireland) ,92.59,70.3879
+OB,ISRG,Intuitive Surgical Inc. ,936.4,70.6485
+OB,IT,Gartner Inc. Common ,123.69,73.7436
+OB,ITW,Illinois Tool Works Inc. Common ,150.18,82.73
+OB,IVZ,Invesco Plc New Common ,35.4,76.5359
+OB,JNJ,Johnson & Johnson Common ,134.07,81.4907
+OB,KSU,Kansas City Southern Common Sto ,103.5,79.8699
+OB,MAA,Mid-America Apartment Communiti ,110.32,84.4305
+OB,MAS,Masco Corporation Common ,39.14,76.8428
+OB,MCO,Moody's Corporation Common Stoc ,122.18,71.3074
+OB,MDT,Medtronic Inc. Common ,88.99,77.289
+OB,MMC,Marsh & McLennan Companies Inc ,80.14,80.5807
+OB,MMM,3M Company Common ,213.36,82.9606
+OB,MO,Altria Group Inc. ,77.71,78.4251
+OB,NTRS,Northern Trust Corporation ,95.3,73.7219
+OB,NVDA,NVIDIA Corporation ,157.32,71.1646
+OB,PGR,Progressive Corporation (The) C ,44.7,80.4018
+OB,PKI,PerkinElmer Inc. Common ,67.73,79.1403
+OB,PLD,ProLogis Inc. Common ,58.59,72.1318
+OB,PM,Philip Morris International Inc ,122.9,70.9502
+OB,ROP,Roper Industries Inc. Common S ,235.25,74.9587
+OB,SHW,Sherwin-Williams Company (The)  ,357,70.2143
+OB,TSO,Tesoro Corporation Common ,92.77,70.2656
+OB,UDR,UDR Inc. Common ,40.49,72.4864
+OB,UPS,United Parcel Service Inc. Com ,110.87,70.4415
+OB,VAR,Varian Medical Systems Inc. Co ,104.61,81.4509
+OB,VTR,Ventas Inc. Common ,69.75,73.8973
+OB,WAT,Waters Corporation Common ,185.58,70.4887
+OB,WHR,Whirlpool Corporation Common St ,196.87,70.3088
+OB,WYN,Wyndham Worldwide Corp Common   ,103.24,70.5377
+OB,XRX,Xerox Corporation Common ,28.79,98.1011
+OB,BLK,BlackRock Inc,428.38,81.2819
+OB,HAS, Hasbro  Inc. ,111.3,77.4906
+OB,HCN, Health Care REIT  Inc. Common S ,76.25,75.0057
+OB,HIG, Hartford Financial Services Gro ,52.45,74.7095
+OB,HON, Honeywell International Inc. Co ,135.84,70.8908
+OB,HRB, H&R Block  Inc. Common ,30.62,81.7555
+OB,ICE, IntercontinentalExchange  Inc.  ,64.77,78.4232
+OB,STT, State Street Corporation Common ,89.52,77.2025
+OB,WFM, Whole Foods Market  Inc. ,43.22,75.2771
+OB,ABBV,AbbVie Inc. ,71.34,81.9148
+OB,NAVI,Navient Corporation ,16.43,71.6923
+OB,ANTM,Anthem Inc. Common,192.74,76.6311
+OB,ZBH,Zimmer Biomet Holdings  Inc.,127.09,72.5285
+OB,WLTW,Willis Towers Watson Public Limited Company,149.57,77.381
+OB,CSRA,CSRA Inc.,32.47,72.8546
+OB,SPGI,S&P Global  Inc.,149.4,77.7244
+OB,INFO,IHS Markit Ltd.,47.86,79.13

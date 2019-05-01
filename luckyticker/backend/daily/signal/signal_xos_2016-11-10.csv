@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MUSA,Metals USA Holdings Corp. Commo ,Basic Materials,Steel & Iron
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+ELS,Equity Lifestyle Properties In ,Financial,REIT - Residential
+EDV,Vanguard Extended Duration Treasury ETF,Fixed Income ETF,
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+SBAC,SBA Communications Corporation ,Services,Rental & Leasing Services
+CCI,Crown Castle International Corp ,Technology,Diversified Communication Services
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+CVG,Convergys Corporation Common St ,Technology,Business Software & Services

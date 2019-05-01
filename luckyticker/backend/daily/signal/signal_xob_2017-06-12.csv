@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SGU,Star Gas Partners L.P. Common  ,Basic Materials,Oil & Gas Pipelines
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+MJN,Mead Johnson Nutrition Company  ,Consumer Goods,Processed & Packaged Goods
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+UNB,Union Bankshares Inc. ,Financial,Regional - Northeast Banks
+CROP,IndexIQ Global Agribusiness Small Cap ETF,Global Equity ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+COO,Cooper Companies Inc. (The) Co ,Healthcare,Medical Instruments & Supplies
+LHCG,LHC Group ,Healthcare,Home Health Care
+CHSCN,CHS  Inc. ,N/A,N/A
+VLU,SPDR Sandamp;P 1500 Value Tilt ETF ,N/A,N/A
+ACY,AeroCentury Corp. Common ,Services,Rental & Leasing Services
+MXPT,MaxPoint Interactive Inc. Comm,Technology,Application Software
+VHC,VirnetX Holding Corp Common Sto ,Technology,Internet Software & Services
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment

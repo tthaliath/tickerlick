@@ -1,0 +1,51 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+GNE, Genie Energy Ltd. Class B Commo ,Basic Materials,Independent Oil & Gas
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+MPAA,Motorcar Parts of America Inc. ,Consumer Goods,Auto Parts
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+CMO,Capstead Mortgage Corporation C ,Financial,REIT - Diversified
+NGHC,National General Holdings Corp. ,Financial,Property & Casualty Insurance
+FBIZ, First Business Financial Servic ,Financial,Regional - Midwest Banks
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+PRA,ProAssurance Corporation Common ,Financial,Property & Casualty Insurance
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+DERM,Dermira Inc.,Healthcare,Biotechnology
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+PGEM,Ply Gem Holdings Inc ,Industrial Goods,General Building Materials
+TGLS,Tecnoglass Inc. ,Industrial Goods,General Building Materials
+SNR,New Senior Investment Group Inc,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+CPTA,Capitala Finance Corp. ,N/A,N/A
+CAH,Cardinal Health Inc. Common St ,Services,Drugs Wholesale
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+PDCO,Patterson Companies Inc. ,Services,Medical Equipment Wholesale
+BID,Sotheby's Common ,Services,Specialty Retail Other
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+DIN,DineEquity Inc Common ,Services,Restaurants
+BH,Biglari Holdings Inc. ,Services,Restaurants
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+ACTA,Actua Corporation,Technology,Application Software
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+TTMI,TTM Technologies Inc. ,Technology,Printed Circuit Boards
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+JCOM,j2 Global Inc. ,Technology,Internet Software & Services
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+IHE,iShares Dow Jones U.S. Pharmaceutical Index Fund ETF,US Equity ETF,

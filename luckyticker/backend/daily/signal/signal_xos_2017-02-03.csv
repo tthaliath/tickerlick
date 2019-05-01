@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GPP,Green Plains Partners LP,Basic Materials,Oil & Gas Pipelines
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+NSEC,National Security Group Inc. ,Financial,Property & Casualty Insurance
+HMG,HMG/Courtland Properties Inc. ,Financial,REIT - Retail
+STML,Stemline Therapeutics Inc. ,Healthcare,Biotechnology
+AVH,Avianca Holdings S.A. ,N/A,N/A
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+WETF, WisdomTree Investments  Inc. ,N/A,N/A
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+DIN,DineEquity Inc Common ,Services,Restaurants
+RRTS,Roadrunner Transportation Syste ,Services,Air Delivery & Freight Services
+PAYX,Paychex Inc. ,Services,Staffing & Outsourcing Services
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+SPOK,Spok Holdings Inc.,Technology,Wireless Communications
+BCOV,Brightcove Inc. ,Technology,Application Software
+BBOX,Black Box Corporation ,Technology,Networking & Communication Devices
+EGOV,NIC Inc. ,Technology,Application Software
+CSGS,CSG Systems International Inc. ,Technology,Business Software & Services

@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HOML,ETRACS Monthly Reset 2xLeverage,,
+KRA,Kraton Performance Polymers In ,Basic Materials,Specialty Chemicals
+CRR,Carbo Ceramics Inc. Common Sto ,Basic Materials,Oil & Gas Equipment & Services
+GIL,Gildan Activewear Inc. Class A ,Consumer Goods,Textile - Apparel Clothing
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+FNBC,First NBC Bank Holding Company,Financial,Foreign Regional Banks
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+LHCG,LHC Group ,Healthcare,Home Health Care
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+TAYD,Taylor Devices Inc. ,Industrial Goods,Diversified Machinery
+PRLB, Proto Labs  Inc. Common stock ,Industrial Goods,Machine Tools & Accessories
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+ATHN,athenahealth Inc. ,Services,Business Services
+WOOF,VCA Antech Inc. ,Services,Personal Services
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,

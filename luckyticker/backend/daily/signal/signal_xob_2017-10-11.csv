@@ -1,0 +1,55 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMLL,Direxiion Daily Small Cap Bull  ,,
+LEDD,iPath Pure Beta Lead ETN ,,
+TTAC,TrimTabs Float Shrink ETF,,
+DSKE,Daseke  Inc.,,
+DFEN,Direxion Daily Aerospace & Defe,,
+IPAY,PureFunds ISE Mobile Payments E,,
+CVI,CVR Energy Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+F,Ford Motor Company Common ,Consumer Goods,Auto Manufacturers - Major
+MYE, Myers Industries  Inc. Common S ,Consumer Goods,Rubber & Plastics
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+BLBD,BOLDFACE GROUP INC.,Consumer Goods,Auto Manufacturers - Major
+SRI,Stoneridge Inc. Common ,Consumer Goods,Auto Parts
+BYBK,Bay Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+PSTB,Park Sterling Bank ,Financial,Regional - Mid-Atlantic Banks
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+DCOM,Dime Community Bancshares Inc. ,Financial,Savings & Loans
+XBKS, Xenith Bankshares  Inc. ,Financial,Regional - Mid-Atlantic Banks
+CHCO,City Holding Company ,Financial,Regional - Mid-Atlantic Banks
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+ITW,Illinois Tool Works Inc. Common ,Industrial Goods,Diversified Machinery
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+EVA,Enviva Partners  LP,Industrial Goods,Lumber  Wood Production
+MDGL,Madrigal Pharmaceuticals  Inc.,N/A,N/A
+CIGI,Colliers International Group Inc.,N/A,N/A
+EIGR,Eiger BioPharmaceuticals  Inc.,N/A,N/A
+DESC,Deutsche X-trackers Russell 2000 CmpsFtr,N/A,N/A
+SPLX,UBS E-TRACS MthlyRet2xLvSandP500TtlRet ETN ,N/A,N/A
+ENV,Envestnet Inc Common ,Services,Business Services
+QGEN,Qiagen N.V. ,Services,Research Services
+FLT,FleetCor Technologies Inc. Com ,Services,Business Services
+DL,China Distance Education Holdin ,Services,Education & Training Services
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+COUP,Coupons.com Incorporated ,Technology,Internet Software & Services
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+MRIN,Marin Software Incorporated ,Technology,Application Software
+TEAM,Atlassian Corporation Plc,Technology,Information Technology Services
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+TSM,Taiwan Semiconductor Manufactur ,Technology,Semiconductor - Integrated Circuits
+FIW,First Trust ISE Water Index Fund ETF,US Equity ETF,
+NFO,Guggenheim Insider Sentiment ETF,US Equity ETF,
+CSD,Guggenheim Spin-Off ETF,US Equity ETF,
+FVL,First Trust Value Line 100 Fund ETF,US Equity ETF,
+KCE,SPDR KBW Capital Markets ETF,US Equity ETF,
+PPA,PowerShares Aerospace & Defense ETF,US Equity ETF,

@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+MGPI,MGP Ingredients Inc. ,Consumer Goods,Processed & Packaged Goods
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+OVLY,Oak Valley Bancorp (CA) ,Financial,Regional - Pacific Banks
+IGOV,iShares S&P/Citigroup International Treasury Fund ETF,Fixed Income ETF,
+HIIQ,Health Insurance Innovations Inc. ,Healthcare,Health Care Plans
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+ASML,ASML Holding N.V. ,NULL,NULL
+MCO,Moody's Corporation Common Stoc ,Services,Business Services
+ATHN,athenahealth Inc. ,Services,Business Services
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+AMCX, AMC Networks Inc. ,Services,CATV Systems
+FTR,Frontier Communications Corpora ,Technology,Telecom Services - Domestic
+BMI,Badger Meter Inc. Common ,Technology,Scientific & Technical Instruments
+RCI,Rogers Communication Inc. Comm ,Technology,Wireless Communications
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities
+FE,FirstEnergy Corporation Common  ,Utilities,Electric Utilities

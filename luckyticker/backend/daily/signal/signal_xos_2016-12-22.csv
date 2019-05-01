@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AXJV,iShares MSCI Asia ex Japan Mini ,,
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+ENZL,iShares MSCI New Zealand Investable Market Index Fund (ENZL) ETF,Global Equity ETF,
+AAXJ,iShares MSCI All Country Asia ex Japan Index Fund ETF,Global Equity ETF,
+EEMA,iShares MSCI Emerging Markets Asia ETF,Global Equity ETF,
+EEMV,iShares MSCI Emerging Markets Minimum Volatility Index Fund ETF,Global Equity ETF,
+WPS,iShares S&P World ex-US Property ETF,Global Equity ETF,
+FXI,iShares FTSE/Xinhua China 25 Index Fund ETF,Global Equity ETF,
+EEMS,iShares MSCI Emerging Markets Small Cap Index Fund ETF,Global Equity ETF,
+MCHI,iShares MSCI China ETF,Global Equity ETF,
+AIA,iShares S&P Asia 50 ETF,Global Equity ETF,
+KFYP,KraneShares CSI China Five Year Plan ETF ,N/A,N/A
+CCZ,Comcast Holdings ZONES,N/A,N/A
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+KORS,Michael Kors Holdings Limited O ,Services,Apparel Stores
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores

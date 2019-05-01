@@ -1,0 +1,57 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IIIN, Insteel Industries  Inc. ,Basic Materials,Steel & Iron
+CLF,Cliffs Natural Resources Inc Co ,Basic Materials,Steel & Iron
+WPT,World Point Terminals LP ,Basic Materials,Oil & Gas Pipelines
+TBF,ProShares Short 20+ Year Treasury ETF,Commodity Based ETF,
+TBT,ProShares UltraShort 20+ Year Treasury ETF,Commodity Based ETF,
+TTT,ProShares UltraPro Short 20+ Year Treasury ETF,Commodity Based ETF,
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+CAAS,China Automotive Systems Inc. ,Consumer Goods,Auto Parts
+BRK-A,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+RJF,Raymond James Financial Inc. C ,Financial,Investment Brokerage - Regional
+EVBN,Evans Bancorp Inc. Common Stoc ,Financial,Regional - Northeast Banks
+SBFG,SB Financial Group Inc. ,Financial,Regional - Midwest Banks
+TCFC,The Community Financial Corp. ,Financial,Regional - Pacific Banks
+BRK-B,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+ITG,Investment Technology Group In ,Financial,Investment Brokerage - Regional
+LKFN,Lakeland Financial Corporation ,Financial,Regional - Midwest Banks
+NWFL,Norwood Financial Corp. ,Financial,Regional - Northeast Banks
+OUT,OUTFRONT Media Inc. Common Stoc,Financial,Property Management
+CPF,Central Pacific Financial Corp  ,Financial,Regional - Pacific Banks
+JPM,JP Morgan Chase & Co. Common St ,Financial,Money Center Banks
+MET,MetLife Inc. Common ,Financial,Life Insurance
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+PFBI,Premier Financial Bancorp Inc. ,Financial,Regional - Southeast Banks
+FCCY,1st Constitution Bancorp (NJ) ,Financial,Regional - Northeast Banks
+BCS,Barclays PLC Common ,Financial,Foreign Money Center Banks
+KEY,KeyCorp Common ,Financial,Money Center Banks
+RF,Regions Financial Corporation C ,Financial,Regional - Southeast Banks
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+VALU,Value Line Inc. ,Financial,Asset Management
+EMCF, Emclaire Financial Corp ,Financial,Regional - Northeast Banks
+FFKT,Farmers Capital Bank Corporatio ,Financial,Regional - Southeast Banks
+WOOD,iShares S&P Global Timber & Forestry Index Fund ETF,Global Equity ETF,
+GHM,Graham Corporation Common ,Industrial Goods,Metal Fabrication
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+AIMC,Altra Holdings Inc. ,Industrial Goods,Industrial Electrical Equipment
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+TMV, Direxion Daily 30-Yr Treasury B ,N/A,N/A
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+QADB,QAD Inc. ,NULL,NULL
+KNX,Knight Transportation Inc. Com ,Services,Trucking
+RRTS,Roadrunner Transportation Syste ,Services,Air Delivery & Freight Services
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+ROL,Rollins Inc. Common ,Services,Business Services
+NTN,NTN Buzztime Inc. Common ,Services,Broadcasting - TV
+ICFI, ICF International  Inc. ,Services,Management Services
+TUBE,TubeMogul Inc.,Technology,Application Software
+KLAC,KLA-Tencor Corporation ,Technology,Semiconductor Equipment & Materials
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits
+ARCW,Arc Wireless Solutions Inc. ,Technology,Wireless Communications
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+AVNW,Aviat Networks Inc. ,Technology,Communication Equipment
+QADA,QAD Inc. ,Technology,Application Software
+YORW,The York Water Company ,Utilities,Water Utilities

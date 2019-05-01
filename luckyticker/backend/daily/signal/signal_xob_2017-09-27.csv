@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CVX,Chevron Corporation Common Stoc ,Basic Materials,Major Integrated Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+CCBG,Capital City Bank Group ,Financial,Regional - Mid-Atlantic Banks
+PKBK,Parke Bancorp Inc. ,Financial,Regional - Northeast Banks
+CHMG,Chemung Financial Corporation ,Financial,Regional - Pacific Banks
+TCBK,TriCo Bancshares ,Financial,Regional - Pacific Banks
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+DHIL,Diamond Hill Investment Group  ,Financial,Asset Management
+ESGR,Enstar Group Limited ,Financial,Property & Casualty Insurance
+AGM,Federal Agricultural Mortgage C ,Financial,Credit Services
+FCFS,First Cash Financial Services  ,Financial,Credit Services
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+FDEF,First Defiance Financial Corp. ,Financial,Savings & Loans
+MNOV,MediciNova Inc. ,Healthcare,Biotechnology
+RMTI,Rockwell Medical Inc. ,Healthcare,Medical Appliances & Equipment
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+UFPI,Universal Forest Products Inc. ,Industrial Goods,General Building Materials
+IBP,Installed Building Products Inc. ,Industrial Goods,General Building Materials
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+CCF,Chase Corporation Common ,Industrial Goods,Industrial Equipment & Components
+EZPW,EZCORP Inc. ,Services,Specialty Retail Other
+NSP, Insperity  Inc. Common ,Services,Business Services
+GBX,Greenbrier Companies Inc. (The ,Services,Railroads
+MCRI,Monarch Casino & Resort Inc. ,Services,Resorts & Casinos
+SAH,Sonic Automotive Inc. Common S ,Services,Auto Dealerships
+LOPE,Grand Canyon Education Inc. ,Services,Education & Training Services
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+VICR,Vicor Corporation ,Technology,Diversified Electronics

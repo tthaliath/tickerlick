@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XPER,Xperi Corporation,,
+PSDO,Presidio  Inc.,,
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+SIEB, Siebert Financial Corp. ,Financial,Investment Brokerage - Regional
+GGAL,Grupo Financiero Galicia S.A. ,Financial,Foreign Regional Banks
+SAGE,Sage Therapeutics Inc.,Healthcare,Biotechnology
+CBIO,Catalyst Biosciences  Inc.,Healthcare,Biotechnology
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+PRAH,PRA Health Sciences Inc.,Healthcare,Medical Laboratories & Research
+HEI, Heico Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+BETR,Amplify Snack Brands,N/A,N/A
+DRI,Darden Restaurants Inc. Common ,Services,Restaurants
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+TXN,Texas Instruments Incorporated ,Technology,Semiconductor - Broad Line
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+TCCO,Technical Communications Corpor ,Technology,Communication Equipment
+SCHD,Schwab U.S. Dividend Equity ETF,US Equity ETF,

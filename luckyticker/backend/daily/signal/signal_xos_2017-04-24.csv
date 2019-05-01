@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ASHS,Deutsche X-trackers Harvest CSI ,,
+GDJJ,ProShares Ultra Junior Miners,,
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+HLX, Helix Energy Solutions Group  I ,Basic Materials,Oil & Gas Equipment & Services
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+MAT,Mattel Inc. ,Consumer Goods,Toys & Games
+TBK,Triumph Bancorp Inc.,Financial,Regional - Southwest  Banks
+GDXJ,Market Vectors Junior Gold Miners ETF,Global Equity ETF,
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+MAG,Magnetek Inc. ,Industrial Goods,Industrial Electrical Equipment
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments

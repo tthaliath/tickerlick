@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QGBR,SPDR MSCI United Kingdom Qualit ,,
+PTXP,PennTex Midstream Partners  LP,Basic Materials,Oil & Gas Pipelines
+UG,United-Guardian Inc. ,Consumer Goods,Personal Products
+SORL,SORL Auto Parts Inc. ,Consumer Goods,Auto Manufacturers - Major
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+ELS,Equity Lifestyle Properties In ,Financial,REIT - Residential
+OVBC,Ohio Valley Banc Corp. ,Financial,Regional - Midwest Banks
+IPU,SPDR S&P International Utilities Sector ETF,Global Equity ETF,
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+BBRY,BlackBerry Limited ,N/A,N/A
+BOBE,Bob Evans Farms Inc. ,Services,Restaurants
+MCK,McKesson Corporation Common Sto ,Services,Drugs Wholesale
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+GSOL,Global Sources Ltd. ,Technology,Internet Information Providers
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+TSRI,TSR Inc. ,Technology,Business Software & Services

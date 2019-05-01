@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DIVY,Realty Shares DIVS ETF,,
+SHI,SINOPEC Shangai Petrochemical C ,Basic Materials,Oil & Gas Refining & Marketing
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+YPF,YPF Sociedad Anonima Common Sto ,Basic Materials,Major Integrated Oil & Gas
+CNNX,Cone Midstream Partners LP Comm,Basic Materials,Oil & Gas Pipelines
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+CRF, Cornerstone Total Return Fund   ,Financial,Closed-End Fund - Equity
+CLM, Cornerstone Strategic Value Fun ,Financial,Closed-End Fund - Equity
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+STPZ,PIMCO 1-5 Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+RSXJ,Market Vectors Russia Small-Cap ETF,Global Equity ETF,
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+ZIOP,ZIOPHARM Oncology Inc ,Healthcare,Biotechnology
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+STPP, iPath US Treasury Steepener ETN ,N/A,N/A
+GSH,Guangshen Railway Company Limit ,Services,Railroads
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+HDS,HD Supply Holdings Inc. ,Services,Industrial Equipment Wholesale
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software

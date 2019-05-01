@@ -1,0 +1,135 @@
+Buy,ALXN,Alexion Pharmaceuticals Inc. ,9.12791
+Buy,AMP,Ameriprise Financial Inc. Comm ,19.2978
+Buy,AMZN,Amazon.com Inc. ,10.0711
+Buy,AN,AutoNation Inc. Common ,19.2675
+Buy,APA,Apache Corporation Common ,5.94216
+Buy,APC,Anadarko Petroleum Corporation  ,3.37596
+Buy,AVB,AvalonBay Communities Inc. Com ,17.9679
+Buy,AZO,AutoZone Inc. Common ,15.2011
+Buy,CBS,CBS Corporation Class B Common  ,10.0707
+Buy,CHK,Chesapeake Energy Corporation C ,7.16833
+Buy,COG,Cabot Oil & Gas Corporation Com ,10.4428
+Buy,CXO,Concho Resources Inc. Common St ,11.8433
+Buy,DIS,Walt Disney Company (The) Commo ,9.23022
+Buy,DISCA,Discovery Communications Inc ,14.4698
+Buy,DISCK,Discovery Communications Inc ,12.4873
+Buy,EQT,EQT Corporation Common ,8.98478
+Buy,FRT,Federal Realty Investment Trust ,4.59028
+Buy,FTI,FMC Technologies Inc. Common S ,3.43923
+Buy,GGP,General Growth Properties Inc. ,19.4448
+Buy,MAA,Mid-America Apartment Communiti ,17.5555
+Buy,MCK,McKesson Corporation Common Sto ,14.8012
+Buy,MRO,Marathon Oil Corporation Common ,18.6299
+Buy,MUR,Murphy Oil Corporation Common S ,7.19521
+Buy,NBL,Noble Energy Inc. Common ,6.05719
+Buy,NFX,Newfield Exploration Company Co ,9.29215
+Buy,NOV,National Oilwell Varco Inc. Co ,3.49192
+Buy,NSC,Norfolk Southern Corporation Co ,10.6667
+Buy,NWS,News Corporation ,11.111
+Buy,NWSA,News Corporation ,6.48163
+Buy,OKE,ONEOK Inc. Common ,12.5426
+Buy,OXY,Occidental Petroleum Corporatio ,6.57923
+Buy,REGN,Regeneron Pharmaceuticals Inc. ,10.7626
+Buy,RIG,Transocean Ltd (Switzerland) Co ,19.1602
+Buy,RRC,Range Resources Corporation Com ,5.39422
+Buy,SIG,Signet Jewelers Limited Common  ,14.3483
+Buy,SJM,J.M. Smucker Company (The) New  ,17.7777
+Buy,SLB,Schlumberger N.V. Common ,3.9099
+Buy,SLG,SL Green Realty Corporation Com ,8.44166
+Buy,SNA,Snap-On Incorporated Common Sto ,9.80728
+Buy,XEL,Xcel Energy Inc. Common ,17.1532
+Buy,HAL, Halliburton Company Common Stoc ,13.1611
+Buy,HAS, Hasbro  Inc. ,6.1157
+Buy,HCN, Health Care REIT  Inc. Common S ,16.0995
+Buy,HCP, HCP  Inc. Common ,7.06428
+Buy,HP, Helmerich & Payne  Inc. Common  ,9.61798
+Buy,TRIP, TripAdvisor  Inc. ,8.7607
+Buy,VIAB, Viacom Inc. ,13.5723
+Buy,ANTM,Anthem Inc. Common,17.4711
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,10.9519
+Sell,ALL,Allstate Corporation (The) Comm ,83.0484
+Sell,AMD,Advanced Micro Devices Inc. Co ,88.8505
+Sell,AMG,Affiliated Managers Group Inc. ,80.0433
+Sell,AMT,American Tower Corporation (REI ,87.6634
+Sell,APD,Air Products and Chemicals Inc ,80.6771
+Sell,APH,Amphenol Corporation Common Sto ,89.3329
+Sell,ATVI,Activision Blizzard Inc ,93.3369
+Sell,AVGO,Avago Technologies Limited ,87.7177
+Sell,AVY,Avery Dennison Corporation Comm ,85.778
+Sell,AXP,American Express Company Common ,81.4813
+Sell,C,Citigroup Inc. Common ,85.2633
+Sell,CAH,Cardinal Health Inc. Common St ,90.3392
+Sell,CBG,CBRE Group Inc Common ,88.4567
+Sell,CBOE,CBOE Holdings Inc. ,81.6189
+Sell,CCL,Carnival Corporation Common Sto ,90.5609
+Sell,CELG,Celgene Corporation ,89.3109
+Sell,CI,Cigna Corporation Common ,82.2219
+Sell,CINF,Cincinnati Financial Corporatio ,92.6897
+Sell,CLX,Clorox Company (The) Common Sto ,81.5445
+Sell,CMA,Comerica Incorporated Common St ,82.8278
+Sell,CMCSA,Comcast Corporation ,92.8627
+Sell,CME,CME Group Inc. ,89.6294
+Sell,CMI,Cummins Inc. Common ,98.4336
+Sell,CMS,CMS Energy Corporation Common S ,82.6488
+Sell,CNP,CenterPoint Energy Inc (Holdin ,90.0737
+Sell,COF,Capital One Financial Corporati ,81.0882
+Sell,CVX,Chevron Corporation Common Stoc ,88.1789
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,87.312
+Sell,DE,Deere & Company Common ,84.8661
+Sell,DFS,Discover Financial Services Com ,84.549
+Sell,DHR,Danaher Corporation Common Stoc ,87.9238
+Sell,DRI,Darden Restaurants Inc. Common ,96.5695
+Sell,ED,Consolidated Edison Inc. Commo ,91.8028
+Sell,EFX,Equifax Inc. Common ,87.7598
+Sell,EL,Estee Lauder Companies Inc. (T ,98.2635
+Sell,EMN,Eastman Chemical Company Common ,87.1823
+Sell,EMR,Emerson Electric Company Common ,93.7001
+Sell,FLS,Flowserve Corporation Common St ,83.1514
+Sell,GLW,Corning Incorporated Common Sto ,85.9466
+Sell,GM,General Motors Company Common S ,81.8069
+Sell,GPN,Global Payments Inc. Common Sto ,92.4546
+Sell,GS,Goldman Sachs Group Inc. (The) ,95.8512
+Sell,INTC,Intel Corporation ,87.8895
+Sell,INTU,Intuit Inc. ,92.3974
+Sell,IR,Ingersoll-Rand plc (Ireland) ,92.5627
+Sell,IRM,Iron Mountain Incorporated (Del ,86.6024
+Sell,ISRG,Intuitive Surgical Inc. ,89.6284
+Sell,ITW,Illinois Tool Works Inc. Common ,95.7478
+Sell,LUK,Leucadia National Corporation C ,85.3709
+Sell,LYB,LyondellBasell Industries NV Or ,87.7503
+Sell,MA,Mastercard Incorporated Common  ,93.5008
+Sell,MLM,Martin Marietta Materials Inc. ,97.5997
+Sell,MS,Morgan Stanley Common ,88.9719
+Sell,MSFT,Microsoft Corporation ,81.3608
+Sell,MTD,Mettler-Toledo International I ,93.6362
+Sell,MU,Micron Technology Inc. ,81.5602
+Sell,MYL,Mylan Inc. ,95.4612
+Sell,NDAQ,The NASDAQ OMX Group Inc. ,89.7431
+Sell,NEE,NextEra Energy Inc. Common Sto ,91.7181
+Sell,NOC,Northrop Grumman Corporation Co ,88.0317
+Sell,NVDA,NVIDIA Corporation ,87.7439
+Sell,PAYX,Paychex Inc. ,83.1181
+Sell,PCAR,PACCAR Inc. ,86.2144
+Sell,PFE,Pfizer Inc. Common ,92.5693
+Sell,PG,Procter & Gamble Company (The)  ,93.9963
+Sell,RF,Regions Financial Corporation C ,84.4752
+Sell,ROP,Roper Industries Inc. Common S ,80.6845
+Sell,RTN,Raytheon Company Common ,89.155
+Sell,SNI,Scripps Networks Interactive I ,85.4194
+Sell,SNPS,Synopsys Inc. ,89.1249
+Sell,WU,Western Union Company (The) Com ,89.8107
+Sell,WYNN,Wynn Resorts Limited ,91.1503
+Sell,XL,XL Group plc ,92.3259
+Sell,XRX,Xerox Corporation Common ,91.5277
+Sell,YUM,Yum! Brands Inc. ,91.2088
+Sell,ZION,Zions Bancorporation ,85.7082
+Sell,ETN, Eaton Corporation Common ,90.8774
+Sell,HIG, Hartford Financial Services Gro ,91.5914
+Sell,SPY,SPDR S&P 500 ETF,80.255
+Sell,AAL,American Airlines Group Inc. ,92.8402
+Sell,ZTS,Zoetis Inc. ,80.1809
+Sell,ALLE,Allegion plc Ordinary Shares ,96.4019
+Sell,SYF,Synchrony Financial Common Stoc,89.1309
+Sell,WBA,Walgreens Boots Alliance Inc.,84.5521
+Sell,SPGI,S&P Global  Inc.,89.8278
+Sell,DXC,DXC Technology Company,85.9895

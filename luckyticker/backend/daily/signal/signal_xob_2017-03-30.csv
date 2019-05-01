@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+ASPS,Altisource Portfolio Solutions  ,Financial,Mortgage Investment
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+MBRG,Middleburg Financial Corporatio ,Financial,Regional - Mid-Atlantic Banks
+FXSG,CurrencyShares Singapore Dollar Trust ,N/A,N/A
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+DRI,Darden Restaurants Inc. Common ,Services,Restaurants

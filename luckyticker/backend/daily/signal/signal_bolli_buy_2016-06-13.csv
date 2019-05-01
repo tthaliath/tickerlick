@@ -1,0 +1,7 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+CMG,Chipotle Mexican Grill Inc. Co ,2016-06-13,394,,,35.8268,4.99073,0.15959329885216567
+DLBS, iPath US Treasury Long Bond Bea ,2016-06-13,13.4,,,39.7846,5.41702,0.2195565249400023
+GREK,Global X FTSE Greece 20 ETF,2016-06-13,7.63,,,39.6364,37.0641,0.19236503480648975
+TTT,ProShares UltraPro Short 20+ Year Treasury ETF,2016-06-13,24.85,,,39.2418,4.4253,0.17160712853036314
+TBT,ProShares UltraShort 20+ Year Treasury ETF,2016-06-13,33.58,,,39.6473,6.19707,0.1134725967929558
+INCR,INC Research Holdings Inc.,2016-06-13,40.3,,,37.2642,19.1432,0.1346665984940427

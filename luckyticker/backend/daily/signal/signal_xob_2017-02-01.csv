@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CELP,Cypress Energy Partners L.P. ,Basic Materials,Oil & Gas Equipment & Services
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+DNBF,DNB Financial Corp ,Financial,Regional - Pacific Banks
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+LBTYB, Liberty Global  Inc. ,N/A,N/A
+AAPL,Apple Inc. ,Technology,Personal Computers
+XXIA,Ixia ,Technology,Scientific & Technical Instruments

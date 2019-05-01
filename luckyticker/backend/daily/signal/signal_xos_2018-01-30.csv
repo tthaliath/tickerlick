@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+CROC,ProShares UltraShort Australian Dollar,Commodity Based ETF,
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+SAR, Saratoga Investment Corp New ,Financial,Closed-End Fund - Equity
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+ACGLP,Arch Capital Group Ltd. ,N/A,N/A
+EAI,Entergy Arkansas  Inc. First Mo ,N/A,N/A
+ELC,Entergy Louisiana  Inc. Collate ,N/A,N/A
+PSF, Cohen & Steers Select Preferred ,N/A,N/A
+APTS, Preferred Apartment Communities ,N/A,N/A
+KTH, Structures Products Cp 8% CorTS ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+EMP,Entergy Mississippi  Inc. First ,N/A,N/A
+UZB,United States Cellular Corporat,N/A,N/A
+BELFA,Bel Fuse Inc. ,NULL,NULL
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+MITK, Mitek Systems  Inc. ,Technology,Application Software
+ADTN,ADTRAN Inc. ,Technology,Communication Equipment
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+TRP,Transcanada Corporation (Holdin ,Utilities,Gas Utilities

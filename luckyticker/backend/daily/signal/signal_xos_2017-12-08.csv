@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EMSD,WisdomTree Strong Dollar Emergi,,
+HEWW,iShares Currency Hedged MSCI Me,,
+PVAC,Penn Virginia Corporation,,
+EEX,Emerald Expositions Events  Inc,,
+TTD,The Trade Desk  Inc.,,
+GG,Goldcorp Incorporated Common St ,Basic Materials,Gold
+MFCB,MFC Bancorp Ltd.,Basic Materials,Industrial Metals & Minerals
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+DLPH, Delphi Automotive plc Ordinary  ,Consumer Goods,Auto Parts
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+AMRK,A-Mark Precious Metals Inc. ,Financial,Investment Brokerage - National
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+NVRO,Nevro Corp. Common,Healthcare,Medical Appliances & Equipment
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+SLV, iShares Silver Trust ,N/A,N/A
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+NTEC,Intec Pharma,N/A,N/A
+TDF, Templeton Dragon Fund  Inc. Com ,N/A,N/A
+BVXV,BiondVax Pharmaceuticals Ltd.,N/A,N/A
+PSLV, Sprott Physical Silver Trust ET ,N/A,N/A
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+CLSD,Clearside BioMedical  Inc.,N/A,N/A
+SIVR, ETFS Physical Silver Shares Tru ,N/A,N/A
+PGM, iPath DJ-UBS Platinum Subindex  ,N/A,N/A
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+CRUS,Cirrus Logic Inc. ,Technology,Semiconductor - Specialized
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+QRVO,Qorvo Inc.,Technology,Semiconductor - Broad Line
+YELP, Yelp Inc. Class A Common ,Technology,Internet Information Providers
+CHU,China Unicom (Hong Kong) Ltd Co ,Technology,Wireless Communications

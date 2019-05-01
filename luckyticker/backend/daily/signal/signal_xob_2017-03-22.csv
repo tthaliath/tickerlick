@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DDC,Dominion Diamond Corporation ,Basic Materials,Nonmetallic Mineral Mining
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+KRS,ProShares Short KBW Regional Banking ETF,Commodity Based ETF,
+CCU,Compania Cervecerias Unidas S. ,Consumer Goods,Beverages - Brewers
+APB, Asia Pacific Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+CHN, China Fund  Inc. (The) Common S ,Financial,Closed-End Fund - Foreign
+CZWI,Citizens Community Bancorp Inc ,Financial,Regional - Midwest Banks
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+FXSG,CurrencyShares Singapore Dollar Trust ,N/A,N/A
+NSAT,Norsat International Inc. (NEW),N/A,N/A
+LFL,Lan Airlines S.A. ,Services,Regional Airlines
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+NTRI,NutriSystem Inc ,Services,Consumer Services
+EDU,New Oriental Education & Techno ,Services,Education & Training Services
+DNKN, Dunkin' Brands Group  Inc. ,Services,Restaurants
+KZ,KongZhong Corporation,Technology,Multimedia & Graphics Software
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+JBL,Jabil Circuit Inc. Common Stoc ,Technology,Printed Circuit Boards
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices

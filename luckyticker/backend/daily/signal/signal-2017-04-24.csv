@@ -1,0 +1,86 @@
+OS,ABC,AmerisourceBergen Corporation ( ,80.94,25.6712
+OS,BDX,Becton Dickinson and Company C ,177.07,32.2187
+OS,DHR,Danaher Corporation Common Stoc ,82.46,31.5364
+OS,EBAY,eBay Inc. ,32.05,30.6894
+OS,MAT,Mattel Inc. ,21.6,21.2787
+OS,SLB,Schlumberger N.V. Common ,74.1,26.6323
+OS,VZ,Verizon Communications Inc. Com ,47.05,29.7902
+OB,A,Agilent Technologies Inc. Comm ,54.44,65.7551
+OB,ADSK,Autodesk Inc. ,90.14,67.6534
+OB,AES,The AES Corporation Common Stoc ,11.59,60.6342
+OB,AMAT,Applied Materials Inc. ,40.44,69.7355
+OB,AME,AMETEK Inc. ,56.58,71.6709
+OB,APD,Air Products and Chemicals Inc ,139.76,62.1702
+OB,AVY,Avery Dennison Corporation Comm ,82.44,66.7468
+OB,BA,Boeing Company (The) Common Sto ,182.06,62.9329
+OB,BCR,C.R. Bard Inc. Common ,302.41,90.3453
+OB,BSX,Boston Scientific Corporation C ,25.56,66.3602
+OB,CA,CA Inc. ,32.53,62.0916
+OB,COL,Rockwell Collins Inc. Common S ,105.42,72.8244
+OB,CSX,CSX Corporation Common ,50.13,64.62
+OB,DGX,Quest Diagnostics Incorporated  ,104.09,74.7082
+OB,ECL,Ecolab Inc. Common ,127.3,65.7979
+OB,EFX,Equifax Inc. Common ,139.24,69.2357
+OB,ETFC,E*TRADE Financial Corporation ,35.45,59.0432
+OB,EXPD,Expeditors International of Was ,57.28,62.4042
+OB,EXPE,Expedia Inc. ,134.14,73.0819
+OB,FIS,Fidelity National Information S ,83.32,70.8828
+OB,FISV,Fiserv Inc. ,119.44,73.6997
+OB,FLIR,FLIR Systems Inc. ,37.24,64.3649
+OB,GOOG,Alphabet Inc.,862.76,73.6233
+OB,GPS,Gap Inc. (The) Common ,25.87,66.2782
+OB,IP,International Paper Company Com ,53.21,64.053
+OB,ISRG,Intuitive Surgical Inc. ,822.18,82.0875
+OB,ITW,Illinois Tool Works Inc. Common ,139.76,73.6667
+OB,JCI,Johnson Controls Inc. Common S ,42.91,64.7444
+OB,JNPR,Juniper Networks Inc. Common S ,28.27,62.0409
+OB,KLAC,KLA-Tencor Corporation ,100.83,75.8059
+OB,LEG,Leggett & Platt Incorporated C ,52.95,73.7065
+OB,LMT,Lockheed Martin Corporation Com ,276.21,66.8588
+OB,LOW,Lowe's Companies Inc. Common S ,84.17,67.7777
+OB,LRCX,Lam Research Corporation ,142.51,81.9531
+OB,MA,Mastercard Incorporated Common  ,115.7,70.5803
+OB,MAS,Masco Corporation Common ,35.03,64.0523
+OB,MCHP,Microchip Technology Incorporat ,75.95,62.7948
+OB,MCO,Moody's Corporation Common Stoc ,117.7,74.2056
+OB,MMM,3M Company Common ,194.23,70.0031
+OB,MSFT,Microsoft Corporation ,67.53,71.9614
+OB,MTD,Mettler-Toledo International I ,498.73,68.7618
+OB,NOC,Northrop Grumman Corporation Co ,249.14,71.1255
+OB,NTRS,Northern Trust Corporation ,89.38,62.7826
+OB,PFG,Principal Financial Group Inc C ,63.92,60.0029
+OB,PPG,PPG Industries Inc. Common Sto ,108.01,64.9729
+OB,PX,Praxair Inc. Common ,123.01,68.443
+OB,R,Ryder System Inc. Common ,79.28,64.5291
+OB,ROP,Roper Industries Inc. Common S ,213.73,66.9875
+OB,RSG,Republic Services Inc. Common  ,64.02,69.1845
+OB,SHW,Sherwin-Williams Company (The)  ,327.73,75.6916
+OB,SRCL,Stericycle Inc. ,86.2,68.5913
+OB,SRE,Sempra Energy Common ,113.3,64.4373
+OB,SWK,Stanley Black & Decker Inc. Co ,137.41,73.8515
+OB,SWKS,Skyworks Solutions Inc. ,103.91,69.3109
+OB,SYK,Stryker Corporation Common Stoc ,134.45,72.2413
+OB,SYY,Sysco Corporation Common ,52.86,58.9254
+OB,UTX,United Technologies Corporation ,116.32,69.8857
+OB,V,Visa Inc. ,91.85,75.0012
+OB,VRSK,Verisk Analytics Inc. ,82.66,66.4277
+OB,WAT,Waters Corporation Common ,160.27,67.417
+OB,WM,Waste Management Inc. Common S ,74.1,65.2968
+OB,WYN,Wyndham Worldwide Corp Common   ,91.79,82.9501
+OB,XL,XL Group plc ,41,61.7796
+OB,YHOO,Yahoo! Inc. ,48.15,66.6697
+OB,YUM,Yum! Brands Inc. ,65.72,65.755
+OB,EA, Electronic Arts Inc. ,92.81,72.1093
+OB,FBHS, Fortune Brands Home & Security  ,63.66,78.0416
+OB,HAS, Hasbro  Inc. ,101.7,70.5008
+OB,HD, Home Depot  Inc. (The) Common S ,151.89,70.6782
+OB,HOLX, Hologic  Inc. ,44.23,70.7454
+OB,HON, Honeywell International Inc. Co ,129.79,72.0375
+OB,IFF, Internationa Flavors & Fragranc ,138.03,72.7663
+OB,MDLZ, Mondelez International  Inc. ,45.39,64.7849
+OB,AAL,American Airlines Group Inc. ,46.44,67.2563
+OB,ZTS,Zoetis Inc. ,54.99,68.1356
+OB,ALLE,Allegion plc Ordinary Shares ,78.24,73.7187
+OB,GOOGL,Alphabet Inc.,878.93,70.933
+OB,PYPL,PayPal Holdings  Inc.,44.27,69.771
+OB,ZBH,Zimmer Biomet Holdings  Inc.,123.27,63.7088

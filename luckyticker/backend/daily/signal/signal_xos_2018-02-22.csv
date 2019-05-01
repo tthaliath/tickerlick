@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MRGR,ProShares Merger ETF ,,
+FMCI,Forum Merger Corporation,,
+FMCIU,Forum Merger Corporation - Unit,,
+SFIG,WisdomTree Fundamental U.S. Sho,,
+NL,NL Industries Inc. Common Stoc ,Basic Materials,Synthetics
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+MNR,Monmouth Real Estate Investment ,Financial,REIT - Industrial
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+GMS,GMS ,N/A,N/A
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+TYD, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+NRCIB,National Research Corp. ,Services,Research Services
+UPS,United Parcel Service Inc. Com ,Services,Air Delivery & Freight Services
+DWCH,Datawatch Corporation ,Technology,Business Software & Services

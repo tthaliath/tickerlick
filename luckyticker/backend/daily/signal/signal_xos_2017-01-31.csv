@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SXCP,Suncoke Energy Partners L.P. ,Basic Materials,Nonmetallic Mineral Mining
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+ALR,Alere Inc. Common ,Healthcare,Medical Laboratories & Research
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+MLPS, UBS AG  1xMonthly Short Exchang ,N/A,N/A
+BOS, PowerShares DB Base Metals Shor ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+GNC, GNC Holdings  Inc. Class A Comm ,Services,Drug Stores
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+HRB, H&R Block  Inc. Common ,Services,Personal Services

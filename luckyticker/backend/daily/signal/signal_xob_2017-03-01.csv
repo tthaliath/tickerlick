@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UNVR,Univar Inc.,Basic Materials,Chemicals - Major Diversified
+MON,Monsanto Company Common ,Basic Materials,Agricultural Chemicals
+EVF, Eaton Vance Senior Income Trust ,Financial,Closed-End Fund - Debt
+BRK-A,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+EARN,N/A ,Financial,REIT - Diversified
+MSBF,MSB Financial Corp. ,Financial,Regional - Northeast Banks
+BRK-B,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+DVAX,Dynavax Technologies Corporatio ,Healthcare,Drug Manufacturers - Other
+RARE,Ultragenyx Pharmaceutical Inc. ,Healthcare,Biotechnology
+HCA, HCA Holdings  Inc. Common ,Healthcare,Hospitals
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+CYD,China Yuchai International Limi ,Industrial Goods,Diversified Machinery
+COL,Rockwell Collins Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+IYLD,  ,N/A,N/A
+ECC,Eagle Point Credit Company Inc.,N/A,N/A
+NTRI,NutriSystem Inc ,Services,Consumer Services
+RLGT, Radiant Logistics  Inc. Common  ,Services,Air Delivery & Freight Services
+TNET,TriNet Group Inc. ,Services,Business Services
+GEO,Geo Group Inc (The) Common Stoc ,Services,Security & Protection Services
+WGBS,WaferGen Bio-systems Inc.,Technology,Scientific & Technical Instruments
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+SNPS,Synopsys Inc. ,Technology,Semiconductor Equipment & Materials
+VIXH,First Trust CBOE S&amp;P 500 VIX Tail Hedge ETF,US Equity ETF,

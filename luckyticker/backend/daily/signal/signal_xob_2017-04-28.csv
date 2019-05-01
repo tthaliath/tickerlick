@@ -1,0 +1,48 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKQ,ARK Industrial Innovation ETF ,,
+QLS,IQ Hedge Long Short Tracker ETF,,
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+LGI, Lazard Global Total Return and  ,Financial,Closed-End Fund - Foreign
+CII, Blackrock Capital and Income Fu ,Financial,Closed-End Fund - Equity
+PYPL,PayPal Holdings  Inc.,Financial,Credit Services
+SIGI,Selective Insurance Group Inc. ,Financial,Property & Casualty Insurance
+FABK, First Advantage Bancorp ,Financial,Regional - Southeast Banks
+BOE, Blackrock Global Blackrock Glob ,Financial,Closed-End Fund - Foreign
+EPOL,iShares MSCI Poland Investable Market Index Fund ETF,Global Equity ETF,
+IPN,SPDR S&P International Industrial Sector ETF,Global Equity ETF,
+FSZ,First Trust Switzerland AlphaDEX ETF,Global Equity ETF,
+PIZ,PowerShares DWA Developed Market Technical Leaders Portfolio ETF,Global Equity ETF,
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+MMSI,Merit Medical Systems Inc. ,Healthcare,Medical Instruments & Supplies
+WAT,Waters Corporation Common ,Healthcare,Medical Appliances & Equipment
+HRC, Hill-Rom Holdings Inc Common St ,Healthcare,Medical Instruments & Supplies
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+AIMC,Altra Holdings Inc. ,Industrial Goods,Industrial Electrical Equipment
+CNHI,CNH Industrial N.V. ,Industrial Goods,Farm & Construction Machinery
+GGG,Graco Inc. Common ,Industrial Goods,Diversified Machinery
+IR,Ingersoll-Rand plc (Ireland) ,Industrial Goods,Diversified Machinery
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+BBRY,BlackBerry Limited ,N/A,N/A
+NRCIA,National Research Corp. ,N/A,N/A
+CSGP,CoStar Group Inc. ,Services,Business Services
+RCL,Royal Caribbean Cruises Ltd. Co ,Services,Resorts & Casinos
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+FUN,Cedar Fair L.P. Common ,Services,General Entertainment
+CBD,Companhia Brasileira de Distrib ,Services,Grocery Stores
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+TRMB,Trimble Navigation Limited ,Technology,Scientific & Technical Instruments
+MTLS,Materialise NV,Technology,Application Software
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+FB, Facebook  Inc. ,Technology,Internet Information Providers
+NOW,ServiceNow Inc. Common ,Technology,Information Technology Services
+PSJ,PowerShares Dynamic Software ETF,US Equity ETF,
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,
+IHI,iShares Dow Jones U.S. Medical Devices Index Fund ETF,US Equity ETF,

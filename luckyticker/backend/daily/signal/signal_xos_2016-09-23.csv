@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+MLHR,Herman Miller Inc. ,Consumer Goods,Business Equipment
+HNI, HNI Corp Common ,Consumer Goods,Business Equipment
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+CTF,Nuveen Long/Short Commodity Tot ,N/A,N/A
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+HMHC,HMH Holdings (Delaware) Inc. ,Services,Education & Training Services

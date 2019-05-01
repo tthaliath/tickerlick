@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARGX,argenx SE - American Depositary,,
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+SIEB, Siebert Financial Corp. ,Financial,Investment Brokerage - Regional
+NWFL,Norwood Financial Corp. ,Financial,Regional - Northeast Banks
+VALU,Value Line Inc. ,Financial,Asset Management
+ARGT,Global X FTSE Argentina 20 ETF,Global Equity ETF,
+EXAC,Exactech Inc. ,Healthcare,Medical Appliances & Equipment
+BBU,Brookfield Business Partners L.P.,N/A,N/A
+ETSY,Etsy  Inc. ,N/A,N/A
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+KORS,Michael Kors Holdings Limited O ,Services,Apparel Stores
+FLT,FleetCor Technologies Inc. Com ,Services,Business Services
+RGC,Regal Entertainment Group Class ,Services,Movie Production Theaters
+NEWT,Newtek Business Services Inc. ,Services,Business Services
+ERI,Eldorado Resorts Inc.,Services,Resorts & Casinos
+MELI,MercadoLibre Inc. ,Services,Business Services
+COMM,CommScope Holding Company Inc. ,Technology,Communication Equipment

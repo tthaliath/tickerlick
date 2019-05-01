@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKG,ARK Genomic Revolution Multi-Sex,,
+PLNT,Planet Fitness,,
+BIB,ProShares Ultra Nasdaq Biotechnology ETF,Commodity Based ETF,
+DFT,Dupont Fabros Technology Inc.  ,Financial,Property Management
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+WBKC, Wolverine Bancorp  Inc. ,Financial,Money Center Banks
+CFNB,California First National Banco ,Financial,Regional - Pacific Banks
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MDT,Medtronic Inc. Common ,Healthcare,Medical Appliances & Equipment
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+IMGN, ImmunoGen  Inc. ,Healthcare,Biotechnology
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+BPMC,Blueprint Medicines Corporation,Healthcare,Biotechnology
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+PRSC,The Providence Service Corporat ,Healthcare,Specialized Health Services
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+LH,Laboratory Corporation of Ameri ,Healthcare,Medical Laboratories & Research
+USCR, U S Concrete  Inc. ,Industrial Goods,General Building Materials
+BBC,BioShares Biotechnology Clinica,N/A,N/A
+FHLC,Fidelity MSCI Health Care Index ETF ,N/A,N/A
+VOXX,VOXX International Corporation ,Services,Electronics Wholesale
+ORCL,Oracle Corporation ,Technology,Application Software
+PCO, Pendrell Corporation ,Technology,Wireless Communications
+IHE,iShares Dow Jones U.S. Pharmaceutical Index Fund ETF,US Equity ETF,
+PJP,PowerShares Dynamic Pharmaceuticals ETF,US Equity ETF,
+IBB,iShares Nasdaq Biotechnology ETF,US Equity ETF,
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,
+XLV,SPDR Health Care Select Sector Fund ETF,US Equity ETF,
+RYH,Guggenheim S&P Equal Weight Health Care ETF,US Equity ETF,
+PTH,PowerShares Dynamic Heathcare ETF,US Equity ETF,
+CAFD,8point3 Energy Partners LP,Utilities,Diversified Utilities
+NEP,NextEra Energy Partners LP Com,Utilities,Diversified Utilities
+PEGI,Pattern Energy Group Inc. ,Utilities,Diversified Utilities

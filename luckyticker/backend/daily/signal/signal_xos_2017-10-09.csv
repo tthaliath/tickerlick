@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPDN,Direxion Daily S&P 500 Bear 1X,,
+RWM,ProShares Short Russell2000 ETF,Commodity Based ETF,
+TWM,ProShares UltraShort Russell2000 ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+SMN,ProShares UltraShort Basic Materials ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+SRTY,ProShares UltraPro Short Russell2000 ETF,Commodity Based ETF,
+AXON,Axovant Sciences Ltd.,Healthcare,Biotechnology
+MNTA,Momenta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CX,Cemex S.A.B. de C.V. Sponsored ,Industrial Goods,Cement
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+CHSCO,CHS  Inc. ,N/A,N/A
+TZA, Direxion Small Cap Bear 3X Shar ,N/A,N/A
+WIW, Western Asset/Claymore Inflatio ,N/A,N/A
+KTP, Corts 7.625 Pfd Common ,N/A,N/A
+MIDZ, Direxion Mid Cap Bear 3X Shares ,N/A,N/A
+PFH, Cabco Tr Jcp 7.625 Common ,N/A,N/A
+JBR,Select Asset Inc. Corporate Bac ,N/A,N/A
+HBANO,Huntington Bancshares Incorporated,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+ASR,Grupo Aeroportuario del Sureste ,Services,Air Services Other
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

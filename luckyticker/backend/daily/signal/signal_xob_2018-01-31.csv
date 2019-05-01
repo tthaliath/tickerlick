@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KEMP,KraneShares FTSE Emerging Marke,,
+ADVM,Adverum Biotechnologies  Inc.,,N/A
+HAHA,CSOP China CSI 300 A-H Dynamic,,
+ESG,FlexShares STOXX US ESG Impact,,
+OBSV,ObsEva SA,,
+OEC,Orion Engineered Carbons S.A Co,Basic Materials,Specialty Chemicals
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+KS,KapStone Paper and Packaging Co ,Consumer Goods,Paper & Paper Products
+WNC,Wabash National Corporation Com ,Consumer Goods,Trucks & Other Vehicles
+CASH,Meta Financial Group Inc. ,Financial,Savings & Loans
+FOR, Forestar Group Inc Common ,Financial,Real Estate Development
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+OFG,Oriental Financial Group Inc.  ,Financial,Money Center Banks
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+CARO,Carolina Financial Corporation,Financial,Regional - Mid-Atlantic Banks
+SNSS,Sunesis Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CASC,Cascadian Therapeutics, Inc.,Healthcare,Biotechnology
+HCA, HCA Holdings  Inc. Common ,Healthcare,Hospitals
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+JUNO,JUNO THERAPEUTICS INC.,Healthcare,Biotechnology
+CR,Crane Company Common ,Industrial Goods,Diversified Machinery
+RTN,Raytheon Company Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+GLPG,Galapagos NV ,N/A,N/A
+MSCA,Main Street Capital Corporation ,N/A,N/A
+RDIB,Reading International  Inc.,N/A,N/A
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+LOV,Spark Networks Inc. Common Sto ,Services,Consumer Services
+ASGN,On Assignment Inc. ,Services,Staffing & Outsourcing Services
+MELI,MercadoLibre Inc. ,Services,Business Services
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+CALD,Callidus Software Inc. ,Technology,Business Software & Services
+ORA,Ormat Technologies Inc. Common ,Utilities,Electric Utilities

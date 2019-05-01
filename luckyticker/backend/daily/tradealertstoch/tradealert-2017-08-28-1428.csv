@@ -1,0 +1,38 @@
+Buy,AIG,American International Group I ,16.1622
+Buy,AMD,Advanced Micro Devices Inc. Co ,6.66678
+Buy,AMGN,Amgen Inc. ,12.0676
+Buy,BAC,Bank of America Corporation Com ,2.77784
+Buy,C,Citigroup Inc. Common ,13.2163
+Buy,CAT,Caterpillar Inc. Common ,10.0359
+Buy,CL,Colgate-Palmolive Company Commo ,16.6658
+Buy,COF,Capital One Financial Corporati ,1.30698
+Buy,COST,Costco Wholesale Corporation ,15.6043
+Buy,CVX,Chevron Corporation Common Stoc ,5.97975
+Buy,DD,E.I. du Pont de Nemours and Com ,15.9448
+Buy,DHR,Danaher Corporation Common Stoc ,14.8176
+Buy,EXC,Exelon Corporation Common ,4.09447
+Buy,INTC,Intel Corporation ,7.99948
+Buy,JPM,JP Morgan Chase & Co. Common St ,1.28116
+Buy,MET,MetLife Inc. Common ,4.0569
+Buy,MS,Morgan Stanley Common ,3.33783
+Buy,MSFT,Microsoft Corporation ,10.0433
+Buy,NEE,NextEra Energy Inc. Common Sto ,19.4374
+Buy,ORCL,Oracle Corporation ,13.4849
+Buy,PEP,Pepsico Inc. Common ,8.56736
+Buy,PFE,Pfizer Inc. Common ,7.69366
+Buy,XOM,Exxon Mobil Corporation Common  ,19.7273
+Buy,BRK-B,Berkshire Hathaway Inc.,4.28512
+Buy,GLD, SPDR Gold Trust ,15.3427
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,5.35816
+Buy,GOOGL,Alphabet Inc.,18.3301
+Buy,KHC,The Kraft Heinz Company,4.13282
+Sell,BA,Boeing Company (The) Common Sto ,94.1534
+Sell,BIIB,Biogen Idec Inc. ,91.0818
+Sell,CSCO,Cisco Systems Inc. ,86.1095
+Sell,LMT,Lockheed Martin Corporation Com ,92.7209
+Sell,LOW,Lowe's Companies Inc. Common S ,92.7537
+Sell,MA,Mastercard Incorporated Common  ,88.2152
+Sell,MCD,McDonald's Corporation Common S ,89.6322
+Sell,MDT,Medtronic Inc. Common ,83.3354
+Sell,BABA,Alibaba Group Holding Limited A,80.6118
+Sell,VIX,VOLATILITY S&P 500,95.9595

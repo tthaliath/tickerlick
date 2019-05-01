@@ -1,0 +1,32 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HEWC,iShares Currency Hedged MSCI Ca,,
+GARD,Realty Shares DIVCON Dividend G,,
+ONEY,SPDR Russell 1000 Yield Focus E,,
+MMM,3M Company Common ,Conglomerates,Conglomerates
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+TROW,T. Rowe Price Group Inc. ,Financial,Asset Management
+CCS,Century Communities Inc. Commo,Financial,Real Estate Development
+WRB,W.R. Berkley Corporation Common ,Financial,Property & Casualty Insurance
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+QURE,uniQure N.V. ,Healthcare,Biotechnology
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+IRCP,IRSA Propiedades Comerciales S.A.,N/A,N/A
+WLTW,Willis Towers Watson Public Limited Company,N/A,N/A
+QUAL,iShares MSCI USA Quality Factor ,N/A,N/A
+DGRW,WisdomTree US Dividend Growth ,N/A,N/A
+BBSI,Barrett Business Services Inc. ,Services,Staffing & Outsourcing Services
+CAI,CAI International Inc.,Services,Rental & Leasing Services
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+BR,Broadridge Financial Solutions ,Technology,Information & Delivery Services
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+VIG,Vanguard Div Appreciation ETF - DNQ ETF,US Equity ETF,
+NFO,Guggenheim Insider Sentiment ETF,US Equity ETF,
+SDY,SPDR S&P Dividend ETF,US Equity ETF,

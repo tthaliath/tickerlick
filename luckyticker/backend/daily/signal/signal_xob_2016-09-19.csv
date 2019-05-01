@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VTAE,Vitae Pharmaceuticals Inc.,Healthcare,Biotechnology
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+EXEL,Exelixis Inc. ,Healthcare,Biotechnology
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+GLPG,Galapagos NV ,N/A,N/A
+BLOX, Infoblox Inc. Common ,Services,Business Services
+CPHD,CEPHEID ,Technology,Scientific & Technical Instruments
+NTES,NetEase Inc. ,Technology,Internet Software & Services

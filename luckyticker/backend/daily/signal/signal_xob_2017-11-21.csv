@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CXSE,WisdomTree China ex-State-Owned,,
+FANH,Fanhua Inc. - American deposita,,
+ANAB,AnaptysBio  Inc.,,
+PBF,PBF Energy Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+MOV,Movado Group Inc. Common ,Consumer Goods,Recreational Goods Other
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+SITE,SiteOne Landscape Supply  Inc.,N/A,N/A
+TIME,Time Inc. Common,Services,Publishing - Periodicals
+FL,Footlocker Inc. ,Services,Apparel Stores
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+BLMN, Bloomin' Brands  Inc. ,Services,Restaurants
+NEWM,New Media Investment Group Inc. ,Services,Publishing - Newspapers
+MRVL,Marvell Technology Group Ltd. ,Technology,Semiconductor - Integrated Circuits
+CAVM,Cavium Inc. ,Technology,Semiconductor - Broad Line
+MLNX,Mellanox Technologies Ltd. ,Technology,Semiconductor - Broad Line
+MIXT,MiX Telematics Limited ,Technology,Technical & System Software
+TRT,Trio-Tech International Common  ,Technology,Semiconductor Equipment & Materials
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+IIVI, II-VI Incorporated ,Technology,Scientific & Technical Instruments
+YY,YY Inc. ,Technology,Internet Information Providers
+SPLK, Splunk Inc. ,Technology,Application Software
+WUBA,58.com Inc. ,Technology,Internet Information Providers

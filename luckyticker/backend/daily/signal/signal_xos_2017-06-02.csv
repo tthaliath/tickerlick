@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAGS,Teucrium Agricultural Fund ETV,,
+SWN,Southwestern Energy Company Com ,Basic Materials,Independent Oil & Gas
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+VET,Vermilion Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+ENBL,Enable Midstream Partners LP ,Basic Materials,Oil & Gas Pipelines
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+SENEA,Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+HFBL,Home Federal Bancorp Inc. of Louisiana ,Financial,Savings & Loans
+DGICB, Donegal Group  Inc. ,Financial,Property & Casualty Insurance
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+HBK, Hamilton Bancorp  Inc. ,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+STPP, iPath US Treasury Steepener ETN ,N/A,N/A
+LPG,Dorian LPG Ltd. Common,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+SWNC,Southwestern Energy Company Dep,N/A,N/A
+DIN,DineEquity Inc Common ,Services,Restaurants
+MAGS,Magal Security Systems Ltd. ,Services,Security & Protection Services
+NVGS,Navigator Holdings Ltd. ,Services,Shipping
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+GLNG,Golar LNG Limited ,Services,Shipping
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,US Equity ETF,

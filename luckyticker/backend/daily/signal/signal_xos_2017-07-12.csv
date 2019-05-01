@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+HOG, Harley-Davidson  Inc. Common St ,Consumer Goods,Recreational Vehicles
+DOC,Physicians Realty Trust ,Financial,REIT - Healthcare Facilities
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+PSO,Pearson Plc Common ,Services,Publishing - Books
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+MRTN,Marten Transport Ltd. ,Services,Trucking
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities

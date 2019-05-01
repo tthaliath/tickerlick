@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IIIN, Insteel Industries  Inc. ,Basic Materials,Steel & Iron
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+PRK,Park National Corporation Commo ,Financial,Regional - Midwest Banks
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+PNR,Pentair Inc. Common ,Industrial Goods,Industrial Equipment & Components
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+HA, Hawaiian Holdings  Inc. ,Services,Regional Airlines
+DIT,AMCON Distributing Company Comm ,Services,Food Wholesale
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads

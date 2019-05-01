@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BXMT,Blackstone Mortgage Trust Inc. ,Financial,REIT - Diversified
+TBBK,The Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+FPE,First Trust Preferred Sec and Inc ETF ,N/A,N/A
+ARR, ARMOUR Residential REIT  Inc. ,N/A,N/A
+OTIC,Otonomy Inc.,N/A,N/A
+BBP,BioShares Biotechnology Product,N/A,N/A
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+BBH,Market Vectors Biotech ETF,US Equity ETF,
+XBI,SPDR S&P Biotech ETF,US Equity ETF,
+IBB,iShares Nasdaq Biotechnology ETF,US Equity ETF,

@@ -1,0 +1,4 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+PLBC, Plumas Bancorp ,Financial,Regional - Pacific Banks
+UNL, United States 12 Month Natural  ,N/A,N/A

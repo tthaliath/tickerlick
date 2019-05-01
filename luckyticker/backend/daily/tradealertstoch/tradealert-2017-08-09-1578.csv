@@ -1,0 +1,89 @@
+Buy,ACN,Accenture plc. Class A Ordinary ,11.5303
+Buy,ADS,Alliance Data Systems Corporati ,5.79099
+Buy,AEE,Ameren Corporation Common ,11.5387
+Buy,AGN,Allergan Inc. Common ,13.476
+Buy,ALL,Allstate Corporation (The) Comm ,16.9585
+Buy,AMT,American Tower Corporation (REI ,14.1772
+Buy,CB,Chubb Corporation (The) Common  ,12.2225
+Buy,CNC,Centene Corporation Common Stoc ,19.3547
+Buy,COG,Cabot Oil & Gas Corporation Com ,11.1109
+Buy,CXO,Concho Resources Inc. Common St ,12.251
+Buy,DHR,Danaher Corporation Common Stoc ,12.2214
+Buy,EOG,EOG Resources Inc. Common Stoc ,14.8809
+Buy,KSU,Kansas City Southern Common Sto ,3.8451
+Buy,L,Loews Corporation Common ,16.8584
+Buy,MAC,Macerich Company (The) Common S ,19.8516
+Buy,MAR,Marriot International Common St ,18.608
+Buy,MHK,Mohawk Industries Inc. Common  ,17.9691
+Buy,MJN,Mead Johnson Nutrition Company  ,1.5873
+Buy,PAYX,Paychex Inc. ,9.4935
+Buy,PNR,Pentair Inc. Common ,18.9995
+Buy,R,Ryder System Inc. Common ,15.2118
+Buy,REG,Regency Centers Corporation Com ,10.2556
+Buy,RHI,Robert Half International Inc.  ,14.4571
+Buy,RIG,Transocean Ltd (Switzerland) Co ,17.0634
+Buy,RRC,Range Resources Corporation Com ,14.9759
+Buy,SLG,SL Green Realty Corporation Com ,12.9638
+Buy,SPG,Simon Property Group Inc. Comm ,19.2946
+Buy,HP, Helmerich & Payne  Inc. Common  ,18.4745
+Buy,EVHC,Envision Healthcare Holdings Inc. ,19.5507
+Buy,ALLE,Allegion plc Ordinary Shares ,18.5049
+Buy,NAVI,Navient Corporation ,8.97725
+Buy,WRK,WestRock Company,11.1113
+Sell,AAP,Advance Auto Parts Inc Advance  ,87.3053
+Sell,ADBE,Adobe Systems Incorporated ,85.8229
+Sell,ADI,Analog Devices Inc. ,92.5244
+Sell,ADSK,Autodesk Inc. ,86.4926
+Sell,AKAM,Akamai Technologies Inc. ,93.8752
+Sell,ALXN,Alexion Pharmaceuticals Inc. ,87.2976
+Sell,AMAT,Applied Materials Inc. ,89.1848
+Sell,AN,AutoNation Inc. Common ,98.6021
+Sell,AON,Aon plc Class A Ordinary Shares ,88.7546
+Sell,ATVI,Activision Blizzard Inc ,96.2322
+Sell,AVB,AvalonBay Communities Inc. Com ,93.1008
+Sell,CCI,Crown Castle International Corp ,86.3261
+Sell,CHTR,Charter Communications Inc. ,89.0639
+Sell,CI,Cigna Corporation Common ,90.7593
+Sell,CLX,Clorox Company (The) Common Sto ,93.8591
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,86.6532
+Sell,CTAS,Cintas Corporation ,98.839
+Sell,DE,Deere & Company Common ,85.901
+Sell,DG,Dollar General Corporation Comm ,88.226
+Sell,DIS,Walt Disney Company (The) Commo ,85.5757
+Sell,DLTR,Dollar Tree Inc. ,94.6375
+Sell,DUK,Duke Energy Corporation (Holdin ,89.6913
+Sell,EMR,Emerson Electric Company Common ,84.2587
+Sell,EQIX,Equinix Inc. ,96.8598
+Sell,GD,General Dynamics Corporation Co ,95.3426
+Sell,GPC,Genuine Parts Company Common St ,98.3536
+Sell,GPS,Gap Inc. (The) Common ,84.9204
+Sell,INTC,Intel Corporation ,88.555
+Sell,ISRG,Intuitive Surgical Inc. ,92.3488
+Sell,IT,Gartner Inc. Common ,86.4251
+Sell,LMT,Lockheed Martin Corporation Com ,85.498
+Sell,LOW,Lowe's Companies Inc. Common S ,89.6739
+Sell,LRCX,Lam Research Corporation ,88.7835
+Sell,M,Macy's Inc Common ,91.4553
+Sell,MA,Mastercard Incorporated Common  ,93.8021
+Sell,MCD,McDonald's Corporation Common S ,87.9135
+Sell,MCHP,Microchip Technology Incorporat ,88.1479
+Sell,MKC,McCormick & Company Incorporat ,98.4897
+Sell,ORLY,O'Reilly Automotive Inc. ,92.0139
+Sell,PCAR,PACCAR Inc. ,84.8788
+Sell,PCLN,priceline.com Incorporated ,93.4948
+Sell,PEP,Pepsico Inc. Common ,84.8661
+Sell,PG,Procter & Gamble Company (The)  ,88.6394
+Sell,PM,Philip Morris International Inc ,81.5178
+Sell,PRGO,Perrigo Company ,80.7474
+Sell,PVH,PVH Corp. Common ,90.2141
+Sell,PWR,Quanta Services Inc. Common St ,95.1481
+Sell,SHW,Sherwin-Williams Company (The)  ,98.2394
+Sell,SJM,J.M. Smucker Company (The) New  ,92.4243
+Sell,SNA,Snap-On Incorporated Common Sto ,84.8071
+Sell,SNPS,Synopsys Inc. ,87.1784
+Sell,HPQ, Hewlett-Packard Company Common  ,92.0413
+Sell,COTY,Coty Inc. ,88.8885
+Sell,GOOGL,Alphabet Inc.,83.0011
+Sell,KHC,The Kraft Heinz Company,82.9874
+Sell,PYPL,PayPal Holdings  Inc.,92.3426
+Sell,CSRA,CSRA Inc.,94.8323

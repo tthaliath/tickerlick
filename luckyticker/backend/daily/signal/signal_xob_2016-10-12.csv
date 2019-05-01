@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MVC,MVC Capital Inc. Common ,Financial,Diversified Investments
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+DMLP,Dorchester Minerals L.P. ,Financial,Diversified Investments
+MOFG,MidWestOne Financial Group Inc ,Financial,Regional - Southwest  Banks
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+UUP, PowerShares DB USD Index Bullis ,N/A,N/A
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+BGFV,Big 5 Sporting Goods Corporatio ,Services,Sporting Goods Stores
+ARIS,ARI Network Services Inc. ,Technology,Application Software

@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MULE,MuleSoft  Inc. Class A Common S,,
+RCM,R1 RCM Inc.,,
+SRI,Stoneridge Inc. Common ,Consumer Goods,Auto Parts
+AMOT,Allied Motion Technologies Inc ,Industrial Goods,Industrial Electrical Equipment
+GPRK,GeoPark Limited ,N/A,N/A
+NVTR,Nuvectra Corporation,N/A,N/A
+CTRN,Citi Trends Inc. ,Services,Apparel Stores
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials

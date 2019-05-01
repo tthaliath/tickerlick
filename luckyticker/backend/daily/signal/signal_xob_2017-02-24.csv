@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DIVY,Realty Shares DIVS ETF,,
+XT,iShares Exponential Technologie,,
+MON,Monsanto Company Common ,Basic Materials,Agricultural Chemicals
+ROM,ProShares Ultra Technology ETF,Commodity Based ETF,
+QLD,ProShares Ultra QQQ ETF,Commodity Based ETF,
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+CHD,Church & Dwight Company Inc. C ,Consumer Goods,Cleaning Products
+RLGY, Realogy Holdings Corp. Common S ,Financial,Property Management
+CIM,Chimera Investment Corporation  ,Financial,REIT - Diversified
+FCA,First Trust China AlphaDEX ETF,Global Equity ETF,
+IXN,iShares S&P Global Technology Index Fund ETF,Global Equity ETF,
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+GMED, Globus Medical  Inc. Class A Co ,Healthcare,Medical Appliances & Equipment
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+CHE,Chemed Corp ,Healthcare,Home Health Care
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+LNTH,Lantheus Medical Imaging  Inc.,N/A,N/A
+ALFA, AlphaClone Alternative Alpha ET ,N/A,N/A
+NASH,LocalShares Nashville Area ETF ,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+TIF,Tiffany & Co. Common ,Services,Jewelry Stores
+FISV,Fiserv Inc. ,Services,Business Services
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+INTU,Intuit Inc. ,Technology,Application Software
+CRCM,Care.com Inc. ,Technology,Internet Information Providers
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+CZA,Guggenheim Mid-Cap Core ETF,US Equity ETF,
+IYW,iShares Dow Jones U.S. Technology Index Fund ETF,US Equity ETF,
+PDP,PowerShares DWA Technical Leaders Portfolio ETF,US Equity ETF,
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+QQQ,PowerShares QQQ Trust ETF,US Equity ETF,
+VPU,Vanguard Utilities ETF - DNQ ETF,US Equity ETF,
+AEP,American Electric Power Company ,Utilities,Electric Utilities

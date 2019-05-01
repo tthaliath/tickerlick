@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+CHEF, The Chefs' Warehouse  Inc. ,Services,Food Wholesale
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+DCM,NTT DOCOMO Inc American Deposi ,Technology,Telecom Services - Foreign
+IPDN,Professional Diversity Network LLC ,Technology,Internet Information Providers
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities

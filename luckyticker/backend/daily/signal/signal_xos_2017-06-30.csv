@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GOV,Government Properties Income Tr ,Financial,REIT - Office
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+HEDJ,WisdomTree International Hedged Equity Fund ETF,Global Equity ETF,
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+DPLO,Diplomat Pharmacy Inc. Common,Healthcare,Drugs - Generic
+CVA,Covanta Holding Corporation Com ,Industrial Goods,Waste Management
+DCUC,Dominion Resources Inc. VA New,N/A,N/A
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+DCM,NTT DOCOMO Inc American Deposi ,Technology,Telecom Services - Foreign
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities

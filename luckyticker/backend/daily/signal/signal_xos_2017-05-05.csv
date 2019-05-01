@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CLF,Cliffs Natural Resources Inc Co ,Basic Materials,Steel & Iron
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+PEI,Pennsylvania Real Estate Invest ,Financial,REIT - Retail
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+MDLY,Medley Management Inc. Class A,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+STOR,STORE Capital Corporation Commo,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+ETM,Entercom Communications Corpora ,Services,Broadcasting - Radio
+OSTK,Overstock.com Inc. ,Services,Catalog & Mail Order Houses
+VIAB, Viacom Inc. ,Services,CATV Systems
+PCMI,PCM Inc. ,Services,Specialty Retail
+WBAI,500.com Limited ,Services,Gaming Activities
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities

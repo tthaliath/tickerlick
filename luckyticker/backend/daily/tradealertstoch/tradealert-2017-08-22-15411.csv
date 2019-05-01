@@ -1,0 +1,39 @@
+Buy,AAPL,Apple Inc. ,13.415
+Buy,ACN,Accenture plc. Class A Ordinary ,19.0424
+Buy,AMZN,Amazon.com Inc. ,8.81234
+Buy,BAC,Bank of America Corporation Com ,2.22273
+Buy,CAT,Caterpillar Inc. Common ,9.09049
+Buy,EXC,Exelon Corporation Common ,17.0585
+Buy,GE,General Electric Company Common ,8.8315
+Buy,GILD,Gilead Sciences Inc. ,18.0287
+Buy,GOOG,Alphabet Inc.,7.07108
+Buy,JPM,JP Morgan Chase & Co. Common St ,9.52243
+Buy,MET,MetLife Inc. Common ,5.27798
+Buy,MO,Altria Group Inc. ,5.55626
+Buy,MSFT,Microsoft Corporation ,3.21396
+Buy,NEE,NextEra Energy Inc. Common Sto ,14.5459
+Buy,NFLX,Netflix Inc. ,8.70667
+Buy,NVDA,NVIDIA Corporation ,15.2612
+Buy,OXY,Occidental Petroleum Corporatio ,5.0477
+Buy,PFE,Pfizer Inc. Common ,8.3328
+Buy,PG,Procter & Gamble Company (The)  ,12.8989
+Buy,PM,Philip Morris International Inc ,2.68175
+Buy,QCOM,QUALCOMM Incorporated ,12.4278
+Buy,SO,Southern Company (The) Common S ,18.2904
+Buy,TGT,Target Corporation Common ,10.2796
+Buy,LLY, Eli Lilly and Company Common St ,12.5827
+Buy,SPY,SPDR S&P 500 ETF,11.6531
+Buy,GOOGL,Alphabet Inc.,13.3081
+Buy,PYPL,PayPal Holdings  Inc.,11.3744
+Sell,AGN,Allergan Inc. Common ,94.4437
+Sell,ALL,Allstate Corporation (The) Comm ,96.2982
+Sell,AXP,American Express Company Common ,83.3397
+Sell,CMCSA,Comcast Corporation ,80.501
+Sell,DD,E.I. du Pont de Nemours and Com ,82.7201
+Sell,DIS,Walt Disney Company (The) Commo ,91.9542
+Sell,MDT,Medtronic Inc. Common ,97.0732
+Sell,MON,Monsanto Company Common ,88.8872
+Sell,MRK,Merck & Company Inc. Common St ,98.6108
+Sell,TWX,Time Warner Inc. New Common Sto ,81.1082
+Sell,FOX,Twenty-First Century Fox Inc. ,96.2539
+Sell,FOXA,Twenty-First Century Fox Inc. ,93.2652

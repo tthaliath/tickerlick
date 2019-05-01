@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AIMT,Aimmune Therapeutics,,
+ESTE, Earthstone Energy  Inc. Common  ,Basic Materials,Independent Oil & Gas
+OAS,Oasis Petroleum Inc. Common Sto ,Basic Materials,Independent Oil & Gas
+CRK,Comstock Resources Inc. Common ,Basic Materials,Independent Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+FTI,FMC Technologies Inc. Common S ,Basic Materials,Oil & Gas Equipment & Services
+VET,Vermilion Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+SENEA,Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+ICON, Iconix Brand Group  Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+WBK,Westpac Banking Corporation Com ,Financial,Foreign Money Center Banks
+BWFG,Bankwell Financial Group Inc.,Financial,Regional - Northeast Banks
+CBFV,CB Financial Services Inc.,Financial,Regional - Northeast Banks
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+GFA,Gafisa SA Gafisa S.A. American  ,Industrial Goods,Residential Construction
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+BGCA, BGC Partners  Inc. 8.125% Senio ,N/A,N/A
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+BKS,Barnes & Noble Inc. Common Sto ,Services,Specialty Retail Other
+PIR,Pier 1 Imports Inc. Common Sto ,Services,Home Furnishing Stores
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+CCRN,Cross Country Healthcare Inc. ,Services,Staffing & Outsourcing Services
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+DL,China Distance Education Holdin ,Services,Education & Training Services
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+OOMA,Ooma  Inc.,Technology,Diversified Communication Services

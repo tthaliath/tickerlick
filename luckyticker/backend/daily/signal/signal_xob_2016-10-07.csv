@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HK, Halcon Resources Corporation Co ,Basic Materials,Oil & Gas Drilling & Exploration
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+PBSK, Poage Bankshares  Inc. ,Conglomerates,Conglomerates
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+GTWN,Georgetown Bancorp Inc. ,Financial,Savings & Loans
+PIH,1347 Property Insurance Holdings Inc. ,Financial,Property & Casualty Insurance
+ENH,Endurance Specialty Holdings Lt ,Financial,Property & Casualty Insurance
+ICUI, ICU Medical  Inc. ,Healthcare,Medical Instruments & Supplies
+USNA,USANA Health Sciences Inc. Com ,Healthcare,Drug Related Products
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+DZZ, Deutsche Bank AG DB Gold Double ,N/A,N/A
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+AXTI,AXT Inc ,Technology,Semiconductor - Integrated Circuits
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+CHEP,QuantShares U.S. Market Neutral Value Fund ETF,US Equity ETF,

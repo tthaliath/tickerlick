@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TOCA,Tocagen Inc.,,
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+TRC,Tejon Ranch Co Common ,Financial,Property Management
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+ISRG,Intuitive Surgical Inc. ,Healthcare,Medical Appliances & Equipment
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+CX,Cemex S.A.B. de C.V. Sponsored ,Industrial Goods,Cement
+HJV, MS Structured Asset Corp MS Str ,N/A,N/A
+KTF, DSW Municiple Income Trust Comm ,N/A,N/A
+CCRC,China Customer Relations Centers  Inc.,N/A,N/A
+AIB,Apollo Investment Corporation 6 ,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+HDSN, Hudson Technologies  Inc. ,Services,Industrial Equipment Wholesale
+VIAB, Viacom Inc. ,Services,CATV Systems
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+BOJA,Bojangles  Inc.,Services,Restaurants
+NAVI,Navient Corporation ,Technology,Information Technology Services
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices

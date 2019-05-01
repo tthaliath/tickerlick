@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DRIP,Direxion Daily S&P Oil & Gas Ex,,
+SRS,ProShares UltraShort Real Estate ETF,Commodity Based ETF,
+DUG,ProShares UltraShort Oil & Gas ETF,Commodity Based ETF,
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+KS,KapStone Paper and Packaging Co ,Consumer Goods,Paper & Paper Products
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+DRV, Drexion Daily Real Estate Bear  ,N/A,N/A
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A
+CALD,Callidus Software Inc. ,Technology,Business Software & Services

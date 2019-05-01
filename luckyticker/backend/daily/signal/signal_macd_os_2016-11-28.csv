@@ -1,0 +1,118 @@
+ticker,name,sector,industry
+EXR,Extra Space Storage Inc Common  ,Financial,REIT - Industrial
+AVB,AvalonBay Communities Inc. Com ,Financial,REIT - Residential
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+TOTL,SPDR DoubleLine Total Return Ta,,
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+AFB, AllianceBernstein National Muni ,Financial,Closed-End Fund - Debt
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Fixed Income ETF,
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+GDJJ,ProShares Ultra Junior Miners,,
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+AU,AngloGold Ashanti Ltd. Common S ,Basic Materials,Gold
+PBFX,PBF Logistics LP Common Units r,Basic Materials,Oil & Gas Equipment & Services
+SCIF,Market Vectors India Small-Cap ETF,Global Equity ETF,
+SIL,Global X Silver Miners ETF,Global Equity ETF,
+SLVP,iShares MSCI Global Silver Miners Fund ETF,Global Equity ETF,
+PSAU,PowerShares Global Gold and Precious Metals Portfolio ETF,Global Equity ETF,
+BSCO,Guggenheim BulletShares 2024 Co ,,
+GXP, Great Plains Energy Incorporate ,Utilities,Electric Utilities
+MDWD,MediWound Ltd. ,Healthcare,Biotechnology
+JEM,iPath GEMS Index ETN ,N/A,N/A
+MYJ, Blackrock MuniYield New Jersey  ,Financial,Closed-End Fund - Debt
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+PICB,PowerShares International Corporate Bond Portfolio ETF,Fixed Income ETF,
+SLW,Silver Wheaton Corp Common Shar ,Basic Materials,Silver
+CXH, MFS Investment Grade Municipal  ,Financial,Closed-End Fund - Debt
+WF,Woori Finance Holdings Co Ltd A ,Financial,Foreign Regional Banks
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+PWZ,PowerShares Insured CA Municipal Bond Portfolio ETF,Fixed Income ETF,
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+SEF,ProShares Short Financials ETF,Commodity Based ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+IGOV,iShares S&P/Citigroup International Treasury Fund ETF,Fixed Income ETF,
+BTAL,QuantShares U.S. Market Neutral Anti-Beta Fund ETF,US Equity ETF,
+DBMX,db X-trackers MSCI Mexico Hedged Eq ETF ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+MUNI,PIMCO Intermediate Municipal Bond Strategy Fund ETF,Fixed Income ETF,
+INDY,iShares S&P India Nifty 50 Index Fund ETF,Global Equity ETF,
+COT,Cott Corporation Common ,Consumer Goods,Beverages - Soft Drinks
+GDXX,ProShares Ultra Gold Miners ETF,,
+BSCN,Guggenheim BulletShares 2023 Co ,,
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+NEV, Nuveen Enhanced Municipal Value ,N/A,N/A
+JPMV,iShares MSCI Japan Minimum Vola ,,
+BKK, Blackrock Municipal 2020 Term T ,Financial,Closed-End Fund - Debt
+GDX,Market Vectors TR Gold Miners ETF,US Equity ETF,
+AGI,Alamos Gold Inc. ,Basic Materials,Gold
+ICOL,iShares MSCI Colombia Capped ,N/A,N/A
+GG,Goldcorp Incorporated Common St ,Basic Materials,Gold
+MHF, Western Asset Municipal High In ,N/A,N/A
+ELD,WisdomTree Emerging Markets Local Debt Fund ETF,Fixed Income ETF,
+ISCF,iShares FactorSelect MSCI Intl Small-Cap,N/A,N/A
+EMLC,Market Vectors Emerging Markets Local Currency Bond ETF,Fixed Income ETF,
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+GBF,iShares Barclays Government/Credit Bond Fund ETF,Fixed Income ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+DMF, Dreyfus Municipal Income  Inc.  ,N/A,N/A
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+BSE, Blackrock New York Municipal In ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+CORP,PIMCO Investment Grade Corporate Bond Index Fund ETF,Fixed Income ETF,
+VBND,Vident Core U.S. Bond Fund ,,
+BFZ, BlackRock California Municipal  ,Financial,Closed-End Fund - Debt
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+INCO,EGShares India Consumer ETF,Global Equity ETF,
+DMB,Dreyfus Municipal Bond Infrastr ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+CH, Aberdeen Chile Fund  Inc. (The) ,N/A,N/A
+NVG, Nuveen Dividend Advantage Munic ,N/A,N/A
+MPA, Blackrock MuniYield Pennsylvani ,N/A,N/A
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Fixed Income ETF,
+KMDA,Kamada Ltd. ,N/A,N/A
+SCPB,SPDR Barclays Capital Short Term Corporate Bond ETF,Fixed Income ETF,
+BBF, BlackRock Municipal Income Inve ,Financial,Closed-End Fund - Debt
+BSCJ,Guggenheim BulletShares 2019 Corp Bond ETF,Fixed Income ETF,
+NMZ, Nuveen Municipal High Income Op ,Financial,Closed-End Fund - Debt
+SGDM,Sprott Gold Miners ETF ,,
+RRF, WisdomTree Global Real Return F ,N/A,N/A
+WACLY,Wacoal Holdings Corporation ,NULL,NULL
+KRS,ProShares Short KBW Regional Banking ETF,Commodity Based ETF,
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+TYD, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+IBDQ,iShares iBonds Dec 2025 Corpora,,
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+SST,SPDR Barclays Capital Short Term Treasury ETF,Fixed Income ETF,
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+MCA, Blackrock MuniYield California  ,N/A,N/A
+IBND,SPDR Barclays Capital International Corporate Bond ETF,Fixed Income ETF,
+SHYD,Market Vectors Short Hi-Yld Muni Idx ETF ,N/A,N/A
+CSJ,iShares Barclays 1-3 Year Credit Bond Fund ETF,Fixed Income ETF,
+CEW, WisdomTree Dreyfus Emerging Cur ,N/A,N/A
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income ETF,
+SCIN,EGShares India Small Cap ETF,Global Equity ETF,
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+ASA,ASA  Gold and Precious Metals L ,Financial,Closed-End Fund - Equity
+MZF, Managed Duration Investment Gra ,N/A,N/A
+HYXU,iShares Global ex USD High Yield Corp Bd ETF,Fixed Income ETF,
+RIC,Richmont Mines Inc. Common Sto ,Basic Materials,Gold
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+GDXJ,Market Vectors Junior Gold Miners ETF,Global Equity ETF,
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+BBRC, EGShares Beyond BRICs ETF ,N/A,N/A
+BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,N/A,N/A

@@ -1,0 +1,73 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FTLS,First Trust Long/Short Equity ,,
+CDC,Compass EMP US EQIncome 100 Enh ,,
+WBIG,WBI Large Cap Tactical Yield Sh ,,
+DBES,Deutsche X-trackers MSCI EAFE S,,
+CNSF,iShares Edge MSCI Multifactor C,,
+ICAN,SerenityShares Impact ETF,,
+SPVU,PowerShares S&P 500 Value Portf,,
+TETF,ETF Industry Exposure & Financi,,
+URGN,UroGen Pharma Ltd. - Ordinary S,,
+COWZ,Pacer US Cash Cows 100 ETF,,
+FVAL,Fidelity Value Factor ETF,,
+LEAD,Realty Shares DIVCON Leaders Di,,
+GENY,Principal Millennials Index ETF,,
+FLQD,Franklin LibertyQ Global Divide,,
+CDL,VictoryShares US Large Cap High,,
+TS,Tenaris S.A. American Depositar ,Basic Materials,Oil & Gas Equipment & Services
+USAP,Universal Stainless & Alloy Pro ,Basic Materials,Steel & Iron
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+PVH,PVH Corp. Common ,Consumer Goods,Textile - Apparel Clothing
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+AFG,American Financial Group Inc.  ,Financial,Property & Casualty Insurance
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+CACC,Credit Acceptance Corporation ,Financial,Credit Services
+AIG,American International Group I ,Financial,Property & Casualty Insurance
+HLI,Houlihan Lokey  Inc.,Financial,Investment Brokerage - National
+BCS,Barclays PLC Common ,Financial,Foreign Money Center Banks
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+TROW,T. Rowe Price Group Inc. ,Financial,Asset Management
+CFR,Cullen/Frost Bankers Inc. Comm ,Financial,Regional - Southwest  Banks
+EWBC,East West Bancorp Inc. ,Financial,Regional - Pacific Banks
+RVT, Royce Value Trust  Inc. Common  ,Financial,Closed-End Fund - Equity
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+EWGS,iShares MSCI Germany Small Cap,Global Equity ETF,
+FDT,First Trust Developed Markets Ex-US AlphaDEX ETF,Global Equity ETF,
+EWO,iShares MSCI Austria Index Fund ETF,Global Equity ETF,
+FEP,First Trust Europe AlphaDEX ETF,Global Equity ETF,
+ENOR,iShares MSCI Norway Cppd Investable Mkt,Global Equity ETF,
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+LVL,Guggenheim S&P Global Dividend Opportunities Index ETF,Global Equity ETF,
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CBIO,Catalyst Biosciences  Inc.,Healthcare,Biotechnology
+NVS,Novartis AG Common ,Healthcare,Drug Manufacturers - Major
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+ABB,ABB Ltd Common ,Industrial Goods,Industrial Electrical Equipment
+SYG,SPDR MFS Systematic Growth Equity ETF ,N/A,N/A
+QDYN,FlexShares Quality Dividend Dynamic ,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+QUAL,iShares MSCI USA Quality Factor ,N/A,N/A
+RFTA,RAIT Financial Trust 7.125% Sen,N/A,N/A
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+MBUU,Malibu Boats  Inc. ,N/A,N/A
+LOGI,Logitech International S.A. ,NULL,NULL
+SCI,Service Corporation Internation ,Services,Personal Services
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+DENN,Denny's Corporation ,Services,Restaurants
+FL,Footlocker Inc. ,Services,Apparel Stores
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+ISCA,International Speedway Corporat ,Services,Sporting Activities
+HZO, MarineMax  Inc. Common ,Services,Specialty Retail  Other
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+SRT,StarTek Inc. Common ,Services,Business Services
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+CTXS,Citrix Systems Inc. ,Technology,Business Software & Services
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+STX,Seagate Technology. ,Technology,Data Storage Devices
+FWDD,AdvisorShares Madrona Forward Domestic ETF,US Equity ETF,
+SCHD,Schwab U.S. Dividend Equity ETF,US Equity ETF,
+RCD,Guggenheim S&P Equal Weight Consumer Discretionary ETF,US Equity ETF,
+ADRA,PowerShares BLDRS Asia 50 ADR Index Fund ETF,US Equity ETF,
+PMR,PowerShares Dynamic Retail ETF,US Equity ETF,

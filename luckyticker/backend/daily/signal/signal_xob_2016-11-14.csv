@@ -1,0 +1,84 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AIMT,Aimmune Therapeutics,,
+ESTE, Earthstone Energy  Inc. Common  ,Basic Materials,Independent Oil & Gas
+NUE,Nucor Corporation Common ,Basic Materials,Steel & Iron
+KWR,Quaker Chemical Corporation Com ,Basic Materials,Specialty Chemicals
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron
+HSC, Harsco Corporation Common ,Basic Materials,Steel & Iron
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+ACH,Aluminum Corporation of China L ,Basic Materials,Aluminum
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+RIO,Rio Tinto Plc Common ,Basic Materials,Industrial Metals & Minerals
+UYG,ProShares Ultra Financials ETF,Commodity Based ETF,
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+HAR, Harman International Industries ,Consumer Goods,Electronic Equipment
+NAV,Navistar International Corporat ,Consumer Goods,Trucks & Other Vehicles
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+FBNC,First Bancorp ,Financial,Regional - Mid-Atlantic Banks
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+BMRC,Bank of Marin Bancorp ,Financial,Regional - Pacific Banks
+PRI,Primerica Inc. Common ,Financial,Life Insurance
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+NWLI,National Western Life Insurance ,Financial,Life Insurance
+PZN,Pzena Investment Management Inc ,Financial,Asset Management
+ESGR,Enstar Group Limited ,Financial,Property & Casualty Insurance
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+PRK,Park National Corporation Commo ,Financial,Regional - Midwest Banks
+SSB,South State Corporation,Financial,Regional - Mid-Atlantic Banks
+MET,MetLife Inc. Common ,Financial,Life Insurance
+BRK-A,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+CACB,Cascade Bancorp ,Financial,Regional - Pacific Banks
+EXEL,Exelixis Inc. ,Healthcare,Biotechnology
+HUM, Humana Inc. Common ,Healthcare,Health Care Plans
+EPZM,Epizyme Inc. ,Healthcare,Biotechnology
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AGIO,Agios Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+TKR,Timken Company (The) Common Sto ,Industrial Goods,Machine Tools & Accessories
+HW, Headwaters Incorporated Common  ,Industrial Goods,General Building Materials
+GD,General Dynamics Corporation Co ,Industrial Goods,Aerospace/Defense Products & Services
+SUM,SUMMIT MATERIALS INC.,Industrial Goods,General Building Materials
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+FIDU,Fidelity MSCI Industrials Index ETF ,N/A,N/A
+STPP, iPath US Treasury Steepener ETN ,N/A,N/A
+AGM-A,Federal Agricultural Mortgage Corp.,N/A,N/A
+ACM,Aecom Technology Corporation Co ,Services,Technical Services
+IM, Ingram Micro Inc. Common ,Services,Computers Wholesale
+LABL,Multi-Color Corporation ,Services,Business Services
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale
+FDX,FedEx Corporation Common ,Services,Air Delivery & Freight Services
+TRN,Trinity Industries Inc. Common ,Services,Railroads
+CSX,CSX Corporation Common ,Services,Railroads
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+CACI,CACI International Inc. Class  ,Services,Technical Services
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+WERN,Werner Enterprises Inc. ,Services,Trucking
+SEAS,SeaWorld Entertainment Inc. ,Services,Sporting Activities
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+CASS,Cass Information Systems Inc ,Services,Business Services
+URI,United Rentals Inc. Common Sto ,Services,Rental & Leasing Services
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+BRCD,Brocade Communications Systems ,Technology,Data Storage Devices
+PWV,PowerShares Dynamic LargeCap Value ETF,US Equity ETF,
+IYT,iShares Dow Jones Transportation Average Index Fund ETF,US Equity ETF,
+XLI,SPDR Industrial Select Sector Fund ETF,US Equity ETF,
+RGI,Guggenheim S&P Equal Weight Industrials ETF,US Equity ETF,
+VIS,Vanguard Industrials ETF - DNQ ETF,US Equity ETF,
+XME,SPDR S&P Metals and Mining ETF,US Equity ETF,
+SLX,Market Vectors Steel Index ETF Fund ETF,US Equity ETF,

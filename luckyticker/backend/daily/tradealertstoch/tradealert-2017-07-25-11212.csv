@@ -1,0 +1,104 @@
+Buy,ACN,Accenture plc. Class A Ordinary ,13.0046
+Buy,ADBE,Adobe Systems Incorporated ,18.8555
+Buy,AEE,Ameren Corporation Common ,5.29117
+Buy,AES,The AES Corporation Common Stoc ,12.5607
+Buy,AET,Aetna Inc. Common ,8.74465
+Buy,ALK,Alaska Air Group Inc. Common S ,13.0145
+Buy,AMP,Ameriprise Financial Inc. Comm ,19.6684
+Buy,APH,Amphenol Corporation Common Sto ,7.26719
+Buy,ARE,Alexandria Real Estate Equities ,18.8881
+Buy,AVY,Avery Dennison Corporation Comm ,11.8
+Buy,AYI,Acuity Brands Inc (Holding Comp ,14.0747
+Buy,BA,Boeing Company (The) Common Sto ,6.58322
+Buy,BIIB,Biogen Idec Inc. ,12.8084
+Buy,BWA,BorgWarner Inc. Common ,4.71382
+Buy,CAG,ConAgra Foods Inc. Common Stoc ,11.8057
+Buy,CHTR,Charter Communications Inc. ,10.9673
+Buy,CME,CME Group Inc. ,19.5465
+Buy,CNC,Centene Corporation Common Stoc ,11.5581
+Buy,CNP,CenterPoint Energy Inc (Holdin ,7.46032
+Buy,COG,Cabot Oil & Gas Corporation Com ,2.77779
+Buy,INTU,Intuit Inc. ,8.47024
+Buy,IP,International Paper Company Com ,19.2305
+Buy,LEG,Leggett & Platt Incorporated C ,2.51615
+Buy,LYB,LyondellBasell Industries NV Or ,3.2397
+Buy,MAT,Mattel Inc. ,19.8391
+Buy,MHK,Mohawk Industries Inc. Common  ,12.7751
+Buy,MLM,Martin Marietta Materials Inc. ,16.4979
+Buy,OMC,Omnicom Group Inc. Common ,11.2204
+Buy,PAYX,Paychex Inc. ,14.9134
+Buy,PEG,Public Service Enterprise Group ,14.9206
+Buy,PFE,Pfizer Inc. Common ,18.8334
+Buy,RRC,Range Resources Corporation Com ,13.7867
+Buy,WU,Western Union Company (The) Com ,3.17439
+Buy,BLK,BlackRock Inc,17.3574
+Buy,DLPH, Delphi Automotive plc Ordinary  ,8.56345
+Buy,HCA, HCA Holdings  Inc. Common ,17.2741
+Buy,HOG, Harley-Davidson  Inc. Common St ,2.55369
+Buy,HPQ, Hewlett-Packard Company Common  ,12.9626
+Buy,MDLZ, Mondelez International  Inc. ,16.6664
+Buy,MSI, Motorola Solutions  Inc. Common ,18.5213
+Buy,VIAB, Viacom Inc. ,19.2311
+Buy,XYL, Xylem Inc. Common ,5.8644
+Buy,GOOGL,Alphabet Inc.,8.71586
+Buy,ANTM,Anthem Inc. Common,12.1828
+Buy,FTV,Fortive Corporation,1.08931
+Sell,ADSK,Autodesk Inc. ,81.3859
+Sell,AFL,AFLAC Incorporated Common ,91.8351
+Sell,AIG,American International Group I ,84.6045
+Sell,AIZ,Assurant Inc. Common ,90.9511
+Sell,AJG,Arthur J. Gallagher & Co. Commo ,86.1126
+Sell,AKAM,Akamai Technologies Inc. ,92.5757
+Sell,AME,AMETEK Inc. ,83.2431
+Sell,AVB,AvalonBay Communities Inc. Com ,92.971
+Sell,AVGO,Avago Technologies Limited ,95.3833
+Sell,BAC,Bank of America Corporation Com ,80.6202
+Sell,BAX,Baxter International Inc. Commo ,94.5083
+Sell,BBBY,Bed Bath & Beyond Inc. ,90.0527
+Sell,BCR,C.R. Bard Inc. Common ,92.5964
+Sell,BDX,Becton Dickinson and Company C ,84.822
+Sell,BXP,Boston Properties Inc. Common  ,80.1849
+Sell,CA,CA Inc. ,97.5828
+Sell,CAT,Caterpillar Inc. Common ,87.132
+Sell,CF,CF Industries Holdings Inc. Co ,89.709
+Sell,CMA,Comerica Incorporated Common St ,88.9899
+Sell,CMS,CMS Energy Corporation Common S ,86.2122
+Sell,COH,Coach Inc. Common ,85.5542
+Sell,DOW,Dow Chemical Company (The) Comm ,86.4274
+Sell,DUK,Duke Energy Corporation (Holdin ,81.8175
+Sell,EBAY,eBay Inc. ,92.7763
+Sell,EIX,Edison International Common Sto ,93.7513
+Sell,EMR,Emerson Electric Company Common ,88.4739
+Sell,EQR,Equity Residential Common Share ,81.5481
+Sell,IRM,Iron Mountain Incorporated (Del ,97.2228
+Sell,LH,Laboratory Corporation of Ameri ,83.6346
+Sell,LNC,Lincoln National Corporation Co ,83.7991
+Sell,LUV,Southwest Airlines Company Comm ,83.0015
+Sell,MDT,Medtronic Inc. Common ,94.8477
+Sell,MET,MetLife Inc. Common ,81.481
+Sell,NWS,News Corporation ,85.185
+Sell,O,Realty Income Corporation Commo ,91.8288
+Sell,ORCL,Oracle Corporation ,95.9037
+Sell,PEP,Pepsico Inc. Common ,83.2342
+Sell,SIG,Signet Jewelers Limited Common  ,81.8756
+Sell,SLB,Schlumberger N.V. Common ,95.2527
+Sell,VZ,Verizon Communications Inc. Com ,82.7182
+Sell,WMT,Wal-Mart Stores Inc. Common St ,84.8504
+Sell,WYN,Wyndham Worldwide Corp Common   ,95.8552
+Sell,HBAN, Huntington Bancshares Incorpora ,81.9443
+Sell,HBI, Hanesbrands Inc. Common ,84.1265
+Sell,HCP, HCP  Inc. Common ,95.5558
+Sell,HD, Home Depot  Inc. (The) Common S ,97.753
+Sell,HOLX, Hologic  Inc. ,84.259
+Sell,HON, Honeywell International Inc. Co ,84.1735
+Sell,ILMN, Illumina  Inc. ,97.3307
+Sell,LKQ, LKQ Corporation ,80.6819
+Sell,MNST, Monster Beverage Corporation ,90.5973
+Sell,PSX, Phillips 66 Common ,96.1685
+Sell,TRIP, TripAdvisor  Inc. ,82.4234
+Sell,MNK,Mallinckrodt plc ,93.1558
+Sell,KHC,The Kraft Heinz Company,86.0147
+Sell,PYPL,PayPal Holdings  Inc.,94.5653
+Sell,WRK,WestRock Company,81.4818
+Sell,WLTW,Willis Towers Watson Public Limited Company,83.3816
+Sell,ARNC,Arconic Inc.,88.7888

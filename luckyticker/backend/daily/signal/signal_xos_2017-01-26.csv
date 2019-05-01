@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AIMT,Aimmune Therapeutics,,
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+SNAK,Inventure Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+FDP,Fresh Del Monte Produce Inc. C ,Consumer Goods,Farm Products
+JOE,St. Joe Company (The) Common St ,Financial,Real Estate Development
+XON,Intrexon Corporation ,Healthcare,Biotechnology
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+TDG,Transdigm Group Incorporated Tr ,Industrial Goods,Aerospace/Defense Products & Services
+BOS, PowerShares DB Base Metals Shor ,N/A,N/A
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+NORD,Nord Anglia Education Inc. ,Services,Education & Training Services
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+RAD,Rite Aid Corporation Common Sto ,Services,Drug Stores
+WU,Western Union Company (The) Com ,Services,Business Services
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+VZ,Verizon Communications Inc. Com ,Technology,Telecom Services - Domestic

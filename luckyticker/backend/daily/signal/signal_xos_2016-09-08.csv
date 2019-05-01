@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+CHMG,Chemung Financial Corporation ,Financial,Regional - Pacific Banks
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+MLM,Martin Marietta Materials Inc. ,Industrial Goods,General Building Materials
+IRDMB,Iridium Communications Inc,N/A,N/A
+IND,ING Group N.V. Perpetual Debt  ,NULL,NULL
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+IRDM,Iridium Communications Inc ,Technology,Diversified Communication Services

@@ -1,0 +1,50 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HEWG,iShares Currency Hedged MSCI Ge ,,
+VLO,Valero Energy Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+BP,BP p.l.c. Common ,Basic Materials,Major Integrated Oil & Gas
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+KNDI,Kandi Technolgies Corp. ,Consumer Goods,Auto Manufacturers - Major
+BMA,Banco Macro S.A.  ADR (represen ,Financial,Foreign Regional Banks
+CRVL,CorVel Corp. ,Financial,Insurance Brokers
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+OSBC,Old Second Bancorp Inc. ,Financial,Regional - Midwest Banks
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+EGPT,Market Vectors Egypt Index ETF,Global Equity ETF,
+STE,STERIS Corporation Common ,Healthcare,Medical Appliances & Equipment
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+ELGX,Endologix Inc. ,Healthcare,Medical Instruments & Supplies
+MMSI,Merit Medical Systems Inc. ,Healthcare,Medical Instruments & Supplies
+ALG,Alamo Group Inc. Common ,Industrial Goods,Farm & Construction Machinery
+B,Barnes Group Inc. Common ,Industrial Goods,Industrial Equipment & Components
+ATI,Allegheny Technologies Incorpor ,Industrial Goods,Metal Fabrication
+BDC,Belden Inc Common ,Industrial Goods,Industrial Electrical Equipment
+BWXT,BWX Technologies  Inc.,Industrial Goods,Aerospace/Defense Products & Services
+THR, Thermon Group Holdings  Inc. Co ,Industrial Goods,Diversified Machinery
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+RGT,Royce Global Value Trust  Inc.  ,N/A,N/A
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+KMX,CarMax Inc ,Services,Auto Dealerships
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+PNK,Pinnacle Entertainment Inc. Co ,Services,Resorts & Casinos
+WINA,Winmark Corporation ,Services,Specialty Retail Other
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+CDNA,CareDx Inc.,Services,Research Services
+XOXO, XO Group  Inc. Common ,Services,Specialty Retail  Other
+DSPG,DSP Group Inc. ,Technology,Communication Equipment
+TRNS,Transcat Inc. ,Technology,Scientific & Technical Instruments
+RHT,Red Hat Inc. Common ,Technology,Application Software
+APPF,AppFolio  Inc.,Technology,Application Software
+FXZ,First Trust Materials AlphaDEX Fund ETF,US Equity ETF,
+RFG,Guggenheim S&P MidCap 400 Pure Growth ETF,US Equity ETF,
+DON,WisdomTree MidCap Dividend Fund ETF,US Equity ETF,
+EZY,WisdomTree Low P/E Fund ETF,US Equity ETF,
+JKK,iShares Morningstar Small Growth Index Fund ETF,US Equity ETF,
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,
+SCHM,Schwab U.S. Mid Cap ETF,US Equity ETF,
+FXD,First Trust Cons. Discret. AlphaDEX ETF,US Equity ETF,
+VBK,Vanguard Small-Cap Growth ETF,US Equity ETF,
+PAM,Pampa Energia S.A. Pampa Energi ,Utilities,Electric Utilities

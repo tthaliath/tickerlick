@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+IIIN, Insteel Industries  Inc. ,Basic Materials,Steel & Iron
+WBC,Wabco Holdings Inc. Common Stoc ,Consumer Goods,Auto Parts
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+HAFC, Hanmi Financial Corporation ,Financial,Regional - Pacific Banks
+OPB,Opus Bank ,Financial,Money Center Banks
+BX,The Blackstone Group L.P. Commo ,Financial,Asset Management
+FSB,Franklin Financial Network,Financial,Money Center Banks
+MUB,iShares S&P National Municipal Bond Fund ETF,Fixed Income ETF,
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+TAYD,Taylor Devices Inc. ,Industrial Goods,Diversified Machinery
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+TATT, TAT Technologies Ltd. ,Industrial Goods,Aerospace/Defense Products & Services
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+UBC, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+FMY, First Trust Motgage Income Fund ,N/A,N/A
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+CYAD,Celyad SA,N/A,N/A
+ERI,Eldorado Resorts Inc.,Services,Resorts & Casinos
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+DHX,Dice Holdings Inc. Common Stoc ,Services,Staffing & Outsourcing Services
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+CTS,CTS Corporation Common ,Technology,Diversified Electronics
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+TYL,Tyler Technologies Inc. Common ,Technology,Technical & System Software

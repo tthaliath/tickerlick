@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+RGS,Regis Corporation Common ,Services,Personal Services
+FRSH,Papa Murphy's Holdings Inc. ,Services,Specialty Eateries
+SBAC,SBA Communications Corporation ,Services,Rental & Leasing Services
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+WUBA,58.com Inc. ,Technology,Internet Information Providers

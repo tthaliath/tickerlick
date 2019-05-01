@@ -1,0 +1,102 @@
+Buy,AXP,American Express Company Common ,3.68083
+Buy,CI,Cigna Corporation Common ,2.51164
+Buy,CMA,Comerica Incorporated Common St ,2.06056
+Buy,CMI,Cummins Inc. Common ,9.90243
+Buy,CNC,Centene Corporation Common Stoc ,9.21392
+Buy,COG,Cabot Oil & Gas Corporation Com ,16.1593
+Buy,CSCO,Cisco Systems Inc. ,14.0166
+Buy,CSX,CSX Corporation Common ,1.89531
+Buy,CTSH,Cognizant Technology Solutions  ,16.2901
+Buy,CTXS,Citrix Systems Inc. ,1.24467
+Buy,DE,Deere & Company Common ,15.8728
+Buy,DFS,Discover Financial Services Com ,15.237
+Buy,DLTR,Dollar Tree Inc. ,12.6455
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,4.69811
+Buy,DRI,Darden Restaurants Inc. Common ,4.27122
+Buy,EBAY,eBay Inc. ,4.83518
+Buy,ECL,Ecolab Inc. Common ,2.40005
+Buy,EQR,Equity Residential Common Share ,12.1191
+Buy,FIS,Fidelity National Information S ,13.1434
+Buy,FLIR,FLIR Systems Inc. ,2.07785
+Buy,GLW,Corning Incorporated Common Sto ,2.46069
+Buy,GOOG,Alphabet Inc.,3.40775
+Buy,GPN,Global Payments Inc. Common Sto ,11.8276
+Buy,GRMN,Garmin Ltd. ,5.45779
+Buy,INCY,Incyte Corporation ,7.37518
+Buy,INTU,Intuit Inc. ,3.22989
+Buy,JNPR,Juniper Networks Inc. Common S ,4.48183
+Buy,JWN,Nordstrom Inc. Common ,4.06348
+Buy,KSU,Kansas City Southern Common Sto ,11.7872
+Buy,LH,Laboratory Corporation of Ameri ,5.48322
+Buy,LMT,Lockheed Martin Corporation Com ,11.4124
+Buy,LUK,Leucadia National Corporation C ,15.7416
+Buy,MA,Mastercard Incorporated Common  ,2.82259
+Buy,MAS,Masco Corporation Common ,3.11461
+Buy,MCD,McDonald's Corporation Common S ,12.1518
+Buy,MCHP,Microchip Technology Incorporat ,2.17227
+Buy,MCO,Moody's Corporation Common Stoc ,2.94245
+Buy,NWL,Newell Rubbermaid Inc. Common S ,12.9992
+Buy,NWS,News Corporation ,16.667
+Buy,PCLN,priceline.com Incorporated ,6.48547
+Buy,SHW,Sherwin-Williams Company (The)  ,3.80032
+Buy,SIG,Signet Jewelers Limited Common  ,14.8116
+Buy,SNPS,Synopsys Inc. ,3.27047
+Buy,HPQ, Hewlett-Packard Company Common  ,2.68275
+Buy,HPE,Hewlett Packard Enterprise Company,2.70158
+Buy,SPGI,S&P Global  Inc.,5.87605
+Buy,DXC,DXC Technology Company,4.25961
+Sell,AYI,Acuity Brands Inc (Holding Comp ,86.4716
+Sell,AZO,AutoZone Inc. Common ,89.9909
+Sell,CHK,Chesapeake Energy Corporation C ,82.2413
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,85.0223
+Sell,CMS,CMS Energy Corporation Common S ,96.2969
+Sell,CTL,CenturyLink Inc. Common ,93.1624
+Sell,CVS,CVS Caremark Corporation Common ,94.0521
+Sell,CVX,Chevron Corporation Common Stoc ,86.3192
+Sell,DG,Dollar General Corporation Comm ,90.2036
+Sell,DIS,Walt Disney Company (The) Commo ,83.4933
+Sell,DOV,Dover Corporation Common ,90.3779
+Sell,DUK,Duke Energy Corporation (Holdin ,96.1387
+Sell,DVN,Devon Energy Corporation Common ,85.5069
+Sell,ED,Consolidated Edison Inc. Commo ,95.4712
+Sell,EFX,Equifax Inc. Common ,85.4337
+Sell,EMR,Emerson Electric Company Common ,83.64
+Sell,EOG,EOG Resources Inc. Common Stoc ,86.3373
+Sell,FLS,Flowserve Corporation Common St ,80.0913
+Sell,FRT,Federal Realty Investment Trust ,98.9408
+Sell,FTI,FMC Technologies Inc. Common S ,81.2542
+Sell,GE,General Electric Company Common ,96.9282
+Sell,GGP,General Growth Properties Inc. ,91.2346
+Sell,GIS,General Mills Inc. Common Stoc ,82.9968
+Sell,GM,General Motors Company Common S ,92.4894
+Sell,GPS,Gap Inc. (The) Common ,91.5153
+Sell,IP,International Paper Company Com ,81.4819
+Sell,KIM,Kimco Realty Corporation Common ,98.4997
+Sell,KMB,Kimberly-Clark Corporation Comm ,82.7535
+Sell,KO,Coca-Cola Company (The) Common  ,92.4705
+Sell,KR,Kroger Company (The) Common Sto ,89.0873
+Sell,L,Loews Corporation Common ,89.7238
+Sell,LB,L.B. Foster Company ,86.5086
+Sell,LNT,Alliant Energy Corporation Comm ,95.2389
+Sell,LOW,Lowe's Companies Inc. Common S ,80.1633
+Sell,LUV,Southwest Airlines Company Comm ,92.9907
+Sell,LVLT,Level 3 Communications Inc. Co ,90.7402
+Sell,MAA,Mid-America Apartment Communiti ,89.8211
+Sell,MCK,McKesson Corporation Common Sto ,97.5967
+Sell,MET,MetLife Inc. Common ,95.8437
+Sell,ORLY,O'Reilly Automotive Inc. ,90.3057
+Sell,OXY,Occidental Petroleum Corporatio ,80.2801
+Sell,PAYX,Paychex Inc. ,96.0246
+Sell,PFE,Pfizer Inc. Common ,83.8567
+Sell,ROST,Ross Stores Inc. ,88.654
+Sell,RSG,Republic Services Inc. Common  ,83.9156
+Sell,SBUX,Starbucks Corporation ,91.4532
+Sell,SCG,SCANA Corporation Common ,91.2979
+Sell,SEE,Sealed Air Corporation Common S ,90.4746
+Sell,SJM,J.M. Smucker Company (The) New  ,86.7816
+Sell,SLG,SL Green Realty Corporation Com ,86.0104
+Sell,SO,Southern Company (The) Common S ,91.8233
+Sell,SPG,Simon Property Group Inc. Comm ,92.5259
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,87.8152
+Sell,FTV,Fortive Corporation,95.8912
+Sell,ARNC,Arconic Inc.,92.8435

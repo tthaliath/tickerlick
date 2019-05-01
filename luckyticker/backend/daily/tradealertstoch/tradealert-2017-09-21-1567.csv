@@ -1,0 +1,38 @@
+Buy,AXP,American Express Company Common ,19.1448
+Buy,BK,Bank of New York Mellon Corpora ,16.8503
+Buy,CL,Colgate-Palmolive Company Commo ,5.80655
+Buy,COST,Costco Wholesale Corporation ,13.4829
+Buy,CVS,CVS Caremark Corporation Common ,18.3453
+Buy,DOW,Dow Chemical Company (The) Comm ,14.9999
+Buy,FDX,FedEx Corporation Common ,9.5788
+Buy,GM,General Motors Company Common S ,14.7294
+Buy,JNJ,Johnson & Johnson Common ,15.9079
+Buy,PG,Procter & Gamble Company (The)  ,6.75345
+Buy,GLD, SPDR Gold Trust ,6.85975
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,3.99224
+Buy,VIX,VOLATILITY S&P 500,1.58734
+Sell,BIIB,Biogen Idec Inc. ,96.3966
+Sell,COP,ConocoPhillips Common ,95.3102
+Sell,CVX,Chevron Corporation Common Stoc ,88.889
+Sell,EXC,Exelon Corporation Common ,88.182
+Sell,GD,General Dynamics Corporation Co ,94.1006
+Sell,GE,General Electric Company Common ,96.6317
+Sell,INTC,Intel Corporation ,86.5117
+Sell,JPM,JP Morgan Chase & Co. Common St ,88.3788
+Sell,KO,Coca-Cola Company (The) Common  ,86.6662
+Sell,MA,Mastercard Incorporated Common  ,95.2363
+Sell,MDT,Medtronic Inc. Common ,97.2026
+Sell,MO,Altria Group Inc. ,96.1752
+Sell,MON,Monsanto Company Common ,93.3339
+Sell,MRK,Merck & Company Inc. Common St ,80.7692
+Sell,RTN,Raytheon Company Common ,93.9381
+Sell,SLB,Schlumberger N.V. Common ,92.6328
+Sell,XOM,Exxon Mobil Corporation Common  ,94.1923
+Sell,BLK,BlackRock Inc,89.7725
+Sell,FB, Facebook  Inc. ,90.4727
+Sell,HAL, Halliburton Company Common Stoc ,87.0055
+Sell,HON, Honeywell International Inc. Co ,81.8253
+Sell,IBM, International Business Machines ,83.8497
+Sell,LLY, Eli Lilly and Company Common St ,97.9185
+Sell,GOOGL,Alphabet Inc.,89.8405
+Sell,SNAP,Snap Inc.,81.4325

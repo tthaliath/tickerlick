@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDXX,ProShares Ultra Gold Miners ETF,,
+EEX,Emerald Expositions Events  Inc,,
+BVN,Compania Mina Buenaventura S.A ,Basic Materials,Gold
+CEF,Central Fund of Canada Limited  ,Basic Materials,Industrial Metals & Minerals
+CRT,Cross Timbers Royalty Trust Com ,Basic Materials,Oil & Gas Drilling & Exploration
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+PLOW,Douglas Dynamics Inc. Common S ,Consumer Goods,Auto Parts
+ASA,ASA  Gold and Precious Metals L ,Financial,Closed-End Fund - Equity
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+GCC, GreenHaven Continuous Commodity ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+PSLV, Sprott Physical Silver Trust ET ,N/A,N/A
+BVXV,BiondVax Pharmaceuticals Ltd.,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+OR,Osisko Gold Royalties Ltd.,N/A,N/A
+SIVR, ETFS Physical Silver Shares Tru ,N/A,N/A
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+DBS, PowerShares DB Silver Fund ,N/A,N/A
+SLV, iShares Silver Trust ,N/A,N/A
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+ALEX,Alexander & Baldwin Inc. Commo ,Services,Shipping
+GEO,Geo Group Inc (The) Common Stoc ,Services,Security & Protection Services
+MGI,Moneygram International Inc. N ,Services,Business Services
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics

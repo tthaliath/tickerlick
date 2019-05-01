@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SIM,Grupo Simec S.A.B. de C.V. Ame ,Basic Materials,Steel & Iron
+CMD,ProShares UltraShort DJ-UBS Commodity ETF,Commodity Based ETF,
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+BRP, Brookfield Residential Properti ,Financial,Real Estate Development
+PVTB,PrivateBancorp Inc. ,Financial,Regional - Midwest Banks
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+PXF,PowerShares FTSE RAFI Developed Markets ex-U.S. Portfolio ETF,Global Equity ETF,
+EFV,iShares MSCI Value Index Fund ETF,Global Equity ETF,
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+PLAY,Dave &amp; Busters EntertainmentInc ,N/A,N/A
+AVH,Avianca Holdings S.A. ,N/A,N/A
+EMD, Western Asset Emerging Markets  ,N/A,N/A
+BOBE,Bob Evans Farms Inc. ,Services,Restaurants

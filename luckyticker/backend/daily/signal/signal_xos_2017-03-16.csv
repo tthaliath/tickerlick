@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEDD,iPath Pure Beta Lead ETN ,,
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+CELP,Cypress Energy Partners L.P. ,Basic Materials,Oil & Gas Equipment & Services
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+UBCP,United Bancorp Inc. ,Financial,Regional - Midwest Banks
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+JFR, Nuveen Floating Rate Income Fun ,N/A,N/A
+WPPGY,WPP plc ,NULL,NULL
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+RUBI,the Rubicon Project Inc. ,Technology,Application Software

@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ETRM,EnteroMedics Inc. ,Healthcare,Medical Appliances & Equipment
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+SCAI,Surgical Care Affiliates  Inc. ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+WOOF,VCA Antech Inc. ,Services,Personal Services
+GPN,Global Payments Inc. Common Sto ,Services,Business Services
+CEB, Corporate Executive Board Compa ,Services,Management Services
+TESS,TESSCO Technologies Incorporate ,Services,Electronics Wholesale
+CLRO,ClearOne Communications Inc. ,Technology,Communication Equipment
+MB,MINDBODY  Inc.,Technology,Application Software

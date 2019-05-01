@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAIL,Cambria Tail Risk ETF,,
+YTRA,Yatra Online  Inc. - Ordinary S,,
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+HTD, John Hancock Tax Advantaged Div ,Financial,Closed-End Fund - Equity
+FFC, Flaherty & Crumrine /Claymore P ,Financial,Closed-End Fund - Debt
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income ETF,
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HEI, Heico Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+ERH, Wells Fargo Advantage Utilities ,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+MHLA,Maiden Holdings  Ltd. 6.625% No ,N/A,N/A
+VGI, Virtus Global Multi-Sector Inco ,N/A,N/A
+EAE,Entergy Arkansas Inc. ,N/A,N/A
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+CSIQ,Canadian Solar Inc. ,Technology,Semiconductor - Specialized
+IPHI,Inphi Corporation Common ,Technology,Semiconductor - Broad Line
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities
+DUK,Duke Energy Corporation (Holdin ,Utilities,Electric Utilities

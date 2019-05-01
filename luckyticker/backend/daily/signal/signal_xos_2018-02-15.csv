@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LKOR,FlexShares Credit-Scored US Lon,,
+DSKE,Daseke  Inc.,,
+WIL,Barclays PLC Barclays Women in,,
+FLQM,Franklin LibertyQ U.S. Mid Cap,,
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+CIO,City Office Reit Inc. ,Financial,REIT - Office
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+RPT,Ramco-Gershenson Properties Tru ,Financial,REIT - Retail
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+PFIG,PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF,Fixed Income ETF,
+GNMA,iShares Barclays GNMA Bond ETF,Fixed Income ETF,
+LXRX,Lexicon Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+APTS, Preferred Apartment Communities ,N/A,N/A
+GMS,GMS ,N/A,N/A
+GNL,Global Net Lease  Inc.,N/A,N/A
+VGI, Virtus Global Multi-Sector Inco ,N/A,N/A
+DTK, Deutsche Bk Contingent Cap Tr I ,N/A,N/A
+CCRC,China Customer Relations Centers  Inc.,N/A,N/A
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software
+CBB,Cincinnati Bell Inc. Common Sto ,Technology,Telecom Services - Domestic
+PKE,Park Electrochemical Corporatio ,Technology,Printed Circuit Boards
+NFG,National Fuel Gas Company Commo ,Utilities,Gas Utilities

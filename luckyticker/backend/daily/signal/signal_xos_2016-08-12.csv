@@ -1,0 +1,4 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPXL,Impax Laboratories Inc. ,Healthcare,Drug Manufacturers - Major
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+FSLR,First Solar Inc. ,Technology,Semiconductor - Specialized

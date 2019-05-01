@@ -1,0 +1,114 @@
+ticker,name,sector,industry
+AIG,American International Group I ,Financial,Property & Casualty Insurance
+C,Citigroup Inc. Common ,Financial,Money Center Banks
+PSX, Phillips 66 Common ,Basic Materials,Oil & Gas Refining & Marketing
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+FDX,FedEx Corporation Common ,Services,Air Delivery & Freight Services
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+HBAN, Huntington Bancshares Incorpora ,Financial,Regional - Midwest Banks
+LYB,LyondellBasell Industries NV Or ,Basic Materials,Specialty Chemicals
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+AUSE,WisdomTree Australia Dividend Fund ETF,Global Equity ETF,
+BNS,Bank Nova Scotia Halifax Pfd 3  ,Financial,Money Center Banks
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+DRV, Drexion Daily Real Estate Bear  ,N/A,N/A
+EELV,PowerShares S&P Emerging Markets Low Vol,Global Equity ETF,
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+FBZ,First Trust Brazil AlphaDEX ETF,Global Equity ETF,
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices
+HBK, Hamilton Bancorp  Inc. ,N/A,N/A
+IWX,iShares Russell Top 200 Value Index Fund ETF,US Equity ETF,
+LD, iPath DJ-UBS Lead Subindex Tota ,N/A,N/A
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+OMN,OMNOVA Solutions Inc. Common St ,Basic Materials,Specialty Chemicals
+PCO, Pendrell Corporation ,Technology,Wireless Communications
+RBL,SPDR S&P Russia ETF,Global Equity ETF,
+RSXJ,Market Vectors Russia Small-Cap ETF,Global Equity ETF,
+SDEM,Global X SuperDividend Emerging,,
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+TCBIL, Texas Capital Bancshares  Inc. ,N/A,N/A
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+WRB,W.R. Berkley Corporation Common ,Financial,Property & Casualty Insurance
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+RECN,Resources Connection Inc. ,Services,Management Services
+AMZA,InfraCap MLP ETF ,,
+AXJL,WisdomTree Asia Pacific ex-Japan Fund ETF,Global Equity ETF,
+BOTJ, Bank of the James Financial Gro ,Financial,Regional - Mid-Atlantic Banks
+CHEP,QuantShares U.S. Market Neutral Value Fund ETF,US Equity ETF,
+DBBR,db X-trackers MSCI Brazil Hedged Eq ETF ,N/A,N/A
+DTUS, iPath US Treasury 2 Yr Bear ETN ,N/A,N/A
+ELP,Companhia Paranaense de Energia ,Utilities,Electric Utilities
+EVBN,Evans Bancorp Inc. Common Stoc ,Financial,Regional - Northeast Banks
+FDL,First Trust Morningstar ETF,US Equity ETF,
+FPA,First Trust Asia Pacific Ex-Japan AlphaDEX ETF,Global Equity ETF,
+HUBG, Hub Group  Inc. ,Services,Air Delivery & Freight Services
+JAKK,JAKKS Pacific Inc. ,Consumer Goods,Toys & Games
+LFC,China Life Insurance Company Li ,Financial,Life Insurance
+MLPJ,Global X Junior MLP ETF ,N/A,N/A
+NORW,Global X FTSE Norway 30 ETF,Global Equity ETF,
+ORI,Old Republic International Corp ,Financial,Surety & Title Insurance
+PHII,PHI Inc. ,Services,Air Services Other
+PUW,PowerShares WilderHill Progressive Energy Portfolio ETF,US Equity ETF,
+RDC,Rowan Companies plc Class A Ord ,Basic Materials,Oil & Gas Drilling & Exploration
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+SXL,Sunoco Logistics Partners LP Co ,Basic Materials,Oil & Gas Pipelines
+TD,Toronto Dominion Bank (The) Com ,Financial,Money Center Banks
+TYBS, Direxion Daily 20 Year Treasury ,N/A,N/A
+WTFCW,Wintrust Financial Corporation,N/A,N/A
+CSTM,Constellium N.V ,Industrial Goods,Metal Fabrication
+ARLP,Alliance Resource Partners L.P ,Basic Materials,Industrial Metals & Minerals
+AXJV,iShares MSCI Asia ex Japan Mini ,,
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+DVHL,UBS E-TRACS Mthly Pay 2x Divs Hi Inc ETN ,N/A,N/A
+EWZ,iShares MSCI Brazil Index Fund ETF,Global Equity ETF,
+GNR,SPDR S&P Global Natural Resources ETF,Global Equity ETF,
+ICLN,iShares S&P Global Clean Energy Index Fund ETF,Global Equity ETF,
+JKF,iShares Morningstar Large Value Index Fund ETF,US Equity ETF,
+LXFR, Luxfer Holdings PLC American De ,Industrial Goods,Diversified Machinery
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+NECB,Northeast Community Bancorp Inc. ,Financial,Savings & Loans
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+OXLC, Oxford Lane Capital Corp. ,N/A,N/A
+PRIM,Primoris Services Corporation ,Industrial Goods,Heavy Construction
+QEH, AdvisorShares QAM Equity Hedge ,N/A,N/A
+RISE,Sit Rising Rate ETF,,
+SAGG,Direxion Daily Tot Bd Mkt Bear 1X Shares ,N/A,N/A
+SOIL,Global X Fertilizers/Potash ETF,Global Equity ETF,
+SZO, PowerShares DB Crude Oil Short  ,N/A,N/A
+TESS,TESSCO Technologies Incorporate ,Services,Electronics Wholesale
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+VBLT,Vascular Biogenics Ltd.,N/A,N/A
+ADRU,PowerShares BLDRS Europe 100 ADR Index Fund ETF,US Equity ETF,
+ASX,Advanced Semiconductor Engineer ,Technology,Semiconductor Equipment & Materials
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+CROX,Crocs Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+DNOW,NOW Inc. Common,Basic Materials,Oil & Gas Equipment & Services
+EEB,Guggenheim BRIC ETF,Global Equity ETF,
+ENOR,iShares MSCI Norway Cppd Investable Mkt,Global Equity ETF,
+FAN,First Trust ISE Global Wind Energy ETF,Global Equity ETF,
+FLEX,Flextronics International Ltd. ,Technology,Printed Circuit Boards
+IWD,iShares Russell 1000 Value ETF,US Equity ETF,
+JMBA,Jamba Inc. ,Services,Restaurants
+MSP, Madison Strategic Sector Premiu ,N/A,N/A
+NFG,National Fuel Gas Company Commo ,Utilities,Gas Utilities
+PAGG,PowerShares Global Agriculture Portfolio ETF,Global Equity ETF,
+PRMW,Primo Water Corporation ,Consumer Goods,Beverages - Soft Drinks
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+SRS,ProShares UltraShort Real Estate ETF,Commodity Based ETF,
+TBZ,ProShares UltraShort 3-7 Year Treasury ETF,Commodity Based ETF,
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+UBR,ProShares Ultra MSCI Brazil ETF,Commodity Based ETF,
+BRKR,Bruker Corporation ,Technology,Scientific & Technical Instruments
+RDI,Reading International Inc ,Services,Movie Production Theaters
+VISI,Volt Information Sciences Inc.,Services,Staffing & Outsourcing Services

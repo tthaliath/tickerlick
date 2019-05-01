@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JNCE,Jounce Therapeutics  Inc.,,
+OAS,Oasis Petroleum Inc. Common Sto ,Basic Materials,Independent Oil & Gas
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+FRC,FIRST REPUBLIC BANK Common Stoc ,Financial,Money Center Banks
+PFBX,Peoples Financial Corporation ,Financial,Regional - Northeast Banks
+BPK, Blackrock Municipal 2018 Term T ,Financial,Closed-End Fund - Debt
+GLAD,Gladstone Capital Corporation ,Financial,Asset Management
+EPU,iShares MSCI All Peru Capped Index Fund ETF,Global Equity ETF,
+AGIO,Agios Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SMLV,SPDR Russell 2000 Low Volatility ETF ,N/A,N/A
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+ARRS,Arris Group Inc ,Technology,Communication Equipment
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+CPL,CPFL Energia S.A. CPFL Energia  ,Utilities,Foreign Utilities

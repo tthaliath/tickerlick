@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+LMNR,Limoneira Co ,Consumer Goods,Farm Products
+VSBN,VSB Bancorp Inc. (NY) ,Financial,Regional - Northeast Banks
+WEBK, Wellesley Bancorp  Inc. ,Financial,Regional - Northeast Banks
+SGM,Stonegate Mortgage Corporation ,Financial,Closed-End Fund - Debt
+CUNB, CU Bancorp (CA) ,Financial,Regional - Pacific Banks
+PFBC,Preferred Bank ,Financial,Regional - Pacific Banks
+CTBI,Community Trust Bancorp Inc. ,Financial,Regional - Southeast Banks
+SVBI,Severn Bancorp Inc ,Financial,Regional - Mid-Atlantic Banks
+HEOP, Heritage Oaks Bancorp ,Financial,Regional - Pacific Banks
+SOHO,Sotherly Hotels Inc. ,Financial,REIT - Hotel/Motel
+GFED,Guaranty Federal Bancshares In ,Financial,Regional - Southwest  Banks
+CETX,Cemtrex Inc.,Industrial Goods,Industrial Equipment & Components
+CIX,CompX International Inc. Common ,Industrial Goods,Machine Tools & Accessories
+INVN, InvenSense  Inc. Common ,Technology,Semiconductor - Integrated Circuits
+IVAC,Intevac Inc. ,Technology,Diversified Electronics

@@ -1,0 +1,5 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PAL,North American Palladium Ltd.  ,Basic Materials,Industrial Metals & Minerals
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+IQNT, Neutral Tandem  Inc. ,Technology,Wireless Communications

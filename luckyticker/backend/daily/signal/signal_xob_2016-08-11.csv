@@ -1,0 +1,3 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MFRM, Mattress Firm Holding Corp. ,Consumer Goods,Home Furnishings & Fixtures
+WING,Wingstop Inc.,Services,Restaurants

@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SUN,Sunoco Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+SPU,SkyPeople Fruit Juice Inc. ,Consumer Goods,Beverages - Soft Drinks
+ICON, Iconix Brand Group  Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+ANGI, Angie's List  Inc. ,N/A,N/A
+KTP, Corts 7.625 Pfd Common ,N/A,N/A
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+DIN,DineEquity Inc Common ,Services,Restaurants
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+RLH,Red Lions Hotels Corporation Co ,Services,Lodging
+FRGI, Fiesta Restaurant Group  Inc. ,Services,Restaurants
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+CSPI,CSP Inc. ,Technology,Business Software & Services
+KTCC,Key Tronic Corporation ,Technology,Computer Peripherals
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities

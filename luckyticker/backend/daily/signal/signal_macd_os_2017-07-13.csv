@@ -1,0 +1,102 @@
+ticker,name,sector,industry
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+DIS,Walt Disney Company (The) Commo ,Services,Entertainment - Diversified
+EIX,Edison International Common Sto ,Utilities,Electric Utilities
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+DG,Dollar General Corporation Comm ,Services,Discount Variety Stores
+DLR,Digital Realty Trust Inc. Comm ,Financial,REIT - Office
+O,Realty Income Corporation Commo ,Financial,REIT - Retail
+PCG,Pacific Gas & Electric Co. Comm ,Utilities,Electric Utilities
+RAI,Reynolds American Inc Common St ,Consumer Goods,Cigarettes
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+CVX,Chevron Corporation Common Stoc ,Basic Materials,Major Integrated Oil & Gas
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+TJX,TJX Companies Inc. (The) Commo ,Services,Department Stores
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+SRE,Sempra Energy Common ,Utilities,Gas Utilities
+BCRX,BioCryst Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BOJA,Bojangles  Inc.,Services,Restaurants
+DCM,NTT DOCOMO Inc American Deposi ,Technology,Telecom Services - Foreign
+FMF,First Trust Morningstar Futs Strat ,N/A,N/A
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+MPW,Medical Properties Trust Inc.  ,Financial,REIT - Healthcare Facilities
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+OUT,OUTFRONT Media Inc. Common Stoc,Financial,Property Management
+PHYS, Sprott Physical Gold Trust ETV ,N/A,N/A
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+RJZ, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+SIPE,SPDR Barclays 0-5 Year TIPS ETF ,,
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+TYD, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+YCL,ProShares Ultra Yen ETF,Commodity Based ETF,
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+AHT,Ashford Hospitality Trust Inc C ,Financial,REIT - Hotel/Motel
+BKEP, Blueknight Energy Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities
+EXPR,Express Inc. Common ,Services,Apparel Stores
+FULLL,Full Circle Capital Corporation ,N/A,N/A
+GLDI,Credit Suisse Gold Shrs Cov Call Exc ETN ,N/A,N/A
+GQRE,FlexShares Global Quality Real Estate ,N/A,N/A
+HPT, Hospitality Properites Trust Co ,Financial,REIT - Retail
+INKM, SPDR SSgA Income Allocation ETF ,N/A,N/A
+JCAP,Jernigan Capital  Inc.,Financial,REIT - Industrial
+MDWD,MediWound Ltd. ,Healthcare,Biotechnology
+MRVL,Marvell Technology Group Ltd. ,Technology,Semiconductor - Integrated Circuits
+PSCC,PowerShares S&P SmallCap Consumer Staples Portfolio ETF,US Equity ETF,
+RTH,Market Vectors Retail ETF,US Equity ETF,
+TISI,Team Inc. Common ,Services,Business Services
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+WBIH,WBI Tactical High Income Shares ,,
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+DXJH,WisdomTree Japan Hedged Health,,
+FAM, First Trust/Aberdeen Global Opp ,N/A,N/A
+FXCH, CurrencyShares Chinese Renminbi ,N/A,N/A
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment
+HALO, Halozyme Therapeutics  Inc. ,Healthcare,Biotechnology
+HSEA,HSBC Holdings plc ,N/A,N/A
+IPDN,Professional Diversity Network LLC ,Technology,Internet Information Providers
+JPMV,iShares MSCI Japan Minimum Vola ,,
+MIK,The Michaels Companies Inc.,Services,Specialty Retail Other
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities
+OGE,OGE Energy Corporation Common S ,Utilities,Electric Utilities
+PEY,PowerShares Dividend Achievers ETF,US Equity ETF,
+PUI,PowerShares Dynamic Utilities ETF,US Equity ETF,
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+USG,USG Corporation Common ,Industrial Goods,General Building Materials
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+ATV,Acorn International Inc. ADS ,Services,Catalog & Mail Order Houses
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+CDZI,Cadiz Inc. ,Services,Business Services
+DBV, PowerShares DB G10 Currency Har ,N/A,N/A
+DHS,WisdomTree High-Yielding Equity Fund ETF,US Equity ETF,
+EE,El Paso Electric Company Common ,Utilities,Electric Utilities
+FDL,First Trust Morningstar ETF,US Equity ETF,
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+GOV,Government Properties Income Tr ,Financial,REIT - Office
+HCLP, Hi-Crush Partners LP Common Uni ,Basic Materials,Industrial Metals & Minerals
+IPS,SPDR S&P International Consumer Staples Sector ETF,Global Equity ETF,
+KXI,iShares S&P Global Consumer Staples Sector Index Fund ETF,Global Equity ETF,
+MLN,Market Vectors-Lehman Brothers AMT-Free Long Municipal Index ETF,Fixed Income ETF,
+NLR,Market Vectors-Nuclear Energy ETF,Global Equity ETF,
+PGNX,Progenics Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PXMV,PowerShares Fundamental Pure Mid Value Portfolio ETF,US Equity ETF,
+RETL, Direxion Daily Retail Bull 3X S ,N/A,N/A
+SHOR,ShoreTel Inc. ,Technology,Communication Equipment
+TRC,Tejon Ranch Co Common ,Financial,Property Management
+UUP, PowerShares DB USD Index Bullis ,N/A,N/A
+XRT,SPDR S&P Retail ETF,US Equity ETF,
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts

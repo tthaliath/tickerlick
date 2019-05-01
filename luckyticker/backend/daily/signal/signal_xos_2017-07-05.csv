@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+FUE, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+BHL, Blackrock Defined Opportunity C ,N/A,N/A
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+DL,China Distance Education Holdin ,Services,Education & Training Services
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+DCM,NTT DOCOMO Inc American Deposi ,Technology,Telecom Services - Foreign
+AEE,Ameren Corporation Common ,Utilities,Diversified Utilities
+AES,The AES Corporation Common Stoc ,Utilities,Electric Utilities

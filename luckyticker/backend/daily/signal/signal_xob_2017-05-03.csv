@@ -1,0 +1,48 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+ROM,ProShares Ultra Technology ETF,Commodity Based ETF,
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+AIZ,Assurant Inc. Common ,Financial,Accident & Health Insurance
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+SOCL,Global X Social Media Index ETF,Global Equity ETF,
+XENT,Intersect ENT Inc.,Healthcare,Medical Appliances & Equipment
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+AXON,Axovant Sciences Ltd.,Healthcare,Biotechnology
+AMED,Amedisys Inc ,Healthcare,Home Health Care
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+WCG,Wellcare Health Plans Inc. Com ,Healthcare,Health Care Plans
+KAI,Kadant Inc Common ,Industrial Goods,Diversified Machinery
+VWR,VWR Corporation,N/A,N/A
+DSLV, VelocityShares 3x Inverse Silve ,N/A,N/A
+COW, iPath Dow Jones UBS Livestock T ,N/A,N/A
+PCN, Pimco Corporate & Income Strate ,N/A,N/A
+RCL,Royal Caribbean Cruises Ltd. Co ,Services,Resorts & Casinos
+CCL,Carnival Corporation Common Sto ,Services,Resorts & Casinos
+FSTR,L.B. Foster Company ,Services,Basic Materials Wholesale
+PCLN,priceline.com Incorporated ,Services,General Entertainment
+CUK,Carnival Plc ADS ADS ,Services,General Entertainment
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+CHGG,Chegg Inc. ,Services,Education & Training Services
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+CACQ,Caesars Acquisition Company ,Services,Resorts & Casinos
+TXRH,Texas Roadhouse Inc. ,Services,Restaurants
+FB, Facebook  Inc. ,Technology,Internet Information Providers
+AVNW,Aviat Networks Inc. ,Technology,Communication Equipment
+HUBS,HubSpot Inc. Common,Technology,Application Software
+UCTT,Ultra Clean Holdings Inc. ,Technology,Semiconductor - Specialized
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+FSLR,First Solar Inc. ,Technology,Semiconductor - Specialized
+EQIX,Equinix Inc. ,Technology,Telecom Services - Domestic
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+INXN, InterXion Holding N.V. Ordinary ,Technology,Internet Information Providers
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+QLYS, Qualys  Inc. ,Technology,Application Software
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+ATVI,Activision Blizzard Inc ,Technology,Multimedia & Graphics Software
+PXLG,PowerShares Fundamental Pure Large Growth ETF,US Equity ETF,
+PNQI,PowerShares Nasdaq Internet Portfolio ETF,US Equity ETF,
+FDN,First Trust DJ Internet Index Fund ETF,US Equity ETF,
+IYW,iShares Dow Jones U.S. Technology Index Fund ETF,US Equity ETF,

@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+TEP,Tallgrass Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+NFX,Newfield Exploration Company Co ,Basic Materials,Independent Oil & Gas
+WPX, WPX Energy  Inc. Common ,Basic Materials,Independent Oil & Gas
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+PDCE,Pioneer Drilling Company Common ,Basic Materials,Oil & Gas Drilling & Exploration
+ECA,Encana Corporation ,Basic Materials,Major Integrated Oil & Gas
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+EPZM,Epizyme Inc. ,Healthcare,Biotechnology
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+TYO, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+FPL,First Trust New Opportunities M ,N/A,N/A
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+CDZI,Cadiz Inc. ,Services,Business Services
+CHS,Chico's FAS Inc. Common ,Services,Apparel Stores
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+PXI,PowerShares Dynamic Energy ETF,US Equity ETF,
+SIZ,QuantShares U.S. Market Neutral Size Fund ETF,US Equity ETF,

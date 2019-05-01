@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AFTY,CSOP FTSE China A50 ETF,,
+BVN,Compania Mina Buenaventura S.A ,Basic Materials,Gold
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+ICBK,County Bancorp Inc.,Financial,Savings & Loans
+FEMS,First Trust Emerging Markets SC AlphaDEX ETF,Global Equity ETF,
+ITCI,Intra-Cellular Therapies Inc. ,Healthcare,Biotechnology
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+ABEO,Abeona Therapeutics Inc. ,N/A,N/A
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments

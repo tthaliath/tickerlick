@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPOS,Renaissance Capital Greenwich F,,
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+CLMT,Calumet Specialty Products Part ,Basic Materials,Oil & Gas Refining & Marketing
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+EVR,Evercore Partners Inc Class A C ,Financial,Asset Management
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+MC,Moelis ,Financial,Asset Management
+NDRM,NeuroDerm Ltd.,Healthcare,Biotechnology
+TREX,Trex Company Inc. Common ,Industrial Goods,General Building Materials
+CBAY,CymaBay Therapeutics Inc.,N/A,N/A
+HIFR,InfraREIT Inc. Common,N/A,N/A
+RGT,Royce Global Value Trust  Inc.  ,N/A,N/A
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+DDS,Dillard's Inc. Common ,Services,Department Stores
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+BMI,Badger Meter Inc. Common ,Technology,Scientific & Technical Instruments
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+YY,YY Inc. ,Technology,Internet Information Providers
+CVLT,CommVault Systems Inc. ,Technology,Application Software
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities

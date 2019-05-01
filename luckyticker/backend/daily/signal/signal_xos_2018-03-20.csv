@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EEP,Enbridge Energy L.P. Class A C ,Basic Materials,Oil & Gas Pipelines
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+KINS,Kingstone Companies Inc ,Financial,Property & Casualty Insurance
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+MNE, Blackrock Muni New York Interme ,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+KEN,Kenon Holdings Ltd.,N/A,N/A
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+GME,Gamestop Corporation Common Sto ,Services,Electronics Stores
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+DM,Dolan Company (The) Common Stoc ,Services,Publishing - Periodicals
+MGI,Moneygram International Inc. N ,Services,Business Services
+TACO,Del Taco Restaurants  Inc.,Services,Restaurants
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign
+JASO,JA Solar Holdings Co. Ltd. ,Technology,Semiconductor - Specialized
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HLNE,Hamilton Lane Incorporated,,
+CDXC,ChromaDex Corporation,Basic Materials,Chemicals - Major Diversified
+SORL,SORL Auto Parts Inc. ,Consumer Goods,Auto Manufacturers - Major
+CBG,CBRE Group Inc Common ,Financial,Property Management
+GMED, Globus Medical  Inc. Class A Co ,Healthcare,Medical Appliances & Equipment
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+JYNT,The Joint Corp.,Healthcare,Hospitals
+CAA,CalAtlantic Group  Inc.,N/A,N/A
+CMPR,Cimpress N.V,Services,Business Services
+USAT,USA Technologies Inc. ,Services,Business Services
+VSAT,ViaSat Inc. ,Technology,Communication Equipment

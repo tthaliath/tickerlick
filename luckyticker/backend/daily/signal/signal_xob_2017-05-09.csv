@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ELY,Callaway Golf Company Common St ,Consumer Goods,Sporting Goods
+FSBW,FS Bancorp Inc. ,Financial,Regional - Pacific Banks
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+AUBN,Auburn National Bancorporation ,Financial,Regional - Southeast Banks
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+ADUS,Addus HomeCare Corporation ,Healthcare,Home Health Care
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+PSF, Cohen & Steers Select Preferred ,N/A,N/A
+MODN,Model N Inc. ,N/A,N/A
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+RAIL,Freightcar America Inc. ,Services,Railroads
+MELI,MercadoLibre Inc. ,Services,Business Services
+MAR,Marriot International Common St ,Services,Lodging
+W,Wayfair Inc. Class A Common Sto,Services,Catalog & Mail Order Houses
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+WB,Weibo Corporation ,Technology,Internet Information Providers
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+INXN, InterXion Holding N.V. Ordinary ,Technology,Internet Information Providers
+AAPL,Apple Inc. ,Technology,Personal Computers
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+YY,YY Inc. ,Technology,Internet Information Providers
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,

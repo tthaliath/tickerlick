@@ -1,0 +1,123 @@
+OS,APA,Apache Corporation Common ,53.41,26.9181
+OS,CHK,Chesapeake Energy Corporation C ,5.66,28.1705
+OS,FCX,Freeport-McMoRan Copper & Gold ,13.25,29.5093
+OS,LB,L.B. Foster Company ,50.99,26.4867
+OS,RRC,Range Resources Corporation Com ,27.64,25.5248
+OS,SWN,Southwestern Energy Company Com ,7.35,23.0359
+OS,HRB, H&R Block  Inc. Common ,20.05,23.0833
+OS,TRIP, TripAdvisor  Inc. ,42.62,22.075
+OB,AAPL,Apple Inc. ,136.66,85.6952
+OB,ABT,Abbott Laboratories Common Stoc ,45.68,84.3547
+OB,ACN,Accenture plc. Class A Ordinary ,123.43,74.2554
+OB,ADBE,Adobe Systems Incorporated ,119.31,74.3197
+OB,ADS,Alliance Data Systems Corporati ,244.81,72.1186
+OB,AEE,Ameren Corporation Common ,54.58,70.784
+OB,AEP,American Electric Power Company ,67.15,75.645
+OB,AGN,Allergan Inc. Common ,245.37,70.5429
+OB,AJG,Arthur J. Gallagher & Co. Commo ,56.86,73.1006
+OB,ALL,Allstate Corporation (The) Comm ,80.91,80.9245
+OB,AMGN,Amgen Inc. ,174.56,76.4347
+OB,AMP,Ameriprise Financial Inc. Comm ,129.83,72.7613
+OB,AMT,American Tower Corporation (REI ,112.89,75.5088
+OB,AWK,American Water Works Company I ,76.3,71.7213
+OB,BA,Boeing Company (The) Common Sto ,177.44,77.3974
+OB,BAX,Baxter International Inc. Commo ,50.49,78.4971
+OB,BCR,C.R. Bard Inc. Common ,245.18,74.5549
+OB,BDX,Becton Dickinson and Company C ,183.42,76.0295
+OB,CAG,ConAgra Foods Inc. Common Stoc ,41.16,74.273
+OB,CAH,Cardinal Health Inc. Common St ,82.14,74.7709
+OB,CB,Chubb Corporation (The) Common  ,138.41,72.9909
+OB,CHD,Church & Dwight Company Inc. C ,49.53,76.4163
+OB,CHRW,C.H. Robinson Worldwide Inc. ,80.13,74.7506
+OB,CL,Colgate-Palmolive Company Commo ,73.35,72.9157
+OB,CLX,Clorox Company (The) Common Sto ,136.37,83.1985
+OB,CMS,CMS Energy Corporation Common S ,44.68,75.7008
+OB,COO,Cooper Companies Inc. (The) Co ,199.72,79.5925
+OB,COST,Costco Wholesale Corporation ,177.56,76.5642
+OB,CSCO,Cisco Systems Inc. ,34.32,85.129
+OB,DD,E.I. du Pont de Nemours and Com ,79.81,70.1276
+OB,DGX,Quest Diagnostics Incorporated  ,97.31,73.8696
+OB,DHR,Danaher Corporation Common Stoc ,86.08,74.1903
+OB,DOW,Dow Chemical Company (The) Comm ,63.55,70.9345
+OB,DVA,DaVita Inc. Common ,69.04,74.1969
+OB,EFX,Equifax Inc. Common ,129.38,72.3356
+OB,EIX,Edison International Common Sto ,78.87,80.2193
+OB,ES,EnergySolutions Inc Common Stoc ,59.03,74.6553
+OB,ETR,Entergy Corporation Common Stoc ,75.8,70.5624
+OB,EXR,Extra Space Storage Inc Common  ,79.49,70.2942
+OB,FIS,Fidelity National Information S ,83.84,72.6861
+OB,FISV,Fiserv Inc. ,116.3,79.9919
+OB,GLW,Corning Incorporated Common Sto ,27.73,71.5137
+OB,INTU,Intuit Inc. ,128.01,82.6441
+OB,ISRG,Intuitive Surgical Inc. ,736.86,81.504
+OB,ITW,Illinois Tool Works Inc. Common ,131.68,75.9144
+OB,JNJ,Johnson & Johnson Common ,122.73,83.5705
+OB,KLAC,KLA-Tencor Corporation ,90.29,71.4278
+OB,KMB,Kimberly-Clark Corporation Comm ,133.66,81.7186
+OB,LH,Laboratory Corporation of Ameri ,142.89,71.3655
+OB,LMT,Lockheed Martin Corporation Com ,266,70.1201
+OB,LNT,Alliant Energy Corporation Comm ,39.52,70.561
+OB,LUK,Leucadia National Corporation C ,25.69,70.0337
+OB,LUV,Southwest Airlines Company Comm ,58.54,71.8909
+OB,MAA,Mid-America Apartment Communiti ,102.05,71.1058
+OB,MCD,McDonald's Corporation Common S ,128.65,78.792
+OB,MCO,Moody's Corporation Common Stoc ,113.29,85.2536
+OB,MDT,Medtronic Inc. Common ,81.03,74.5857
+OB,MHK,Mohawk Industries Inc. Common  ,225.96,76.1344
+OB,MJN,Mead Johnson Nutrition Company  ,87.89,74.4824
+OB,MMC,Marsh & McLennan Companies Inc ,73.51,72.756
+OB,MMM,3M Company Common ,187.41,79.9276
+OB,MO,Altria Group Inc. ,74.43,82.1955
+OB,MON,Monsanto Company Common ,112.96,76.7792
+OB,MTD,Mettler-Toledo International I ,475.46,77.3021
+OB,NEE,NextEra Energy Inc. Common Sto ,130.96,90.3232
+OB,NI,NiSource Inc Common ,24.01,76.0565
+OB,NKE,Nike Inc. Common ,57.86,70.8075
+OB,NOC,Northrop Grumman Corporation Co ,245.05,73.1439
+OB,NTAP,NetApp Inc. ,40.95,73.9199
+OB,ORCL,Oracle Corporation ,43.17,84.2116
+OB,PCG,Pacific Gas & Electric Co. Comm ,66.33,76.117
+OB,PDCO,Patterson Companies Inc. ,45.22,77.633
+OB,PEP,Pepsico Inc. Common ,109.83,77.5056
+OB,PFE,Pfizer Inc. Common ,34.26,78.2519
+OB,PGR,Progressive Corporation (The) C ,39.05,74.126
+OB,PM,Philip Morris International Inc ,107.72,87.4101
+OB,PNW,Pinnacle West Capital Corporati ,81.44,72.8352
+OB,PPL,PP&L Corporation Common ,36.83,75.1634
+OB,RAI,Reynolds American Inc Common St ,61.5,76.5476
+OB,RHT,Red Hat Inc. Common ,84.86,81.7733
+OB,ROP,Roper Industries Inc. Common S ,209.91,86.8546
+OB,RSG,Republic Services Inc. Common  ,61.35,79.1776
+OB,SHW,Sherwin-Williams Company (The)  ,312.65,73.1218
+OB,SRE,Sempra Energy Common ,109.09,74.1135
+OB,STX,Seagate Technology. ,47.75,71.1479
+OB,SWK,Stanley Black & Decker Inc. Co ,127.77,70.1379
+OB,SYK,Stryker Corporation Common Stoc ,129.27,79.7616
+OB,TIF,Tiffany & Co. Common ,91.73,80.2296
+OB,TMK,Torchmark Corporation Common St ,77.55,72.3929
+OB,TMO,Thermo Fisher Scientific Inc Co ,158.98,73.0591
+OB,TRV,The Travelers Companies Inc. C ,122.27,70.2442
+OB,UHS,Universal Health Services Inc. ,125.98,76.9956
+OB,V,Visa Inc. ,88.43,75.4962
+OB,WAT,Waters Corporation Common ,156.4,76.6377
+OB,WM,Waste Management Inc. Common S ,73.15,79.0637
+OB,WMT,Wal-Mart Stores Inc. Common St ,72.39,70.7688
+OB,XEL,Xcel Energy Inc. Common ,43.34,73.1353
+OB,XL,XL Group plc ,41.12,80.6696
+OB,XRAY,DENTSPLY International Inc. ,62.79,76.0207
+OB,BRK-B,Berkshire Hathaway Inc.,170.22,74.5974
+OB,GLD, SPDR Gold Trust ,119.7,70.2651
+OB,HCA, HCA Holdings  Inc. Common ,87.07,79.1582
+OB,HCP, HCP  Inc. Common ,32.64,72.7894
+OB,HD, Home Depot  Inc. (The) Common S ,145.95,76.1554
+OB,HON, Honeywell International Inc. Co ,125.03,80.5512
+OB,HPQ, Hewlett-Packard Company Common  ,17.65,85.5295
+OB,HRS, Harris Corporation Common ,111.1,71.4391
+OB,HSIC, Henry Schein  Inc. ,173.53,77.9907
+OB,LLY, Eli Lilly and Company Common St ,82.87,78.9291
+OB,SPY,SPDR S&P 500 ETF,236.74,79.8852
+OB,ALLE,Allegion plc Ordinary Shares ,73.95,73.7198
+OB,WBA,Walgreens Boots Alliance Inc.,87.61,76.5397
+OB,PYPL,PayPal Holdings  Inc.,43.07,71.6511
+OB,TGNA,TEGNA Inc.,24.8,82.6124
+OB,SPGI,S&P Global  Inc.,130.82,83.1169

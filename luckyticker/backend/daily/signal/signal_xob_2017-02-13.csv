@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+CC,The Chemours Company,Basic Materials,Specialty Chemicals
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+WNC,Wabash National Corporation Com ,Consumer Goods,Trucks & Other Vehicles
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+EFX,Equifax Inc. Common ,Financial,Credit Services
+ACGL,Arch Capital Group Ltd. ,Financial,Property & Casualty Insurance
+BOE, Blackrock Global Blackrock Glob ,Financial,Closed-End Fund - Foreign
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+CALA,Calithera Biosciences Inc.,Healthcare,Biotechnology
+BSX,Boston Scientific Corporation C ,Healthcare,Medical Appliances & Equipment
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+ADES,ADA-ES Inc. ,Industrial Goods,Pollution & Treatment Controls
+CVCO,Cavco Industries Inc. ,Industrial Goods,Manufactured Housing
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+SLMBP,SLM Corporation ,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+QSR,Restaurant Brands International,N/A,N/A
+DSL,DoubleLine Income Solutions Fun ,N/A,N/A
+FIBG,Credit Suisse FI Enhanced Big Cap Gr ETN ,N/A,N/A
+CLLS,Cellectis S.A.,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+BCO,Brinks Company (The) Common Sto ,Services,Security & Protection Services
+PLKI,Popeyes Louisiana Kitchen Inc. ,Services,Restaurants
+EEFT,Euronet Worldwide Inc. ,Services,Business Services
+FLT,FleetCor Technologies Inc. Com ,Services,Business Services
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+INFN,Infinera Corporation ,Technology,Communication Equipment
+SYMC,Symantec Corporation ,Technology,Security Software & Services
+CDW,CDW Corporation ,Technology,Information Technology Services
+CTRL,Control4 Corporation ,Technology,Diversified Electronics
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+CRCM,Care.com Inc. ,Technology,Internet Information Providers

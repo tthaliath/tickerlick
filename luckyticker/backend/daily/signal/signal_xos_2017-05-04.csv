@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+OKS,ONEOK Partners L.P. Common Sto ,Basic Materials,Oil & Gas Pipelines
+NOV,National Oilwell Varco Inc. Co ,Basic Materials,Oil & Gas Equipment & Services
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+RIG,Transocean Ltd (Switzerland) Co ,Basic Materials,Oil & Gas Drilling & Exploration
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+DO,Diamond Offshore Drilling Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+ANDE,The Andersons Inc. ,Consumer Goods,Farm Products
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+O,Realty Income Corporation Commo ,Financial,REIT - Retail
+RY,Royal Bank Of Canada Common Sto ,Financial,Money Center Banks
+NNN,National Retail Properties Comm ,Financial,REIT - Diversified
+EPR,Entertainment Properties Trust  ,Financial,REIT - Retail
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+HTA, Healthcare Trust of America  In ,Financial,REIT - Healthcare Facilities
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+STOR,STORE Capital Corporation Commo,N/A,N/A
+SPXL, Direxion Daily S&P 500 Bull 3X  ,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+VIAB, Viacom Inc. ,Services,CATV Systems
+OSTK,Overstock.com Inc. ,Services,Catalog & Mail Order Houses
+PCMI,PCM Inc. ,Services,Specialty Retail
+WBAI,500.com Limited ,Services,Gaming Activities
+TRK,Speedway Motorsports Inc. Comm ,Services,Sporting Activities
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+IPHI,Inphi Corporation Common ,Technology,Semiconductor - Broad Line
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities
+OKE,ONEOK Inc. Common ,Utilities,Gas Utilities

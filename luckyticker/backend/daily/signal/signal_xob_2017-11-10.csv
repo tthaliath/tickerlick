@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OILB,iPath Series B S&P GSCI Crude O,,
+PUMP,ProPetro Holding Corp.,,
+WEXP,WisdomTree U.S. Export and Mult,,
+GOOS,Canada Goose Holdings Inc. Subo,,
+HLNE,Hamilton Lane Incorporated,,
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+AHH,N/A ,Financial,REIT - Diversified
+IPCC,Infinity Property and Casualty  ,Financial,Property & Casualty Insurance
+CUBE, CubeSmart Common Shares ,Financial,REIT - Industrial
+PRI,Primerica Inc. Common ,Financial,Life Insurance
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+GMED, Globus Medical  Inc. Class A Co ,Healthcare,Medical Appliances & Equipment
+HAE, Haemonetics Corporation Common  ,Healthcare,Medical Instruments & Supplies
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+USAK,USA Truck Inc. ,Services,Trucking
+TEL,TE Connectivity Ltd. New Switze ,Technology,Diversified Electronics
+TU,TELUS Corporation Common ,Technology,Wireless Communications
+TEAM,Atlassian Corporation Plc,Technology,Information Technology Services
+IWY,iShares Russell Top 200 Growth Index Fund ETF,US Equity ETF,

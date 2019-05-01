@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CLNS,Colony NorthStar  Inc.,,
+JELD,JELD-WEN Holding  Inc.,,
+GIFI,Gulf Island Fabrication Inc. ,Basic Materials,Oil & Gas Equipment & Services
+MPAA,Motorcar Parts of America Inc. ,Consumer Goods,Auto Parts
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+FDUS, Fidus Investment Corporation ,Financial,Asset Management
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc. ,Financial,REIT - Diversified
+ESRT,Empire State Realty Trust Inc. ,Financial,REIT - Diversified
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+NMS,Nuveen Minnesota Municipal Inco,N/A,N/A
+JRVR,James River Group Holdings Ltd,N/A,N/A
+ESBA,Empire State Realty OP L.P. ,N/A,N/A
+DM,Dolan Company (The) Common Stoc ,Services,Publishing - Periodicals
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+ORA,Ormat Technologies Inc. Common ,Utilities,Electric Utilities

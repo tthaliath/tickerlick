@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+DDG,ProShares Short Oil & Gas ETF,Commodity Based ETF,
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+TGTX,TG Therapeutics Inc. ,Healthcare,Biotechnology
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+PFH, Cabco Tr Jcp 7.625 Common ,N/A,N/A
+CCRC,China Customer Relations Centers  Inc.,N/A,N/A
+RFT,RAIT Financial Trust 7.625% Sen ,N/A,N/A
+DISCK,Discovery Communications Inc ,NULL,NULL
+DISCA,Discovery Communications Inc ,Services,CATV Systems
+VOXX,VOXX International Corporation ,Services,Electronics Wholesale
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores
+DISH,DISH Network Corporation ,Services,CATV Systems
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+SATS,EchoStar Corporation ,Technology,Communication Equipment
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices
+TERP,TerraForm Power Inc.,Utilities,Diversified Utilities

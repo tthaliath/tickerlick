@@ -1,0 +1,135 @@
+ticker,name,sector,industry
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+CVS,CVS Caremark Corporation Common ,Services,Drug Stores
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+DLPH, Delphi Automotive plc Ordinary  ,Consumer Goods,Auto Parts
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+KMX,CarMax Inc ,Services,Auto Dealerships
+MHK,Mohawk Industries Inc. Common  ,Industrial Goods,Textile Industrial
+R,Ryder System Inc. Common ,Services,Rental & Leasing Services
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+VMC,Vulcan Materials Company (Holdi ,Industrial Goods,General Building Materials
+GGP,General Growth Properties Inc. ,Financial,REIT - Retail
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+MLM,Martin Marietta Materials Inc. ,Industrial Goods,General Building Materials
+MLPI, UBS AG ETN ,N/A,N/A
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+NETE, Net Element International  Inc. ,Technology,Internet Software & Services
+NXP, Nuveen Select Tax Free Income P ,N/A,N/A
+PRAH,PRA Health Sciences Inc.,Healthcare,Medical Laboratories & Research
+RCII,Rent-A-Center Inc. ,Services,Rental & Leasing Services
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+SRET,Global X SuperDividend REIT ETF,,
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+WLKP,Westlake Chemical Partners LP C,Basic Materials,Chemicals - Major Diversified
+YMLI,Yorkville High Income Infras MLP ETF ,N/A,N/A
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+PCMI,PCM Inc. ,Services,Specialty Retail
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+AGNC,American Capital Agency Corp. ,Financial,REIT - Residential
+AUBN,Auburn National Bancorporation ,Financial,Regional - Southeast Banks
+BFK, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+CAI,CAI International Inc.,Services,Rental & Leasing Services
+CLI,Mack-Cali Realty Corporation Co ,Financial,REIT - Office
+CTNN,iPath Pure Beta Cotton ETN ,,
+ENLK,EnLink Midstream Partners LP ,Basic Materials,Independent Oil & Gas
+FGB, First Trust Specialty Finance a ,N/A,N/A
+FTF, Franklin Templeton Limited Dura ,Financial,Closed-End Fund - Debt
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+ING,ING Group N.V. Common ,NULL,NULL
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+NBW, Neuberger Berman California Int ,N/A,N/A
+NPO,Enpro Industries Inc ,Industrial Goods,Industrial Equipment & Components
+NYNY,Empire Resorts Inc. ,Services,Resorts & Casinos
+PENN,Penn National Gaming Inc. ,Services,Resorts & Casinos
+QED,IQ Hedge Event-Driven Tracker E,,
+SAH,Sonic Automotive Inc. Common S ,Services,Auto Dealerships
+SGQI,Janus SG Global Quality Income,,
+SWM,Schweitzer-Mauduit Internationa ,Consumer Goods,Paper & Paper Products
+TPH,TRI Pointe Homes Inc. ,Industrial Goods,Residential Construction
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+YMLP, Yorkville High Income MLP Excha ,N/A,N/A
+DXJR,WisdomTree Japan Hedged Real Estate ,N/A,N/A
+HEUV,iShares Edge MSCI Min Vol Europ,,
+MXL,MaxLinear Inc Class A Common S ,Technology,Semiconductor Equipment & Materials
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+XIN,Xinyuan Real Estate Co Ltd Amer ,Industrial Goods,Residential Construction
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+AGYS,Agilysys Inc. ,Technology,Application Software
+AXL,American Axle & Manufacturing H ,Consumer Goods,Auto Parts
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+CHA,China Telecom Corp Ltd ADS ,Technology,Telecom Services - Foreign
+CVI,CVR Energy Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+EEP,Enbridge Energy L.P. Class A C ,Basic Materials,Oil & Gas Pipelines
+ESBA,Empire State Realty OP L.P. ,N/A,N/A
+FLCO,Franklin Liberty Investment Gra,,
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+GNT, GAMCO Natural Resources  Gold & ,N/A,N/A
+GWRS,Global Water Resources  Inc.,N/A,N/A
+JELD,JELD-WEN Holding  Inc.,,
+MLPX,Global X MLP and Energy Infrastructure ETF ,N/A,N/A
+NEA, Nuveen AMT-Free Municipal Incom ,N/A,N/A
+NVGS,Navigator Holdings Ltd. ,Services,Shipping
+OIS,Oil States International Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+PK,Park Hotels & Resorts Inc.,,
+SAM,Boston Beer Company Inc. (The) ,Consumer Goods,Beverages - Brewers
+SHO,Sunstone Hotel Investors Inc.  ,Financial,REIT - Hotel/Motel
+TCCB,Triangle Capital Corporation 6.,N/A,N/A
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+AMID, American Midstream Partners  LP ,Utilities,Gas Utilities
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+HTLD, Heartland Express  Inc. ,Services,Trucking
+NMS,Nuveen Minnesota Municipal Inco,N/A,N/A
+SON,Sonoco Products Company Common  ,Consumer Goods,Paper & Paper Products
+AEM,Agnico-Eagle Mines Limited Comm ,Basic Materials,Gold
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+BSE, Blackrock New York Municipal In ,N/A,N/A
+CHMI,Cherry Hill Mortgage Investment Corporation ,Financial,REIT - Residential
+CPT,Camden Property Trust Common St ,Financial,REIT - Residential
+DAIO,Data I/O Corporation ,Technology,Diversified Electronics
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+ESRT,Empire State Realty Trust Inc. ,Financial,REIT - Diversified
+FLIO,Franklin Liberty International,,
+GAIN,Gladstone Investment Corporatio ,Financial,Diversified Investments
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc. ,Financial,REIT - Diversified
+JMP,JMP Group Inc Common ,Financial,Investment Brokerage - National
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+MHNC,Maiden Holdings North America   ,N/A,N/A
+MLTI,Credit Suisse X-Links Multi-Ass,,
+NEOS,Neos Therapeutics  Inc.,Healthcare,Drugs - Generic
+NXC, Nuveen California Select Tax-Fr ,Financial,Closed-End Fund - Debt
+OVLC,Guggenheim U.S. Large Cap Optim,,
+PKB,PowerShares Dynamic Build & Construction ETF,US Equity ETF,
+RALS,ProShares RAFI® Long/Short ETF,Commodity Based ETF,
+SEA,Guggenheim Shipping ETF,Global Equity ETF,
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+YLCO,Global X Yieldco Index ETF,,
+CCK,Crown Holdings Inc. ,Consumer Goods,Packaging & Containers
+JHDG,WisdomTree Japan Hedged Quality,,
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+AFB, AllianceBernstein National Muni ,Financial,Closed-End Fund - Debt
+AMZA,InfraCap MLP ETF ,,
+BBGI,Beasley Broadcast Group Inc. ,Services,Broadcasting - Radio
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+CIU,iShares Barclays Intermediate Credit Bond Fund ETF,Fixed Income ETF,
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+EMD, Western Asset Emerging Markets  ,N/A,N/A
+FCOR,Fidelity Corporate Bond ETF ,,
+FRAN, Francesca's Holdings Corporatio ,Services,Specialty Retail  Other
+GIL,Gildan Activewear Inc. Class A ,Consumer Goods,Textile - Apparel Clothing
+GSBD,Goldman Sachs BDC Inc.,N/A,N/A
+IBCC,iSharesBond Mar 2018 Corp ex-Fincls Term ,N/A,N/A
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+LAD,Lithia Motors Inc. Common Stoc ,Services,Auto Dealerships

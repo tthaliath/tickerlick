@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QWLD,SPDR MSCI World Quality Mix ETF ,,
+IIIN, Insteel Industries  Inc. ,Basic Materials,Steel & Iron
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+SGY,Stone Energy Corporation Common ,Basic Materials,Independent Oil & Gas
+WBC,Wabco Holdings Inc. Common Stoc ,Consumer Goods,Auto Parts
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+OPB,Opus Bank ,Financial,Money Center Banks
+FSB,Franklin Financial Network,Financial,Money Center Banks
+MLN,Market Vectors-Lehman Brothers AMT-Free Long Municipal Index ETF,Fixed Income ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+APOG,Apogee Enterprises Inc. ,Industrial Goods,General Building Materials
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+ATHN,athenahealth Inc. ,Services,Business Services
+DHX,Dice Holdings Inc. Common Stoc ,Services,Staffing & Outsourcing Services
+DTV,DIRECTV ,Services,CATV Systems
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+RMBS,Rambus Inc. ,Technology,Semiconductor- Memory Chips
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services

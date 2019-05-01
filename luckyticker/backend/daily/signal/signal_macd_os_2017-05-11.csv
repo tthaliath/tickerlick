@@ -1,0 +1,87 @@
+ticker,name,sector,industry
+DPS,Dr Pepper Snapple Group Inc Dr ,Consumer Goods,Beverages - Soft Drinks
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+DFS,Discover Financial Services Com ,Financial,Credit Services
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities
+FE,FirstEnergy Corporation Common  ,Utilities,Electric Utilities
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+HOML,ETRACS Monthly Reset 2xLeverage,,
+PF,Pinnacle Foods Inc. ,Consumer Goods,Food - Major Diversified
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+AMD,Advanced Micro Devices Inc. Co ,Technology,Semiconductor - Broad Line
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+DJP, iPath Dow Jones UBS Commodity I ,N/A,N/A
+DJCI, UBS AG Linked to the Dow Jones- ,N/A,N/A
+PPSI,Pioneer Power Solutions Inc. ,N/A,N/A
+RPAI, Retail Properties of America  I ,Financial,REIT - Diversified
+SMLL,Direxiion Daily Small Cap Bull  ,,
+ECNS,iShares MSCI China Small Cap Index Fund (ECNS) ETF,Global Equity ETF,
+CEW, WisdomTree Dreyfus Emerging Cur ,N/A,N/A
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+RXD,ProShares UltraShort Health Care ETF,Commodity Based ETF,
+GSC, Goldman Sachs Connect S&P Enhan ,N/A,N/A
+COBO,ProShares USD Covered Bond,Commodity Based ETF,
+MIXT,MiX Telematics Limited ,Technology,Technical & System Software
+CCLP,CSI Compressco LP,Basic Materials,Oil & Gas Equipment & Services
+CMDT,iShares Dow Jones-UBS Roll Sel Cmdty ,N/A,N/A
+NSEC,National Security Group Inc. ,Financial,Property & Casualty Insurance
+FTGC,First Trust Global Tact Cmdty Strat ,N/A,N/A
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+SCPB,SPDR Barclays Capital Short Term Corporate Bond ETF,Fixed Income ETF,
+IBCD,iSharesBond Mar 2020 Corp ex-Fincls Term ,N/A,N/A
+BBD,Banco Bradesco Sa American Depo ,Financial,Foreign Regional Banks
+UHN, United States Diesel Heating Oi ,N/A,N/A
+MDU,MDU Resources Group Inc. Commo ,Industrial Goods,General Building Materials
+FSFR,Fifth Street Senior Floating Rate Corp. ,N/A,N/A
+AGI,Alamos Gold Inc. ,Basic Materials,Gold
+RIC,Richmont Mines Inc. Common Sto ,Basic Materials,Gold
+HTA, Healthcare Trust of America  In ,Financial,REIT - Healthcare Facilities
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+FTSD,Franklin Short Duration U.S. Go ,,
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+PSLV, Sprott Physical Silver Trust ET ,N/A,N/A
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+MANH,Manhattan Associates Inc. ,Technology,Application Software
+VBFC,Village Bank and Trust Financia ,Financial,Regional - Mid-Atlantic Banks
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+CHEP,QuantShares U.S. Market Neutral Value Fund ETF,US Equity ETF,
+HCHC,HC2 HOLDINGS INC,Technology,Long Distance Carriers
+STPZ,PIMCO 1-5 Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+ASX,Advanced Semiconductor Engineer ,Technology,Semiconductor Equipment & Materials
+KW,Kennedy-Wilson Holdings Inc. Co ,Financial,Property Management
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+SLX,Market Vectors Steel Index ETF Fund ETF,US Equity ETF,
+SVBI,Severn Bancorp Inc ,Financial,Regional - Mid-Atlantic Banks
+VTIP, Vanguard Short-Term Inflation-P ,N/A,N/A
+KPTI,Karyopharm Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+AGF, DB Agriculture Long ETN DB Agri ,N/A,N/A
+SIM,Grupo Simec S.A.B. de C.V. Ame ,Basic Materials,Steel & Iron
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+GIFI,Gulf Island Fabrication Inc. ,Basic Materials,Oil & Gas Equipment & Services
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+FLXN,Flexion Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+BDMS,Birner Dental Management Servic ,Services,Business Services
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+MAG,Magnetek Inc. ,Industrial Goods,Industrial Electrical Equipment
+JJSF,J & J Snack Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+BAL, iPath DJ-UBS Cotton Subindex To ,N/A,N/A
+ANW,Aegean Marine Petroleum Network ,Services,Basic Materials Wholesale
+BSQR,BSQUARE Corporation ,Technology,Application Software
+GWR, Genesee & Wyoming Inc. Class A  ,Services,Railroads
+BKEPP, Blueknight Energy Partners L.P. ,N/A,N/A
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+TMST,Timken Steel Corporation Common,Basic Materials,Steel & Iron
+AU,AngloGold Ashanti Ltd. Common S ,Basic Materials,Gold
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+SIJ,ProShares UltraShort Industrials ETF,Commodity Based ETF,
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+RDN,Radian Group Inc. Common ,Financial,Property & Casualty Insurance
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A

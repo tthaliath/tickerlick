@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+IRDMB,Iridium Communications Inc,N/A,N/A
+DRN, Dexion Daily Real Estate Bull 3 ,N/A,N/A
+DIRT,iPath Pure Beta Agriculture ETN ,N/A,N/A
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+NVGS,Navigator Holdings Ltd. ,Services,Shipping
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale

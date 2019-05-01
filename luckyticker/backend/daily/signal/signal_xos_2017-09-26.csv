@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XRM,Xerium Technologies Inc. New C ,Consumer Goods,Paper & Paper Products
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+AVB,AvalonBay Communities Inc. Com ,Financial,REIT - Residential
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+VLRS,Controladora Vuela Compa ,Services,Major Airlines
+BRCD,Brocade Communications Systems ,Technology,Data Storage Devices
+JBL,Jabil Circuit Inc. Common Stoc ,Technology,Printed Circuit Boards
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+TRUE,TrueCar Inc.,Technology,Internet Service Providers
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities
+HNP, Huaneng Power Intl Common ,Utilities,Electric Utilities

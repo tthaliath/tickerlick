@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+GIFI,Gulf Island Fabrication Inc. ,Basic Materials,Oil & Gas Equipment & Services
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+EIO, Eaton Vance Ohio Municipal Bond ,Financial,Closed-End Fund - Debt
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+PCQ, PIMCO California Municipal Inco ,N/A,N/A
+MRT,MEDEQUITIES REALTY TRUST  INC. ,N/A,N/A
+OGCP,Empire State Realty OP L.P. ,N/A,N/A
+HOLD,AdvisorShares Sage Core Reserves ETF ,N/A,N/A
+PHII,PHI Inc. ,Services,Air Services Other
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+STN,Stantec Inc Common ,Services,Technical Services
+CHS,Chico's FAS Inc. Common ,Services,Apparel Stores

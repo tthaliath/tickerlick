@@ -1,0 +1,6 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HMNF,HMN Financial Inc. ,Financial,Savings & Loans
+GFED,Guaranty Federal Bancshares In ,Financial,Regional - Southwest  Banks
+CIX,CompX International Inc. Common ,Industrial Goods,Machine Tools & Accessories
+MJCO,Majesco,Technology,Application Software
+IVAC,Intevac Inc. ,Technology,Diversified Electronics

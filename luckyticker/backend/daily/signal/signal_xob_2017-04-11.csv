@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QLS,IQ Hedge Long Short Tracker ETF,,
+SUN,Sunoco Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+BLBD,BOLDFACE GROUP INC.,Consumer Goods,Auto Manufacturers - Major
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+TRNO,Terreno Realty Corporation Comm ,Financial,REIT - Industrial
+REXR,Rexford Industrial Realty Inc. ,Financial,REIT - Industrial
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+EGP,EastGroup Properties Inc. Comm ,Financial,REIT - Industrial
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+LCI,Lannett Co Inc Common ,Healthcare,Drug Manufacturers - Other
+EML,Eastern Company (The) ,Industrial Goods,Small Tools & Accessories
+RH,Restoration Hardware Holdings Inc. ,Services,Home Furnishing Stores
+SBAC,SBA Communications Corporation ,Services,Rental & Leasing Services
+DSX,Diana Shipping inc. common stoc ,Services,Shipping
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services
+EXAR,Exar Corporation ,Technology,Semiconductor - Integrated Circuits
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers

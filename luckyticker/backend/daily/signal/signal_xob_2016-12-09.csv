@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SXCL,Steel Excel Inc.,Basic Materials,Oil & Gas Equipment & Services
+ATW,Atwood Oceanics Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+FLO,Flowers Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+JJSF,J & J Snack Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+NKSH,National Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+OVBC,Ohio Valley Banc Corp. ,Financial,Regional - Midwest Banks
+RDN,Radian Group Inc. Common ,Financial,Property & Casualty Insurance
+AUD,PIMCO Australia Bond Index Fund ETF,Fixed Income ETF,
+URA,Global X Uranium ETF,Global Equity ETF,
+AVH,Avianca Holdings S.A. ,N/A,N/A
+BYD,Boyd Gaming Corporation Common  ,Services,Resorts & Casinos
+TCS,The Container Store Group Inc. ,Services,Specialty Retail
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment

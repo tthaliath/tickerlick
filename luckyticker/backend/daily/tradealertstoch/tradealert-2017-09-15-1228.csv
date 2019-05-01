@@ -1,0 +1,46 @@
+Buy,AGN,Allergan Inc. Common ,4.14462
+Buy,AIG,American International Group I ,16.4928
+Buy,ALL,Allstate Corporation (The) Comm ,8.82453
+Buy,AMGN,Amgen Inc. ,9.15771
+Buy,BMY,Bristol-Myers Squibb Company Co ,2.04315
+Buy,C,Citigroup Inc. Common ,4.22738
+Buy,CMCSA,Comcast Corporation ,17.1956
+Buy,CVX,Chevron Corporation Common Stoc ,14.5732
+Buy,DHR,Danaher Corporation Common Stoc ,2.56441
+Buy,GE,General Electric Company Common ,7.14287
+Buy,GS,Goldman Sachs Group Inc. (The) ,6.49312
+Buy,LOW,Lowe's Companies Inc. Common S ,9.8487
+Buy,MCD,McDonald's Corporation Common S ,12.2143
+Buy,MET,MetLife Inc. Common ,12.4351
+Buy,NKE,Nike Inc. Common ,10.0682
+Buy,ORCL,Oracle Corporation ,18.675
+Buy,OXY,Occidental Petroleum Corporatio ,19.182
+Buy,PFE,Pfizer Inc. Common ,9.23899
+Buy,RTN,Raytheon Company Common ,17.0157
+Buy,XOM,Exxon Mobil Corporation Common  ,16.4286
+Buy,HD, Home Depot  Inc. (The) Common S ,6.55044
+Buy,LLY, Eli Lilly and Company Common St ,4.26411
+Buy,ABBV,AbbVie Inc. ,4.90381
+Sell,AAPL,Apple Inc. ,82.7583
+Sell,AMZN,Amazon.com Inc. ,80.7999
+Sell,BA,Boeing Company (The) Common Sto ,96.3328
+Sell,COP,ConocoPhillips Common ,86.3247
+Sell,CSCO,Cisco Systems Inc. ,96.396
+Sell,CVS,CVS Caremark Corporation Common ,97.6928
+Sell,DIS,Walt Disney Company (The) Commo ,87.6424
+Sell,EMR,Emerson Electric Company Common ,91.3374
+Sell,INTC,Intel Corporation ,97.7563
+Sell,MMM,3M Company Common ,97.2221
+Sell,MON,Monsanto Company Common ,86.8471
+Sell,MSFT,Microsoft Corporation ,92.2307
+Sell,NVDA,NVIDIA Corporation ,87.7097
+Sell,QCOM,QUALCOMM Incorporated ,83.6575
+Sell,SBUX,Starbucks Corporation ,81.4546
+Sell,T,AT&T Inc. ,96.3339
+Sell,HAL, Halliburton Company Common Stoc ,81.3812
+Sell,HON, Honeywell International Inc. Co ,97.4237
+Sell,AAL,American Airlines Group Inc. ,82.353
+Sell,FOX,Twenty-First Century Fox Inc. ,89.0742
+Sell,FOXA,Twenty-First Century Fox Inc. ,86.0188
+Sell,BABA,Alibaba Group Holding Limited A,85.3531
+Sell,PYPL,PayPal Holdings  Inc.,89.6668

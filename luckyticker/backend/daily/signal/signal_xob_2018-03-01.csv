@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ECYT, Endocyte  Inc. ,Healthcare,Biotechnology
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+BCTF,Bancorp 34  Inc.,N/A,N/A
+JJA, iPath Dow Jones UBS Agriculture ,N/A,N/A
+JJG, iPath Dow Jones UBS Grains Tota ,N/A,N/A
+XTNT,Xtant Medical Holdings  Inc.,N/A,N/A
+ETSY,Etsy  Inc. ,N/A,N/A
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+TLND,Talend SA,N/A,N/A
+DDS,Dillard's Inc. Common ,Services,Department Stores
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+TWOU,2U Inc. ,Technology,Application Software

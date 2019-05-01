@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FGP,Ferrellgas Partners L.P. Commo ,Basic Materials,Oil & Gas Refining & Marketing
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+SCSS,Select Comfort Corporation ,Consumer Goods,Home Furnishings & Fixtures
+TPX,Tempur-pedic International Inc  ,Consumer Goods,Home Furnishings & Fixtures
+CALM,Cal-Maine Foods Inc. ,Consumer Goods,Food - Major Diversified
+LCI,Lannett Co Inc Common ,Healthcare,Drug Manufacturers - Other
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+BOM, PowerShares DB Base Metals Doub ,N/A,N/A
+TFG, Fixed Income Trust for Goldman  ,N/A,N/A
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+RYF,Guggenheim S&P Equal Weight Financial ETF,US Equity ETF,
+XLF,SPDR Financial Select Sector Fund ETF,US Equity ETF,

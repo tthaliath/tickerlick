@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDJJ,ProShares Ultra Junior Miners,,
+CRR,Carbo Ceramics Inc. Common Sto ,Basic Materials,Oil & Gas Equipment & Services
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+NBR,Nabors Industries Ltd. ,Basic Materials,Oil & Gas Drilling & Exploration
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+GDXJ,Market Vectors Junior Gold Miners ETF,Global Equity ETF,
+CNDA,IndexIQ Canada Small Cap ETF,Global Equity ETF,
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+WATT,Energous Corporation ,N/A,N/A
+HOLD,AdvisorShares Sage Core Reserves ETF ,N/A,N/A
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+GSH,Guangshen Railway Company Limit ,Services,Railroads

@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NVUS,Novus Therapeutics  Inc.,,
+MYOV,Myovant Sciences Ltd.,,
+AVD,American Vanguard Corporation C ,Basic Materials,Agricultural Chemicals
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+HMG,HMG/Courtland Properties Inc. ,Financial,REIT - Retail
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+JNP,Juniper Pharmaceuticals  Inc.,Healthcare,Drugs - Generic
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+TWLO,Twilio  Inc.,N/A,N/A
+PTI,Proteostasis Therapeutics  Inc.,N/A,N/A
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+GAIA,Gaiam Inc. ,Services,Catalog & Mail Order Houses
+STON,StoneMor Partners L.P. Common U ,Services,Personal Services
+IMMR, Immersion Corporation ,Technology,Computer Peripherals
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+PAYC,Paycom Software Inc. ,Technology,Application Software
+PRFT,Perficient Inc. ,Technology,Business Software & Services
+CWCO,Consolidated Water Co. Ltd. ,Utilities,Water Utilities

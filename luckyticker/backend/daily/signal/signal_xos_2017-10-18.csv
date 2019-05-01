@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TWNK,Hostess Brands  Inc.,,
+MLPZ,UBS AG ETRACS ETRACS 2xMonthly,,
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+AGFS,AgroFresh Solutions  Inc.,Conglomerates,Conglomerates
+WMS,WMS Industries Inc. Common Stoc ,Consumer Goods,Recreational Goods Other
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+TGTX,TG Therapeutics Inc. ,Healthcare,Biotechnology
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+CEM, ClearBridge Energy MLP Fund Inc ,N/A,N/A
+SOXS, Direxion Daily Semiconductor Be ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+MLPI, UBS AG ETN ,N/A,N/A
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+SRG,Seritage Growth Properties,N/A,N/A
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+FL,Footlocker Inc. ,Services,Apparel Stores
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+SVU,SuperValu Inc. Common ,Services,Grocery Stores
+GOGO,Gogo Inc. ,Technology,Diversified Communication Services
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices

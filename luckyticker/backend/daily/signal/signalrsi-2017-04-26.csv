@@ -1,0 +1,86 @@
+OS,ABC,AmerisourceBergen Corporation ( ,81.25,28.7813
+OS,CAH,Cardinal Health Inc. Common St ,72.31,24.2167
+OS,DPS,Dr Pepper Snapple Group Inc Dr ,92.98,29.6829
+OS,SJM,J.M. Smucker Company (The) New  ,126.9,26.3082
+OS,SLB,Schlumberger N.V. Common ,74.11,26.7916
+OS,GWW, W.W. Grainger  Inc. Common Stoc ,194.17,15.8669
+OS,IBM, International Business Machines ,160.06,19.7668
+OB,ADBE,Adobe Systems Incorporated ,132.79,74.087
+OB,AMAT,Applied Materials Inc. ,40.71,70.6313
+OB,AME,AMETEK Inc. ,57.1,74.1204
+OB,ATVI,Activision Blizzard Inc ,51.36,72.239
+OB,AVY,Avery Dennison Corporation Comm ,83.2,70.6001
+OB,BAX,Baxter International Inc. Commo ,55.59,78.7013
+OB,BBY,Best Buy Co. Inc. Common ,52.25,78.3467
+OB,BCR,C.R. Bard Inc. Common ,303.71,90.5501
+OB,BSX,Boston Scientific Corporation C ,25.97,71.0233
+OB,CAT,Caterpillar Inc. Common ,104.66,73.7556
+OB,CCL,Carnival Corporation Common Sto ,60.55,71.2114
+OB,CHTR,Charter Communications Inc. ,345.4,71.7225
+OB,CMG,Chipotle Mexican Grill Inc. Co ,482.99,73.4568
+OB,COL,Rockwell Collins Inc. Common S ,105.14,71.062
+OB,COST,Costco Wholesale Corporation ,176.8,75.8461
+OB,CTL,CenturyLink Inc. Common ,25.87,71.5549
+OB,CVS,CVS Caremark Corporation Common ,82,70.7586
+OB,DGX,Quest Diagnostics Incorporated  ,105.76,77.6763
+OB,DRI,Darden Restaurants Inc. Common ,86.05,75.5245
+OB,ECL,Ecolab Inc. Common ,128.8,72.2808
+OB,EQR,Equity Residential Common Share ,65.28,70.8443
+OB,EW,Edwards Lifesciences Corporatio ,109.3,83.049
+OB,EXPE,Expedia Inc. ,135.75,76.2603
+OB,FIS,Fidelity National Information S ,83.88,73.4412
+OB,FISV,Fiserv Inc. ,119.99,75.8112
+OB,GOOG,Alphabet Inc.,871.73,76.5347
+OB,IR,Ingersoll-Rand plc (Ireland) ,88.68,79.6939
+OB,ISRG,Intuitive Surgical Inc. ,834.02,84.4794
+OB,ITW,Illinois Tool Works Inc. Common ,139.14,70.5945
+OB,JNPR,Juniper Networks Inc. Common S ,29.46,71.5765
+OB,KLAC,KLA-Tencor Corporation ,100.8,71.3664
+OB,LEG,Leggett & Platt Incorporated C ,54.04,79.1276
+OB,LOW,Lowe's Companies Inc. Common S ,85.23,72.5458
+OB,LRCX,Lam Research Corporation ,145.51,83.4681
+OB,LVLT,Level 3 Communications Inc. Co ,60.99,76.0202
+OB,MA,Mastercard Incorporated Common  ,116.17,72.2275
+OB,MAR,Marriot International Common St ,96.3,74.5065
+OB,MAS,Masco Corporation Common ,37.45,77.0757
+OB,MCD,McDonald's Corporation Common S ,140.84,85.6614
+OB,MCO,Moody's Corporation Common Stoc ,118.75,76.9254
+OB,MHK,Mohawk Industries Inc. Common  ,238.35,70.7625
+OB,MMM,3M Company Common ,195,71.5539
+OB,MSFT,Microsoft Corporation ,67.83,72.7153
+OB,MTD,Mettler-Toledo International I ,512.99,76.2476
+OB,PKI,PerkinElmer Inc. Common ,59.98,73.6306
+OB,PPG,PPG Industries Inc. Common Sto ,110.48,70.6038
+OB,PX,Praxair Inc. Common ,125.11,73.3673
+OB,SBUX,Starbucks Corporation ,61.56,80.7283
+OB,SHW,Sherwin-Williams Company (The)  ,330.94,77.7184
+OB,SYK,Stryker Corporation Common Stoc ,136.19,77.8085
+OB,TDG,Transdigm Group Incorporated Tr ,250.73,70.2394
+OB,TMO,Thermo Fisher Scientific Inc Co ,168.01,82.116
+OB,TSS,Total System Services Inc. Com ,58.19,81.2317
+OB,TWX,Time Warner Inc. New Common Sto ,100.2,70.4693
+OB,UNH,UnitedHealth Group Incorporated ,174.38,73.6337
+OB,UTX,United Technologies Corporation ,118.2,75.7313
+OB,V,Visa Inc. ,91.82,71.9011
+OB,VRTX,Vertex Pharmaceuticals Incorpor ,116.34,70.3519
+OB,WAT,Waters Corporation Common ,170.94,81.8487
+OB,WHR,Whirlpool Corporation Common St ,185.12,78.6317
+OB,WMT,Wal-Mart Stores Inc. Common St ,75.43,77.6404
+OB,WYN,Wyndham Worldwide Corp Common   ,100.54,91.9621
+OB,WYNN,Wynn Resorts Limited ,125.19,77.9712
+OB,XL,XL Group plc ,41.93,70.0867
+OB,EA, Electronic Arts Inc. ,93.5,74.6058
+OB,FB, Facebook  Inc. ,146.56,75.4947
+OB,FBHS, Fortune Brands Home & Security  ,65.6,84.9864
+OB,HD, Home Depot  Inc. (The) Common S ,154.22,76.0635
+OB,HOLX, Hologic  Inc. ,44.6,73.2673
+OB,HON, Honeywell International Inc. Co ,130.1,71.164
+OB,HPQ, Hewlett-Packard Company Common  ,18.63,70.9098
+OB,IFF, Internationa Flavors & Fragranc ,138.8,73.2148
+OB,ILMN, Illumina  Inc. ,184.58,72.0069
+OB,STT, State Street Corporation Common ,83.55,71.1983
+OB,WFM, Whole Foods Market  Inc. ,36.35,78.9812
+OB,ZTS,Zoetis Inc. ,55.57,72.6008
+OB,ALLE,Allegion plc Ordinary Shares ,79.72,79.2578
+OB,GOOGL,Alphabet Inc.,889.14,74.9332
+OB,ANTM,Anthem Inc. Common,179.03,78.0668

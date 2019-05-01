@@ -1,0 +1,53 @@
+Buy,AAPL,Apple Inc. ,15.7093
+Buy,BAC,Bank of America Corporation Com ,11.4671
+Buy,BK,Bank of New York Mellon Corpora ,2.35522
+Buy,C,Citigroup Inc. Common ,19.5204
+Buy,CL,Colgate-Palmolive Company Commo ,3.17408
+Buy,CMCSA,Comcast Corporation ,14.5401
+Buy,COF,Capital One Financial Corporati ,12.4769
+Buy,DIS,Walt Disney Company (The) Commo ,3.0229
+Buy,GD,General Dynamics Corporation Co ,3.00368
+Buy,GILD,Gilead Sciences Inc. ,3.93351
+Buy,GM,General Motors Company Common S ,15.8738
+Buy,JPM,JP Morgan Chase & Co. Common St ,18.3367
+Buy,KO,Coca-Cola Company (The) Common  ,4.44411
+Buy,LMT,Lockheed Martin Corporation Com ,3.23062
+Buy,LOW,Lowe's Companies Inc. Common S ,11.5003
+Buy,MA,Mastercard Incorporated Common  ,1.55292
+Buy,MDT,Medtronic Inc. Common ,12.154
+Buy,MET,MetLife Inc. Common ,12.9632
+Buy,MMM,3M Company Common ,11.188
+Buy,MO,Altria Group Inc. ,3.7037
+Buy,MS,Morgan Stanley Common ,9.22696
+Buy,NKE,Nike Inc. Common ,5.55573
+Buy,ORCL,Oracle Corporation ,11.6633
+Buy,PEP,Pepsico Inc. Common ,7.03507
+Buy,PM,Philip Morris International Inc ,4.10445
+Buy,RTN,Raytheon Company Common ,1.14938
+Buy,T,AT&T Inc. ,18.5196
+Buy,TWX,Time Warner Inc. New Common Sto ,15.8769
+Buy,HAL, Halliburton Company Common Stoc ,13.8938
+Buy,HON, Honeywell International Inc. Co ,10.8897
+Buy,MDLZ, Mondelez International  Inc. ,8.96852
+Buy,FOX,Twenty-First Century Fox Inc. ,19.6585
+Buy,GOOGL,Alphabet Inc.,13.3769
+Buy,PYPL,PayPal Holdings  Inc.,4.19159
+Sell,AMD,Advanced Micro Devices Inc. Co ,88.6882
+Sell,AMGN,Amgen Inc. ,90.8799
+Sell,BMY,Bristol-Myers Squibb Company Co ,92.5925
+Sell,CELG,Celgene Corporation ,91.2234
+Sell,COST,Costco Wholesale Corporation ,83.0485
+Sell,CVS,CVS Caremark Corporation Common ,92.9666
+Sell,DD,E.I. du Pont de Nemours and Com ,80.7406
+Sell,MSFT,Microsoft Corporation ,88.5378
+Sell,NVDA,NVIDIA Corporation ,84.9587
+Sell,PFE,Pfizer Inc. Common ,93.7906
+Sell,QCOM,QUALCOMM Incorporated ,80.3771
+Sell,SBUX,Starbucks Corporation ,83.0922
+Sell,SO,Southern Company (The) Common S ,83.9996
+Sell,TGT,Target Corporation Common ,89.4134
+Sell,GLD, SPDR Gold Trust ,86.6007
+Sell,IBM, International Business Machines ,86.7306
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,89.3519
+Sell,LLY, Eli Lilly and Company Common St ,86.0287
+Sell,ABBV,AbbVie Inc. ,83.434

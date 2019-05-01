@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+AWH,Allied World Assurance Company  ,Financial,Property & Casualty Insurance
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+FISK,Empire State Realty OP L.P. ,N/A,N/A
+OGCP,Empire State Realty OP L.P. ,N/A,N/A
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+PSO,Pearson Plc Common ,Services,Publishing - Books

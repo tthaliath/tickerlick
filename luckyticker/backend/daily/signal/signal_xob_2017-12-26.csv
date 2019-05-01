@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBIG,WBI Large Cap Tactical Yield Sh ,,
+REVG,REV Group  Inc.,,
+FRAC,Keane Group  Inc.,,
+METC,Ramaco Resources  Inc.,,
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+LNG,Cheniere Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+PXD,Pioneer Natural Resources Compa ,Basic Materials,Independent Oil & Gas
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+KIN,Kindred Biosciences Inc. ,Healthcare,Biotechnology
+KLXI,KLX Inc.,N/A,N/A
+XIV, VelocityShares Daily Inverse VI ,N/A,N/A
+UGAZ, VelocityShares 3X Long Natural  ,N/A,N/A
+ERX, Direxion Energy Bull 3X Shares ,N/A,N/A
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+AEO,American Eagle Outfitters Inc. ,Services,Apparel Stores
+DNKN, Dunkin' Brands Group  Inc. ,Services,Restaurants
+XPO,XPO Logistics Inc. ,Services,Trucking
+CEA,China Eastern Airlines Corporat ,Services,Major Airlines
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+RWL,REVENUESHARES LARGE CAP FUND ETF,US Equity ETF,
+VCR,Vanguard Consumer Discretion ETF - DNQ ETF,US Equity ETF,

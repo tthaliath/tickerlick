@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QVAL,ValueShares U.S. Quantitative V ,,
+PY,Principal Shareholder Yield Ind,,
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+ARL,American Realty Investors Inc. ,Financial,Property Management
+ALLY,Ally Financial Inc. ,Financial,Mortgage Investment
+NCS,NCI Building Systems Inc. New  ,Industrial Goods,General Building Materials
+GFA,Gafisa SA Gafisa S.A. American  ,Industrial Goods,Residential Construction
+ETSY,Etsy  Inc. ,N/A,N/A
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+CPRT,Copart Inc. ,Services,Auto Dealerships
+NEWT,Newtek Business Services Inc. ,Services,Business Services
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores

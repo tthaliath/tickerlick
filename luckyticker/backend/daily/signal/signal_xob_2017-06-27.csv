@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PLNT,Planet Fitness,,
+CFNB,California First National Banco ,Financial,Regional - Pacific Banks
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+KIN,Kindred Biosciences Inc. ,Healthcare,Biotechnology
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PCO, Pendrell Corporation ,Technology,Wireless Communications
+ORCL,Oracle Corporation ,Technology,Application Software
+NEP,NextEra Energy Partners LP Com,Utilities,Diversified Utilities

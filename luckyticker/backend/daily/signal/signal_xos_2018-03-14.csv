@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MRGR,ProShares Merger ETF ,,
+AKBA,Akebia Therapeutics Inc. ,Healthcare,Biotechnology
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+FSD, First Trust High Income Long Sh ,N/A,N/A
+AZRE,Azure Power Global Limited,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+BIG,Big Lots Inc. Common ,Services,Discount Variety Stores
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+ISDR,Issuer Direct Corporation ,Technology,Information Technology Services
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+ORA,Ormat Technologies Inc. Common ,Utilities,Electric Utilities

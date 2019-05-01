@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKW,ARK Web x.0 ETF,,
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+PEP,Pepsico Inc. Common ,Consumer Goods,Beverages - Soft Drinks
+SNC,State National Companies Inc.,Financial,Property & Casualty Insurance
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+EWGS,iShares MSCI Germany Small Cap,Global Equity ETF,
+CROP,IndexIQ Global Agribusiness Small Cap ETF,Global Equity ETF,
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+CO,China Cord Blood Corporation. C ,Healthcare,Medical Laboratories & Research
+NOC,Northrop Grumman Corporation Co ,Industrial Goods,Aerospace/Defense - Major Diversified
+FGL,Fidelity and Guaranty Life Common ,N/A,N/A
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+MCD,McDonald's Corporation Common S ,Services,Restaurants
+ROL,Rollins Inc. Common ,Services,Business Services
+WTW,Weight Watchers International I ,Services,Personal Services
+STMP,Stamps.com Inc. ,Services,Catalog & Mail Order Houses
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+GSOL,Global Sources Ltd. ,Technology,Internet Information Providers
+NCIT,NCI Inc. ,Technology,Information Technology Services
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities

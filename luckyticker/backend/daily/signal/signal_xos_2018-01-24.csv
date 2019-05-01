@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+INSE,Inspired Entertainment  Inc.,,
+WDRW,Direxion Daily Regional Banks B,,
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+JPS, Nuveen Quality Preferred Income ,Financial,Closed-End Fund - Debt
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income ETF,
+PGF,PowerShares Financial Preferred ETF,Fixed Income ETF,
+AJRD,Aerojet Rocketdyne Holdings  Inc.,Industrial Goods,Aerospace/Defense - Major Diversified
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+ERH, Wells Fargo Advantage Utilities ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+EAE,Entergy Arkansas Inc. ,N/A,N/A
+DTQ, DTE Energy Company 2012 Series  ,N/A,N/A
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+PDFS,PDF Solutions Inc. ,Technology,Technical & System Software
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+IPHI,Inphi Corporation Common ,Technology,Semiconductor - Broad Line
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+NWE,NorthWestern Corporation Common ,Utilities,Diversified Utilities

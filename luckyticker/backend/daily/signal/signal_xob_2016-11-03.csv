@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+ADM,Archer-Daniels-Midland Company  ,Consumer Goods,Farm Products
+MBVT,Merchants Bancshares Inc. ,Financial,Regional - Northeast Banks
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+CORT,Corcept Therapeutics Incorporat ,Healthcare,Biotechnology
+FOXA,Twenty-First Century Fox Inc. ,Services,Entertainment - Diversified
+LOPE,Grand Canyon Education Inc. ,Services,Education & Training Services
+BRCD,Brocade Communications Systems ,Technology,Data Storage Devices
+MSCC,Microsemi Corporation ,Technology,Semiconductor - Integrated Circuits

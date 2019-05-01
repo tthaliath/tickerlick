@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+FXP,ProShares UltraShort FTSE China 25 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+NAII,Natural Alternatives Internatio ,Healthcare,Drug Related Products
+YANG, Direxion Daily China Bear 3x Sh ,N/A,N/A
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+BGFV,Big 5 Sporting Goods Corporatio ,Services,Sporting Goods Stores
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+NTN,NTN Buzztime Inc. Common ,Services,Broadcasting - TV
+EZM,WisdomTree MidCap Earnings Fund ETF,US Equity ETF,
+EES,WisdomTree SmallCap Earnings Fund ETF,US Equity ETF,

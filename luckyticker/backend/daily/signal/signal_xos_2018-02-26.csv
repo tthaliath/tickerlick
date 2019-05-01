@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+LCI,Lannett Co Inc Common ,Healthcare,Drug Manufacturers - Other
+AIMT,Aimmune Therapeutics,Healthcare,Biotechnology
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+PCQ, PIMCO California Municipal Inco ,N/A,N/A
+RPXC, RPX Corporation ,Services,Business Services
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities

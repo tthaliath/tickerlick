@@ -1,0 +1,30 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AAXN,Axon Enterprise  Inc.,,
+GTHX,G1 Therapeutics  Inc.,,
+MYOV,Myovant Sciences Ltd.,,
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+ECYT, Endocyte  Inc. ,Healthcare,Biotechnology
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+CCXI, ChemoCentryx  Inc. ,Healthcare,Biotechnology
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+CMRX,Chimerix Inc. ,Healthcare,Biotechnology
+JYNT,The Joint Corp.,Healthcare,Hospitals
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+AMRC,Ameresco Inc. Class A Common S ,Industrial Goods,Industrial Electrical Equipment
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+DIRT,iPath Pure Beta Agriculture ETN ,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+PTI,Proteostasis Therapeutics  Inc.,N/A,N/A
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+MED,MEDIFAST INC Common ,Services,Specialty Retail Other
+FTNT,Fortinet Inc. ,Technology,Application Software
+INFN,Infinera Corporation ,Technology,Communication Equipment
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+TTGT,TechTarget Inc. ,Technology,Internet Information Providers
+BR,Broadridge Financial Solutions ,Technology,Information & Delivery Services
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment

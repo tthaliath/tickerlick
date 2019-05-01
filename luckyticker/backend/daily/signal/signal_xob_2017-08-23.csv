@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+FSBW,FS Bancorp Inc. ,Financial,Regional - Pacific Banks
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+CUPM,iPath Pure Beta Copper ETN ,N/A,N/A
+BABA,Alibaba Group Holding Limited A,Services,Specialty Retail Other
+FRSH,Papa Murphy's Holdings Inc. ,Services,Specialty Eateries
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+MIXT,MiX Telematics Limited ,Technology,Technical & System Software
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NMZ, Nuveen Municipal High Income Op ,Financial,Closed-End Fund - Debt
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+RDN,Radian Group Inc. Common ,Financial,Property & Casualty Insurance
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+ESNT,Essent Group Ltd. ,Financial,Mortgage Investment
+MVF, Blackrock MuniVest Fund  Inc. C ,Financial,Closed-End Fund - Debt
+ARNA,Arena Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MCA, Blackrock MuniYield California  ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+KTOS,Kratos Defense & Security Solut ,Services,Security & Protection Services
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities

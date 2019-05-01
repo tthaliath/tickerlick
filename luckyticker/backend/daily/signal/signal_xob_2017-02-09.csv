@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+OAK, Oaktree Capital Group  LLC Clas ,Financial,Asset Management
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+UTG, Reaves Utility Income Fund Comm ,Financial,Closed-End Fund - Equity
+EFX,Equifax Inc. Common ,Financial,Credit Services
+MC,Moelis ,Financial,Asset Management
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+FMI,Foundation Medicine Inc. ,Healthcare,Medical Laboratories & Research
+RXDX,Ignyta Inc. ,Healthcare,Biotechnology
+ESPR,Esperion Therapeutics Inc. ,Healthcare,Biotechnology
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+TSRO, TESARO  Inc. ,Healthcare,Biotechnology
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+LBTYB, Liberty Global  Inc. ,N/A,N/A
+LVNTB,Liberty Interactive Corporation,N/A,N/A
+SLMBP,SLM Corporation ,N/A,N/A
+FCO, Aberdeen Global Income Fund  In ,N/A,N/A
+MELI,MercadoLibre Inc. ,Services,Business Services
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+KLIC,Kulicke and Soffa Industries I ,Technology,Semiconductor Equipment & Materials
+TDC,Teradata Corporation Common Sto ,Technology,Diversified Computer Systems
+CDW,CDW Corporation ,Technology,Information Technology Services
+ZEN,Zendesk Inc. Common,Technology,Application Software
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments

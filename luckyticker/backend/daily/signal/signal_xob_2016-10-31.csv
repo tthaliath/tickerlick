@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QESP,SPDR MSCI Spain Quality Mix ETF ,,
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+PFS,Provident Financial Services I ,Financial,Savings & Loans
+BSAC, Banco Santander - Chile ADS ,Financial,Money Center Banks
+OSHC,Ocean Shore Holding Co. ,Financial,Regional - Northeast Banks
+OCFC,OceanFirst Financial Corp. ,Financial,Savings & Loans
+CLGX,CoreLogic Inc. Common ,Financial,Property & Casualty Insurance
+BKOR,Oak Ridge Financial Services I ,Financial,Regional - Mid-Atlantic Banks
+LFUS,Littelfuse Inc. ,Industrial Goods,Industrial Electrical Equipment
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+ROL,Rollins Inc. Common ,Services,Business Services
+XRS,TAL Education Group American De ,Services,Education & Training Services
+VVI,Viad Corp Common ,Services,Business Services
+LOPE,Grand Canyon Education Inc. ,Services,Education & Training Services
+CPLA,Capella Education Company ,Services,Education & Training Services
+SAIA,Saia Inc. ,Services,Trucking
+MA,Mastercard Incorporated Common  ,Services,Business Services
+CHKP,Check Point Software Technologi ,Technology,Security Software & Services
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+LVLT,Level 3 Communications Inc. Co ,Technology,Diversified Communication Services
+SJW,SJW Corporation Common ,Utilities,Water Utilities

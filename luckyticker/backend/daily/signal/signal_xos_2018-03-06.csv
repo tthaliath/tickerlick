@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HK, Halcon Resources Corporation Co ,Basic Materials,Oil & Gas Drilling & Exploration
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+ENB,Enbridge Inc Common ,Basic Materials,Oil & Gas Pipelines
+ACU,Acme United Corporation. Common ,Consumer Goods,Housewares & Accessories
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+DAN,Dana Holding Corporation Common ,Consumer Goods,Auto Parts
+MNST, Monster Beverage Corporation ,Consumer Goods,Beverages - Soft Drinks
+HPT, Hospitality Properites Trust Co ,Financial,REIT - Retail
+SHO,Sunstone Hotel Investors Inc.  ,Financial,REIT - Hotel/Motel
+DERM,Dermira Inc.,Healthcare,Biotechnology
+YMLI,Yorkville High Income Infras MLP ETF ,N/A,N/A
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+FEI,First Trust MLP and Energy Inco ,N/A,N/A
+RCII,Rent-A-Center Inc. ,Services,Rental & Leasing Services
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+BEP,Brookfield Renewable Energy Partners LP ,Utilities,Diversified Utilities

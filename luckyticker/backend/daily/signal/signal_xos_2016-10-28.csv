@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLKP,Westlake Chemical Partners LP C,Basic Materials,Chemicals - Major Diversified
+CRR,Carbo Ceramics Inc. Common Sto ,Basic Materials,Oil & Gas Equipment & Services
+KRA,Kraton Performance Polymers In ,Basic Materials,Specialty Chemicals
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+GIL,Gildan Activewear Inc. Class A ,Consumer Goods,Textile - Apparel Clothing
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+FBIZ, First Business Financial Servic ,Financial,Regional - Midwest Banks
+AMP,Ameriprise Financial Inc. Comm ,Financial,Asset Management
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+PICB,PowerShares International Corporate Bond Portfolio ETF,Fixed Income ETF,
+PIZ,PowerShares DWA Developed Market Technical Leaders Portfolio ETF,Global Equity ETF,
+IRY,SPDR S&P International Health Care Sector ETF,Global Equity ETF,
+LHCG,LHC Group ,Healthcare,Home Health Care
+CYNO,Cynosure Inc. ,Healthcare,Medical Appliances & Equipment
+NVLS,Nivalis Therapeutics  Inc.,Healthcare,Biotechnology
+USPH,U.S. Physical Therapy Inc. ,Healthcare,Specialized Health Services
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+PRLB, Proto Labs  Inc. Common stock ,Industrial Goods,Machine Tools & Accessories
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+CIGI,Colliers International Group Inc.,N/A,N/A
+CLLS,Cellectis S.A.,N/A,N/A
+ATHN,athenahealth Inc. ,Services,Business Services
+PMC,Pharmerica Corporation Common S ,Services,Drug Stores
+SIMO,Silicon Motion Technology Corpo ,Technology,Diversified Electronics
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign
+XHS,SPDR S&P Health Care Services ETF,US Equity ETF,

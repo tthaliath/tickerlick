@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+MSL,MidSouth Bancorp Common ,Financial,Regional - Southeast Banks
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+IVC,Invacare Corporation Common Sto ,Healthcare,Medical Appliances & Equipment
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+SRV, The Cushing MLP Total Return Fu ,N/A,N/A
+SRF, The Cushing Royalty & Income Fu ,N/A,N/A
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+MHNB, Maiden Holdings North America   ,N/A,N/A
+FL,Footlocker Inc. ,Services,Apparel Stores
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+USDP,USD Partners LP Common Units re,Services,Railroads

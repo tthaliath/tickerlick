@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+SXT,Sensient Technologies Corporati ,Basic Materials,Specialty Chemicals
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+TWI,Titan International Inc. Commo ,Consumer Goods,Rubber & Plastics
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+PRA,ProAssurance Corporation Common ,Financial,Property & Casualty Insurance
+CRF, Cornerstone Total Return Fund   ,Financial,Closed-End Fund - Equity
+FBSS,Fauquier Bankshares Inc. ,Financial,Regional - Southeast Banks
+GFF,Griffon Corporation Common Stoc ,Industrial Goods,General Building Materials
+NDSN,Nordson Corporation ,Industrial Goods,Diversified Machinery
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+TMHC,Taylor Morrison Home Corporation ,Industrial Goods,Residential Construction
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+WEAT, Teucrium Wheat Fund ETV ,N/A,N/A
+BETR,Amplify Snack Brands,N/A,N/A
+BH,Biglari Holdings Inc. ,Services,Restaurants
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+TEDU,Tarena International Inc. ,Services,Education & Training Services
+CVGI,Commercial Vehicle Group Inc. ,Services,Auto Parts Wholesale
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+HBP,Huttig Building Products Inc. ,Services,Building Materials Wholesale
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines

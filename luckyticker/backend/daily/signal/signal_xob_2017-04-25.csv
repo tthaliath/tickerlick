@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RMCF,Rocky Mountain Chocolate Factor ,Consumer Goods,Confectioners
+SAFM,Sanderson Farms Inc. ,Consumer Goods,Food - Major Diversified
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+AIQ,Alliance HealthCare Services I ,Healthcare,Medical Laboratories & Research
+BCR,C.R. Bard Inc. Common ,Healthcare,Medical Instruments & Supplies
+ATRI,ATRION Corporation ,Healthcare,Medical Instruments & Supplies
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+JPI, Nuveen Preferred and Income Ter ,N/A,N/A
+IF, Aberdeen Indonesia Fund  Inc. ( ,N/A,N/A
+ALLE,Allegion plc Ordinary Shares ,N/A,N/A
+NSAT,Norsat International Inc. (NEW),N/A,N/A
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+SALE,RetailMeNot Inc. ,Services,Marketing Services
+MCD,McDonald's Corporation Common S ,Services,Restaurants
+CPLA,Capella Education Company ,Services,Education & Training Services
+OLLI,Ollies Bargain Outlet Holdings  Inc.,Services,Discount  Variety Stores
+SHOP,Shopify Inc.,Technology,Application Software
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials

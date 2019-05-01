@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+CELP,Cypress Energy Partners L.P. ,Basic Materials,Oil & Gas Equipment & Services
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+FMSA,FMSA Holdings Inc. Common,Basic Materials,Industrial Metals & Minerals
+CRT,Cross Timbers Royalty Trust Com ,Basic Materials,Oil & Gas Drilling & Exploration
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+MDLY,Medley Management Inc. Class A,N/A,N/A
+NBW, Neuberger Berman California Int ,N/A,N/A
+RUBI,the Rubicon Project Inc. ,Technology,Application Software

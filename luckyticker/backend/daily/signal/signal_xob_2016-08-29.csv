@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEDD,iPath Pure Beta Lead ETN ,,
+BREW, Craft Brew Alliance  Inc. ,Consumer Goods,Beverages - Brewers
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+EBTC,Enterprise Bancorp Inc ,Financial,Savings & Loans
+TICC,TICC Capital Corp. ,Financial,Asset Management
+PFS,Provident Financial Services I ,Financial,Savings & Loans
+ABR,Arbor Realty Trust Common ,Financial,REIT - Diversified
+TRMK,Trustmark Corporation ,Financial,Regional - Southeast Banks
+HMST, HomeStreet  Inc. ,Financial,Savings & Loans
+ELMD,Electromed Inc. Common ,Healthcare,Home Health Care
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+DAKT,Daktronics Inc. ,Industrial Goods,Industrial Electrical Equipment
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+CCZ,Comcast Holdings ZONES,N/A,N/A
+WATT,Energous Corporation ,N/A,N/A
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+TLYS, Tilly's  Inc. Common ,Services,Apparel Stores
+AWRE,Aware Inc. ,Technology,Communication Equipment
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards
+QADA,QAD Inc. ,Technology,Application Software
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+VCRA, Vocera Communications  Inc. Com ,Technology,Communication Equipment
+SEMI,SunEdison Semiconductor Limited,Technology,Semiconductor- Memory Chips
+SLAB,Silicon Laboratories Inc. ,Technology,Semiconductor - Specialized

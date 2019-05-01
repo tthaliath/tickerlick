@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LLSC,Direxion Daily Small Cap 1.25X,,
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+MMLP,Martin Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+SUN,Sunoco Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+NUS,Nu Skin Enterprises Inc. Commo ,Consumer Goods,Personal Products
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+FBRC, FBR & Co ,Financial,Asset Management
+EGPT,Market Vectors Egypt Index ETF,Global Equity ETF,
+ALR,Alere Inc. Common ,Healthcare,Medical Laboratories & Research
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+LFVN, Lifevantage Corporation ,Healthcare,Drug Related Products
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+LILA,Liberty LiLAC Group,N/A,N/A
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+CVS,CVS Caremark Corporation Common ,Services,Drug Stores
+WBAI,500.com Limited ,Services,Gaming Activities
+KAR,KAR Auction Services Inc Commo ,Services,Auto Dealerships
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+SCSC,ScanSource Inc. ,Technology,Technical & System Software
+IIJI, Internet Initiative Japan  Inc. ,Technology,Internet Service Providers
+MRVC,MRV Communications Inc. ,Technology,Semiconductor - Integrated Circuits
+IMOS,ChipMOS TECHNOLOGIES (Bermuda)  ,Technology,Semiconductor Equipment & Materials
+RTL,iShares FTSE NAREIT Retail Index Fund ETF,US Equity ETF,
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities

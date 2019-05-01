@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+GAB, Gabelli Equity Trust  Inc. (The ,Financial,Closed-End Fund - Equity
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+BSMX, Grupo Financiero Santander Mexi ,Financial,Foreign Regional Banks
+MQY, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+MNTX,Manitex International Inc. ,Industrial Goods,Diversified Machinery
+FOIL,iPath Pure Beta Aluminum ETN ,N/A,N/A
+MUJ, Blackrock MuniHoldings New Jers ,N/A,N/A
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+MXE, Mexico Equity and Income Fund   ,N/A,N/A
+MCI, Babson Capital Corporate Invest ,N/A,N/A
+KFYP,KraneShares CSI China Five Year Plan ETF ,N/A,N/A
+HMH, Helios Multi-Sector High Income ,N/A,N/A
+OMAB,Grupo Aeroportuario del Centro  ,NULL,NULL
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+BBW,Build-A-Bear Workshop Inc. Com ,Services,Toy & Hobby Stores
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+PAC,Grupo Aeroportuario Del Pacific ,Services,Air Services Other
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+MBLY,Mobileye N.V. Ordinary Shares,Technology,Application Software
+SPWR, SunPower Corporation ,Technology,Semiconductor - Specialized
+RYF,Guggenheim S&P Equal Weight Financial ETF,US Equity ETF,
+XLF,SPDR Financial Select Sector Fund ETF,US Equity ETF,

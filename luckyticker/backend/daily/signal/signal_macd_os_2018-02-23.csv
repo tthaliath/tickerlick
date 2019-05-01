@@ -1,0 +1,204 @@
+ticker,name,sector,industry
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+PSX, Phillips 66 Common ,Basic Materials,Oil & Gas Refining & Marketing
+AIV,Apartment Investment and Manage ,Financial,REIT - Residential
+HIG, Hartford Financial Services Gro ,Financial,Property & Casualty Insurance
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+CVX,Chevron Corporation Common Stoc ,Basic Materials,Major Integrated Oil & Gas
+MUR,Murphy Oil Corporation Common S ,Basic Materials,Oil & Gas Refining & Marketing
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+DLR,Digital Realty Trust Inc. Comm ,Financial,REIT - Office
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+NLSN, Nielsen Holdings N.V. Common St ,Technology,Information & Delivery Services
+PEP,Pepsico Inc. Common ,Consumer Goods,Beverages - Soft Drinks
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+VCSH,Vanguard Short-Term Corporate Bond ETF,Fixed Income ETF,
+VTL,Vital Therapies Inc. ,Healthcare,Biotechnology
+AGGE,IQ Enhanced Core Bond U.S. ETF,,
+BHK, Blackrock Core Bond Trust Black ,Financial,Closed-End Fund - Debt
+BOND,PIMCO Total Return Exchange-Traded Fund,Fixed Income ETF,
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+DDJP,WisdomTree Dynamic Currency Hed,,
+GBF,iShares Barclays Government/Credit Bond Fund ETF,Fixed Income ETF,
+IBDO,iShares iBonds Dec 2023 Term Co,,
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+MGEE,MGE Energy Inc. ,Utilities,Diversified Utilities
+NRE,Northstar Realty Europe Corp.,N/A,N/A
+PKE,Park Electrochemical Corporatio ,Technology,Printed Circuit Boards
+RBCN,Rubicon Technology Inc. ,Technology,Semiconductor - Specialized
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+UGI,UGI Corporation Common ,Utilities,Diversified Utilities
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+WBII,WBI Tactical Income Shares ,,
+ARDX,Ardelyx Inc.,Healthcare,Biotechnology
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale
+BNDC,FlexShares Core Select Bond Fun,,
+BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,N/A,N/A
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Fixed Income ETF,
+CLNS,Colony NorthStar  Inc.,,
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+DAN,Dana Holding Corporation Common ,Consumer Goods,Auto Parts
+EDV,Vanguard Extended Duration Treasury ETF,Fixed Income ETF,
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+FMB,First Trust Managed Municipal E ,,
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+HNRG, Hallador Energy Company ,Basic Materials,Nonmetallic Mineral Mining
+ING,ING Group N.V. Common ,NULL,NULL
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+MXL,MaxLinear Inc Class A Common S ,Technology,Semiconductor Equipment & Materials
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+ORMP,Oramed Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PFIG,PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF,Fixed Income ETF,
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Fixed Income ETF,
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+SKOR,FlexShares Credit-Scored US Cor ,,
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+TRTN,Triton International Limited,N/A,N/A
+ULH,Universal Logistics Holdings  Inc.,N/A,N/A
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+WDRW,Direxion Daily Regional Banks B,,
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+AGGP,IQ Enhanced Core Plus Bond U.S.,,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+DO,Diamond Offshore Drilling Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+IBDR,iShares iBonds Dec 2026 Term Co,,
+MAB, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+MHE, Massachusetts Health and Educat ,Financial,Closed-End Fund - Debt
+NX,Quanex Building Products Corpor ,Industrial Goods,General Building Materials
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+SCHP,Schwab U.S. TIPS ETF,Fixed Income ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+UHT,Universal Health Realty Income  ,Financial,REIT - Healthcare Facilities
+VFL, Delaware Investments National M ,N/A,N/A
+ATKR,Atkore International Group Inc.,N/A,N/A
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities
+BNJ, BlackRock New Jersey Municipal  ,Financial,Closed-End Fund - Debt
+BSCQ,GuggenheimBulletShares2026Corpo,,
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+COR,CoreSite Realty Corporation Com ,Financial,REIT - Office
+CVV,CVD Equipment Corporation ,Industrial Goods,Diversified Machinery
+DCUD,Dominion Resources  Inc. 2016 S ,N/A,N/A
+EMCI,EMC Insurance Group Inc. ,Financial,Property & Casualty Insurance
+FCOR,Fidelity Corporate Bond ETF ,,
+FWRD,Forward Air Corporation ,Services,Air Delivery & Freight Services
+GOV,Government Properties Income Tr ,Financial,REIT - Office
+HR, Healthcare Realty Trust Incorpo ,Financial,REIT - Healthcare Facilities
+INGR, Ingredion Incorporated Common S ,Consumer Goods,Processed & Packaged Goods
+LRN,K12 Inc Common ,Services,Education & Training Services
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+MUJ, Blackrock MuniHoldings New Jers ,N/A,N/A
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+NXR, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+PAI, Western Asset Income Fund Commo ,Financial,Closed-End Fund - Debt
+PGHY,PowerShares Glbl S/T Hi Yld Bd ,N/A,N/A
+PTGX,Protagonist Therapeutics  Inc.,N/A,N/A
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+VGSH,Vanguard Short-Term Government Bond ETF,Fixed Income ETF,
+WEA, Western Asset Bond Fund Share o ,N/A,N/A
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+AGZ,iShares Barclays Agency Bond Fund ETF,Fixed Income ETF,
+BLJ, Blackrock New Jersey Municipal  ,Financial,Closed-End Fund - Debt
+BSCP,Guggenheim BulletShares 2025 Co,,
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+FBND,Fidelity Total Bond ETF ,,
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+IFIX,Deutsche X-trackers Barclays In,,
+MBB,iShares Barclays MBS Fixed-Rate Bond ETF,Fixed Income ETF,
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+NXRT,NexPoint Residential Trust  Inc. ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income ETF,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+AKP, Alliance California Municipal I ,Financial,Closed-End Fund - Debt
+AYR,Aircastle Limited Common ,Services,Rental & Leasing Services
+BKK, Blackrock Municipal 2020 Term T ,Financial,Closed-End Fund - Debt
+BOFIL,Schnell Voyager 3 SICAV ,N/A,N/A
+BSTC,BioSpecifics Technologies Corp ,Healthcare,Biotechnology
+CHCT,Community Healthcare Trust Incorporated,N/A,N/A
+CORP,PIMCO Investment Grade Corporate Bond Index Fund ETF,Fixed Income ETF,
+DEA,Easterly Government Properties,N/A,N/A
+EMTL,SPDR DoubleLine Emerging Market,,
+FGBI,First Guaranty Bancshares  Inc.,N/A,N/A
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+HJPX,iShares Currency Hedged JPX-Nik,,
+IIPR,Innovative Industrial Propertie,,
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+LDRI,PowerShares LadderRite 0-5 Year ,,
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+NJV, Nuveen New Jersey Municipal Val ,N/A,N/A
+NTCT,NetScout Systems Inc. ,Technology,Business Software & Services
+NYLD,NRG Yield Inc. ,Utilities,Electric Utilities
+PCY,PowerShares Emerging Markets Sovereign Debt Portfolio ETF,Fixed Income ETF,
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,
+RFCI,RiverFront Dynamic Core Income,,
+SGU,Star Gas Partners L.P. Common  ,Basic Materials,Oil & Gas Pipelines
+SMCI,Super Micro Computer Inc. ,Technology,Networking & Communication Devices
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+TWNK,Hostess Brands  Inc.,,
+UBP,Urstadt Biddle Properties Inc.  ,NULL,NULL
+USFR,WisdomTree Bloomberg Floating Rt Trs ,N/A,N/A
+VTEB,Vanguard Tax-Exempt Bond ETF,,
+WEB,Web.com Group  Inc.,Technology,Internet Information Providers
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+CPK,Chesapeake Utilities Corporatio ,Utilities,Gas Utilities
+FIBR,iShares Edge U.S. Fixed Income,,
+IPE,SPDR Barclays Capital TIPS ETF,Fixed Income ETF,
+MFSF,MutualFirst Financial Inc. ,Financial,Regional - Midwest Banks
+NKSH,National Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+OVID,Ovid Therapeutics Inc.,,
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+SJI,South Jersey Industries Inc. C ,Utilities,Gas Utilities
+TYD, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+VBND,Vident Core U.S. Bond Fund ,,
+AGGY,WisdomTree Barclays Yield Enhan,,
+AQN,Algonquin Power & Utilities Corp.,N/A,N/A
+BAB,PowerShares Build America Bond Portfolio ETF,Fixed Income ETF,
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+BSCK,Guggenheim BulletShares 2020 Corp Bond ETF,Fixed Income ETF,
+BYM, Blackrock Municipal Income Qual ,N/A,N/A
+CIU,iShares Barclays Intermediate Credit Bond Fund ETF,Fixed Income ETF,
+CSJ,iShares Barclays 1-3 Year Credit Bond Fund ETF,Fixed Income ETF,
+CXH, MFS Investment Grade Municipal  ,Financial,Closed-End Fund - Debt
+ETX,Eaton Vance Municipal Income Te ,N/A,N/A
+FLTB,Fidelity Limited Term Bond ETF ,,
+GNCMA,General Communication Inc. ,Technology,Long Distance Carriers
+HK, Halcon Resources Corporation Co ,Basic Materials,Oil & Gas Drilling & Exploration
+INDL, Direxion Daily India Bull 3x Sh ,N/A,N/A
+ISTB,iShares Core Short-Term US Bond ,N/A,N/A
+LPG,Dorian LPG Ltd. Common,N/A,N/A
+LXFT,Luxoft Holding Inc. ,Technology,Application Software
+MMU, Western Asset Managed Municipal ,N/A,N/A
+MVF, Blackrock MuniVest Fund  Inc. C ,Financial,Closed-End Fund - Debt
+NUAG,NuShares Enhanced Yield US Aggr,,
+OIA, Invesco Municipal Income Opport ,N/A,N/A
+PMBC,Pacific Mercantile Bancorp ,Financial,Regional - Pacific Banks
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+RILYL,B. Riley Financial  Inc. - 7.50,,
+SIEB, Siebert Financial Corp. ,Financial,Investment Brokerage - Regional
+THO,Thor Industries Inc. Common St ,Consumer Goods,Recreational Vehicles
+TOTL,SPDR DoubleLine Total Return Ta,,

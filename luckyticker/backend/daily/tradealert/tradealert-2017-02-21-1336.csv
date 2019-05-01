@@ -1,0 +1,119 @@
+Buy,DNB,Dun & Bradstreet Corporation (T ,13.3591
+Buy,SO,Southern Company (The) Common S ,20.7342
+Buy,VRSK,Verisk Analytics Inc. ,22.8759
+Buy,LNT,Alliant Energy Corporation Comm ,23.1893
+Buy,SWN,Southwestern Energy Company Com ,28.8462
+Sell,PCLN,priceline.com Incorporated ,70.3131
+Sell,PNR,Pentair Inc. Common ,70.5291
+Sell,CSCO,Cisco Systems Inc. ,70.5522
+Sell,REGN,Regeneron Pharmaceuticals Inc. ,70.5749
+Sell,GD,General Dynamics Corporation Co ,70.8654
+Sell,ETN, Eaton Corporation Common ,70.9627
+Sell,UA,Under Armour Inc. Class A Comm ,71.7361
+Sell,JPM,JP Morgan Chase & Co. Common St ,72.0206
+Sell,EL,Estee Lauder Companies Inc. (T ,72.1366
+Sell,ORCL,Oracle Corporation ,72.3807
+Sell,V,Visa Inc. ,72.4289
+Sell,PSX, Phillips 66 Common ,72.6127
+Sell,CVS,CVS Caremark Corporation Common ,72.9423
+Sell,COST,Costco Wholesale Corporation ,72.9726
+Sell,SYF,Synchrony Financial Common Stoc,73.5455
+Sell,TMK,Torchmark Corporation Common St ,73.6864
+Sell,UHS,Universal Health Services Inc. ,74.1336
+Sell,TMO,Thermo Fisher Scientific Inc Co ,74.7395
+Sell,WBA,Walgreens Boots Alliance Inc.,75.5725
+Sell,PBCT,People's United Financial Inc. ,75.7017
+Sell,NSC,Norfolk Southern Corporation Co ,75.7392
+Sell,QRVO,Qorvo Inc.,76.4804
+Sell,FLR,Fluor Corporation Common ,76.5159
+Sell,WHR,Whirlpool Corporation Common St ,76.6177
+Sell,EMN,Eastman Chemical Company Common ,76.845
+Sell,ROST,Ross Stores Inc. ,77.2241
+Sell,PH,Parker-Hannifin Corporation Com ,77.3548
+Sell,HD, Home Depot  Inc. (The) Common S ,77.4785
+Sell,R,Ryder System Inc. Common ,77.9209
+Sell,AGN,Allergan Inc. Common ,78.4945
+Sell,GPC,Genuine Parts Company Common St ,78.9953
+Sell,SHW,Sherwin-Williams Company (The)  ,79.2478
+Sell,WFM, Whole Foods Market  Inc. ,79.3028
+Sell,VLO,Valero Energy Corporation Commo ,79.4042
+Sell,LOW,Lowe's Companies Inc. Common S ,79.4341
+Sell,LLTC,Linear Technology Corporation ,79.5805
+Sell,UNM,Unum Group Common ,79.6313
+Sell,GPS,Gap Inc. (The) Common ,79.6352
+Sell,FIS,Fidelity National Information S ,79.6367
+Sell,CMI,Cummins Inc. Common ,79.9019
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,80.0017
+Sell,GS,Goldman Sachs Group Inc. (The) ,80.3034
+Sell,PGR,Progressive Corporation (The) C ,81.0163
+Sell,GE,General Electric Company Common ,81.1685
+Sell,FDX,FedEx Corporation Common ,81.4725
+Sell,COH,Coach Inc. Common ,81.5886
+Sell,ZION,Zions Bancorporation ,81.8315
+Sell,CL,Colgate-Palmolive Company Commo ,82.4418
+Sell,WMT,Wal-Mart Stores Inc. Common St ,82.4632
+Sell,STT, State Street Corporation Common ,82.5262
+Sell,TSO,Tesoro Corporation Common ,82.686
+Sell,LUK,Leucadia National Corporation C ,82.889
+Sell,HST, Host Hotels & Resorts  Inc. Com ,83.062
+Sell,FSLR,First Solar Inc. ,83.1292
+Sell,MDT,Medtronic Inc. Common ,83.148
+Sell,VNO,Vornado Realty Trust Common Sto ,83.1898
+Sell,MA,Mastercard Incorporated Common  ,83.6932
+Sell,FITB, Fifth Third Bancorp ,83.8633
+Sell,WFC,Wells Fargo & Company Common St ,84.0394
+Sell,DGX,Quest Diagnostics Incorporated  ,84.5027
+Sell,UNH,UnitedHealth Group Incorporated ,84.5139
+Sell,MYL,Mylan Inc. ,84.7546
+Sell,PNC,PNC Financial Services Group I ,84.7807
+Sell,LLY, Eli Lilly and Company Common St ,84.8654
+Sell,KEY,KeyCorp Common ,85.1063
+Sell,MTB,M&T Bank Corporation Common Sto ,85.1181
+Sell,HRL, Hormel Foods Corporation Common ,85.1493
+Sell,NOV,National Oilwell Varco Inc. Co ,85.3244
+Sell,NTRS,Northern Trust Corporation ,85.5156
+Sell,NFX,Newfield Exploration Company Co ,85.6111
+Sell,HRS, Harris Corporation Common ,85.6347
+Sell,MET,MetLife Inc. Common ,85.8301
+Sell,EBAY,eBay Inc. ,85.8353
+Sell,SYY,Sysco Corporation Common ,86.1966
+Sell,KSU,Kansas City Southern Common Sto ,86.3385
+Sell,KLAC,KLA-Tencor Corporation ,86.3814
+Sell,USB,U.S. Bancorp Common ,86.5819
+Sell,ANTM,Anthem Inc. Common,86.6404
+Sell,HBAN, Huntington Bancshares Incorpora ,86.7326
+Sell,URBN,Urban Outfitters Inc. ,86.9039
+Sell,LUV,Southwest Airlines Company Comm ,86.9409
+Sell,DHR,Danaher Corporation Common Stoc ,87.1198
+Sell,SPY,SPDR S&P 500 ETF,87.5816
+Sell,SBUX,Starbucks Corporation ,87.7437
+Sell,EOG,EOG Resources Inc. Common Stoc ,87.9531
+Sell,STI,SunTrust Banks Inc. Common Sto ,88.0688
+Sell,HCA, HCA Holdings  Inc. Common ,88.4087
+Sell,MCHP,Microchip Technology Incorporat ,88.4187
+Sell,BRK-B,Berkshire Hathaway Inc.,88.4249
+Sell,DFS,Discover Financial Services Com ,89.0653
+Sell,CMA,Comerica Incorporated Common St ,89.2868
+Sell,TROW,T. Rowe Price Group Inc. ,89.3274
+Sell,L,Loews Corporation Common ,89.444
+Sell,PAYX,Paychex Inc. ,89.6063
+Sell,SLB,Schlumberger N.V. Common ,89.7969
+Sell,RF,Regions Financial Corporation C ,89.9079
+Sell,FBHS, Fortune Brands Home & Security  ,90.5911
+Sell,CXO,Concho Resources Inc. Common St ,91.0551
+Sell,PFG,Principal Financial Group Inc C ,91.3038
+Sell,LNC,Lincoln National Corporation Co ,91.4227
+Sell,TSS,Total System Services Inc. Com ,91.4976
+Sell,STX,Seagate Technology. ,91.5751
+Sell,PRU,Prudential Financial Inc. Comm ,91.5875
+Sell,RTN,Raytheon Company Common ,91.8715
+Sell,PXD,Pioneer Natural Resources Compa ,91.8797
+Sell,TIF,Tiffany & Co. Common ,92.0532
+Sell,EA, Electronic Arts Inc. ,93.1342
+Sell,QCOM,QUALCOMM Incorporated ,93.4951
+Sell,CFG,Citizens Financial Group Inc.,93.5216
+Sell,K,Kellogg Company Common ,93.5283
+Sell,DLTR,Dollar Tree Inc. ,93.8628
+Sell,NUE,Nucor Corporation Common ,94.3533
+Sell,IVZ,Invesco Plc New Common ,94.4193
+Sell,DG,Dollar General Corporation Comm ,97.7522

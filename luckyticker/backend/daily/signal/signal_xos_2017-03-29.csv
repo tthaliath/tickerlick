@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+FOMX,Foamix Pharmaceuticals Ltd.,Healthcare,Biotechnology
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+GSC, Goldman Sachs Connect S&P Enhan ,N/A,N/A
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+ENV,Envestnet Inc Common ,Services,Business Services
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+WIN,Windstream Corporation ,Technology,Telecom Services - Domestic
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+RUBI,the Rubicon Project Inc. ,Technology,Application Software

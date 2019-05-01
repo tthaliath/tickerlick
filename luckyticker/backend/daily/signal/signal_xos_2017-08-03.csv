@@ -1,0 +1,39 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AXTA,Axalta Coating Systems Ltd. Com,Basic Materials,Specialty Chemicals
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+FXP,ProShares UltraShort FTSE China 25 ETF,Commodity Based ETF,
+EFZ,ProShares Short MSCI EAFE ETF,Commodity Based ETF,
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+SMP,Standard Motor Products Inc. C ,Consumer Goods,Auto Parts
+DNBF,DNB Financial Corp ,Financial,Regional - Pacific Banks
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+BANF,BancFirst Corporation ,Financial,Regional - Southwest  Banks
+EIS,iShares MSCI Israel Capped Investable Market Index Fund ETF,Global Equity ETF,
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+LPNT,LifePoint Hospitals Inc. ,Healthcare,Hospitals
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+INSM,Insmed Inc. ,Healthcare,Biotechnology
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+YANG, Direxion Daily China Bear 3x Sh ,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+EROS,Eros International Plc ,Services,Movie Production
+CNTY,Century Casinos Inc. ,Services,Resorts & Casinos
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+HABT,The Habit Restaurants Inc.,Services,Restaurants
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+CECO,Career Education Corporation ,Services,Education & Training Services
+FUN,Cedar Fair L.P. Common ,Services,General Entertainment
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+TTMI,TTM Technologies Inc. ,Technology,Printed Circuit Boards

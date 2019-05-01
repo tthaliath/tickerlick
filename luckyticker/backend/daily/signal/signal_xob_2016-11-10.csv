@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NUE,Nucor Corporation Common ,Basic Materials,Steel & Iron
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+JPM,JP Morgan Chase & Co. Common St ,Financial,Money Center Banks
+BRK-A,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+PNC,PNC Financial Services Group I ,Financial,Money Center Banks
+BRK-B,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+AGIO,Agios Pharmaceuticals Inc. ,Healthcare,Biotechnology
+EXP,Eagle Materials Inc Common Stoc ,Industrial Goods,Cement
+LECO,Lincoln Electric Holdings Inc. ,Industrial Goods,Small Tools & Accessories
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+MLM,Martin Marietta Materials Inc. ,Industrial Goods,General Building Materials
+VMC,Vulcan Materials Company (Holdi ,Industrial Goods,General Building Materials
+GD,General Dynamics Corporation Co ,Industrial Goods,Aerospace/Defense Products & Services
+CACI,CACI International Inc. Class  ,Services,Technical Services
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+PLKI,Popeyes Louisiana Kitchen Inc. ,Services,Restaurants
+IYG,iShares Dow Jones U.S. Financial Services Index Fund ETF,US Equity ETF,

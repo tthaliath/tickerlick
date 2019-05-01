@@ -1,0 +1,107 @@
+ticker,name,sector,industry
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+M,Macy's Inc Common ,Services,Department Stores
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+PXD,Pioneer Natural Resources Compa ,Basic Materials,Independent Oil & Gas
+COP,ConocoPhillips Common ,Basic Materials,Major Integrated Oil & Gas
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+JMBA,Jamba Inc. ,Services,Restaurants
+ACNB,ACNB Corporation ,Financial,Regional - Southwest  Banks
+GCC, GreenHaven Continuous Commodity ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+RYE,Guggenheim S&P Equal Weight Energy ETF,US Equity ETF,
+JO, iPath DJ-UBS Coffee Subindex To ,N/A,N/A
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+RICE,Rice Energy Inc. Common Stock ,N/A,N/A
+OIH,Market Vectors Oil Services ETF,US Equity ETF,
+DSLV, VelocityShares 3x Inverse Silve ,N/A,N/A
+DMLP,Dorchester Minerals L.P. ,Financial,Diversified Investments
+TS,Tenaris S.A. American Depositar ,Basic Materials,Oil & Gas Equipment & Services
+PEO, Petroleum Resources Corporation ,Financial,Closed-End Fund - Equity
+ERX, Direxion Energy Bull 3X Shares ,N/A,N/A
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+MT,Arcelor Mittal NY Registry Shar ,Basic Materials,Steel & Iron
+DBB, PowerShares DB Base Metals Fund ,N/A,N/A
+IPFF, iShares S&P International Prefe ,N/A,N/A
+PST,ProShares UltraShort 7-10 Year Treasury ETF,Commodity Based ETF,
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+DIN,DineEquity Inc Common ,Services,Restaurants
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+PSCE,PowerShares S&P SmallCap Energy Portfolio ETF,US Equity ETF,
+SSG,ProShares UltraShort Semiconductors ETF,Commodity Based ETF,
+PXJ,PowerShares Dynamic Oil Services ETF,US Equity ETF,
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+BGR, BlackRock Energy and Resources  ,Financial,Closed-End Fund - Equity
+ORC,Orchid Island Capital Inc. ,N/A,N/A
+DIG,ProShares Ultra Oil & Gas ETF,Commodity Based ETF,
+CNQ,Canadian Natural Resources Limi ,Basic Materials,Independent Oil & Gas
+FISI,Financial Institutions Inc. ,Financial,Regional - Mid-Atlantic Banks
+VDE,Vanguard Energy ETF,US Equity ETF,
+ZSL,ProShares UltraShort Silver ETF,Commodity Based ETF,
+PFSI,PennyMac Financial Services Inc. ,Financial,Mortgage Investment
+XLE,SPDR Energy Select Sector Fund ETF,US Equity ETF,
+RPXC, RPX Corporation ,Services,Business Services
+WMK,Weis Markets Inc. Common ,Services,Grocery Stores
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+YXI,ProShares Short FTSE China 25 ETF,Commodity Based ETF,
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+MPLX,MPLX LP ,Basic Materials,Oil & Gas Pipelines
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+IEO,iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund ETF,US Equity ETF,
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+PHD, Pioneer Floating Rate Trust Pio ,N/A,N/A
+SHLD,Sears Holdings Corporation ,Services,Department Stores
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,US Equity ETF,
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+IGE,iShares Goldman Sachs Natural Resources Index Fund ETF,US Equity ETF,
+DCI,Donaldson Company Inc. Common  ,Industrial Goods,Pollution & Treatment Controls
+PNTA,PennantPark Investment Corporat ,N/A,N/A
+IYE,iShares Dow Jones U.S. Energy Sector Fund ETF,US Equity ETF,
+ENY,Guggenheim Canadian Energy Income ETF,Global Equity ETF,
+GHM,Graham Corporation Common ,Industrial Goods,Metal Fabrication
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+EXP,Eagle Materials Inc Common Stoc ,Industrial Goods,Cement
+ANGO,AngioDynamics Inc. ,Healthcare,Medical Instruments & Supplies
+INSM,Insmed Inc. ,Healthcare,Biotechnology
+SRI,Stoneridge Inc. Common ,Consumer Goods,Auto Parts
+OOMA,Ooma  Inc.,Technology,Diversified Communication Services
+SBRA,Sabra Healthcare REIT Inc. ,Financial,REIT - Healthcare Facilities
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+FXN,First Trust Energy AlphaDEX Fund ETF,US Equity ETF,
+IEZ,iShares Dow Jones U.S. Oil Equipment & Services Index Fund ETF,US Equity ETF,
+CNX,CONSOL Energy Inc. Common ,Basic Materials,Industrial Metals & Minerals
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+BPFHW,Boston Private Financial Holdings Inc. ,N/A,N/A
+SABR,Sabre Corporation ,Technology,Information Technology Services
+FENY,Fidelity MSCI Energy Index ETF ,N/A,N/A
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+DZZ, Deutsche Bank AG DB Gold Double ,N/A,N/A
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+LCNB, LCNB Corporation ,Financial,Regional - Mid-Atlantic Banks
+GOGL,Golden Ocean Group Limited,Services,Shipping
+SBCP,Sunshine Bancorp Inc.,Financial,Regional - Mid-Atlantic Banks
+TARO, Taro Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+KOP,Koppers Holdings Inc. Koppers H ,Basic Materials,Specialty Chemicals

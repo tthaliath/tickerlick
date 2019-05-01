@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+CMT,Core Molding Technologies Inc C ,Consumer Goods,Rubber & Plastics
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+CLCD,CoLucid Pharmaceuticals  Inc.,Healthcare,Biotechnology
+DVCR,Diversicare Healthcare Services Inc. ,Healthcare,Long-Term Care Facilities
+GURI,Global X Guru International Index ETF ,N/A,N/A
+ATV,Acorn International Inc. ADS ,Services,Catalog & Mail Order Houses
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+LXK,Lexmark International Inc. Com ,Technology,Computer Based Systems
+HCHC,HC2 HOLDINGS INC,Technology,Long Distance Carriers

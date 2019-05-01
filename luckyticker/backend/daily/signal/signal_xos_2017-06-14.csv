@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+VLP,Valero Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+SEF,ProShares Short Financials ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+DMLP,Dorchester Minerals L.P. ,Financial,Diversified Investments
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+ADXS,Advaxis Inc. ,Healthcare,Biotechnology
+CVR,Chicago Rivet & Machine Co. Com ,Industrial Goods,Machine Tools & Accessories
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+UZA, United States Cellular Corporat ,N/A,N/A
+STPP, iPath US Treasury Steepener ETN ,N/A,N/A
+FTGC,First Trust Global Tact Cmdty Strat ,N/A,N/A
+TAX, JTH Holding Inc. D/B/A Liberty  ,Services,Personal Services

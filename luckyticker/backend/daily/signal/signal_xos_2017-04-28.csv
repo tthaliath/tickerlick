@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FMSA,FMSA Holdings Inc. Common,Basic Materials,Industrial Metals & Minerals
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+OCIP,OCI Partners LP ,Basic Materials,Chemicals - Major Diversified
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+GGP,General Growth Properties Inc. ,Financial,REIT - Retail
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+URA,Global X Uranium ETF,Global Equity ETF,
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+NINI,iPath Pure Beta Nickel ETN ,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+GSH,Guangshen Railway Company Limit ,Services,Railroads

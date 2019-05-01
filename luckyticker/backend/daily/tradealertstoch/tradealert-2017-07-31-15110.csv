@@ -1,0 +1,108 @@
+Buy,AGN,Allergan Inc. Common ,2.61013
+Buy,AKAM,Akamai Technologies Inc. ,11.9344
+Buy,ALB,Albemarle Corporation Common St ,12.4884
+Buy,ALK,Alaska Air Group Inc. Common S ,7.17095
+Buy,AMAT,Applied Materials Inc. ,2.93388
+Buy,AMD,Advanced Micro Devices Inc. Co ,12.0597
+Buy,AMGN,Amgen Inc. ,15.0219
+Buy,AMZN,Amazon.com Inc. ,17.4287
+Buy,ATVI,Activision Blizzard Inc ,14.3241
+Buy,AVGO,Avago Technologies Limited ,9.8768
+Buy,CL,Colgate-Palmolive Company Commo ,1.81243
+Buy,CMCSA,Comcast Corporation ,19.698
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,17.1038
+Buy,COH,Coach Inc. Common ,19.5616
+Buy,DGX,Quest Diagnostics Incorporated  ,14.6593
+Buy,DHI,D.R. Horton Inc. Common ,3.17449
+Buy,DISCA,Discovery Communications Inc ,6.66648
+Buy,DISCK,Discovery Communications Inc ,4.73187
+Buy,DRI,Darden Restaurants Inc. Common ,6.05956
+Buy,EQIX,Equinix Inc. ,18.5999
+Buy,FFIV,F5 Networks Inc. ,11.1111
+Buy,FISV,Fiserv Inc. ,19.6225
+Buy,GE,General Electric Company Common ,8.64051
+Buy,GILD,Gilead Sciences Inc. ,19.1091
+Buy,GLW,Corning Incorporated Common Sto ,8.35588
+Buy,GPN,Global Payments Inc. Common Sto ,10.4107
+Buy,GRMN,Garmin Ltd. ,4.23514
+Buy,INTC,Intel Corporation ,16.2111
+Buy,IVZ,Invesco Plc New Common ,1.38866
+Buy,LRCX,Lam Research Corporation ,3.83818
+Buy,LUV,Southwest Airlines Company Comm ,9.69111
+Buy,M,Macy's Inc Common ,11.79
+Buy,MAR,Marriot International Common St ,13.5271
+Buy,MCD,McDonald's Corporation Common S ,16.9708
+Buy,MCHP,Microchip Technology Incorporat ,2.40545
+Buy,MHK,Mohawk Industries Inc. Common  ,16.7127
+Buy,MKC,McCormick & Company Incorporat ,7.39166
+Buy,ORCL,Oracle Corporation ,5.01504
+Buy,PHM,PulteGroup Inc. Common ,5.67418
+Buy,PRGO,Perrigo Company ,11.6402
+Buy,PVH,PVH Corp. Common ,7.51783
+Buy,ROST,Ross Stores Inc. ,17.7679
+Buy,SBUX,Starbucks Corporation ,11.4892
+Buy,UAA,Under Armour  Inc. Class A,18.7215
+Sell,ADM,Archer-Daniels-Midland Company  ,83.1912
+Sell,AEP,American Electric Power Company ,95.7274
+Sell,AET,Aetna Inc. Common ,81.526
+Sell,AIV,Apartment Investment and Manage ,83.3323
+Sell,AIZ,Assurant Inc. Common ,83.4887
+Sell,AME,AMETEK Inc. ,88.0898
+Sell,APA,Apache Corporation Common ,96.8936
+Sell,APC,Anadarko Petroleum Corporation  ,91.4173
+Sell,APH,Amphenol Corporation Common Sto ,86.6674
+Sell,ARE,Alexandria Real Estate Equities ,97.0364
+Sell,AVB,AvalonBay Communities Inc. Com ,81.9834
+Sell,AVY,Avery Dennison Corporation Comm ,85.1842
+Sell,CI,Cigna Corporation Common ,84.9458
+Sell,CINF,Cincinnati Financial Corporatio ,84.15
+Sell,COF,Capital One Financial Corporati ,91.1483
+Sell,DD,E.I. du Pont de Nemours and Com ,84.3635
+Sell,DFS,Discover Financial Services Com ,85.7139
+Sell,DOV,Dover Corporation Common ,88.8875
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,85.5573
+Sell,DTE,DTE Energy Company Common ,82.004
+Sell,DUK,Duke Energy Corporation (Holdin ,96.9174
+Sell,DVN,Devon Energy Corporation Common ,98.5243
+Sell,EIX,Edison International Common Sto ,93.5574
+Sell,EMR,Emerson Electric Company Common ,85.3108
+Sell,EOG,EOG Resources Inc. Common Stoc ,97.7273
+Sell,FAST,Fastenal Company ,91.3515
+Sell,FCX,Freeport-McMoRan Copper & Gold ,91.6979
+Sell,FE,FirstEnergy Corporation Common  ,83.3132
+Sell,FLS,Flowserve Corporation Common St ,96.1358
+Sell,FMC,FMC Corporation Common ,86.8683
+Sell,FTI,FMC Technologies Inc. Common S ,90.6837
+Sell,GGP,General Growth Properties Inc. ,82.2745
+Sell,GIS,General Mills Inc. Common Stoc ,96.2969
+Sell,GM,General Motors Company Common S ,85.9247
+Sell,GS,Goldman Sachs Group Inc. (The) ,89.8343
+Sell,IP,International Paper Company Com ,81.2497
+Sell,IPG,Interpublic Group of Companies ,83.6414
+Sell,LVLT,Level 3 Communications Inc. Co ,98.7301
+Sell,MA,Mastercard Incorporated Common  ,82.4057
+Sell,MAA,Mid-America Apartment Communiti ,83.5627
+Sell,MAC,Macerich Company (The) Common S ,97.186
+Sell,MAT,Mattel Inc. ,90.3695
+Sell,MCO,Moody's Corporation Common Stoc ,98.3342
+Sell,MDT,Medtronic Inc. Common ,83.2851
+Sell,MLM,Martin Marietta Materials Inc. ,94.2443
+Sell,OXY,Occidental Petroleum Corporatio ,90.9108
+Sell,PAYX,Paychex Inc. ,89.2227
+Sell,PCG,Pacific Gas & Electric Co. Comm ,96.7427
+Sell,PKI,PerkinElmer Inc. Common ,94.4452
+Sell,PNC,PNC Financial Services Group I ,86.585
+Sell,PNW,Pinnacle West Capital Corporati ,98.8895
+Sell,PWR,Quanta Services Inc. Common St ,93.6577
+Sell,PX,Praxair Inc. Common ,92.3953
+Sell,PXD,Pioneer Natural Resources Compa ,91.2376
+Sell,REG,Regency Centers Corporation Com ,89.1173
+Sell,RF,Regions Financial Corporation C ,93.6506
+Sell,RHI,Robert Half International Inc.  ,92.0544
+Sell,RIG,Transocean Ltd (Switzerland) Co ,85.0262
+Sell,RRC,Range Resources Corporation Com ,91.8171
+Sell,SCG,SCANA Corporation Common ,98.039
+Sell,SHW,Sherwin-Williams Company (The)  ,90.7983
+Sell,SLB,Schlumberger N.V. Common ,94.4439
+Sell,SLG,SL Green Realty Corporation Com ,86.7546
+Sell,SO,Southern Company (The) Common S ,98.5816

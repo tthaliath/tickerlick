@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PVH,PVH Corp. Common ,Consumer Goods,Textile - Apparel Clothing
+PGJ,PowerShares Golden Dragon Halter USX China Portfolio ETF,Global Equity ETF,
+EWH,iShares MSCI Hong Kong Index Fund ETF,Global Equity ETF,
+GXC,SPDR S&P China ETF,Global Equity ETF,
+TAO,Guggenheim China Real Estate ETF,Global Equity ETF,
+XBIT,XBiotech  Inc.,Healthcare,Biotechnology
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+MCI, Babson Capital Corporate Invest ,N/A,N/A

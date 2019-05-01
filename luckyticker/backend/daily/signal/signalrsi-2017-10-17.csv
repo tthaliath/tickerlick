@@ -1,0 +1,86 @@
+OS,BBBY,Bed Bath & Beyond Inc. ,21.09,25.7745
+OS,CVS,CVS Caremark Corporation Common ,72.63,26.8185
+OS,DGX,Quest Diagnostics Incorporated  ,92.18,29.8253
+OS,DISCA,Discovery Communications Inc ,19.16,21.8904
+OS,DISCK,Discovery Communications Inc ,18.09,20.44
+OS,DISH,DISH Network Corporation ,48.85,28.5373
+OS,ESRX,Express Scripts Holding Company ,57.21,27.7682
+OS,FL,Footlocker Inc. ,31.02,28.0351
+OS,PCG,Pacific Gas & Electric Co. Comm ,57.44,27.3931
+OS,SCG,SCANA Corporation Common ,49.13,26.2916
+OS,SNI,Scripps Networks Interactive I ,83.24,24.7495
+OS,VTR,Ventas Inc. Common ,63.2,28.8299
+OS,HCP, HCP  Inc. Common ,26.48,29.6346
+OS,HSIC, Henry Schein  Inc. ,82.45,20.8212
+OS,WBA,Walgreens Boots Alliance Inc.,67.4,16.1181
+OB,ADI,Analog Devices Inc. ,88.94,71.9819
+OB,AMAT,Applied Materials Inc. ,55.13,78.5839
+OB,AME,AMETEK Inc. ,67.92,70.6813
+OB,AMP,Ameriprise Financial Inc. Comm ,152.35,73.7424
+OB,ARE,Alexandria Real Estate Equities ,124.1,70.4968
+OB,AWK,American Water Works Company I ,86.03,75.4578
+OB,BIIB,Biogen Idec Inc. ,344.47,75.1148
+OB,CAT,Caterpillar Inc. Common ,130.54,78.3852
+OB,CBG,CBRE Group Inc Common ,39.66,79.7113
+OB,CF,CF Industries Holdings Inc. Co ,37,71.1303
+OB,CMI,Cummins Inc. Common ,174.72,77.0922
+OB,COL,Rockwell Collins Inc. Common S ,134.53,72.103
+OB,CTAS,Cintas Corporation ,151.05,77.6026
+OB,CTXS,Citrix Systems Inc. ,81.99,70.2449
+OB,CVX,Chevron Corporation Common Stoc ,120.22,74.3738
+OB,DHI,D.R. Horton Inc. Common ,41.49,78.341
+OB,DLTR,Dollar Tree Inc. ,91.53,77.9769
+OB,EMR,Emerson Electric Company Common ,65.48,75.9078
+OB,ETR,Entergy Corporation Common Stoc ,84.6,76.9214
+OB,EXC,Exelon Corporation Common ,39.6,70.1333
+OB,FAST,Fastenal Company ,47.94,73.3719
+OB,FLIR,FLIR Systems Inc. ,42.5,72.5306
+OB,FLS,Flowserve Corporation Common St ,44.58,72.1736
+OB,GM,General Motors Company Common S ,45.02,73.6055
+OB,GOOG,Alphabet Inc.,992.18,70.638
+OB,GPC,Genuine Parts Company Common St ,96.86,77.9994
+OB,INTC,Intel Corporation ,39.79,75.6897
+OB,ITW,Illinois Tool Works Inc. Common ,153.07,75.0138
+OB,IVZ,Invesco Plc New Common ,36.19,70.8833
+OB,JNJ,Johnson & Johnson Common ,140.79,76.0453
+OB,KLAC,KLA-Tencor Corporation ,108.01,70.8374
+OB,KORS,Michael Kors Holdings Limited O ,48.99,71.3053
+OB,LRCX,Lam Research Corporation ,194.55,75.0191
+OB,MAR,Marriot International Common St ,115.04,75.5437
+OB,MCD,McDonald's Corporation Common S ,165.4,70.6495
+OB,MCO,Moody's Corporation Common Stoc ,144.13,77.4617
+OB,MON,Monsanto Company Common ,122.15,74.6223
+OB,MRO,Marathon Oil Corporation Common ,13.96,72.5552
+OB,MSFT,Microsoft Corporation ,77.59,72.4518
+OB,MTB,M&T Bank Corporation Common Sto ,164.14,71.5606
+OB,MTD,Mettler-Toledo International I ,662.22,73.2947
+OB,MYL,Mylan Inc. ,38.54,73.4944
+OB,NVDA,NVIDIA Corporation ,197.75,76.2798
+OB,PFG,Principal Financial Group Inc C ,67.57,73.5631
+OB,PH,Parker-Hannifin Corporation Com ,181.46,77.7654
+OB,PNR,Pentair Inc. Common ,70.42,70.9504
+OB,RHT,Red Hat Inc. Common ,121.12,87.0381
+OB,ROK,Rockwell Automation Inc. Commo ,186.27,84.2622
+OB,SHW,Sherwin-Williams Company (The)  ,382.68,73.6078
+OB,STZ,Constellation Brands Inc. Comm ,213.64,76.7966
+OB,TEL,TE Connectivity Ltd. New Switze ,87.73,76.0372
+OB,TMK,Torchmark Corporation Common St ,81.89,73.7678
+OB,TROW,T. Rowe Price Group Inc. ,94.73,84.5624
+OB,TRV,The Travelers Companies Inc. C ,128.65,72.4442
+OB,TXN,Texas Instruments Incorporated ,94.27,84.2955
+OB,VLO,Valero Energy Corporation Commo ,77.62,72.0863
+OB,WMT,Wal-Mart Stores Inc. Common St ,85.98,73.2947
+OB,WY,Weyerhaeuser Company Common Sto ,35.03,77.2607
+OB,WYN,Wyndham Worldwide Corp Common   ,109.63,71.3293
+OB,XOM,Exxon Mobil Corporation Common  ,82.96,72.2284
+OB,BLK,BlackRock Inc,475.55,74.7931
+OB,GWW, W.W. Grainger  Inc. Common Stoc ,205.42,80.0868
+OB,HPQ, Hewlett-Packard Company Common  ,21.55,76.4139
+OB,HRS, Harris Corporation Common ,136.09,78.2013
+OB,HST, Host Hotels & Resorts  Inc. Com ,19.34,70.4492
+OB,LKQ, LKQ Corporation ,37.41,74.1466
+OB,SPY,SPDR S&P 500 ETF,255.47,74.2523
+OB,ZTS,Zoetis Inc. ,65.81,74.3543
+OB,GOOGL,Alphabet Inc.,1011,72.0052
+OB,WLTW,Willis Towers Watson Public Limited Company,158.94,73.3042
+OB,DXC,DXC Technology Company,92.11,77.7077

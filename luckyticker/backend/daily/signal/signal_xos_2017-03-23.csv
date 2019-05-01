@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UBN,E-TRACS USB Bloomberg Commodity ,,
+FMSA,FMSA Holdings Inc. Common,Basic Materials,Industrial Metals & Minerals
+DNOW,NOW Inc. Common,Basic Materials,Oil & Gas Equipment & Services
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+TCB,TCF Financial Corporation Commo ,Financial,Money Center Banks
+MBFI,MB Financial Inc. ,Financial,Regional - Midwest Banks
+SC,Santander Consumer USA Holdings Inc. ,Financial,Mortgage Investment
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+OZRK,Bank of the Ozarks ,Financial,Regional - Southeast Banks
+SYF,Synchrony Financial Common Stoc,Financial,Credit Services
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+SBFG,SB Financial Group Inc. ,Financial,Regional - Midwest Banks
+UJB,ProShares Ultra High Yield ETF,Fixed Income ETF,
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+USPH,U.S. Physical Therapy Inc. ,Healthcare,Specialized Health Services
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+TDG,Transdigm Group Incorporated Tr ,Industrial Goods,Aerospace/Defense Products & Services
+BTO, John Hancock Bank and Thrift Op ,N/A,N/A
+DXJF,WisdomTree Japan Hedged Financials ,N/A,N/A
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services
+CVG,Convergys Corporation Common St ,Technology,Business Software & Services

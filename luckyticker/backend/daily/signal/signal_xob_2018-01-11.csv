@@ -1,0 +1,86 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CFO,Compass EMP U.S. 500 Enhanced V ,,
+WBIF,WBI Large Cap Tactical Value Sh ,,
+DGRO,iShares Core Dividend Growth ET ,,
+WBIG,WBI Large Cap Tactical Yield Sh ,,
+FLGE,Credit Suisse FI Large Cap Grow ,,
+FTLS,First Trust Long/Short Equity ,,
+WBIL,WBI Large Cap Tactical Select S ,,
+SPUU,Direxion Daily S&P 500 Bull 2X  ,,
+CFA,Compass EMP U.S. 500 Volatility ,,
+WBIE,WBI Large Cap Tactical Growth S ,,
+LLSP,Direxion Daily S&P 500 Bull 1.2,,
+LEAD,Realty Shares DIVCON Leaders Di,,
+BEMO,Aptus Behavioral Momentum ETF,,
+SPYX,SPDR S&P 500 Fossil Fuel Reserv,,
+QLC,FlexShares US Quality Large Cap,,
+EQWL,PowerShares Russell Top 200 Equ,,
+XRLV,PowerShares S&P 500 ex-Rate Sen,,
+TPOR,Direxion Daily Transportation B,,
+JHMA,John Hancock Multifactor Materi,,
+QUS,SPDR MSCI USA StrategicFactors,,
+FQAL,Fidelity Quality Factor ETF,,
+FDLO,Fidelity Low Volatility Factor,,
+JHMI,John Hancock Multifactor Indust,,
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+UXI,ProShares Ultra Industrials ETF,Commodity Based ETF,
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+IX, Orix Corp Ads Common ,Financial,Credit Services
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+ETFC,E*TRADE Financial Corporation ,Financial,Investment Brokerage - National
+APO, Apollo Global Management  LLC C ,Financial,Diversified Investments
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+SHG,Shinhan Financial Group Co Ltd  ,Financial,Foreign Regional Banks
+BK,Bank of New York Mellon Corpora ,Financial,Asset Management
+EWBC,East West Bancorp Inc. ,Financial,Regional - Pacific Banks
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+STT, State Street Corporation Common ,Financial,Regional - Northeast Banks
+CII, Blackrock Capital and Income Fu ,Financial,Closed-End Fund - Equity
+VRTS,Virtus Investment Partners Inc ,Financial,Asset Management
+KB,KB Financial Group Inc ,Financial,Foreign Regional Banks
+EOS, Eaton Vance Enhance Equity Inco ,Financial,Closed-End Fund - Equity
+MOAT,Market Vectors Morningstar Wide Moat ETF,Global Equity ETF,
+ABAX,ABAXIS Inc. ,Healthcare,Diagnostic Substances
+GBT,Global Blood Therapeutics  Inc.,Healthcare,Biotechnology
+CHE,Chemed Corp ,Healthcare,Home Health Care
+TMO,Thermo Fisher Scientific Inc Co ,Healthcare,Medical Instruments & Supplies
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+VQT, Barclays ETN S&P VEQTOR ETN ,N/A,N/A
+SYG,SPDR MFS Systematic Growth Equity ETF ,N/A,N/A
+ARA,American Renal Associates Holdings  Inc.,N/A,N/A
+CAPE, Barclays ETN Schiller CAPE ,N/A,N/A
+KEN,Kenon Holdings Ltd.,N/A,N/A
+NGE,Global X Nigeria Index ETF ,N/A,N/A
+QUAL,iShares MSCI USA Quality Factor ,N/A,N/A
+DEX, Delaware Enhanced Global Divide ,N/A,N/A
+FIDU,Fidelity MSCI Industrials Index ETF ,N/A,N/A
+ODFL,Old Dominion Freight Line Inc. ,Services,Trucking
+UAL,United Continental Holdings ,Services,Major Airlines
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+CRAI,CRA InternationalInc. ,Services,Management Services
+ABG,Asbury Automotive Group Inc Com ,Services,Auto Dealerships
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+CMCM,Cheetah Mobile Inc. American De,Technology,Application Software
+ACN,Accenture plc. Class A Ordinary ,Technology,Information Technology Services
+RYH,Guggenheim S&P Equal Weight Health Care ETF,US Equity ETF,
+MGV,Vanguard Mega Cap 300 Value ETF,US Equity ETF,
+JKD,iShares Morningstar Large Core Index Fund ETF,US Equity ETF,
+IYJ,iShares Dow Jones U.S. Industrial Sector Index Fund ETF,US Equity ETF,
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,
+VTV,Vanguard Value ETF,US Equity ETF,
+PWB,PowerShares Dynamic LargeCap Growth ETF,US Equity ETF,
+PPA,PowerShares Aerospace & Defense ETF,US Equity ETF,
+VIG,Vanguard Div Appreciation ETF - DNQ ETF,US Equity ETF,
+PXMG,PowerShares Fundamental Pure Mid Growth Portfolio ETF,US Equity ETF,
+VYM,Vanguard High Dividend Yield ETF,US Equity ETF,
+FTC,First Trust Large Cap Growth Opportunities AlphaDEX Fund ETF,US Equity ETF,

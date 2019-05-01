@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+SXC, SunCoke Energy  Inc. Common Sto ,Basic Materials,Steel & Iron
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+NEU,NewMarket Corp Common ,Basic Materials,Specialty Chemicals
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+UFAB,Unique Fabricating  Inc.,Consumer Goods,Auto Parts
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+CHD,Church & Dwight Company Inc. C ,Consumer Goods,Cleaning Products
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+MET,MetLife Inc. Common ,Financial,Life Insurance
+PRA,ProAssurance Corporation Common ,Financial,Property & Casualty Insurance
+INN, Summit Hotel Properties  Inc. C ,Financial,Real Estate Development
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+XRAY,DENTSPLY International Inc. ,Healthcare,Medical Instruments & Supplies
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+RGR,Sturm Ruger & Company Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+MLPI, UBS AG ETN ,N/A,N/A
+RFT,RAIT Financial Trust 7.625% Sen ,N/A,N/A
+SHPG, Shire plc ,N/A,N/A
+KED, Kayne Anderson Energy Developme ,N/A,N/A
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+PCMI,PCM Inc. ,Services,Specialty Retail
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+GLNG,Golar LNG Limited ,Services,Shipping
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+VEC,Vectrus Inc. Common,Services,Business Services
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+MELI,MercadoLibre Inc. ,Services,Business Services
+CBRL,Cracker Barrel Old Country Stor ,Services,Restaurants
+HBP,Huttig Building Products Inc. ,Services,Building Materials Wholesale
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+JCOM,j2 Global Inc. ,Technology,Internet Software & Services
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+AYI,Acuity Brands Inc (Holding Comp ,Technology,Diversified Electronics
+CSGS,CSG Systems International Inc. ,Technology,Business Software & Services
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+SLYG,SPDR S&P 600 Small Cap Value ETF (SLYG) ETF,US Equity ETF,

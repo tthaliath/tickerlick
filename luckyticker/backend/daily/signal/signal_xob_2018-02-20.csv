@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MULE,MuleSoft  Inc. Class A Common S,,
+OACQ,Origo Acquisition Corporation -,,
+GPRE,Green Plains Renewable Energy  ,Basic Materials,Specialty Chemicals
+ELY,Callaway Golf Company Common St ,Consumer Goods,Sporting Goods
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+PMO, Putnam Municipal Opportunities  ,Financial,Closed-End Fund - Debt
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances
+LAYN,Layne Christensen Company ,Industrial Goods,Heavy Construction
+XTNT,Xtant Medical Holdings  Inc.,N/A,N/A
+BL,BlackLine  Inc.,N/A,N/A
+TWLO,Twilio  Inc.,N/A,N/A
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+MDCA,MDC Partners Inc. ,NULL,NULL
+AHC,A.H. Belo Corporation Common St ,Services,Publishing - Newspapers
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+WBAI,500.com Limited ,Services,Gaming Activities
+KEYW,The KEYW Holding Corporation ,Technology,Security Software & Services
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+QLYS, Qualys  Inc. ,Technology,Application Software
+CRTO,Criteo SA ,Technology,Internet Information Providers
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+CYBR,CyberArk Software Ltd.,Technology,Business Software & Services
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+RNG,RingCentral Inc. ,Technology,Application Software

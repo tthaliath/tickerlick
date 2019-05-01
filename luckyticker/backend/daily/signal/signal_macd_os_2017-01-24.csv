@@ -1,0 +1,139 @@
+ticker,name,sector,industry
+M,Macy's Inc Common ,Services,Department Stores
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+CTAS,Cintas Corporation ,Services,Apparel Stores
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+PSX, Phillips 66 Common ,Basic Materials,Oil & Gas Refining & Marketing
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+VLO,Valero Energy Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+MPC, Marathon Petroleum Corporation  ,Basic Materials,Oil & Gas Refining & Marketing
+SJW,SJW Corporation Common ,Utilities,Water Utilities
+TISI,Team Inc. Common ,Services,Business Services
+UBSH,Union First Market Bankshares C ,Financial,Regional - Mid-Atlantic Banks
+VLRS,Controladora Vuela Compa ,Services,Major Airlines
+WDFC,WD-40 Company ,Basic Materials,Specialty Chemicals
+WNR,Western Refining Inc. Western R ,Basic Materials,Oil & Gas Refining & Marketing
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+AMBA, Ambarella  Inc. ,Technology,Semiconductor Equipment & Materials
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+BLMT, BSB Bancorp  Inc. ,Financial,Money Center Banks
+BSQR,BSQUARE Corporation ,Technology,Application Software
+CHU,China Unicom (Hong Kong) Ltd Co ,Technology,Wireless Communications
+COBO,ProShares USD Covered Bond,Commodity Based ETF,
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+DDT, Dillard's Capital Trust I ,N/A,N/A
+DVYL, ETRACS Monthly Pay 2x Leveraged ,N/A,N/A
+EZPW,EZCORP Inc. ,Services,Specialty Retail Other
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+GBCI,Glacier Bancorp Inc. ,Financial,Regional - Pacific Banks
+HOLD,AdvisorShares Sage Core Reserves ETF ,N/A,N/A
+IKNX, Ikonics Corporation ,Basic Materials,Specialty Chemicals
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+KONA,Kona Grill Inc. ,Services,Restaurants
+LAYN,Layne Christensen Company ,Industrial Goods,Heavy Construction
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+MLHR,Herman Miller Inc. ,Consumer Goods,Business Equipment
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+OSIS,OSI Systems Inc. ,Technology,Semiconductor Equipment & Materials
+PHX,Panhandle Oil and Gas Inc Commo ,Basic Materials,Independent Oil & Gas
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+RLI,RLI Corp. Common ,Financial,Property & Casualty Insurance
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+UBSI,United Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+WDTI, WisdomTree Managed Futures Stra ,N/A,N/A
+WSR,Whitestone REIT Common Shares ,Financial,REIT - Diversified
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+AWR,American States Water Company C ,Utilities,Water Utilities
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+CIR,CIRCOR International Inc. Comm ,Industrial Goods,Industrial Equipment & Components
+COT,Cott Corporation Common ,Consumer Goods,Beverages - Soft Drinks
+DGRS,WisdomTree US SmallCap Dividend Growth ,N/A,N/A
+ENSG,The Ensign Group Inc. ,Healthcare,Long-Term Care Facilities
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+FNBC,First NBC Bank Holding Company,Financial,Foreign Regional Banks
+GFF,Griffon Corporation Common Stoc ,Industrial Goods,General Building Materials
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+INBK,First Internet Bancorp ,Financial,Regional - Midwest Banks
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+KRA,Kraton Performance Polymers In ,Basic Materials,Specialty Chemicals
+LBAI,Lakeland Bancorp Inc. ,Financial,Regional - Northeast Banks
+MEET, MeetMe  Inc. Common ,Technology,Internet Information Providers
+MNOV,MediciNova Inc. ,Healthcare,Biotechnology
+NNBR,NN Inc. ,Industrial Goods,Machine Tools & Accessories
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+QVCA,Liberty Interactive Corporation,Services,Catalog & Mail Order Houses
+RPM,RPM International Inc. Common S ,Basic Materials,Specialty Chemicals
+SEB,Seaboard Corporation Common Sto ,Consumer Goods,Meat Products
+STN,Stantec Inc Common ,Services,Technical Services
+TPX,Tempur-pedic International Inc  ,Consumer Goods,Home Furnishings & Fixtures
+VIPS, Vipshop Holdings Limited Americ ,Technology,Internet Service Providers
+WBIA,WBI SMID Tactical Growth Shares ,,
+WLH,William Lyon Homes ,N/A,N/A
+XLRN,Acceleron Pharma Inc. ,Healthcare,Biotechnology
+EAT,Brinker International Inc. Com ,Services,Restaurants
+VALU,Value Line Inc. ,Financial,Asset Management
+ACCO, Acco Brands Corporation Common  ,Consumer Goods,Office Supplies
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+CALX,Calix Inc Common ,Technology,Communication Equipment
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+CPK,Chesapeake Utilities Corporatio ,Utilities,Gas Utilities
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+ESGR,Enstar Group Limited ,Financial,Property & Casualty Insurance
+FCN,FTI Consulting Inc. Common Sto ,Services,Management Services
+FNFV,FNFV Group of Fidelity National,N/A,N/A
+GRAM,Gra ,Services,Technical Services
+HBCP, Home Bancorp  Inc. ,Financial,Savings & Loans
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+KRNY,Kearny Financial ,Financial,Savings & Loans
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+MG,Mistras Group Inc Common ,Services,Technical Services
+MOV,Movado Group Inc. Common ,Consumer Goods,Recreational Goods Other
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards
+RZG,Guggenheim S&P SmallCap 600 Pure Growth ETF,US Equity ETF,
+SGC,Superior Uniform Group Inc. ,Consumer Goods,Textile - Apparel Clothing
+TBBK,The Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+TWI,Titan International Inc. Commo ,Consumer Goods,Rubber & Plastics
+WBID,WBI SMID Tactical Select Shares ,,
+WMC, Western Asset Mortgage Capital  ,Financial,Mortgage Investment
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+AHGP,Alliance Holdings GP L.P. ,Basic Materials,Nonmetallic Mineral Mining
+ARMK,ARAMARK Holdings Corporation ,Services,Specialty Eateries
+BFOR,Barron's 400 ETF ,N/A,N/A
+BSMX, Grupo Financiero Santander Mexi ,Financial,Foreign Regional Banks
+CHS,Chico's FAS Inc. Common ,Services,Apparel Stores
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities
+DSW,DSW Inc. Common ,Services,Apparel Stores
+ESL,Esterline Technologies Corporat ,Industrial Goods,Aerospace/Defense Products & Services
+FF, FutureFuel Corp.  Common shares ,Basic Materials,Chemicals - Major Diversified
+FNLC,First Bancorp Inc (ME) ,Financial,Regional - Northeast Banks
+GSBC,Great Southern Bancorp Inc. ,Financial,Regional - Southwest  Banks
+HHC, Howard Hughes Corporation (The) ,Financial,REIT - Diversified
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+IPAR,Inter Parfums Inc. ,Consumer Goods,Personal Products
+KNOP,KNOT Offshore Partners LP ,Services,Shipping
+KW,Kennedy-Wilson Holdings Inc. Co ,Financial,Property Management
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+MGEE,MGE Energy Inc. ,Utilities,Diversified Utilities
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+PHT, Pioneer High Income Trust Commo ,Financial,Closed-End Fund - Debt
+PUK,Prudential Public Limited Compa ,Financial,Life Insurance
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+SAM,Boston Beer Company Inc. (The) ,Consumer Goods,Beverages - Brewers

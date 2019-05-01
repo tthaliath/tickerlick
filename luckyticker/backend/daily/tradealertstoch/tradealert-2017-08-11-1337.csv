@@ -1,0 +1,95 @@
+Buy,CA,CA Inc. ,10.001
+Buy,CBOE,CBOE Holdings Inc. ,6.34938
+Buy,CF,CF Industries Holdings Inc. Co ,7.28438
+Buy,CNP,CenterPoint Energy Inc (Holdin ,11.1111
+Buy,FL,Footlocker Inc. ,18.374
+Buy,FRT,Federal Realty Investment Trust ,6.2074
+Buy,FTI,FMC Technologies Inc. Common S ,15.2781
+Buy,GILD,Gilead Sciences Inc. ,11.8523
+Buy,GRMN,Garmin Ltd. ,1.60658
+Buy,GS,Goldman Sachs Group Inc. (The) ,2.91846
+Buy,ITW,Illinois Tool Works Inc. Common ,11.7366
+Buy,M,Macy's Inc Common ,7.44698
+Buy,MAC,Macerich Company (The) Common S ,3.2816
+Buy,MUR,Murphy Oil Corporation Common S ,9.15909
+Buy,MYL,Mylan Inc. ,2.41101
+Buy,NEE,NextEra Energy Inc. Common Sto ,18.8646
+Buy,PAYX,Paychex Inc. ,14.3461
+Buy,PBCT,People's United Financial Inc. ,7.90808
+Buy,PCAR,PACCAR Inc. ,12.8244
+Buy,PCLN,priceline.com Incorporated ,1.77816
+Buy,SCG,SCANA Corporation Common ,3.01569
+Buy,SLB,Schlumberger N.V. Common ,8.36299
+Buy,WY,Weyerhaeuser Company Common Sto ,6.17191
+Buy,XEL,Xcel Energy Inc. Common ,8.1469
+Buy,XOM,Exxon Mobil Corporation Common  ,11.3462
+Buy,XRAY,DENTSPLY International Inc. ,7.25628
+Buy,ZION,Zions Bancorporation ,5.41367
+Buy,ETN, Eaton Corporation Common ,11.4195
+Buy,HES, Hess Corporation Common ,18.2948
+Buy,UAA,Under Armour  Inc. Class A,13.9121
+Sell,APA,Apache Corporation Common ,88.5184
+Sell,APD,Air Products and Chemicals Inc ,91.0136
+Sell,APH,Amphenol Corporation Common Sto ,80.1476
+Sell,AVY,Avery Dennison Corporation Comm ,91.8941
+Sell,AZO,AutoZone Inc. Common ,89.2609
+Sell,CAG,ConAgra Foods Inc. Common Stoc ,93.6664
+Sell,CAH,Cardinal Health Inc. Common St ,87.1096
+Sell,CAT,Caterpillar Inc. Common ,83.2376
+Sell,CCL,Carnival Corporation Common Sto ,87.6915
+Sell,CELG,Celgene Corporation ,81.7275
+Sell,CERN,Cerner Corporation ,82.1938
+Sell,CHD,Church & Dwight Company Inc. C ,88.1956
+Sell,CHK,Chesapeake Energy Corporation C ,96.0784
+Sell,CLX,Clorox Company (The) Common Sto ,95.0683
+Sell,COH,Coach Inc. Common ,97.7321
+Sell,EL,Estee Lauder Companies Inc. (T ,87.7091
+Sell,FIS,Fidelity National Information S ,84.2584
+Sell,FLIR,FLIR Systems Inc. ,85.6361
+Sell,FLR,Fluor Corporation Common ,83.1121
+Sell,FLS,Flowserve Corporation Common St ,88.8066
+Sell,GD,General Dynamics Corporation Co ,96.9396
+Sell,GIS,General Mills Inc. Common Stoc ,91.0873
+Sell,GLW,Corning Incorporated Common Sto ,93.6015
+Sell,GM,General Motors Company Common S ,87.6318
+Sell,GOOG,Alphabet Inc.,87.7354
+Sell,INCY,Incyte Corporation ,85.3893
+Sell,IP,International Paper Company Com ,83.6347
+Sell,IPG,Interpublic Group of Companies ,89.6217
+Sell,ISRG,Intuitive Surgical Inc. ,85.1824
+Sell,MAA,Mid-America Apartment Communiti ,83.0054
+Sell,MAS,Masco Corporation Common ,98.6113
+Sell,MCHP,Microchip Technology Incorporat ,89.8472
+Sell,MDT,Medtronic Inc. Common ,98.3009
+Sell,MLM,Martin Marietta Materials Inc. ,89.0954
+Sell,NOC,Northrop Grumman Corporation Co ,92.7861
+Sell,NWL,Newell Rubbermaid Inc. Common S ,81.3198
+Sell,PDCO,Patterson Companies Inc. ,87.6808
+Sell,PEP,Pepsico Inc. Common ,82.2826
+Sell,PFE,Pfizer Inc. Common ,80.1026
+Sell,RRC,Range Resources Corporation Com ,84.3039
+Sell,RTN,Raytheon Company Common ,91.9707
+Sell,SEE,Sealed Air Corporation Common S ,96.2204
+Sell,SJM,J.M. Smucker Company (The) New  ,97.6533
+Sell,SNI,Scripps Networks Interactive I ,91.8539
+Sell,WHR,Whirlpool Corporation Common St ,84.8018
+Sell,WMB,Williams Companies Inc. (The)  ,81.1963
+Sell,WYNN,Wynn Resorts Limited ,93.3188
+Sell,DLPH, Delphi Automotive plc Ordinary  ,91.6613
+Sell,FBHS, Fortune Brands Home & Security  ,96.3226
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,94.7564
+Sell,HAS, Hasbro  Inc. ,84.6286
+Sell,HBI, Hanesbrands Inc. Common ,86.6673
+Sell,HCA, HCA Holdings  Inc. Common ,82.799
+Sell,HD, Home Depot  Inc. (The) Common S ,90.6099
+Sell,HOG, Harley-Davidson  Inc. Common St ,87.3641
+Sell,HON, Honeywell International Inc. Co ,83.5288
+Sell,VIAB, Viacom Inc. ,85.5154
+Sell,AAL,American Airlines Group Inc. ,91.0884
+Sell,ABBV,AbbVie Inc. ,83.3259
+Sell,QRVO,Qorvo Inc.,87.2105
+Sell,WBA,Walgreens Boots Alliance Inc.,89.3149
+Sell,WRK,WestRock Company,97.1506
+Sell,CSRA,CSRA Inc.,95.6457
+Sell,FTV,Fortive Corporation,98.4126
+Sell,INFO,IHS Markit Ltd.,86.5903

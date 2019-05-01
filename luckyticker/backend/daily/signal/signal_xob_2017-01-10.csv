@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CTNN,iPath Pure Beta Cotton ETN ,,
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+SHI,SINOPEC Shangai Petrochemical C ,Basic Materials,Oil & Gas Refining & Marketing
+YPF,YPF Sociedad Anonima Common Sto ,Basic Materials,Major Integrated Oil & Gas
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ILMN, Illumina  Inc. ,Healthcare,Biotechnology
+KTWO,K2M Group Holdings Inc.,Healthcare,Medical Appliances & Equipment
+INCY,Incyte Corporation ,Healthcare,Biotechnology
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+MMAC,MMA Capital Management LLC,N/A,N/A
+SCAI,Surgical Care Affiliates  Inc. ,N/A,N/A
+GJO, Synthetic Fixed-Income Securiti ,N/A,N/A
+WOOF,VCA Antech Inc. ,Services,Personal Services
+MB,MINDBODY  Inc.,Technology,Application Software
+UCTT,Ultra Clean Holdings Inc. ,Technology,Semiconductor - Specialized
+PAM,Pampa Energia S.A. Pampa Energi ,Utilities,Electric Utilities

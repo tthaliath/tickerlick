@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+RXD,ProShares UltraShort Health Care ETF,Commodity Based ETF,
+BZQ,ProShares UltraShort MSCI Brazil ETF,Commodity Based ETF,
+RWT,Redwood Trust Inc. Common Stoc ,Financial,REIT - Diversified
+HIIQ,Health Insurance Innovations Inc. ,Healthcare,Health Care Plans
+TCPC, TCP Capital Corp. ,N/A,N/A
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+ALOT,Astro-Med Inc. ,Technology,Computer Peripherals

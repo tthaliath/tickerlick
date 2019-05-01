@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AMZA,InfraCap MLP ETF ,,
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+DNOW,NOW Inc. Common,Basic Materials,Oil & Gas Equipment & Services
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+TOUR,Tuniu Corporation,Consumer Goods,Recreational Goods Other
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+DORM,Dorman Products Inc. ,Consumer Goods,Auto Parts
+SLG,SL Green Realty Corporation Com ,Financial,REIT - Retail
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+LLY, Eli Lilly and Company Common St ,Healthcare,Drug Manufacturers - Major
+APOG,Apogee Enterprises Inc. ,Industrial Goods,General Building Materials
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+RGR,Sturm Ruger & Company Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+TAYD,Taylor Devices Inc. ,Industrial Goods,Diversified Machinery
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+LSTK,iPath Pure Beta Livestock ETN ,N/A,N/A
+MLPG, UBS AG Exchange Traded Access S ,N/A,N/A
+FINL,The Finish Line Inc. ,Services,Specialty Retail Other
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+RGC,Regal Entertainment Group Class ,Services,Movie Production Theaters
+MIC,Macquarie Infrastructure Compan ,Services,Basic Materials Wholesale
+FNGN,Financial Engines Inc. ,Services,Business Services
+TZOO,Travelzoo Inc. ,Technology,Internet Information Providers
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+PSCD,PowerShares S&P SmallCap Consumer Discretionary Portfolio ETF,US Equity ETF,

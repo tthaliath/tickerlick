@@ -1,0 +1,89 @@
+Buy,AZO,AutoZone Inc. Common ,7.95883
+Buy,CBS,CBS Corporation Class B Common  ,13.2399
+Buy,CMCSA,Comcast Corporation ,17.8406
+Buy,CSX,CSX Corporation Common ,9.06384
+Buy,DISCK,Discovery Communications Inc ,19.4584
+Buy,DISH,DISH Network Corporation ,17.1513
+Buy,FAST,Fastenal Company ,17.4754
+Buy,GPC,Genuine Parts Company Common St ,9.87694
+Buy,IPG,Interpublic Group of Companies ,19.877
+Buy,MCK,McKesson Corporation Common Sto ,11.8515
+Buy,MHK,Mohawk Industries Inc. Common  ,10.9605
+Buy,NRG,NRG Energy Inc. Common ,12.8255
+Buy,NSC,Norfolk Southern Corporation Co ,17.2516
+Buy,NTAP,NetApp Inc. ,10.2644
+Buy,NTRS,Northern Trust Corporation ,6.91155
+Buy,OMC,Omnicom Group Inc. Common ,17.8239
+Buy,ORLY,O'Reilly Automotive Inc. ,17.3318
+Buy,PEG,Public Service Enterprise Group ,7.68471
+Buy,PKI,PerkinElmer Inc. Common ,2.16048
+Buy,PNR,Pentair Inc. Common ,14.0747
+Buy,PPL,PP&L Corporation Common ,19.2307
+Buy,SCHW,Charles Schwab Corporation (The ,13.5631
+Buy,SHW,Sherwin-Williams Company (The)  ,14.1384
+Buy,FBHS, Fortune Brands Home & Security  ,5.06153
+Buy,HCA, HCA Holdings  Inc. Common ,16.3844
+Buy,HON, Honeywell International Inc. Co ,19.5689
+Sell,APA,Apache Corporation Common ,94.074
+Sell,ARE,Alexandria Real Estate Equities ,97.2219
+Sell,CBG,CBRE Group Inc Common ,95.1179
+Sell,CCL,Carnival Corporation Common Sto ,93.0064
+Sell,CHK,Chesapeake Energy Corporation C ,95.5556
+Sell,CI,Cigna Corporation Common ,85.1575
+Sell,CL,Colgate-Palmolive Company Commo ,90.3607
+Sell,COH,Coach Inc. Common ,90.2659
+Sell,CPB,Campbell Soup Company Common St ,81.705
+Sell,CSCO,Cisco Systems Inc. ,87.5231
+Sell,CTL,CenturyLink Inc. Common ,81.0608
+Sell,CTXS,Citrix Systems Inc. ,83.1734
+Sell,CVX,Chevron Corporation Common Stoc ,96.1852
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,90.7155
+Sell,DD,E.I. du Pont de Nemours and Com ,84.0343
+Sell,DHR,Danaher Corporation Common Stoc ,84.9544
+Sell,DLTR,Dollar Tree Inc. ,87.0399
+Sell,DOW,Dow Chemical Company (The) Comm ,80.7197
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,85.0252
+Sell,DVN,Devon Energy Corporation Common ,80.4349
+Sell,EL,Estee Lauder Companies Inc. (T ,84.591
+Sell,EMR,Emerson Electric Company Common ,95.3054
+Sell,EOG,EOG Resources Inc. Common Stoc ,81.9018
+Sell,EQR,Equity Residential Common Share ,82.0836
+Sell,EXR,Extra Space Storage Inc Common  ,94.8279
+Sell,FCX,Freeport-McMoRan Copper & Gold ,86.1781
+Sell,FE,FirstEnergy Corporation Common  ,83.6054
+Sell,FTI,FMC Technologies Inc. Common S ,96.6171
+Sell,GILD,Gilead Sciences Inc. ,80.1352
+Sell,GM,General Motors Company Common S ,81.1191
+Sell,GPS,Gap Inc. (The) Common ,86.7434
+Sell,INTC,Intel Corporation ,95.7512
+Sell,LUV,Southwest Airlines Company Comm ,84.29
+Sell,LVLT,Level 3 Communications Inc. Co ,83.2007
+Sell,MAC,Macerich Company (The) Common S ,91.6669
+Sell,MAT,Mattel Inc. ,85.913
+Sell,MET,MetLife Inc. Common ,86.7383
+Sell,NKE,Nike Inc. Common ,89.9384
+Sell,NOV,National Oilwell Varco Inc. Co ,81.8412
+Sell,NUE,Nucor Corporation Common ,93.4638
+Sell,PBCT,People's United Financial Inc. ,98.9899
+Sell,PCG,Pacific Gas & Electric Co. Comm ,83.0062
+Sell,PFE,Pfizer Inc. Common ,88.8027
+Sell,PFG,Principal Financial Group Inc C ,97.5459
+Sell,PG,Procter & Gamble Company (The)  ,92.2143
+Sell,PLD,ProLogis Inc. Common ,87.4513
+Sell,PM,Philip Morris International Inc ,89.7777
+Sell,PRU,Prudential Financial Inc. Comm ,90.4726
+Sell,PVH,PVH Corp. Common ,92.4669
+Sell,PWR,Quanta Services Inc. Common St ,81.3619
+Sell,RAI,Reynolds American Inc Common St ,93.5857
+Sell,REG,Regency Centers Corporation Com ,80.5826
+Sell,RL,Ralph Lauren Corporation Common ,80.6463
+Sell,SCG,SCANA Corporation Common ,85.6097
+Sell,SEE,Sealed Air Corporation Common S ,84.0348
+Sell,SIG,Signet Jewelers Limited Common  ,93.535
+Sell,SJM,J.M. Smucker Company (The) New  ,83.9417
+Sell,SLB,Schlumberger N.V. Common ,84.4684
+Sell,HAL, Halliburton Company Common Stoc ,92.2896
+Sell,HAS, Hasbro  Inc. ,84.174
+Sell,HCN, Health Care REIT  Inc. Common S ,96.612
+Sell,HCP, HCP  Inc. Common ,96.2963
+Sell,HD, Home Depot  Inc. (The) Common S ,88.9714

@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FBHS, Fortune Brands Home & Security  ,Consumer Goods,Home Furnishings & Fixtures
+SAM,Boston Beer Company Inc. (The) ,Consumer Goods,Beverages - Brewers
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+LFVN, Lifevantage Corporation ,Healthcare,Drug Related Products
+DOV,Dover Corporation Common ,Industrial Goods,Diversified Machinery
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+WFM, Whole Foods Market  Inc. ,Services,Grocery Stores
+MCK,McKesson Corporation Common Sto ,Services,Drugs Wholesale
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale
+CBRL,Cracker Barrel Old Country Stor ,Services,Restaurants
+PAC,Grupo Aeroportuario Del Pacific ,Services,Air Services Other
+DG,Dollar General Corporation Comm ,Services,Discount Variety Stores
+CEB, Corporate Executive Board Compa ,Services,Management Services
+RHS,Guggenheim S&P Equal Weight Consumer Staples ETF,US Equity ETF,

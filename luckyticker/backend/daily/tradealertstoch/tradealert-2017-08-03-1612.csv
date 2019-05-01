@@ -1,0 +1,110 @@
+Buy,AVY,Avery Dennison Corporation Comm ,13.9501
+Buy,AZO,AutoZone Inc. Common ,19.6712
+Buy,CHTR,Charter Communications Inc. ,18.3084
+Buy,CINF,Cincinnati Financial Corporatio ,5.15962
+Buy,CMCSA,Comcast Corporation ,15.8979
+Buy,CNP,CenterPoint Energy Inc (Holdin ,18.5206
+Buy,COH,Coach Inc. Common ,15.0656
+Buy,COP,ConocoPhillips Common ,4.9291
+Buy,COST,Costco Wholesale Corporation ,15.5708
+Buy,CPB,Campbell Soup Company Common St ,18.5461
+Buy,CTXS,Citrix Systems Inc. ,15.4072
+Buy,D,Dominion Resources Inc. Common ,9.11051
+Buy,DD,E.I. du Pont de Nemours and Com ,6.02619
+Buy,DG,Dollar General Corporation Comm ,3.87253
+Buy,DHI,D.R. Horton Inc. Common ,5.09286
+Buy,DIS,Walt Disney Company (The) Commo ,18.2988
+Buy,DLTR,Dollar Tree Inc. ,19.4284
+Buy,DOW,Dow Chemical Company (The) Comm ,1.52263
+Buy,DRI,Darden Restaurants Inc. Common ,13.4668
+Buy,EBAY,eBay Inc. ,17.9633
+Buy,EIX,Edison International Common Sto ,12.8208
+Buy,EMN,Eastman Chemical Company Common ,14.208
+Buy,FL,Footlocker Inc. ,19.8619
+Buy,FLR,Fluor Corporation Common ,10.9305
+Buy,FMC,FMC Corporation Common ,12.9028
+Buy,FTI,FMC Technologies Inc. Common S ,17.8241
+Buy,GILD,Gilead Sciences Inc. ,9.158
+Buy,GIS,General Mills Inc. Common Stoc ,16.6676
+Buy,GM,General Motors Company Common S ,5.12941
+Buy,GPC,Genuine Parts Company Common St ,8.33344
+Buy,GPS,Gap Inc. (The) Common ,1.71879
+Buy,GT,Goodyear Tire & Rubber Company  ,7.27238
+Buy,IP,International Paper Company Com ,19.3128
+Buy,ISRG,Intuitive Surgical Inc. ,15.7072
+Buy,IVZ,Invesco Plc New Common ,6.17242
+Buy,MJN,Mead Johnson Nutrition Company  ,20
+Buy,PFE,Pfizer Inc. Common ,12.3986
+Buy,PFG,Principal Financial Group Inc C ,5.92706
+Buy,RCL,Royal Caribbean Cruises Ltd. Co ,19.9074
+Buy,RHT,Red Hat Inc. Common ,4.76113
+Buy,ROST,Ross Stores Inc. ,17.3677
+Buy,SCHW,Charles Schwab Corporation (The ,16.6698
+Buy,SJM,J.M. Smucker Company (The) New  ,5.45977
+Buy,SLG,SL Green Realty Corporation Com ,15.243
+Buy,VZ,Verizon Communications Inc. Com ,12.3038
+Buy,WMT,Wal-Mart Stores Inc. Common St ,1.32275
+Buy,XEC,Cimarex Energy Co Common ,15.957
+Buy,XRX,Xerox Corporation Common ,10.8596
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,1.53235
+Buy,HAL, Halliburton Company Common Stoc ,18.7868
+Buy,HIG, Hartford Financial Services Gro ,12.3347
+Buy,HRS, Harris Corporation Common ,3.96791
+Buy,HSIC, Henry Schein  Inc. ,14.4954
+Buy,ICE, IntercontinentalExchange  Inc.  ,15.4756
+Buy,IDXX, IDEXX Laboratories  Inc. ,2.69405
+Buy,IFF, Internationa Flavors & Fragranc ,18.0593
+Buy,ILMN, Illumina  Inc. ,17.9546
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,17.6635
+Buy,MNST, Monster Beverage Corporation ,17.7928
+Buy,MPC, Marathon Petroleum Corporation  ,14.8976
+Buy,PSX, Phillips 66 Common ,19.1338
+Buy,STT, State Street Corporation Common ,8.79148
+Buy,VIAB, Viacom Inc. ,5.21351
+Buy,WFM, Whole Foods Market  Inc. ,17.7747
+Buy,XYL, Xylem Inc. Common ,16.2043
+Buy,SPY,SPDR S&P 500 ETF,15.4362
+Buy,COTY,Coty Inc. ,17.2853
+Buy,FOXA,Twenty-First Century Fox Inc. ,1.96666
+Buy,GOOGL,Alphabet Inc.,19.7141
+Buy,CFG,Citizens Financial Group Inc.,11.0692
+Buy,SYF,Synchrony Financial Common Stoc,7.99309
+Buy,QRVO,Qorvo Inc.,13.2511
+Buy,INFO,IHS Markit Ltd.,7.55843
+Buy,UAA,Under Armour  Inc. Class A,5.27765
+Sell,AYI,Acuity Brands Inc (Holding Comp ,92.2217
+Sell,CMA,Comerica Incorporated Common St ,87.4726
+Sell,COG,Cabot Oil & Gas Corporation Com ,94.2152
+Sell,CTSH,Cognizant Technology Solutions  ,97.2733
+Sell,DE,Deere & Company Common ,85.0142
+Sell,DHR,Danaher Corporation Common Stoc ,92.1054
+Sell,DLR,Digital Realty Trust Inc. Comm ,90.1232
+Sell,EFX,Equifax Inc. Common ,94.4451
+Sell,EOG,EOG Resources Inc. Common Stoc ,84.3724
+Sell,EQT,EQT Corporation Common ,80.4854
+Sell,FLIR,FLIR Systems Inc. ,86.6656
+Sell,GD,General Dynamics Corporation Co ,91.1886
+Sell,GE,General Electric Company Common ,80.8842
+Sell,INCY,Incyte Corporation ,80.2974
+Sell,IR,Ingersoll-Rand plc (Ireland) ,96.9025
+Sell,IRM,Iron Mountain Incorporated (Del ,80.5672
+Sell,QCOM,QUALCOMM Incorporated ,86.9219
+Sell,R,Ryder System Inc. Common ,84.4728
+Sell,REG,Regency Centers Corporation Com ,86.4229
+Sell,RF,Regions Financial Corporation C ,94.0037
+Sell,ROK,Rockwell Automation Inc. Commo ,82.6205
+Sell,ROP,Roper Industries Inc. Common S ,84.4573
+Sell,SBUX,Starbucks Corporation ,90.5866
+Sell,SEE,Sealed Air Corporation Common S ,83.9515
+Sell,SNPS,Synopsys Inc. ,89.8171
+Sell,ZION,Zions Bancorporation ,88.3614
+Sell,BLK,BlackRock Inc,86.4755
+Sell,DLPH, Delphi Automotive plc Ordinary  ,86.6826
+Sell,HCN, Health Care REIT  Inc. Common S ,98.7936
+Sell,HCP, HCP  Inc. Common ,85.0791
+Sell,HD, Home Depot  Inc. (The) Common S ,88.8575
+Sell,HON, Honeywell International Inc. Co ,90.1293
+Sell,HRB, H&R Block  Inc. Common ,81.1108
+Sell,TRIP, TripAdvisor  Inc. ,94.8413
+Sell,FTV,Fortive Corporation,86.4206
+Sell,ARNC,Arconic Inc.,88.4439

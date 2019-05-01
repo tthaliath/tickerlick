@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+AMP,Ameriprise Financial Inc. Comm ,Financial,Asset Management
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+LCI,Lannett Co Inc Common ,Healthcare,Drug Manufacturers - Other
+TREX,Trex Company Inc. Common ,Industrial Goods,General Building Materials
+UFPI,Universal Forest Products Inc. ,Industrial Goods,General Building Materials
+LXFR, Luxfer Holdings PLC American De ,Industrial Goods,Diversified Machinery
+PPHMP,Peregrine Pharmaceuticals  Inc. ,N/A,N/A
+GSJ, Goldman Sachs Group  Inc. (The) ,N/A,N/A
+WOOF,VCA Antech Inc. ,Services,Personal Services
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+ATHN,athenahealth Inc. ,Services,Business Services
+DTV,DIRECTV ,Services,CATV Systems
+NVEE,NV5 Holdings Inc. ,Services,Technical Services
+ABCO,The Advisory Board Company ,Services,Business Services
+BNFT,Benefitfocus Inc. ,Technology,Application Software
+XHE,SPDR S&P Healthcare Equipment ETF,US Equity ETF,

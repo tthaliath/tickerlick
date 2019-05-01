@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAJ,Canon Inc. American Depositary ,Consumer Goods,Photographic Equipment & Supplies
+MGPI,MGP Ingredients Inc. ,Consumer Goods,Processed & Packaged Goods
+KB,KB Financial Group Inc ,Financial,Foreign Regional Banks
+ICBK,County Bancorp Inc.,Financial,Savings & Loans
+AXON,Axovant Sciences Ltd.,Healthcare,Biotechnology
+SVT, Servotronics  Inc. Common ,Industrial Goods,Industrial Electrical Equipment
+PGD,iPath Asian and Gulf Currency Reval ETN ,N/A,N/A
+INDL, Direxion Daily India Bull 3x Sh ,N/A,N/A
+INP, Barclays Bank Plc iPath ETNs li ,N/A,N/A
+EXPE,Expedia Inc. ,Services,Lodging
+PCLN,priceline.com Incorporated ,Services,General Entertainment
+CMCM,Cheetah Mobile Inc. American De,Technology,Application Software
+SYMC,Symantec Corporation ,Technology,Security Software & Services
+AMAT,Applied Materials Inc. ,Technology,Semiconductor Equipment & Materials
+MBLY,Mobileye N.V. Ordinary Shares,Technology,Application Software
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+AEIS,Advanced Energy Industries Inc ,Technology,Diversified Electronics
+UPLD,Upland Software Inc.,Technology,Application Software
+BIO,Bio-Rad Laboratories Inc. Clas ,Technology,Scientific & Technical Instruments
+TGS,Transportadora de Gas del Sur S ,Utilities,Gas Utilities

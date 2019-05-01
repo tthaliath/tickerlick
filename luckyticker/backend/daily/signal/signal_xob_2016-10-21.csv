@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NWPX,Northwest Pipe Company ,Basic Materials,Steel & Iron
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+CRK,Comstock Resources Inc. Common ,Basic Materials,Independent Oil & Gas
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+MTR,Mesa Royalty Trust Common ,Financial,Diversified Investments
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+LGCYP,Legacy Reserves LP,N/A,N/A
+TACO,Del Taco Restaurants  Inc.,Services,Restaurants
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+NFLX,Netflix Inc. ,Services,Music & Video Stores

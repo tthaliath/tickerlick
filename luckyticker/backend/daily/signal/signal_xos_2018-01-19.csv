@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HDLV,ETRACS Montly Pay 2xLeveraged U ,,
+UTES,ETFIS Series Trust I Reaves Uti,,
+JHMU,John Hancock Multifactor Utilit,,
+UTLF,iShares Edge MSCI Multifactor U,,
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+SIJ,ProShares UltraShort Industrials ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SMDD,ProShares UltraPro Short MidCap400 ETF,Commodity Based ETF,
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+ALCO,Alico Inc. ,Consumer Goods,Farm Products
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+MBB,iShares Barclays MBS Fixed-Rate Bond ETF,Fixed Income ETF,
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+IVTY,Invuity  Inc.,Healthcare,Medical Instruments & Supplies
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CTRE,CareTrust REIT Inc.,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+MHLA,Maiden Holdings  Ltd. 6.625% No ,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+MHNC,Maiden Holdings North America   ,N/A,N/A
+VGI, Virtus Global Multi-Sector Inco ,N/A,N/A
+NGHCN,National General Holdings Corp.,N/A,N/A
+OMAA,OM Asset Management plc 5.125%  ,N/A,N/A
+VPU,Vanguard Utilities ETF - DNQ ETF,US Equity ETF,
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+VVC,Vectren Corporation Common Stoc ,Utilities,Diversified Utilities
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities

@@ -1,0 +1,113 @@
+ticker,name,sector,industry
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+PDCO,Patterson Companies Inc. ,Services,Medical Equipment Wholesale
+PNW,Pinnacle West Capital Corporati ,Utilities,Electric Utilities
+DISH,DISH Network Corporation ,Services,CATV Systems
+DTE,DTE Energy Company Common ,Utilities,Electric Utilities
+PPL,PP&L Corporation Common ,Utilities,Electric Utilities
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+EIX,Edison International Common Sto ,Utilities,Electric Utilities
+MLPY, Morgan Stanley Cushing MLP High ,N/A,N/A
+MYJ, Blackrock MuniYield New Jersey  ,Financial,Closed-End Fund - Debt
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+SJT,San Juan Basin Royalty Trust Co ,Basic Materials,Independent Oil & Gas
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+TRCO,Tribune Media Company Class A C,Services,Publishing - Newspapers
+WF,Woori Finance Holdings Co Ltd A ,Financial,Foreign Regional Banks
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+BLX,Banco Latinoamericano de Comerc ,Financial,Foreign Money Center Banks
+ENY,Guggenheim Canadian Energy Income ETF,Global Equity ETF,
+GGN, GAMCO Global Gold  Natural Reso ,N/A,N/A
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+PMO, Putnam Municipal Opportunities  ,Financial,Closed-End Fund - Debt
+SMM, Salient Midstream Common Shares ,N/A,N/A
+TLP,Transmontaigne Partners L.P. Tr ,Basic Materials,Oil & Gas Pipelines
+TTP, Tortoise Pipeline & Energy Fund ,N/A,N/A
+ZMLP,Direxion Zacks MLP High Income Shares ,N/A,N/A
+AMGP,Antero Midstream GP LP  of Bene,,
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+CRC,Chromcraft Revington Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+DSXN,Diana Shipping Inc. 8.50% Senio ,N/A,N/A
+FEIM, Frequency Electronics  Inc. ,Technology,Communication Equipment
+GLPG,Galapagos NV ,N/A,N/A
+HYD,Market Vectors High Yield Municipal Index ETF,Fixed Income ETF,
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+MDCA,MDC Partners Inc. ,NULL,NULL
+MMLP,Martin Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+NTG, Tortoise MLP Fund  Inc. Common  ,N/A,N/A
+POR,Portland General Electric Co Co ,Utilities,Electric Utilities
+RETA,Reata Pharmaceuticals  Inc.,N/A,N/A
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+SUPV,Grupo Supervielle S.A.,N/A,N/A
+TVE, Tennessee Valley Authority ,N/A,N/A
+WGP,Western Gas Equity Partners LP ,Basic Materials,Oil & Gas Pipelines
+AMU, ETRACS Alerian MLP Index ETN ,N/A,N/A
+BSM,Black Stone Minerals  L.P.,Basic Materials,Independent Oil & Gas
+EQGP,EQT GP Holdings  LP,Basic Materials,Major Integrated Oil & Gas
+GOODO, Gladstone Commercial Corporatio ,N/A,N/A
+MCRO, IQ Hedge Macro Tracker ETF ,N/A,N/A
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+SRV, The Cushing MLP Total Return Fu ,N/A,N/A
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+UTHR,United Therapeutics Corporation ,Healthcare,Drug Manufacturers - Other
+ZTR, Zweig Total Return Fund  Inc. ( ,Financial,Closed-End Fund - Debt
+BCC,Boise Cascade Company ,Industrial Goods,Lumber
+BRFS,BRF-Brasil Foods S.A. ,Consumer Goods,Meat Products
+FPL,First Trust New Opportunities M ,N/A,N/A
+GUT, Gabelli Utility Trust (The) Com ,Financial,Closed-End Fund - Equity
+IBN, ICICI Bank Limited Common ,Financial,Foreign Regional Banks
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+MRIN,Marin Software Incorporated ,Technology,Application Software
+NTX, Nuveen Texas Quality Income Mun ,Financial,Closed-End Fund - Debt
+SBR,Sabine Royalty Trust Common Sto ,Financial,Diversified Investments
+SRLN,SPDR Blackstone/GSO Senior Loan ETF ,N/A,N/A
+SZO, PowerShares DB Crude Oil Short  ,N/A,N/A
+VET,Vermilion Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+APU,AmeriGas Partners L.P. Common  ,Utilities,Gas Utilities
+DSW,DSW Inc. Common ,Services,Apparel Stores
+FEI,First Trust MLP and Energy Inco ,N/A,N/A
+GOV,Government Properties Income Tr ,Financial,REIT - Office
+MFD, Macquarie/First Trust Global Co ,Financial,Closed-End Fund - Equity
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+RMP,Rice Midstream Partners LP Comm,N/A,N/A
+STN,Stantec Inc Common ,Services,Technical Services
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+UTLF,iShares Edge MSCI Multifactor U,,
+ACU,Acme United Corporation. Common ,Consumer Goods,Housewares & Accessories
+BCX, BlackRock Resources Common Shar ,N/A,N/A
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+DLHC, DLH Holdings Corp. ,Services,Staffing & Outsourcing Services
+GCI,Gannett Co. Inc. Common ,Services,Publishing - Newspapers
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+ICSH,iShares Liquidity Income ETF,N/A,N/A
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+MTU,Mitsubishi UFJ Financial Group ,Financial,Money Center Banks
+NXC, Nuveen California Select Tax-Fr ,Financial,Closed-End Fund - Debt
+PTEU,Pacer TrendpilotTM European Ind,,
+SGA,Saga Communications Inc. New C ,Services,Broadcasting - Radio
+SRNE,Sorrento Therapeutics Inc. ,Healthcare,Biotechnology
+TELL,Tellurian Inc.,,
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+ENFR,ALPS Alerian Energy Infrastructure ETF ,N/A,N/A
+FISK,Empire State Realty OP L.P. ,N/A,N/A
+INP, Barclays Bank Plc iPath ETNs li ,N/A,N/A
+MFINL,Medallion Financial Corp. ,N/A,N/A
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+SMIN,iShares MSCI India Small Cap ETF,Global Equity ETF,
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+WPZ,Williams Partners L.P. Common U ,Basic Materials,Specialty Chemicals
+AEUA,Anadarko Petroleum Corporation,N/A,N/A
+BFO, Blackrock Florida Municipal 202 ,Financial,Closed-End Fund - Debt
+CNI,Canadian National Railway Compa ,Services,Railroads
+DMO, Western Asset Mortgage Defined  ,N/A,N/A
+EUFL,Direxion Daily European Financi,,
+GLBZ,Glen Burnie Bancorp ,Financial,Regional - Mid-Atlantic Banks
+HK, Halcon Resources Corporation Co ,Basic Materials,Oil & Gas Drilling & Exploration
+IDX,Market Vectors Indonesia Index ETF,Global Equity ETF,
+KYE, Kayne Anderson Total Energy Ret ,N/A,N/A

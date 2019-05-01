@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NL,NL Industries Inc. Common Stoc ,Basic Materials,Synthetics
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+NMIH,NMI Holdings Inc. ,Financial,Surety & Title Insurance
+BTZ, BlackRock Credit Allocation Inc ,Financial,Closed-End Fund - Debt
+GAIN,Gladstone Investment Corporatio ,Financial,Diversified Investments
+BRT,BRT Realty Trust Common ,Financial,Mortgage Investment
+USMD, USMD Holdings  Inc. ,Healthcare,Hospitals
+ANGI, Angie's List  Inc. ,N/A,N/A
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+HIFR,InfraREIT Inc. Common,N/A,N/A
+FSC, Fifth Street Finance Corp. ,N/A,N/A
+PVTBP, PrivateBancorp  Inc. ,N/A,N/A
+NBHC, National Bank Holdings Corporat ,N/A,N/A
+FSFR,Fifth Street Senior Floating Rate Corp. ,N/A,N/A
+QADB,QAD Inc. ,NULL,NULL
+BOBE,Bob Evans Farms Inc. ,Services,Restaurants
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized
+SNPS,Synopsys Inc. ,Technology,Semiconductor Equipment & Materials
+QADA,QAD Inc. ,Technology,Application Software

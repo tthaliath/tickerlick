@@ -1,0 +1,277 @@
+OS,ABAX,ABAXIS Inc. ,43.48,28.1739
+OS,ALU,Alcatel-Lucent Common ,3.48,31.8378
+OS,AOI,Alliance One International Inc ,9.24,32.6265
+OS,ARM,ARM Holdings plc ,27000,34.4327
+OS,ASFI,Asta Funding Inc. ,7.43,39.4774
+OS,CMFO,China Marine Food Group Limited ,0.08,19.9982
+OS,DCTH,Delcath Systems Inc. ,0.29,29.4321
+OS,EXM,Excel Maritime Carriers Ltd. ,2.5,37.3487
+OS,LANC,Lancaster Colony Corporation ,102.13,28.0675
+OS,LEDS,SemiLEDS Corporation ,0.31,35.0688
+OS,MFNC,Mackinac Financial Corporation ,10.2,35.4877
+OS,NOK,Nokia Corporation Sponsored Ame ,6.34,30.4059
+OS,PROV,Provident Financial Holdings I ,17.18,32.3685
+OS,QTM,Quantum Corporation Common Stoc ,0.44,21.2136
+OS,RVR,White River Capital Inc ,0.005,0.171693
+OS,SFD,Smithfield Foods Inc. Common S ,0.45,30.4922
+OS,SLI,SL Industries Inc. Common Stoc ,29.5,36.0113
+OS,SMFG,Sumitomo Mitsui Financial Group ,6.08,22.5949
+OS,TEAR,TearLab Corporation ,1.01,30.6641
+OS,WAVX,Wave Systems Corp. ,0.11,24.6251
+OS,YUII,YUHE INT`L INC ,0.001,13.5684
+OS,CANE, Teucrium Sugar Fund ETV ,8.83,30.0831
+OS,CLBH, Carolina Bank Holdings Inc. ,16.02,27.7125
+OS,CRDS, Crossroads Systems  Inc. ,0.29,14.403
+OS,DGICB, Donegal Group  Inc. ,13.64,4.61432
+OS,ETAK, Elephant Talk Communications  I ,0.2,32.8925
+OS,FSBK, First South Bancorp Inc ,8.1,35.7984
+OS,NGVC, Natural Grocers by Vitamin Cott ,18.02,29.6923
+OS,SGAR, iPath Pure Beta Sugar ETN ,20.62,28.6367
+OS,SGG, iPath DJ-UBS Sugar Subindex Tot ,28.59,26.9818
+OS,WDTI, WisdomTree Managed Futures Stra ,41.45,37.4315
+OS,BSCI,Guggenheim BulletShares 2018 Corp Bond ETF,20.99,39.1602
+OS,BSCJ,Guggenheim BulletShares 2019 Corp Bond ETF,20.85,35.6183
+OS,MINT,PIMCO Enhanced Short Maturity Strategy Fund ETF,100.63,38.7487
+OS,SDP,ProShares UltraShort Utilities ETF,41.87,30.9836
+OS,TGLS,Tecnoglass Inc. ,11.2,12.9396
+OS,TCFC,The Community Financial Corp. ,19.5,22.7109
+OS,BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,20.49,40.6958
+OS,FGL,Fidelity and Guaranty Life Common ,24.86,36.0541
+OS,PPHMP,Peregrine Pharmaceuticals  Inc. ,20.8,38.6727
+OS,TRIV,TriVascular Technologies Inc. ,5.31,30.6972
+OS,IBME,iShares iBonds  Sep 2016 AMT-Fr ,26.4,36.6255
+OS,BVXV,BiondVax Pharmaceuticals Ltd.,3.4,37.3702
+OS,APIC,Apigee Corporation,7.35,36.1893
+OB,ACFN,Acorn Energy Inc. ,0.19,63.4316
+OB,ACNB,ACNB Corporation ,21.93,61.4697
+OB,ADC,Agree Realty Corporation Common ,37.15,73.6917
+OB,AEE,Ameren Corporation Common ,45.66,67.9835
+OB,AEP,American Electric Power Company ,61.79,68.0204
+OB,AFFY,Affymax Inc. ,0.09,67.2782
+OB,ALE,Allete Inc. ,53.54,66.2391
+OB,ALR,Alere Inc. Common ,54.11,77.5757
+OB,ARG,Airgas Inc. Common ,140.22,74.5437
+OB,ARTNA,Artesian Resources Corporation ,31.1,73.5432
+OB,ATE,Advantest Corporation (Kabushik ,9.29,66.1273
+OB,ATMI,ATMI Inc. ,0.167,65.2104
+OB,ATO,Atmos Energy Corporation Common ,68.59,70.8914
+OB,AVA,Avista Corporation Common ,37.67,69.3159
+OB,AWK,American Water Works Company I ,65.03,73.7605
+OB,AWR,American States Water Company C ,46.11,73.6224
+OB,BCE,BCE Inc. Common ,40.76,61.3622
+OB,BH,Biglari Holdings Inc. ,385.64,74.8457
+OB,BMS,Bemis Company Inc. Common Stoc ,47.22,63.6079
+OB,BOBE,Bob Evans Farms Inc. ,41.69,63.8553
+OB,BONA,Bona Film Group Limited ,13.51,70.8785
+OB,BT,BT Group plc Common ,35.85,59.6206
+OB,CAKE,The Cheesecake Factory Incorpor ,49.1,60.7093
+OB,CBMX,CombiMatrix Corporation ,6.8,95.7526
+OB,CBRL,Cracker Barrel Old Country Stor ,133.11,66.1856
+OB,CCF,Chase Corporation Common ,48.12,75.5136
+OB,CFNB,California First National Banco ,13.63,72.6902
+OB,CHFN,Charter Financial Corp. ,13.74,62.8424
+OB,CHRW,C.H. Robinson Worldwide Inc. ,65.21,58.1459
+OB,CLX,Clorox Company (The) Common Sto ,131.81,63.4796
+OB,CMI,Cummins Inc. Common ,91.17,59.8546
+OB,CMS,CMS Energy Corporation Common S ,39.19,73.3821
+OB,CNL,Cleco Corporation Common ,53.67,67.0811
+OB,COH,Coach Inc. Common ,37.21,68.9227
+OB,COHR,Coherent Inc. ,77.81,77.6592
+OB,COR,CoreSite Realty Corporation Com ,65.3,74.2842
+OB,CPSI,Computer Programs and Systems  ,56.34,70.7886
+OB,CRI,Carter's Inc. Common ,98.41,71.0437
+OB,CTCM,CTC Media Inc. ,1.98,71.5416
+OB,CTWS,Connecticut Water Service Inc. ,43.07,80.3614
+OB,CWT,California Water Service Group  ,25.18,73.7467
+OB,DCM,NTT DOCOMO Inc American Deposi ,23.84,77.6912
+OB,DEG,Etablissements Delhaize Freres  ,26.22,69.245
+OB,DG,Dollar General Corporation Comm ,76.35,70.6915
+OB,DGAS,Delta Natural Gas Company Inc. ,22.34,72.8482
+OB,DLTR,Dollar Tree Inc. ,81.98,66.6051
+OB,DTE,DTE Energy Company Common ,85.31,66.6808
+OB,DUK,Duke Energy Corporation (Holdin ,77,73.8277
+OB,ECHO,Echo Global Logistics Inc. ,22.15,59.7541
+OB,EE,El Paso Electric Company Common ,42.54,71.4498
+OB,EIX,Edison International Common Sto ,62.23,66.7697
+OB,ELON,Echelon Corporation ,6.09,75.9001
+OB,EOC,Empresa Nacional de Electricida ,39.33,67.3643
+OB,ES,EnergySolutions Inc Common Stoc ,54.57,68.8339
+OB,ETR,Entergy Corporation Common Stoc ,71.6,64.5244
+OB,EXAC,Exactech Inc. ,20.03,67.8881
+OB,EXC,Exelon Corporation Common ,30,67.6578
+OB,FE,FirstEnergy Corporation Common  ,33.05,58.6377
+OB,FFI,Fortune Industries Inc. Common ,0.8,81.6923
+OB,FL,Footlocker Inc. ,69.1,65.1325
+OB,FMS,Fresenius Medical Care AG Commo ,45.39,68.0614
+OB,FN,Fabrinet Ordinary Shares ,25.09,65.4141
+OB,FRT,Federal Realty Investment Trust ,151.98,61.4786
+OB,GBLI,Global Indemnity plc ,30.07,62.0143
+OB,GDOT,Green Dot Corporation Class A C ,18.52,74.2781
+OB,GGAL,Grupo Financiero Galicia S.A. ,28.07,65.1139
+OB,GILT,Gilat Satellite Networks Ltd. ,3.67,62.8446
+OB,IND,ING Group N.V. Perpetual Debt  ,26.18,63.4283
+OB,INZ,Ing Groep NV Perpetual Debt Sec ,26.19,63.6744
+OB,ISF,ING Group N.V. Perp Hybrid Cap ,25.98,67.0991
+OB,JBSS,John B. Sanfilippo & Son Inc. ,63.6,74.7934
+OB,JKHY,Jack Henry & Associates Inc. ,81.34,64.7893
+OB,KEP,Korea Electric Power Corporatio ,22.15,60.9106
+OB,LAKE,Lakeland Industries Inc. ,13.75,67.8732
+OB,LG,Laclede Gas Company Common Stoc ,63.72,71.2306
+OB,LNT,Alliant Energy Corporation Comm ,65.96,67.3994
+OB,LWAY,Lifeway Foods Inc. ,13.33,77.0954
+OB,MBRG,Middleburg Financial Corporatio ,19.72,68.7298
+OB,MCD,McDonald's Corporation Common S ,124.61,70.0553
+OB,MDM,Mountain Province Diamonds Inc. ,3.29,74.568
+OB,MFRI,MFRI Inc. ,7.42,66.3404
+OB,MGEE,MGE Energy Inc. ,48.97,67.6866
+OB,MLNX,Mellanox Technologies Ltd. ,45.75,68.0035
+OB,MO,Altria Group Inc. ,60.94,63.5284
+OB,MPET,Magellan Petroleum Corporation ,0.81,74.5093
+OB,MPX,Marine Products Corporation Com ,7.87,78.4922
+OB,MSEX,Middlesex Water Company ,29.25,72.8014
+OB,MSM,MSC Industrial Direct Company  ,65.63,70.4691
+OB,NDAQ,The NASDAQ OMX Group Inc. ,61.74,63.7175
+OB,NEE,NextEra Energy Inc. Common Sto ,112.98,75.9561
+OB,NEM,Newmont Mining Corporation (Hol ,20.55,68.2855
+OB,NGG,National Grid Transco PLC Nati ,72.07,64.9228
+OB,NI,NiSource Inc Common ,21.3,68.8459
+OB,NICE,NICE-Systems Limited ,62.35,66.6747
+OB,NNN,National Retail Properties Comm ,43.43,69.2002
+OB,NWE,NorthWestern Corporation Common ,56.18,62.0711
+OB,O,Realty Income Corporation Commo ,56.65,72.5744
+OB,OTTR,Otter Tail Corporation ,28.29,64.155
+OB,PCG,Pacific Gas & Electric Co. Comm ,55.46,65.0177
+OB,PEG,Public Service Enterprise Group ,41.38,67.457
+OB,PLG,Platinum Group Metals Ltd. Ordi ,1.15,95.2946
+OB,PNW,Pinnacle West Capital Corporati ,67.27,67.1107
+OB,POR,Portland General Electric Co Co ,39.43,67.0873
+OB,PPL,PP&L Corporation Common ,35.92,67.5369
+OB,REG,Regency Centers Corporation Com ,73.22,69.2798
+OB,ROIC,Retail Opportunity Investments  ,18.7,64.1137
+OB,ROST,Ross Stores Inc. ,56.76,64.4579
+OB,RPT,Ramco-Gershenson Properties Tru ,17.26,62.1911
+OB,RWC,RELM Wireless Corporation Commo ,4.07,61.5051
+OB,SBR,Sabine Royalty Trust Common Sto ,31.81,64.3886
+OB,SBS,Companhia de saneamento Basico  ,5.29,66.2617
+OB,SCG,SCANA Corporation Common ,64.17,68.5506
+OB,SCR,Simcere Pharmaceutical Group Si ,9400,68.603
+OB,SJI,South Jersey Industries Inc. C ,24.95,63.1415
+OB,SJM,J.M. Smucker Company (The) New  ,129.13,68.911
+OB,SJW,SJW Corporation Common ,32.26,65.9623
+OB,SMCI,Super Micro Computer Inc. ,31.4,73.763
+OB,SMG,Scotts Miracle-Gro Company (The ,68.53,64.5851
+OB,SMMF,Summit Financial Group Inc. ,12.29,68.5699
+OB,SMTC,Semtech Corporation ,20.64,65.6586
+OB,SNBC,Sun Bancorp Inc. ,21.56,65.9977
+OB,SO,Southern Company (The) Common S ,49.9,74.8889
+OB,SRT,StarTek Inc. Common ,4.04,74.619
+OB,STON,StoneMor Partners L.P. Common U ,29.39,76.0476
+OB,STR,Questar Corporation Common Stoc ,24.99,83.6751
+OB,SYY,Sysco Corporation Common ,43.15,72.7558
+OB,T,AT&T Inc. ,36.18,68.0839
+OB,TDE,Telephone and Data Systems Inc ,25.76,71.7491
+OB,TLK,P.T. Telekomunikasi Indonesia  ,49.36,69.1844
+OB,TXRH,Texas Roadhouse Inc. ,37.58,65.24
+OB,UBP,Urstadt Biddle Properties Inc.  ,18.81,63.7456
+OB,USAT,USA Technologies Inc. ,3.4,66.8532
+OB,UTL,UNITIL Corporation Common ,39.27,70.466
+OB,VALU,Value Line Inc. ,16.84,76.2225
+OB,VIA,Viacom Inc. ,49.01,65.9143
+OB,VSCP,VirtualScopics Inc. ,3.78,71.244
+OB,VZ,Verizon Communications Inc. Com ,50.76,75.2362
+OB,WDFC,WD-40 Company ,104.2,63.4108
+OB,WEC,Wisconsin Energy Corporation Co ,56.09,70.0174
+OB,WGL,WGL Holdings IncCommon ,66.53,65.4615
+OB,WR,Westar Energy Inc. Common Stoc ,44.28,65.8788
+OB,WTR,Aqua America Inc. Common ,31.87,71.0721
+OB,XEL,Xcel Energy Inc. Common ,38.56,69.0453
+OB,XRA,Exeter Resource Corporation Ord ,0.41,69.4404
+OB,YORW,The York Water Company ,26.6,71.0338
+OB,AGA, DB Agriculture Short ETN DB Agr ,36,89.1012
+OB,BCOM, B Communications Ltd. ,27,66.9599
+OB,CCA, MFS California Municipal Fund C ,12.03,66.7526
+OB,COY, Blackrock Corporate High Yield  ,33.845,67.5231
+OB,ELLI, Ellie Mae  Inc. Common ,74.72,70.5669
+OB,EOT, Eaton Vance Municipal Income Tr ,21.78,62.2128
+OB,FB, Facebook  Inc. ,115.09,69.4163
+OB,FLC, Flaherty & Crumrine/Claymore To ,20.18,66.4222
+OB,GIG, GigOptix  Inc. Common ,3.33,69.5828
+OB,GJP, Synthetic Fixed-Income Securiti ,21.23,64.4929
+OB,GOLD, Randgold Resources Limited ,72.57,74.3721
+OB,GUT, Gabelli Utility Trust (The) Com ,6.05,64.858
+OB,GXP, Great Plains Energy Incorporate ,28.45,65.4151
+OB,HAE, Haemonetics Corporation Common  ,34.49,70.1978
+OB,HCA, HCA Holdings  Inc. Common ,71.02,64.5765
+OB,HDSN, Hudson Technologies  Inc. ,3.22,67.3703
+OB,HE, Hawaiian Electric Industries  I ,30.09,64.9225
+OB,HIBB, Hibbett Sports  Inc. ,32.3,61.4325
+OB,HLS, HealthSouth Corporation Common  ,36.25,60.1135
+OB,HNSN, Hansen Medical  Inc. ,3.2,70.2992
+OB,HRB, H&R Block  Inc. Common ,34.47,63.9947
+OB,HTCH, Hutchinson Technology Incorpora ,3.77,76.6327
+OB,ICE, IntercontinentalExchange  Inc.  ,266.94,64.7049
+OB,IEC, IEC Electronics Corp. Common St ,3.45,61.2009
+OB,IHC, Independence Holding Company Co ,16.06,73.143
+OB,IIN, IntriCon Corporation ,7.81,67.4686
+OB,INXN, InterXion Holding N.V. Ordinary ,32.1,69.4356
+OB,IX, Orix Corp Ads Common ,75.14,62.7192
+OB,MAV, Pioneer Municipal High Income A ,14,75.1439
+OB,MGF, MFS Government Markets Income T ,5.46,65.1818
+OB,MHE, Massachusetts Health and Educat ,14.18,80.2519
+OB,MUX, McEwen Mining Inc. Common ,1.33,75.075
+OB,NAZ, Nuveen Arizona Premium Income M ,15.85,72.8173
+OB,NPN, Nuveen Pennsylvania Municipal V ,15.56,71.6645
+OB,NTS, NTS  Inc. Common ,5.59,74.3235
+OB,NTT, Nippon Telegraph and Telephone  ,44.26,73.4369
+OB,PNF, PIMCO New York Municipal Income ,12.42,74.0668
+OB,RNR, RenaissanceRe Holdings Ltd. Com ,115.05,61.6388
+OB,RPAI, Retail Properties of America  I ,15.89,65.505
+OB,SIFY, Sify Technologies Limited ,1.1,60.4224
+OB,SPAN, Span-America Medical Systems  I ,19.75,60.5141
+OB,TGR, iShares S&P Target Date Retirem ,66.4,64.4515
+OB,UTG, Reaves Utility Income Fund Comm ,27.42,64.8286
+OB,VIAB, Viacom Inc. ,46.05,63.5585
+OB,FXU,First Trust Utilities AlphaDEX® Fund ETF,23.23,64.9238
+OB,RYU,Guggenheim S&P Equal Weight Utilities ETF,75.66,66.3307
+OB,IDU,iShares Dow Jones U.S. Utilities Index Fund ETF,114.33,68.9064
+OB,EIDO,iShares MSCI Indonesia Investable Market Index Fund ETF,21.63,61.2115
+OB,JXI,iShares S&P Global Utilities Sector Index Fund ETF,45.4,63.7464
+OB,IDX,Market Vectors Indonesia Index ETF,19.07,60.3732
+OB,LTPZ,PIMCO 15+ Year U.S. TIPS Index Fund ETF,62.26,60.8321
+OB,PUI,PowerShares Dynamic Utilities ETF,23.61,66.5511
+OB,PSCU,PowerShares S&P SmallCap Utilities Portfolio ETF,42.67,64.5191
+OB,UPW,ProShares Ultra Utilities ETF,102.25,70.5274
+OB,BWX,SPDR Barclays Capital International Treasury Bond ETF,51.96,59.9576
+OB,XLU,SPDR Utilities Select Sector Fund ETF,45.85,69.9148
+OB,VPU,Vanguard Utilities ETF - DNQ ETF,99.37,69.6649
+OB,SLMBP,SLM Corporation ,41.5,59.4105
+OB,QTS,QTS Realty Trust Inc. ,46.96,66.8727
+OB,QPAC,Quinpario Acquisition Corp. ,9.85,75.5067
+OB,PBIP,Prudential Bancorp Inc. ,15.89,74.5779
+OB,ORAN,Orange ,17.83,64.7664
+OB,NYMTP,New York Mortgage Trust Inc. ,20.87,66.6715
+OB,NVGS,Navigator Holdings Ltd. ,14.75,68.5677
+OB,IKGH,Iao Kun Group Holding Company Limited ,1.29,60.763
+OB,DGSE,DGSE Companies Inc. ,0.4,64.902
+OB,CCV,Comcast Corporation ,25.9,64.1907
+OB,BYLK,Baylake Corp. ,14.88,65.2053
+OB,AMBI,Ambit Biosciences Corporation ,19,62.981
+OB,WBB,Westbury Bancorp Inc. ,18.9,62.6272
+OB,AMDA,Amedica Corporation ,2.96,88.9048
+OB,ARGS,Argos Therapeutics  Inc. ,3.23,61.042
+OB,BRX,Brixmor Property Group Inc. Com ,26.7,62.994
+OB,FUTY,Fidelity MSCI Utilities Index ETF ,29.46,68.8921
+OB,GYEN,AdvisorShares Gartman Gold/Yen ETF ,12.11,68.4394
+OB,JGBT,PowerShares DB 3x Japan Gov Bond ETN ,28.11,64.8675
+OB,OGS,ONE Gas  Inc. Common Stock ,56.92,75.8764
+OB,PLKI,Popeyes Louisiana Kitchen Inc. ,62.48,66.8834
+OB,TIPX,SPDR Barclays 1-10 Year TIPS ETF ,19.2,64.5586
+OB,TRXC,TransEnterix Inc. ,3.07,67.5803
+OB,MARA,Marathon Patent Group Inc.,1.92,63.7573
+OB,STOR,STORE Capital Corporation Commo,25.22,74.9885
+OB,ROIQW,ROI Acquisition Corp. II,1.22,99.667
+OB,MDVX,Medovex Corp.,1.46,63.6323
+OB,HIFR,InfraREIT Inc. Common,20.52,65.6555
+OB,DEA,Easterly Government Properties,17.92,61.6388
+OB,AVNU,Avenue Financial Holdings Inc.,19.35,84.2065
+OB,NYMTO,New York Mortgage Trust Inc.,20.69,70.4898

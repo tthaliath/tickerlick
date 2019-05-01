@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+BERY, Berry Plastics Group  Inc. Comm ,Consumer Goods,Rubber & Plastics
+TVPT,Travelport Worldwide Limited Co,Consumer Goods,Recreational Goods Other
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+AHT,Ashford Hospitality Trust Inc C ,Financial,REIT - Hotel/Motel
+OPB,Opus Bank ,Financial,Money Center Banks
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+SC,Santander Consumer USA Holdings Inc. ,Financial,Mortgage Investment
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+HF, HFF  Inc. Common ,Financial,Mortgage Investment
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+PFNX,Pfenex Inc. Common,Healthcare,Biotechnology
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+BTO, John Hancock Bank and Thrift Op ,N/A,N/A
+CDOR,Condor Hospitality Trust Inc.,N/A,N/A
+OIL, Barclays Bank Plc iPath Exchang ,N/A,N/A
+USO, United States Oil Fund ,N/A,N/A
+PHIIK,PHI Inc. ,NULL,NULL
+ESLT,Elbit Systems Ltd. ,NULL,NULL
+VLGEA,Village Super Market Inc. ,Services,Grocery Stores
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+CAR,Avis Budget Group Inc. ,Services,Rental & Leasing Services
+STMP,Stamps.com Inc. ,Services,Catalog & Mail Order Houses
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment

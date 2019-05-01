@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+SPDN,Direxion Daily S&P 500 Bear 1X,,
+MLPZ,UBS AG ETRACS ETRACS 2xMonthly,,
+AMJL,Credit Suisse X-Links Monthly P,,
+NVLN,Novelion Therapeutics Inc.,,
+OVID,Ovid Therapeutics Inc.,,
+JILL,J.Jill  Inc.,,
+EPD,Enterprise Products Partners L. ,Basic Materials,Independent Oil & Gas
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+WMB,Williams Companies Inc. (The)  ,Basic Materials,Oil & Gas Pipelines
+EQGP,EQT GP Holdings  LP,Basic Materials,Major Integrated Oil & Gas
+ENB,Enbridge Inc Common ,Basic Materials,Oil & Gas Pipelines
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+AGFS,AgroFresh Solutions  Inc.,Conglomerates,Conglomerates
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+CUBA, The Herzfeld Caribbean Basin Fu ,Financial,Closed-End Fund - Foreign
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+IMDZ,Immune Design Corp.,Healthcare,Biotechnology
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+FEN, First Trust Energy Income and G ,N/A,N/A
+COE,China Online Education Group,N/A,N/A
+RCS, RCM Strategic Global Government ,N/A,N/A
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+PHK, Pimco High Income Fund Pimco Hi ,N/A,N/A
+TTP, Tortoise Pipeline & Energy Fund ,N/A,N/A
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+MIC,Macquarie Infrastructure Compan ,Services,Basic Materials Wholesale
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices
+ADTN,ADTRAN Inc. ,Technology,Communication Equipment
+SBS,Companhia de saneamento Basico  ,Utilities,Foreign Utilities
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities

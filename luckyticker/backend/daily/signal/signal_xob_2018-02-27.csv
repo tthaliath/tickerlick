@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RCM,R1 RCM Inc.,,
+RMAX,RE/MAX Holdings Inc. ,Financial,Property Management
+XNCR,Xencor Inc. ,Healthcare,Biotechnology
+ALDX,Aldeyra Therapeutics Inc.,Healthcare,Biotechnology
+VNDA,Vanda Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+MACQU,Macquarie Asian Alpha Fund ,N/A,N/A
+HPE,Hewlett Packard Enterprise Company,N/A,N/A
+FSTR,L.B. Foster Company ,Services,Basic Materials Wholesale
+DDS,Dillard's Inc. Common ,Services,Department Stores
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+DIN,DineEquity Inc Common ,Services,Restaurants
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+VICR,Vicor Corporation ,Technology,Diversified Electronics
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+TWOU,2U Inc. ,Technology,Application Software
+GTT,GTT Communications Inc. ,Technology,Diversified Communication Services

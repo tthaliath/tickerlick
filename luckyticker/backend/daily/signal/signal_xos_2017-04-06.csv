@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+BWA,BorgWarner Inc. Common ,Consumer Goods,Auto Parts
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+NMR,Nomura Holdings Inc ADR America ,Financial,Investment Brokerage - National
+BOFI,BofI Holding Inc. ,Financial,Savings & Loans
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+FSFR,Fifth Street Senior Floating Rate Corp. ,N/A,N/A
+SNX,Synnex Corporation Common ,Services,Business Services
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+ASFI,Asta Funding Inc. ,Services,Business Services
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+FSLR,First Solar Inc. ,Technology,Semiconductor - Specialized
+NCIT,NCI Inc. ,Technology,Information Technology Services

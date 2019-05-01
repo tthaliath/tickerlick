@@ -1,0 +1,121 @@
+ticker,name,sector,industry
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+PSX, Phillips 66 Common ,Basic Materials,Oil & Gas Refining & Marketing
+SPLS,Staples Inc. ,Services,Specialty Retail Other
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+CHK,Chesapeake Energy Corporation C ,Basic Materials,Independent Oil & Gas
+PAYX,Paychex Inc. ,Services,Staffing & Outsourcing Services
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+APD,Air Products and Chemicals Inc ,Basic Materials,Chemicals - Major Diversified
+HES, Hess Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+FII,Federated Investors Inc. Commo ,Financial,Asset Management
+HTGZ, Hercules Technology Growth Capi ,N/A,N/A
+MG,Mistras Group Inc Common ,Services,Technical Services
+SKX,Skechers U.S.A. Inc. Common St ,Consumer Goods,Textile - Apparel Footwear & Accessories
+ACNB,ACNB Corporation ,Financial,Regional - Southwest  Banks
+AIT,Applied Industrial Technologies ,Services,Industrial Equipment Wholesale
+BCOM, B Communications Ltd. ,Technology,Diversified Communication Services
+CMPR,Cimpress N.V,Services,Business Services
+COLB,Columbia Banking System Inc. ,Financial,Savings & Loans
+DBVT,DBV Technologies S.A.,N/A,N/A
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+FRP, FairPoint Communications  Inc. ,Technology,Telecom Services - Domestic
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+MSEX,Middlesex Water Company ,Utilities,Water Utilities
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+NX,Quanex Building Products Corpor ,Industrial Goods,General Building Materials
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+PSB,PS Business Parks Inc. Common  ,Financial,REIT - Diversified
+RAIL,Freightcar America Inc. ,Services,Railroads
+RMBS,Rambus Inc. ,Technology,Semiconductor- Memory Chips
+SCL,Stepan Company Common ,Consumer Goods,Cleaning Products
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+UFPT,UFP Technologies Inc. ,Consumer Goods,Packaging & Containers
+WMAR,West Marine Inc. ,Services,Specialty Retail Other
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+NMRX,Numerex Corp. ,Technology,Communication Equipment
+UFI,Unifi Inc. New Common ,Industrial Goods,Textile Industrial
+ACTA,Actua Corporation,Technology,Application Software
+AJX,Great Ajax Corp. Common,Financial,REIT - Diversified
+BKLN,PowerShares Exchange-Traded Fund ETF,Fixed Income ETF,
+CFFN, Capitol Federal Financial  Inc. ,Financial,Savings & Loans
+CMRE,Costamare Inc. Common ,Services,Shipping
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+DGII,Digi International Inc. ,Technology,Networking & Communication Devices
+ESSA,ESSA Bancorp Inc. ,Financial,Savings & Loans
+FNLC,First Bancorp Inc (ME) ,Financial,Regional - Northeast Banks
+FSB,Franklin Financial Network,Financial,Money Center Banks
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+JNS,Janus Capital Group Inc. Cmn S ,Financial,Asset Management
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+NATR,Nature's Sunshine Products Inc ,Healthcare,Drug Related Products
+NFBK,Northfield Bancorp Inc. ,Financial,Regional - Northeast Banks
+NYCB,New York Community Bancorp Inc. ,Financial,Savings & Loans
+PHII,PHI Inc. ,Services,Air Services Other
+REXR,Rexford Industrial Realty Inc. ,Financial,REIT - Industrial
+RNET,RigNet Inc. ,Technology,Diversified Communication Services
+SFL,Ship Finance International Limi ,Services,Shipping
+TBBK,The Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+UVSP,Univest Corporation of Pennsylv ,Financial,Regional - Northeast Banks
+ZAYO,Zayo Group Holdings Inc. Commo,Technology,Networking & Communication Devices
+CRBP,Corbus Pharmaceuticals Holdings  Inc.,Healthcare,Biotechnology
+ETH,Ethan Allen Interiors Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+HMST, HomeStreet  Inc. ,Financial,Savings & Loans
+JXSB,Jacksonville Bancorp Inc. ,Financial,Savings & Loans
+VUZI,VUZIX CORP CMN STK,Consumer Goods,Electronic Equipment
+ADTN,ADTRAN Inc. ,Technology,Communication Equipment
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+BNFT,Benefitfocus Inc. ,Technology,Application Software
+CMT,Core Molding Technologies Inc C ,Consumer Goods,Rubber & Plastics
+CVG,Convergys Corporation Common St ,Technology,Business Software & Services
+EBF,Ennis Inc. Common ,Consumer Goods,Office Supplies
+FCB,FCB Financial Holdings Inc. Cl,Financial,Regional - Southeast Banks
+FPO,First Potomac Realty Trust Comm ,Financial,REIT - Office
+GDXS,ProShares UltraShort Gold Miner,,
+HSII, Heidrick & Struggles Internatio ,Services,Staffing & Outsourcing Services
+KVHI,KVH Industries Inc. ,Technology,Communication Equipment
+MCRB,Seres Therapeutics  Inc.,Healthcare,Biotechnology
+NAVG,The Navigators Group Inc. ,Financial,Property & Casualty Insurance
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+RTR,REVENUESHARES ADR FUND ETF,US Equity ETF,
+SHLD,Sears Holdings Corporation ,Services,Department Stores
+STML,Stemline Therapeutics Inc. ,Healthcare,Biotechnology
+TREC,Trecora Resources Common,Basic Materials,Chemicals - Major Diversified
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+FFG,FBL Financial Group Inc. Commo ,Financial,Life Insurance
+HTGY, Hercules Technology Growth Capi ,N/A,N/A
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+SJW,SJW Corporation Common ,Utilities,Water Utilities
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+AGTC,Applied Genetic Technologies Corporation ,Healthcare,Biotechnology
+BRO,Brown & Brown Inc. Common Stoc ,Financial,Insurance Brokers
+CIVI,Civitas Solutions Inc. Common,Healthcare,Long-Term Care Facilities
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+CZNC,Citizens & Northern Corp ,Financial,Regional - Mid-Atlantic Banks
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+FILL,iShares MSCI Global Energy Producers Fund ETF,Global Equity ETF,
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+MANT,ManTech International Corporati ,Technology,Security Software & Services
+MLPS, UBS AG  1xMonthly Short Exchang ,N/A,N/A
+NC,NACCO Industries Inc. Common S ,Industrial Goods,Farm & Construction Machinery
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+PBR,Petroleo Brasileiro S.A.- Petro ,NULL,NULL
+PNRG,PrimeEnergy Corporation ,Basic Materials,Independent Oil & Gas
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+RLH,Red Lions Hotels Corporation Co ,Services,Lodging
+SBSI,Southside Bancshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+SMDV,ProShares Russell 2000 Dividend,,
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+UBA,Urstadt Biddle Properties Inc.  ,Financial,REIT - Retail
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories

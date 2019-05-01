@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNDT,Conduent Incorporated,,
+AGEN,Agenus Inc. ,Healthcare,Biotechnology
+FATE,Fate Therapeutics Inc. ,Healthcare,Biotechnology
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+MCRN,Milacron Holdings Corp.,Industrial Goods,Diversified Machinery
+VYGR,Voyager Therapeutics  Inc.,N/A,N/A
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+DIN,DineEquity Inc Common ,Services,Restaurants
+CRMT,America's Car-Mart Inc. ,Services,Auto Dealerships
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+FNGN,Financial Engines Inc. ,Services,Business Services
+FCN,FTI Consulting Inc. Common Sto ,Services,Management Services
+GDDY,GoDaddy Inc.,Technology,Internet Software & Services
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+COUP,Coupons.com Incorporated ,Technology,Internet Software & Services

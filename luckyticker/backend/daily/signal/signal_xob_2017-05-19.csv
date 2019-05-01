@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SORL,SORL Auto Parts Inc. ,Consumer Goods,Auto Manufacturers - Major
+NBN,Northeast Bancorp ,Financial,Regional - Northeast Banks
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+GLYC,GlycoMimetics Inc. ,N/A,N/A
+HBANP, Huntington Bancshares Incorpora ,N/A,N/A
+ATTO,Atento S.A. Ordinary Shares,Services,Business Services
+NCIT,NCI Inc. ,Technology,Information Technology Services
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities

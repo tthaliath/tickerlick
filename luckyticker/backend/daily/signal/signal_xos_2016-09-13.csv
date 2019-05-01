@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MNST, Monster Beverage Corporation ,Consumer Goods,Beverages - Soft Drinks
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+POOL,Pool Corporation ,Consumer Goods,Sporting Goods
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+RHS,Guggenheim S&P Equal Weight Consumer Staples ETF,US Equity ETF,

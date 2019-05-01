@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LYB,LyondellBasell Industries NV Or ,Basic Materials,Specialty Chemicals
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+SLGN,Silgan Holdings Inc. ,Consumer Goods,Packaging & Containers
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+DSCI,Derma Sciences Inc. ,Healthcare,Medical Instruments & Supplies
+FOIL,iPath Pure Beta Aluminum ETN ,N/A,N/A
+LSTK,iPath Pure Beta Livestock ETN ,N/A,N/A
+TGP,Teekay LNG Partners L.P. ,Services,Shipping
+TGH,Textainer Group Holdings Limite ,Services,Rental & Leasing Services
+CSX,CSX Corporation Common ,Services,Railroads
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+SWKS,Skyworks Solutions Inc. ,Technology,Semiconductor - Integrated Circuits
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line

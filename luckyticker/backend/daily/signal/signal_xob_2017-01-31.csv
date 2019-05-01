@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NOA,North American Energy Partners ,Basic Materials,Oil & Gas Equipment & Services
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+ORI,Old Republic International Corp ,Financial,Surety & Title Insurance
+DNBF,DNB Financial Corp ,Financial,Regional - Pacific Banks
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+LHCG,LHC Group ,Healthcare,Home Health Care
+KIO,KKR Income Opportunities Fund C ,N/A,N/A
+LBTYB, Liberty Global  Inc. ,N/A,N/A
+IPKW,PowerShares International BuyBack Achiev ,N/A,N/A
+XXIA,Ixia ,Technology,Scientific & Technical Instruments
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+DWCH,Datawatch Corporation ,Technology,Business Software & Services
+BEP,Brookfield Renewable Energy Partners LP ,Utilities,Diversified Utilities

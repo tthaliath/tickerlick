@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMN,ProShares UltraShort Basic Materials ETF,Commodity Based ETF,
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+TARO, Taro Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+HLS, HealthSouth Corporation Common  ,Healthcare,Specialized Health Services
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+ENOC,EnerNOC Inc. ,Services,Business Services
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+ALOG,Analogic Corporation ,Technology,Scientific & Technical Instruments
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+FLDM, Fluidigm Corporation ,Technology,Scientific & Technical Instruments
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment

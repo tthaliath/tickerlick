@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+MGPI,MGP Ingredients Inc. ,Consumer Goods,Processed & Packaged Goods
+BGCP,BGC Partners Inc. ,Financial,Investment Brokerage - National
+AMBC,Ambac Financial Group Inc. ,Financial,Surety & Title Insurance
+AGRX,Agile Therapeutics Inc.,Healthcare,Drugs - Generic
+AGEN,Agenus Inc. ,Healthcare,Biotechnology
+QDEL,Quidel Corporation ,Healthcare,Diagnostic Substances
+RELV,Reliv' International Inc. ,Healthcare,Biotechnology
+LFUS,Littelfuse Inc. ,Industrial Goods,Industrial Electrical Equipment
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+SRG,Seritage Growth Properties,N/A,N/A
+ASML,ASML Holding N.V. ,NULL,NULL
+JMBA,Jamba Inc. ,Services,Restaurants
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+WTW,Weight Watchers International I ,Services,Personal Services
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+AMCX, AMC Networks Inc. ,Services,CATV Systems
+MBLY,Mobileye N.V. Ordinary Shares,Technology,Application Software
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+PCYG,Park City Group Inc. Common St ,Technology,Business Software & Services
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+RCI,Rogers Communication Inc. Comm ,Technology,Wireless Communications
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities

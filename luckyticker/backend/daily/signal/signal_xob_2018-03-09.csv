@@ -1,0 +1,30 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GTHX,G1 Therapeutics  Inc.,,
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+ZG,Zillow Group  Inc.,Financial,Property Management
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+USPH,U.S. Physical Therapy Inc. ,Healthcare,Specialized Health Services
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+SBPH,Spring Bank Pharmaceuticals  Inc.,N/A,N/A
+EVBG,Everbridge  Inc.,N/A,N/A
+TPIC,TPI Composites  Inc.,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+BBSI,Barrett Business Services Inc. ,Services,Staffing & Outsourcing Services
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+SPSC,SPS Commerce Inc. ,Services,Business Services
+WLDN,Willdan Group Inc. ,Services,Technical Services
+JOBS,51job Inc. ,Services,Staffing & Outsourcing Services
+Z, Zillow  Inc. ,Services,Business Services
+NVEE,NV5 Holdings Inc. ,Services,Technical Services
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+SPLK, Splunk Inc. ,Technology,Application Software
+WDC,Western Digital Corporation ,Technology,Data Storage Devices
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+UPLD,Upland Software Inc.,Technology,Application Software
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers

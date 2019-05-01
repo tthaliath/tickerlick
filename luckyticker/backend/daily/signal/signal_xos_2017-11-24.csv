@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IBMK,iShares iBonds Dec 2022 Term Mu,,
+HESM,Hess Midstream Partners LP Comm,,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+TSRO, TESARO  Inc. ,Healthcare,Biotechnology
+ESL,Esterline Technologies Corporat ,Industrial Goods,Aerospace/Defense Products & Services
+APLP,Archrock Partners  L.P.,N/A,N/A
+GWGH,GWG Holdings Inc,N/A,N/A
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+COE,China Online Education Group,N/A,N/A
+QUOT,Quotient Technology Inc.,N/A,N/A
+INCR,INC Research Holdings Inc.,Services,Research Services
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+GPX,GP Strategies Corporation Commo ,Services,Education & Training Services
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,

@@ -1,0 +1,84 @@
+OS,AAP,Advance Auto Parts Inc Advance  ,165.5,38.0568
+OS,ADS,Alliance Data Systems Corporati ,221.7,36.885
+OS,APH,Amphenol Corporation Common Sto ,66.64,40.8308
+OS,AZO,AutoZone Inc. Common ,729.89,21.1965
+OS,BMY,Bristol-Myers Squibb Company Co ,46.82,20.8688
+OS,CA,CA Inc. ,31.34,37.2953
+OS,FFIV,F5 Networks Inc. ,133.72,30.9119
+OS,MAT,Mattel Inc. ,25.99,32.6245
+OS,MCK,McKesson Corporation Common Sto ,138.55,38.6962
+OS,ORLY,O'Reilly Automotive Inc. ,263,30.4566
+OS,PLD,ProLogis Inc. Common ,50.94,38.7346
+OS,QCOM,QUALCOMM Incorporated ,54.05,23.8053
+OS,TDG,Transdigm Group Incorporated Tr ,219.9,21.1008
+OS,TROW,T. Rowe Price Group Inc. ,70.26,33.0194
+OS,VAR,Varian Medical Systems Inc. Co ,86.47,35.6173
+OS,VZ,Verizon Communications Inc. Com ,49.12,28.2456
+OS,WU,Western Union Company (The) Com ,19.59,22.8502
+OS,HP, Helmerich & Payne  Inc. Common  ,75.11,42.2576
+OS,NAVI,Navient Corporation ,15.29,36.8344
+OB,AFL,AFLAC Incorporated Common ,70.56,56.043
+OB,ALL,Allstate Corporation (The) Comm ,75.81,68.9364
+OB,AVGO,Avago Technologies Limited ,204.17,79.953
+OB,BA,Boeing Company (The) Common Sto ,169.12,78.4727
+OB,BAC,Bank of America Corporation Com ,23.44,63.5563
+OB,CCL,Carnival Corporation Common Sto ,56.93,73.2261
+OB,CHTR,Charter Communications Inc. ,333.15,83.3247
+OB,CMCSA,Comcast Corporation ,75.5,76.8684
+OB,CMI,Cummins Inc. Common ,147.45,68.9756
+OB,CXO,Concho Resources Inc. Common St ,144.46,69.0803
+OB,DD,E.I. du Pont de Nemours and Com ,77.99,72.6992
+OB,DHI,D.R. Horton Inc. Common ,31.35,74.2693
+OB,DOW,Dow Chemical Company (The) Comm ,61.42,73.0735
+OB,EBAY,eBay Inc. ,31.74,67.7611
+OB,EL,Estee Lauder Companies Inc. (T ,81.96,65.334
+OB,EMN,Eastman Chemical Company Common ,80.29,66.4483
+OB,EMR,Emerson Electric Company Common ,60.08,67.1191
+OB,FLR,Fluor Corporation Common ,56.74,66.2607
+OB,GLW,Corning Incorporated Common Sto ,26.55,72.3924
+OB,IP,International Paper Company Com ,57.51,73.9051
+OB,IRM,Iron Mountain Incorporated (Del ,36.17,73.401
+OB,KMB,Kimberly-Clark Corporation Comm ,122.15,75.9109
+OB,LEN,Lennar Corporation Class A Comm ,46.7,68.8443
+OB,LNC,Lincoln National Corporation Co ,69.65,64.7224
+OB,LUK,Leucadia National Corporation C ,24.25,63.4974
+OB,LUV,Southwest Airlines Company Comm ,53.92,67.8267
+OB,MAS,Masco Corporation Common ,33.64,66.4886
+OB,MHK,Mohawk Industries Inc. Common  ,215.45,74.3164
+OB,MLM,Martin Marietta Materials Inc. ,241.62,72.953
+OB,MSFT,Microsoft Corporation ,64.27,67.722
+OB,MTB,M&T Bank Corporation Common Sto ,163.63,70.5103
+OB,NDAQ,The NASDAQ OMX Group Inc. ,68.83,61.8142
+OB,NSC,Norfolk Southern Corporation Co ,119.51,70.8446
+OB,PGR,Progressive Corporation (The) C ,38.04,80.2042
+OB,PH,Parker-Hannifin Corporation Com ,149.1,65.3782
+OB,PHM,PulteGroup Inc. Common ,21.18,76.0843
+OB,PPG,PPG Industries Inc. Common Sto ,101.85,69.7478
+OB,PRU,Prudential Financial Inc. Comm ,107.34,59.6383
+OB,PWR,Quanta Services Inc. Common St ,37.45,71.6537
+OB,RCL,Royal Caribbean Cruises Ltd. Co ,95.64,79.9256
+OB,ROK,Rockwell Automation Inc. Commo ,152.92,80.4645
+OB,ROP,Roper Industries Inc. Common S ,190.44,63.1881
+OB,SHW,Sherwin-Williams Company (The)  ,305,77.9103
+OB,SNA,Snap-On Incorporated Common Sto ,180.02,67.144
+OB,STI,SunTrust Banks Inc. Common Sto ,58.26,66.5356
+OB,STX,Seagate Technology. ,43.9,74.6682
+OB,TEL,TE Connectivity Ltd. New Switze ,74.73,74.1468
+OB,TXN,Texas Instruments Incorporated ,79.26,75.4636
+OB,UNM,Unum Group Common ,46.19,67.5535
+OB,UNP,Union Pacific Corporation Commo ,110.15,68.8781
+OB,URI,United Rentals Inc. Common Sto ,127.06,79.6366
+OB,USB,U.S. Bancorp Common ,52.95,65.6484
+OB,VMC,Vulcan Materials Company (Holdi ,135.25,69.2856
+OB,WFC,Wells Fargo & Company Common St ,57.18,63.4901
+OB,WYN,Wyndham Worldwide Corp Common   ,80.33,71.2041
+OB,ETN, Eaton Corporation Common ,71.31,67.6212
+OB,GWW, W.W. Grainger  Inc. Common Stoc ,256.34,78.627
+OB,HBAN, Huntington Bancshares Incorpora ,14.01,66.5665
+OB,HBI, Hanesbrands Inc. Common ,23.64,62.4151
+OB,HD, Home Depot  Inc. (The) Common S ,138.46,65.13
+OB,IBM, International Business Machines ,178.66,76.6968
+OB,SPY,SPDR S&P 500 ETF,229.33,64.8122
+OB,COTY,Coty Inc. ,19.57,58.8646
+OB,AAL,American Airlines Group Inc. ,49.59,61.5371
+OB,CFG,Citizens Financial Group Inc.,37.54,65.3144

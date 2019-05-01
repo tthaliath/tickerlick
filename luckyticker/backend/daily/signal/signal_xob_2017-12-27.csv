@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+REVG,REV Group  Inc.,,
+SBOW,SilverBow Resorces  Inc.,,
+ASV,ASV Holdings  Inc.,,
+MGEN,Miragen Therapeutics  Inc.,,
+LNG,Cheniere Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+FII,Federated Investors Inc. Commo ,Financial,Asset Management
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+DFS,Discover Financial Services Com ,Financial,Credit Services
+ARGT,Global X FTSE Argentina 20 ETF,Global Equity ETF,
+FATE,Fate Therapeutics Inc. ,Healthcare,Biotechnology
+KIN,Kindred Biosciences Inc. ,Healthcare,Biotechnology
+GNRT,Gener8 Maritime Inc.,N/A,N/A
+BAL, iPath DJ-UBS Cotton Subindex To ,N/A,N/A
+DZSI,DASAN Zhone Solutions  Inc. ,N/A,N/A
+JJU, iPath DJ-UBS Aluminum Subindex  ,N/A,N/A
+ARCH,Arch Coal  Inc.,N/A,N/A
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+XPO,XPO Logistics Inc. ,Services,Trucking
+RRR,Red Rock Resorts  Inc.,Services,Rental & Leasing Services
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+CSPI,CSP Inc. ,Technology,Business Software & Services

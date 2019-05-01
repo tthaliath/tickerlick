@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NMIH,NMI Holdings Inc. ,Financial,Surety & Title Insurance
+DERM,Dermira Inc.,Healthcare,Biotechnology
+AKBA,Akebia Therapeutics Inc. ,Healthcare,Biotechnology
+CI,Cigna Corporation Common ,Healthcare,Health Care Plans
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+NATH,Nathan's Famous Inc. ,Services,Restaurants
+SPA,Sparton Corporation Common Stoc ,Technology,Diversified Electronics
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices

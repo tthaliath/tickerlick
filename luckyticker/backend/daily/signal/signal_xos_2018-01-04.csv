@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EFZ,ProShares Short MSCI EAFE ETF,Commodity Based ETF,
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+WRE,Washington Real Estate Investme ,Financial,REIT - Retail
+EARN,N/A ,Financial,REIT - Diversified
+BFO, Blackrock Florida Municipal 202 ,Financial,Closed-End Fund - Debt
+STWD,STARWOOD PROPERTY TRUST INC. S ,Financial,REIT - Diversified
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+DPK, Direxion Developed Markets Bear ,N/A,N/A
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+CTV,Qwest Corporation 6.875% Notes,Technology,Communication Equipment
+ROOF,IndexIQ US Real Estate Small Cap ETF,US Equity ETF,
+EIX,Edison International Common Sto ,Utilities,Electric Utilities
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities

@@ -1,0 +1,34 @@
+#schedule the loading of price data and calculation of technical indicatirs
+16 22 * * 1-7 /home/tthaliath/tickerlick/daily/loadprice.sh
+#50 5 * * 1-5 /home/tthaliath/tickerlick/history/new1/load_split_adj_data.sh
+#30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadratings.sh
+#0 10 * * 1-5 /home/tthaliath/tickerlick/daily/loadratings.sh
+#0 18 * * 1-5 /home/tthaliath/tickerlick/daily/loadratings.sh
+#30 5 * * 1-5 /home/tthaliath/tickerlick/daily/loaddividend.sh
+#52 17 * * 0-7 /home/tthaliath/tickerlick/history/new1/load_security_data.pl
+#12 7 * * 0-7 /home/tthaliath/tickerlick/history/new1/load_macd_1226_history.pl
+#44 8 * * 1-5 /home/tthaliath/tickerlick/history/new1/load_bollinger_band_data.pl
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadrtqdtall1.sh
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadrtqdtall2.sh
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadrtqdtall3.sh
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadrtqdtall4.sh
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadrtqdtall5.sh
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadrtqdtall6.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_1.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_2.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_3.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_4.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_5.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_6.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_7.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_8.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_9.sh
+#30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_10.sh
+#34 18 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data.pl
+#15 13 * * 1-5 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data_all.pl
+#20 21 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data1.pl
+#20 21 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data2.pl
+#43 11 * * 0-6 /home/tthaliath/tickerlick/daily/load_rep_history.pl
+38 15 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data_historical_macd_dt.pl
+#30 6 * * * 1-5 /home/tthaliath/cryptoproject/scripts/alphartqcurr.py
+#30 17 * * * 1-5 /home/tthaliath/cryptoproject/scripts/load_coin_rtq_data_historical_macd_dt.pl

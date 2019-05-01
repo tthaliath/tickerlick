@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAP,Molson Coors Brewing Company Cl ,Consumer Goods,Beverages - Brewers
+AVB,AvalonBay Communities Inc. Com ,Financial,REIT - Residential
+IBN, ICICI Bank Limited Common ,Financial,Foreign Regional Banks
+TUR,iShares MSCI Turkey Investable Market Index Fund ETF,Global Equity ETF,
+FWP,Forward Pharma A/S,Healthcare,Biotechnology
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+ICPT, Intercept Pharmaceuticals  Inc. ,Healthcare,Biotechnology
+RUN,Sunrun,N/A,N/A
+BYD,Boyd Gaming Corporation Common  ,Services,Resorts & Casinos
+TRUE,TrueCar Inc.,Technology,Internet Service Providers
+CRUS,Cirrus Logic Inc. ,Technology,Semiconductor - Specialized
+SPWR, SunPower Corporation ,Technology,Semiconductor - Specialized
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+HNP, Huaneng Power Intl Common ,Utilities,Electric Utilities

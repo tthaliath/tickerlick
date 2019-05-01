@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PZE,Petrobras Argentina S.A. ADS ,Basic Materials,Major Integrated Oil & Gas
+URE,ProShares Ultra Real Estate ETF,Commodity Based ETF,
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+CROC,ProShares UltraShort Australian Dollar,Commodity Based ETF,
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+STON,StoneMor Partners L.P. Common U ,Services,Personal Services
+PAM,Pampa Energia S.A. Pampa Energi ,Utilities,Electric Utilities

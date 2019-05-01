@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ASHS,Deutsche X-trackers Harvest CSI ,,
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+SWM,Schweitzer-Mauduit Internationa ,Consumer Goods,Paper & Paper Products
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+HPT, Hospitality Properites Trust Co ,Financial,REIT - Retail
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+GWPH,GW Pharmaceuticals plc ,Healthcare,Drug Manufacturers - Major
+DERM,Dermira Inc.,Healthcare,Biotechnology
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+PWR,Quanta Services Inc. Common St ,Industrial Goods,General Contractors
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+QQQE, Direxion NASDAQ-100 Equal Weigh ,N/A,N/A
+BDCS, UBS AG Exchange Traded Access S ,N/A,N/A
+BIZD,Market Vectors BDC Income ETF ,N/A,N/A
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+GSBD,Goldman Sachs BDC Inc.,N/A,N/A
+BDCL, 2xLeveraged Long Exchange Trade ,N/A,N/A
+LBTYK,Liberty Global Inc. ,NULL,NULL
+AFE,American Financial Group Inc.  ,NULL,NULL
+LBTYA,Liberty Global Inc. ,Services,CATV Systems
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+TGNA,TEGNA Inc.,Services,Broadcasting - TV
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+KFRC,Kforce Inc. ,Services,Staffing & Outsourcing Services
+WMK,Weis Markets Inc. Common ,Services,Grocery Stores
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments

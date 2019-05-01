@@ -1,0 +1,30 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JELD,JELD-WEN Holding  Inc.,,
+CLNS,Colony NorthStar  Inc.,,
+DSKE,Daseke  Inc.,,
+MLPZ,UBS AG ETRACS ETRACS 2xMonthly,,
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+CCK,Crown Holdings Inc. ,Consumer Goods,Packaging & Containers
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc. ,Financial,REIT - Diversified
+RLJ, RLJ Lodging Trust Common Shares ,Financial,REIT - Hotel/Motel
+WHG,Westwood Holdings Group Inc Com ,Financial,Asset Management
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+MFD, Macquarie/First Trust Global Co ,Financial,Closed-End Fund - Equity
+DRH,Diamondrock Hospitality Company ,Financial,REIT - Hotel/Motel
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+GUT, Gabelli Utility Trust (The) Com ,Financial,Closed-End Fund - Equity
+EXEL,Exelixis Inc. ,Healthcare,Biotechnology
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+GSBD,Goldman Sachs BDC Inc.,N/A,N/A
+APLE,Apple Hospitality REIT  Inc.,N/A,N/A
+HOLD,AdvisorShares Sage Core Reserves ETF ,N/A,N/A
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+CTRE,CareTrust REIT Inc.,N/A,N/A
+OGCP,Empire State Realty OP L.P. ,N/A,N/A
+MLPX,Global X MLP and Energy Infrastructure ETF ,N/A,N/A
+PCMI,PCM Inc. ,Services,Specialty Retail
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+ORA,Ormat Technologies Inc. Common ,Utilities,Electric Utilities

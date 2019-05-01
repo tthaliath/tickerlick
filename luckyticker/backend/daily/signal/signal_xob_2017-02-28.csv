@@ -1,0 +1,51 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DGRO,iShares Core Dividend Growth ET ,,
+IUSG,iShares Core U.S. Growth ETF ,,
+MON,Monsanto Company Common ,Basic Materials,Agricultural Chemicals
+SSO,ProShares Ultra S&P500 ETF,Commodity Based ETF,
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+UGE,ProShares Ultra Consumer Goods ETF,Commodity Based ETF,
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+FIG,Fortress Investment Group LLC C ,Financial,Asset Management
+COO,Cooper Companies Inc. (The) Co ,Healthcare,Medical Instruments & Supplies
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+ISRG,Intuitive Surgical Inc. ,Healthcare,Medical Appliances & Equipment
+LLY, Eli Lilly and Company Common St ,Healthcare,Drug Manufacturers - Major
+HCA, HCA Holdings  Inc. Common ,Healthcare,Hospitals
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+SPLX,UBS E-TRACS MthlyRet2xLvSandP500TtlRet ETN ,N/A,N/A
+LNTH,Lantheus Medical Imaging  Inc.,N/A,N/A
+SHYG,iShares 0-5 Year High Yield Corp Bd ,N/A,N/A
+SPXL, Direxion Daily S&P 500 Bull 3X  ,N/A,N/A
+SYG,SPDR MFS Systematic Growth Equity ETF ,N/A,N/A
+SBAC,SBA Communications Corporation ,Services,Rental & Leasing Services
+FNGN,Financial Engines Inc. ,Services,Business Services
+EEFT,Euronet Worldwide Inc. ,Services,Business Services
+NTRI,NutriSystem Inc ,Services,Consumer Services
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+EBIX,Ebix Inc ,Technology,Business Software & Services
+IHI,iShares Dow Jones U.S. Medical Devices Index Fund ETF,US Equity ETF,
+IVW,iShares S&P 500 Growth Index Fund ETF,US Equity ETF,
+MGK,Vanguard Mega Cap 300 Growth ETF,US Equity ETF,
+PWV,PowerShares Dynamic LargeCap Value ETF,US Equity ETF,
+SPYG,SPDR S&P 500 Growth ETF,US Equity ETF,
+VONG,Vanguard Russell 1000 Growth ETF,US Equity ETF,
+VV,Vanguard Large-Cap ETF,US Equity ETF,
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,
+IWY,iShares Russell Top 200 Growth Index Fund ETF,US Equity ETF,
+VOO,Vanguard S&P 500 ETF,US Equity ETF,
+OEF,iShares S&P 100 Index Fund ETF,US Equity ETF,
+VOOG,Vanguard S&P 500 Growth ETF,US Equity ETF,
+IVV,iShares S&P 500 Index Fund ETF,US Equity ETF,
+MGC,Vanguard Mega Cap 300 ETF,US Equity ETF,
+PWB,PowerShares Dynamic LargeCap Growth ETF,US Equity ETF,
+SPY,SPDR S&P 500 ETF,US Equity ETF,
+VUG,Vanguard Growth ETF,US Equity ETF,
+OGE,OGE Energy Corporation Common S ,Utilities,Electric Utilities
+AWK,American Water Works Company I ,Utilities,Water Utilities
+XEL,Xcel Energy Inc. Common ,Utilities,Electric Utilities
+DTE,DTE Energy Company Common ,Utilities,Electric Utilities
+DUK,Duke Energy Corporation (Holdin ,Utilities,Electric Utilities

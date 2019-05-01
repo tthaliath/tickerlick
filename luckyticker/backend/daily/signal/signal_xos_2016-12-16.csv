@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SA,Seabridge Gold Inc. Ordinary S ,Basic Materials,Gold
+PVH,PVH Corp. Common ,Consumer Goods,Textile - Apparel Clothing
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+ABR,Arbor Realty Trust Common ,Financial,REIT - Diversified
+GXC,SPDR S&P China ETF,Global Equity ETF,
+PGJ,PowerShares Golden Dragon Halter USX China Portfolio ETF,Global Equity ETF,
+XBIT,XBiotech  Inc.,Healthcare,Biotechnology
+TDF, Templeton Dragon Fund  Inc. Com ,N/A,N/A
+ARR, ARMOUR Residential REIT  Inc. ,N/A,N/A
+HMTV,Hemisphere Media Group Inc. ,Services,CATV Systems
+ATTO,Atento S.A. Ordinary Shares,Services,Business Services
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized

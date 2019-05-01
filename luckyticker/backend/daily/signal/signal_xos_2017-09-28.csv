@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ROSEU,Rosehill Resources Inc. - Unit,,
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+MVT, Blackrock MuniVest Fund II  Inc ,Financial,Closed-End Fund - Debt
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+CHSCP, CHS Inc ,N/A,N/A
+ASR,Grupo Aeroportuario del Sureste ,Services,Air Services Other
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities
+HNP, Huaneng Power Intl Common ,Utilities,Electric Utilities

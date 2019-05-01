@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPAC,iShares Core MSCI Pacific ETF ,,
+JPMV,iShares MSCI Japan Minimum Vola ,,
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+FDLO,Fidelity Low Volatility Factor,,
+DXC,DXC Technology Company,,
+FQAL,Fidelity Quality Factor ETF,,
+FINX,Global X FinTech ETF,,
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+GM,General Motors Company Common S ,Consumer Goods,Auto Manufacturers - Major
+FMBH,First Mid-Illinois Bancshares,Financial,Regional - Midwest Banks
+BAM,Brookfield Asset Management Inc ,Financial,Real Estate Development
+BGCP,BGC Partners Inc. ,Financial,Investment Brokerage - National
+VPL,Vanguard Pacific ETF,Global Equity ETF,
+EXI,iShares S&P Global Industrials Sector Index Fund ETF,Global Equity ETF,
+FPRX,Five Prime Therapeutics Inc. ,Healthcare,Biotechnology
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+YIN,Yintech Investment Holdings Limited,N/A,N/A
+CPER,United States Copper ,N/A,N/A
+JJC, iPath Dow Jones UBS Copper Tota ,N/A,N/A
+BST,BlackRock Science and Technolog,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+DGRW,WisdomTree US Dividend Growth ,N/A,N/A
+SELB,Selecta Biosciences  Inc. ,N/A,N/A
+SQ,Square  Inc.,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+CTAS,Cintas Corporation ,Services,Apparel Stores
+SNX,Synnex Corporation Common ,Services,Business Services
+TSM,Taiwan Semiconductor Manufactur ,Technology,Semiconductor - Integrated Circuits
+AGYS,Agilysys Inc. ,Technology,Application Software
+NTP,Nam Tai Property Inc. ,Technology,Diversified Electronics
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+BIDU,Baidu Inc. ,Technology,Internet Information Providers
+ASYS,Amtech Systems Inc. ,Technology,Semiconductor Equipment & Materials
+IWP,iShares Russell Midcap Growth Index ETF,US Equity ETF,
+VAW,Vanguard Materials ETF - DNQ ETF,US Equity ETF,
+DEF,Guggenheim Defensive Equity ETF,US Equity ETF,
+PWC,PowerShares XTF: Dynamic Market Portfolio ETF,US Equity ETF,

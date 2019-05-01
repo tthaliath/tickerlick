@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+CAJ,Canon Inc. American Depositary ,Consumer Goods,Photographic Equipment & Supplies
+SBCP,Sunshine Bancorp Inc.,Financial,Regional - Mid-Atlantic Banks
+KCG,Knight Capital Group Inc. Clas ,Financial,Investment Brokerage - Regional
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+IPK,SPDR S&P International Technology Sector ETF,Global Equity ETF,
+FCA,First Trust China AlphaDEX ETF,Global Equity ETF,
+EWY,iShares MSCI South Korea Index Fund ETF,Global Equity ETF,
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+IIF, Morgan Stanley India Investment ,N/A,N/A
+NSAT,Norsat International Inc. (NEW),N/A,N/A
+TKF, Turkish Investment Fund  Inc. ( ,N/A,N/A
+IF, Aberdeen Indonesia Fund  Inc. ( ,N/A,N/A
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+CEB, Corporate Executive Board Compa ,Services,Management Services
+LFL,Lan Airlines S.A. ,Services,Regional Airlines
+EDU,New Oriental Education & Techno ,Services,Education & Training Services
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+SKM,SK Telecom Corporation Ltd. Co ,Technology,Wireless Communications
+RST,Rosetta Stone Rosetta Stone In ,Technology,Multimedia & Graphics Software
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+FIVN,Five9 Inc. ,Technology,Application Software
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+INVE,Identive Group Inc. ,Technology,Computer Peripherals
+PSL,PowerShares Dynamic Consumer Staples ETF,US Equity ETF,

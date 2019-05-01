@@ -1,0 +1,93 @@
+Buy,AN,AutoNation Inc. Common ,4.01345
+Buy,CAG,ConAgra Foods Inc. Common Stoc ,17.2162
+Buy,CAH,Cardinal Health Inc. Common St ,14.3219
+Buy,CHD,Church & Dwight Company Inc. C ,14.0917
+Buy,CL,Colgate-Palmolive Company Commo ,13.2272
+Buy,CLX,Clorox Company (The) Common Sto ,14.334
+Buy,CMS,CMS Energy Corporation Common S ,9.36682
+Buy,EIX,Edison International Common Sto ,15.5557
+Buy,EQR,Equity Residential Common Share ,8.41026
+Buy,GIS,General Mills Inc. Common Stoc ,10.9272
+Buy,IPG,Interpublic Group of Companies ,5.76032
+Buy,MOS,Mosaic Company (The) Common Sto ,11.0515
+Buy,MRK,Merck & Company Inc. Common St ,16.0524
+Buy,MYL,Mylan Inc. ,17.7959
+Buy,NEE,NextEra Energy Inc. Common Sto ,11.3398
+Buy,NI,NiSource Inc Common ,4.62889
+Buy,NOC,Northrop Grumman Corporation Co ,18.1815
+Buy,O,Realty Income Corporation Commo ,16.6666
+Buy,OMC,Omnicom Group Inc. Common ,10.5149
+Buy,PAYX,Paychex Inc. ,1.21645
+Buy,PCG,Pacific Gas & Electric Co. Comm ,11.9634
+Buy,PDCO,Patterson Companies Inc. ,9.34742
+Buy,PFE,Pfizer Inc. Common ,18.7482
+Buy,PG,Procter & Gamble Company (The)  ,17.2248
+Buy,RSG,Republic Services Inc. Common  ,12.6994
+Buy,RTN,Raytheon Company Common ,8.09621
+Buy,SBUX,Starbucks Corporation ,4.5008
+Buy,SLB,Schlumberger N.V. Common ,4.23507
+Buy,SO,Southern Company (The) Common S ,5.65917
+Buy,HAL, Halliburton Company Common Stoc ,11.7753
+Buy,HCN, Health Care REIT  Inc. Common S ,9.4283
+Buy,HP, Helmerich & Payne  Inc. Common  ,5.6292
+Buy,MDLZ, Mondelez International  Inc. ,13.2165
+Buy,NLSN, Nielsen Holdings N.V. Common St ,3.10596
+Buy,VIAB, Viacom Inc. ,16.1785
+Buy,COTY,Coty Inc. ,14.5303
+Buy,KHC,The Kraft Heinz Company,5.41029
+Sell,AMZN,Amazon.com Inc. ,94.8343
+Sell,ATVI,Activision Blizzard Inc ,91.2415
+Sell,AVGO,Avago Technologies Limited ,96.2879
+Sell,AXP,American Express Company Common ,95.246
+Sell,AYI,Acuity Brands Inc (Holding Comp ,81.5491
+Sell,CA,CA Inc. ,84.4067
+Sell,CBG,CBRE Group Inc Common ,82.0979
+Sell,CERN,Cerner Corporation ,93.5274
+Sell,CMA,Comerica Incorporated Common St ,92.7888
+Sell,CNC,Centene Corporation Common Stoc ,94.4644
+Sell,CNP,CenterPoint Energy Inc (Holdin ,85.0171
+Sell,COH,Coach Inc. Common ,83.1844
+Sell,EQIX,Equinix Inc. ,86.3256
+Sell,GLW,Corning Incorporated Common Sto ,98.6564
+Sell,GOOG,Alphabet Inc.,91.5278
+Sell,GPN,Global Payments Inc. Common Sto ,95.9068
+Sell,GRMN,Garmin Ltd. ,90.1851
+Sell,INCY,Incyte Corporation ,91.275
+Sell,INTU,Intuit Inc. ,97.8288
+Sell,IVZ,Invesco Plc New Common ,83.0517
+Sell,MON,Monsanto Company Common ,82.7195
+Sell,MS,Morgan Stanley Common ,84.0539
+Sell,MSFT,Microsoft Corporation ,87.1136
+Sell,MTB,M&T Bank Corporation Common Sto ,83.2
+Sell,MU,Micron Technology Inc. ,90.9428
+Sell,NSC,Norfolk Southern Corporation Co ,87.9337
+Sell,NTAP,NetApp Inc. ,88.3376
+Sell,NUE,Nucor Corporation Common ,86.6755
+Sell,NWL,Newell Rubbermaid Inc. Common S ,95.5384
+Sell,NWS,News Corporation ,96.2963
+Sell,PBCT,People's United Financial Inc. ,98.6113
+Sell,PFG,Principal Financial Group Inc C ,91.3826
+Sell,SCG,SCANA Corporation Common ,86.9777
+Sell,SCHW,Charles Schwab Corporation (The ,96.8395
+Sell,SHW,Sherwin-Williams Company (The)  ,93.0231
+Sell,SLG,SL Green Realty Corporation Com ,89.3516
+Sell,SNPS,Synopsys Inc. ,86.5366
+Sell,HBAN, Huntington Bancshares Incorpora ,86.3661
+Sell,HIG, Hartford Financial Services Gro ,94.4444
+Sell,HOLX, Hologic  Inc. ,85.2407
+Sell,IBM, International Business Machines ,94.9117
+Sell,ILMN, Illumina  Inc. ,88.9549
+Sell,LLY, Eli Lilly and Company Common St ,91.1258
+Sell,MSI, Motorola Solutions  Inc. Common ,91.5024
+Sell,STT, State Street Corporation Common ,92.3365
+Sell,XYL, Xylem Inc. Common ,93.9287
+Sell,SPY,SPDR S&P 500 ETF,90.3723
+Sell,ABBV,AbbVie Inc. ,85.64
+Sell,ALLE,Allegion plc Ordinary Shares ,89.0684
+Sell,GOOGL,Alphabet Inc.,91.165
+Sell,ANTM,Anthem Inc. Common,94.4307
+Sell,SYF,Synchrony Financial Common Stoc,98.873
+Sell,QRVO,Qorvo Inc.,95.2804
+Sell,HPE,Hewlett Packard Enterprise Company,85.7979
+Sell,INFO,IHS Markit Ltd.,98.0052
+Sell,DXC,DXC Technology Company,82.5971

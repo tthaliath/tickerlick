@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TUSK,Mammoth Energy Services  Inc.,,
+GTHX,G1 Therapeutics  Inc.,,
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+PGNX,Progenics Pharmaceuticals Inc. ,Healthcare,Biotechnology
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+VCEL,Vericel Corporation,Healthcare,Biotechnology
+CRY,CryoLife Inc. Common ,Healthcare,Medical Appliances & Equipment
+SBPH,Spring Bank Pharmaceuticals  Inc.,N/A,N/A
+RMR,The RMR Group Inc.,N/A,N/A
+AGLE,Aeglea Biotherapeutics  Inc.,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+JOBS,51job Inc. ,Services,Staffing & Outsourcing Services
+Z, Zillow  Inc. ,Services,Business Services
+BBSI,Barrett Business Services Inc. ,Services,Staffing & Outsourcing Services
+APEI,American Public Education Inc. ,Services,Business Services
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+TI,Telecom Italia S.P.A. New ,Technology,Diversified Communication Services

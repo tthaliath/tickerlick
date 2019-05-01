@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BMA,Banco Macro S.A.  ADR (represen ,Financial,Foreign Regional Banks
+Q,Quintiles Transnational Holdings Inc. ,Healthcare,Medical Laboratories & Research
+IMMU, Immunomedics  Inc. ,Healthcare,Biotechnology
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+BABA,Alibaba Group Holding Limited A,Services,Specialty Retail Other
+FRSH,Papa Murphy's Holdings Inc. ,Services,Specialty Eateries
+MED,MEDIFAST INC Common ,Services,Specialty Retail Other
+NTP,Nam Tai Property Inc. ,Technology,Diversified Electronics
+ATHM,Autohome Inc. ,Technology,Internet Information Providers
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+VVC,Vectren Corporation Common Stoc ,Utilities,Diversified Utilities
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

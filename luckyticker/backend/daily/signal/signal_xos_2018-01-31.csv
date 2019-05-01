@@ -1,0 +1,49 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+VERI,Veritone  Inc.,,
+CTDD,Qwest Corporation 6.75 Notes d,,
+LCII,LCI Industries,,
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+RES,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+BZQ,ProShares UltraShort MSCI Brazil ETF,Commodity Based ETF,
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+NMY, Nuveen Maryland Premium Income  ,Financial,Closed-End Fund - Debt
+EIO, Eaton Vance Ohio Municipal Bond ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+GAIN,Gladstone Investment Corporatio ,Financial,Diversified Investments
+DCOM,Dime Community Bancshares Inc. ,Financial,Savings & Loans
+MLVF,Malvern Federal Bancorp Inc. ,Financial,Savings & Loans
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+PHH,PHH Corp Common ,Financial,Credit Services
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+CHMG,Chemung Financial Corporation ,Financial,Regional - Pacific Banks
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+EXD, Eaton Vance Tax-Advantaged Bond ,N/A,N/A
+CTBB,Qwest Corporation 6.5% Notes du ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+GMS,GMS ,N/A,N/A
+DRUA,Dominion Resources  Inc. 2016 S ,N/A,N/A
+CTU, Qwest Corporation 7.00% Notes d ,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+CTX, Qwest Corporation 7.00% Notes d ,N/A,N/A
+CTZ,Qwest Corporation 6.625% Notes  ,N/A,N/A
+CTY,Qwest Corp. ,N/A,N/A
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+RRTS,Roadrunner Transportation Syste ,Services,Air Delivery & Freight Services
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+ADT, ADT Corporation Common ,Services,Security & Protection Services
+CTV,Qwest Corporation 6.875% Notes,Technology,Communication Equipment
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+CTRL,Control4 Corporation ,Technology,Diversified Electronics
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+EUFX,ProShares Short Euro,US Equity Income ETF,

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+SCSS,Select Comfort Corporation ,Consumer Goods,Home Furnishings & Fixtures
+UTF, Cohen & Steers Infrastructure F ,Financial,Closed-End Fund - Equity
+FABK, First Advantage Bancorp ,Financial,Regional - Southeast Banks
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+IEX, IDEX Corporation Common ,Industrial Goods,Diversified Machinery
+WYN,Wyndham Worldwide Corp Common   ,Services,Lodging
+FUN,Cedar Fair L.P. Common ,Services,General Entertainment
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+PAR, PAR Technology Corporation Comm ,Technology,Application Software
+BIO,Bio-Rad Laboratories Inc. Clas ,Technology,Scientific & Technical Instruments

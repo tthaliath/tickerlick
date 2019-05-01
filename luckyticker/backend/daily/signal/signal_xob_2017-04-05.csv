@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FMC,FMC Corporation Common ,Basic Materials,Chemicals - Major Diversified
+RPC,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+BKJ,Bancorp of New Jersey Inc Comm ,Financial,Savings & Loans
+SMIN,iShares MSCI India Small Cap ETF,Global Equity ETF,
+SCIF,Market Vectors India Small-Cap ETF,Global Equity ETF,
+SCIN,EGShares India Small Cap ETF,Global Equity ETF,
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+TRR,TRC Companies Inc. Common Stoc ,Industrial Goods,Waste Management
+EML,Eastern Company (The) ,Industrial Goods,Small Tools & Accessories
+GLPG,Galapagos NV ,N/A,N/A
+IFN, India Fund  Inc. (The) Common S ,N/A,N/A
+BUI, BlackRock Utility and Infrastru ,N/A,N/A
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+EDU,New Oriental Education & Techno ,Services,Education & Training Services
+WBAI,500.com Limited ,Services,Gaming Activities
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+FRSH,Papa Murphy's Holdings Inc. ,Services,Specialty Eateries
+LL,Lumber Liquidators Holdings In ,Services,Home Improvement Stores
+NORD,Nord Anglia Education Inc. ,Services,Education & Training Services
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses

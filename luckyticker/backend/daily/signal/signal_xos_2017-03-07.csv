@@ -1,0 +1,30 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+AHP,Ashford Hospitality Prime Inc. ,Financial,REIT - Hotel/Motel
+CIZN, Citizens Holding Company ,Financial,Regional - Northeast Banks
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+ANIP,ANI Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+CNXC,CNX Coal Resources LP,N/A,N/A
+ETSY,Etsy  Inc. ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+AGF, DB Agriculture Long ETN DB Agri ,N/A,N/A
+JBR,Select Asset Inc. Corporate Bac ,N/A,N/A
+WPPGY,WPP plc ,NULL,NULL
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+BKS,Barnes & Noble Inc. Common Sto ,Services,Specialty Retail Other
+TA,TravelCenters of America LLC Co ,Services,Specialty Retail Other
+VLGEA,Village Super Market Inc. ,Services,Grocery Stores
+MGRC,McGrath RentCorp ,Services,Rental & Leasing Services
+KR,Kroger Company (The) Common Sto ,Services,Grocery Stores
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals

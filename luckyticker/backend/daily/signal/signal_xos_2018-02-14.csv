@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MRGR,ProShares Merger ETF ,,
+ARD,Ardagh Group S.A.,,
+PFFR,ETFIS Series Trust I ETF,,
+LKOR,FlexShares Credit-Scored US Lon,,
+BNDC,FlexShares Core Select Bond Fun,,
+DSKE,Daseke  Inc.,,
+KOP,Koppers Holdings Inc. Koppers H ,Basic Materials,Specialty Chemicals
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+RFP, Resolute Forest Products Inc. C ,Consumer Goods,Paper & Paper Products
+EVM, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+AWF, Alliancebernstein Global High I ,Financial,Closed-End Fund - Debt
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+KRG,Kite Realty Group Trust Common  ,Financial,REIT - Retail
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+UBCP,United Bancorp Inc. ,Financial,Regional - Midwest Banks
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+IGEM,EGShares Industrials GEMS ETF,Global Equity ETF,
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+CIVI,Civitas Solutions Inc. Common,Healthcare,Long-Term Care Facilities
+CSII,Cardiovascular Systems Inc. ,Healthcare,Medical Appliances & Equipment
+LXRX,Lexicon Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HPI, John Hancock Preferred Income F ,N/A,N/A
+ALEX,Alexander & Baldwin Inc. Commo ,Services,Shipping
+REIS,Reis Inc ,Services,Business Services
+EXPE,Expedia Inc. ,Services,Lodging
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+TRP,Transcanada Corporation (Holdin ,Utilities,Gas Utilities

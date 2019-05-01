@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NLY,Annaly Capital Management Inc C ,Financial,REIT - Diversified
+CXH, MFS Investment Grade Municipal  ,Financial,Closed-End Fund - Debt
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+NVET,Nexvet Biopharma Public Limited Company,Healthcare,Biotechnology
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+BOM, PowerShares DB Base Metals Doub ,N/A,N/A
+FLAT, iPath US Treasury Flattener ETN ,N/A,N/A
+FEO, First Trust/Aberdeen Emerging O ,N/A,N/A
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems
+COUP,Coupons.com Incorporated ,Technology,Internet Software & Services

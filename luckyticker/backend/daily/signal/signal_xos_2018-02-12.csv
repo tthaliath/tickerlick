@@ -1,0 +1,115 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SGQI,Janus SG Global Quality Income,,
+CLNS,Colony NorthStar  Inc.,,
+AGGP,IQ Enhanced Core Plus Bond U.S.,,
+AGGE,IQ Enhanced Core Bond U.S. ETF,,
+QMOM,MomentumShares U.S. Quantitativ,,
+HAHA,CSOP China CSI 300 A-H Dynamic,,
+RORE,Hartford Multifactor REIT ETF,,
+YLCO,Global X Yieldco Index ETF,,
+LRET,ETRACS Monthly Pay 2xLeveraged,,
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+OLN,Olin Corporation Common ,Basic Materials,Specialty Chemicals
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+BCPC,Balchem Corporation ,Basic Materials,Chemicals - Major Diversified
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+BMS,Bemis Company Inc. Common Stoc ,Consumer Goods,Packaging & Containers
+MPAA,Motorcar Parts of America Inc. ,Consumer Goods,Auto Parts
+CCK,Crown Holdings Inc. ,Consumer Goods,Packaging & Containers
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+DBD,Diebold Incorporated Common St ,Consumer Goods,Business Equipment
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+COT,Cott Corporation Common ,Consumer Goods,Beverages - Soft Drinks
+CIO,City Office Reit Inc. ,Financial,REIT - Office
+NEN,New England Realty Associates L ,Financial,Property Management
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+BNS,Bank Nova Scotia Halifax Pfd 3  ,Financial,Money Center Banks
+NHI,National Health Investors Inc. ,Financial,REIT - Healthcare Facilities
+HIW, Highwoods Properties  Inc. Comm ,Financial,REIT - Office
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+UTG, Reaves Utility Income Fund Comm ,Financial,Closed-End Fund - Equity
+PRA,ProAssurance Corporation Common ,Financial,Property & Casualty Insurance
+UBA,Urstadt Biddle Properties Inc.  ,Financial,REIT - Retail
+WHG,Westwood Holdings Group Inc Com ,Financial,Asset Management
+CYS,CYS Investments Inc. Common St ,Financial,REIT - Residential
+NYMT,New York Mortgage Trust Inc. ,Financial,REIT - Residential
+OPOF,Old Point Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+GLPI,Gaming and Leisure Properties Inc ,Financial,REIT - Diversified
+PEBK, Peoples Bancorp of North Caroli ,Financial,Regional - Mid-Atlantic Banks
+KRC,Kilroy Realty Corporation Commo ,Financial,REIT - Office
+GLQ, Clough Global Equity Fund Cloug ,Financial,Closed-End Fund - Foreign
+MNR,Monmouth Real Estate Investment ,Financial,REIT - Industrial
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+BKT, BlackRock Income Trust Inc. (Th ,Financial,Closed-End Fund - Debt
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+CORP,PIMCO Investment Grade Corporate Bond Index Fund ETF,Fixed Income ETF,
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+UJB,ProShares Ultra High Yield ETF,Fixed Income ETF,
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Fixed Income ETF,
+BSCK,Guggenheim BulletShares 2020 Corp Bond ETF,Fixed Income ETF,
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+EMB,iShares JP Morgan Em Bond Fd ETF,Fixed Income ETF,
+MUB,iShares S&P National Municipal Bond Fund ETF,Fixed Income ETF,
+CLY,iShares 10+ Year Credit Bond Fund ETF,Fixed Income ETF,
+BOND,PIMCO Total Return Exchange-Traded Fund,Fixed Income ETF,
+KROO,IndexIQ Australia Small Cap ETF,Global Equity ETF,
+CGW,Guggenheim S&P Global Water Index ETF,Global Equity ETF,
+FFR,First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund ETF,Global Equity ETF,
+FLM,First Trust ISE Global Engineering and Construction Index Fund ETF,Global Equity ETF,
+NEOG,Neogen Corporation ,Healthcare,Diagnostic Substances
+AXDX,Accelerate Diagnostics Inc. ,Healthcare,Diagnostic Substances
+NXTM,NxStage Medical Inc. ,Healthcare,Medical Appliances & Equipment
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+TKR,Timken Company (The) Common Sto ,Industrial Goods,Machine Tools & Accessories
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+CMI,Cummins Inc. Common ,Industrial Goods,Diversified Machinery
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+WM,Waste Management Inc. Common S ,Industrial Goods,Waste Management
+NCS,NCI Building Systems Inc. New  ,Industrial Goods,General Building Materials
+ABB,ABB Ltd Common ,Industrial Goods,Industrial Electrical Equipment
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+TOLZ,ProShares DJ Brookfield Glbl Infras ETF ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+DVMT,Dell Technologies Inc.,N/A,N/A
+MBFIP,MB Financial Inc.,N/A,N/A
+OGCP,Empire State Realty OP L.P. ,N/A,N/A
+TWN, Taiwan Fund  Inc. (The) Common  ,N/A,N/A
+MITT, AG Mortgage Investment Trust  I ,N/A,N/A
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+BYLD,iShares Yield Optimized Bond ,N/A,N/A
+FMN, Federated Premier Municipal Inc ,N/A,N/A
+WHF,WhiteHorse Finance  Inc. ,N/A,N/A
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+NTRI,NutriSystem Inc ,Services,Consumer Services
+ARMK,ARAMARK Holdings Corporation ,Services,Specialty Eateries
+CLCT,Collectors Universe Inc. ,Services,Business Services
+UEPS,Net 1 UEPS Technologies Inc. ,Services,Business Services
+JACK,Jack In The Box Inc. ,Services,Restaurants
+VVI,Viad Corp Common ,Services,Business Services
+KEQU,Kewaunee Scientific Corporation ,Technology,Scientific & Technical Instruments
+FORTY,Formula Systems (1985) Ltd. ,Technology,Business Software & Services
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+MX, MagnaChip Semiconductor Corpora ,Technology,Semiconductor - Specialized
+WEB,Web.com Group  Inc.,Technology,Internet Information Providers
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+TMUS,T-Mobile US Inc. ,Technology,Wireless Communications
+EMKR,EMCORE Corporation ,Technology,Semiconductor - Integrated Circuits
+EGOV,NIC Inc. ,Technology,Application Software
+BT,BT Group plc Common ,Technology,Telecom Services - Foreign
+PDFS,PDF Solutions Inc. ,Technology,Technical & System Software
+KE,Kimball Electronics Inc.,Technology,Diversified Electronics
+SMI,Semiconductor  Manufacturing In ,Technology,Semiconductor - Integrated Circuits
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,
+PSR,PowerShares Active U.S. Real Estate Fund ETF,US Equity ETF,
+AMID, American Midstream Partners  LP ,Utilities,Gas Utilities
+PCG,Pacific Gas & Electric Co. Comm ,Utilities,Electric Utilities
+SJW,SJW Corporation Common ,Utilities,Water Utilities
+APU,AmeriGas Partners L.P. Common  ,Utilities,Gas Utilities

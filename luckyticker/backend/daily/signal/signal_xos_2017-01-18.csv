@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+NTRA,Natera  Inc.,Healthcare,Medical Laboratories & Research
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+M,Macy's Inc Common ,Services,Department Stores
+VLRS,Controladora Vuela Compa ,Services,Major Airlines

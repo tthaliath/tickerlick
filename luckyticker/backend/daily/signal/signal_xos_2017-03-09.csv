@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WYDE,ProShares CDS Short North Ameri ,,
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+SRLP,Sprague Resources LP ,Basic Materials,Oil & Gas Refining & Marketing
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+NHI,National Health Investors Inc. ,Financial,REIT - Healthcare Facilities
+ORRF,Orrstown Financial Services Inc ,Financial,Regional - Northeast Banks
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+UBOH,United Bancshares Inc. ,Financial,Money Center Banks
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+ENTL,Entellus Medical Inc.,Healthcare,Medical Instruments & Supplies
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+FXCH, CurrencyShares Chinese Renminbi ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+JBR,Select Asset Inc. Corporate Bac ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+ICFI, ICF International  Inc. ,Services,Management Services
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+TISI,Team Inc. Common ,Services,Business Services
+KONA,Kona Grill Inc. ,Services,Restaurants
+GPRO,Gen-Probe Incorporated ,Services,Research Services
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+RCMT,RCM Technologies Inc. ,Services,Staffing & Outsourcing Services
+BBSI,Barrett Business Services Inc. ,Services,Staffing & Outsourcing Services
+NAVI,Navient Corporation ,Technology,Information Technology Services
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic
+KVHI,KVH Industries Inc. ,Technology,Communication Equipment
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+GTT,GTT Communications Inc. ,Technology,Diversified Communication Services
+KBWY,PowerShares KBW Premium Yield Equity REIT Portfolio ETF,US Equity ETF,

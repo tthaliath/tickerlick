@@ -1,0 +1,54 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CLB,Core Laboratories N.V. Common S ,Basic Materials,Oil & Gas Equipment & Services
+FTI,FMC Technologies Inc. Common S ,Basic Materials,Oil & Gas Equipment & Services
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+GNE, Genie Energy Ltd. Class B Commo ,Basic Materials,Independent Oil & Gas
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+COH,Coach Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+DORM,Dorman Products Inc. ,Consumer Goods,Auto Parts
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+STC,Stewart Information Services Co ,Financial,Property & Casualty Insurance
+SONA,Southern National Bancorp of Vi ,Financial,Regional - Mid-Atlantic Banks
+EIS,iShares MSCI Israel Capped Investable Market Index Fund ETF,Global Equity ETF,
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+GSK,GlaxoSmithKline PLC Common Stoc ,Healthcare,Drug Manufacturers - Major
+ADMS,Adamas Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+CVR,Chicago Rivet & Machine Co. Com ,Industrial Goods,Machine Tools & Accessories
+MTZ,MasTec Inc. Common ,Industrial Goods,Heavy Construction
+TNC,Tennant Company Common ,Industrial Goods,Diversified Machinery
+YMLI,Yorkville High Income Infras MLP ETF ,N/A,N/A
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+ISRA,Market Vectors Israel ETF ,N/A,N/A
+MLPG, UBS AG Exchange Traded Access S ,N/A,N/A
+UAG,UBS E-TRACS CMCI Agriculture TR ETN ,N/A,N/A
+YMLP, Yorkville High Income MLP Excha ,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+FINL,The Finish Line Inc. ,Services,Specialty Retail Other
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+CATM,Cardtronics Inc. ,Services,Business Services
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+CDZI,Cadiz Inc. ,Services,Business Services
+IMAX, Imax Corporation Common ,Services,Entertainment - Diversified
+MIC,Macquarie Infrastructure Compan ,Services,Basic Materials Wholesale
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+MXPT,MaxPoint Interactive Inc. Comm,Technology,Application Software
+LSCC,Lattice Semiconductor Corporati ,Technology,Semiconductor - Specialized
+PLAB,Photronics Inc. ,Technology,Semiconductor - Integrated Circuits
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,

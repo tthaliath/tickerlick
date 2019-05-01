@@ -1,0 +1,125 @@
+OS,AVB,AvalonBay Communities Inc. Com ,177.59,25.791
+OS,DGX,Quest Diagnostics Incorporated  ,93.57,21.5416
+OS,PEP,Pepsico Inc. Common ,109.12,23.1596
+OS,PM,Philip Morris International Inc ,110.87,29.8855
+OS,SCG,SCANA Corporation Common ,48.58,15.9357
+OS,TAP,Molson Coors Brewing Company Cl ,82.02,26.9348
+OS,VTR,Ventas Inc. Common ,63.89,27.7114
+OS,HCP, HCP  Inc. Common ,26.71,21.649
+OS,HSIC, Henry Schein  Inc. ,81.03,12.964
+OS,WBA,Walgreens Boots Alliance Inc.,76.6,28.1503
+OS,KHC,The Kraft Heinz Company,77.85,29.417
+OB,AJG,Arthur J. Gallagher & Co. Commo ,61.69,74.3961
+OB,AKAM,Akamai Technologies Inc. ,50,70.671
+OB,ALB,Albemarle Corporation Common St ,136.62,71.1587
+OB,AMAT,Applied Materials Inc. ,52.08,72.4489
+OB,AMG,Affiliated Managers Group Inc. ,192.6,77.641
+OB,AMP,Ameriprise Financial Inc. Comm ,148.67,74.3602
+OB,APC,Anadarko Petroleum Corporation  ,49.38,73.3386
+OB,APH,Amphenol Corporation Common Sto ,84.77,74.6338
+OB,AXP,American Express Company Common ,90.54,74.765
+OB,BA,Boeing Company (The) Common Sto ,255.99,71.7894
+OB,BMY,Bristol-Myers Squibb Company Co ,64.56,76.1917
+OB,BSX,Boston Scientific Corporation C ,29.47,71.9184
+OB,BWA,BorgWarner Inc. Common ,51.85,79.8835
+OB,C,Citigroup Inc. Common ,73.8,75.0194
+OB,CAT,Caterpillar Inc. Common ,124.72,73.5875
+OB,CBOE,CBOE Holdings Inc. ,108.18,72.7418
+OB,CHRW,C.H. Robinson Worldwide Inc. ,77.3,75.2406
+OB,CMA,Comerica Incorporated Common St ,76.65,73.9645
+OB,CME,CME Group Inc. ,136.4,76.5159
+OB,CMI,Cummins Inc. Common ,169.33,71.4359
+OB,COF,Capital One Financial Corporati ,85.92,72.9966
+OB,COP,ConocoPhillips Common ,50.31,78.1484
+OB,CTAS,Cintas Corporation ,145.43,74.9871
+OB,CVX,Chevron Corporation Common Stoc ,117.43,75.5613
+OB,CXO,Concho Resources Inc. Common St ,135.32,81.1068
+OB,DE,Deere & Company Common ,127.29,72.0162
+OB,DFS,Discover Financial Services Com ,65.16,77.1544
+OB,DG,Dollar General Corporation Comm ,81.9,71.2077
+OB,DHI,D.R. Horton Inc. Common ,39.98,76.8158
+OB,DLTR,Dollar Tree Inc. ,86.47,75.6515
+OB,DOV,Dover Corporation Common ,92.49,72.6625
+OB,DVN,Devon Energy Corporation Common ,36.6,71.9576
+OB,EMN,Eastman Chemical Company Common ,90.98,72.2807
+OB,EOG,EOG Resources Inc. Common Stoc ,97.18,73.7841
+OB,ETFC,E*TRADE Financial Corporation ,43.66,78.2618
+OB,EXPD,Expeditors International of Was ,60.34,74.903
+OB,F,Ford Motor Company Common ,12.09,82.3368
+OB,FAST,Fastenal Company ,45.76,71.9434
+OB,FDX,FedEx Corporation Common ,226.33,74.7636
+OB,FLR,Fluor Corporation Common ,43.06,77.3069
+OB,GM,General Motors Company Common S ,42.15,86.4055
+OB,GPC,Genuine Parts Company Common St ,96.37,83.0722
+OB,GPS,Gap Inc. (The) Common ,29.5,77.6386
+OB,GS,Goldman Sachs Group Inc. (The) ,240.65,74.3497
+OB,GT,Goodyear Tire & Rubber Company  ,33.57,70.7393
+OB,INTC,Intel Corporation ,39.04,84.8952
+OB,ITW,Illinois Tool Works Inc. Common ,150.16,75.6711
+OB,IVZ,Invesco Plc New Common ,35.53,73.1766
+OB,JBHT,J.B. Hunt Transport Services I ,108.99,70.6174
+OB,JEC,Jacobs Engineering Group Inc. C ,58.79,76.8225
+OB,JPM,JP Morgan Chase & Co. Common St ,96.84,71.5028
+OB,KEY,KeyCorp Common ,18.9,72.7139
+OB,KMX,CarMax Inc ,76.59,80.2091
+OB,KORS,Michael Kors Holdings Limited O ,48.17,73.5978
+OB,LLL,L-3 Communications Holdings In ,191.55,71.5779
+OB,LYB,LyondellBasell Industries NV Or ,100.55,78.3576
+OB,MAR,Marriot International Common St ,110.53,71.7802
+OB,MAS,Masco Corporation Common ,39.59,75.6847
+OB,MCO,Moody's Corporation Common Stoc ,140.21,76.575
+OB,MMC,Marsh & McLennan Companies Inc ,84.52,73.9967
+OB,MON,Monsanto Company Common ,120.33,71.0644
+OB,MRO,Marathon Oil Corporation Common ,13.59,75.502
+OB,MTB,M&T Bank Corporation Common Sto ,161.39,70.8462
+OB,MU,Micron Technology Inc. ,40.01,78.2132
+OB,NBL,Noble Energy Inc. Common ,28.3,76.9623
+OB,NFX,Newfield Exploration Company Co ,29.99,72.8202
+OB,NOC,Northrop Grumman Corporation Co ,289.9,75.608
+OB,NSC,Norfolk Southern Corporation Co ,131.64,70.2148
+OB,NTAP,NetApp Inc. ,44,72.8965
+OB,PBCT,People's United Financial Inc. ,18.24,75.0681
+OB,PCAR,PACCAR Inc. ,72.92,72.9086
+OB,PHM,PulteGroup Inc. Common ,27.37,72.1027
+OB,PNC,PNC Financial Services Group I ,135.12,70.272
+OB,PNR,Pentair Inc. Common ,69.33,77.4207
+OB,PX,Praxair Inc. Common ,141.19,71.37
+OB,PXD,Pioneer Natural Resources Compa ,151.29,73.761
+OB,R,Ryder System Inc. Common ,84.89,82.7393
+OB,RF,Regions Financial Corporation C ,15.23,73.1748
+OB,RHI,Robert Half International Inc.  ,51.16,85.0059
+OB,RHT,Red Hat Inc. Common ,112.18,75.9464
+OB,RJF,Raymond James Financial Inc. C ,84.55,71.3949
+OB,ROK,Rockwell Automation Inc. Commo ,180.7,81.2525
+OB,ROST,Ross Stores Inc. ,64.69,75.7893
+OB,RTN,Raytheon Company Common ,187.65,71.4494
+OB,SCHW,Charles Schwab Corporation (The ,44.04,73.6909
+OB,STI,SunTrust Banks Inc. Common Sto ,59.83,73.5727
+OB,SWK,Stanley Black & Decker Inc. Co ,154.53,72.2905
+OB,TDC,Teradata Corporation Common Sto ,33.95,71.2559
+OB,TROW,T. Rowe Price Group Inc. ,90.68,77.7113
+OB,TSN,Tyson Foods Inc. Common ,70.99,75.365
+OB,TXN,Texas Instruments Incorporated ,89.65,75.0678
+OB,TXT,Textron Inc. Common ,54.57,77.2046
+OB,UNM,Unum Group Common ,51.61,71.5194
+OB,UPS,United Parcel Service Inc. Com ,120.79,75.0904
+OB,URI,United Rentals Inc. Common Sto ,139.2,79.2647
+OB,VLO,Valero Energy Corporation Commo ,77.05,81.0721
+OB,WFC,Wells Fargo & Company Common St ,55.47,73.8777
+OB,XEC,Cimarex Energy Co Common ,116,75.1114
+OB,ZION,Zions Bancorporation ,47.28,70.9752
+OB,BLK,BlackRock Inc,449.95,74.9986
+OB,FBHS, Fortune Brands Home & Security  ,67.68,75.0957
+OB,GWW, W.W. Grainger  Inc. Common Stoc ,182.22,73.8653
+OB,HAL, Halliburton Company Common Stoc ,45.53,73.6332
+OB,HBAN, Huntington Bancshares Incorpora ,14.04,76.5956
+OB,HD, Home Depot  Inc. (The) Common S ,164.02,73.18
+OB,HES, Hess Corporation Common ,46.29,70.4681
+OB,HRS, Harris Corporation Common ,132.81,78.4886
+OB,ICE, IntercontinentalExchange  Inc.  ,69.33,74.7656
+OB,LLY, Eli Lilly and Company Common St ,86.35,71.3538
+OB,PSX, Phillips 66 Common ,92.38,82.8917
+OB,SPY,SPDR S&P 500 ETF,252.32,70.4358
+OB,ABBV,AbbVie Inc. ,90.39,72.8063
+OB,ALLE,Allegion plc Ordinary Shares ,86.53,83.2414
+OB,FTV,Fortive Corporation,71.55,78.7455

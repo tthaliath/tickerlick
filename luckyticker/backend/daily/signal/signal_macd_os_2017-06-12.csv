@@ -1,0 +1,103 @@
+ticker,name,sector,industry
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+RIG,Transocean Ltd (Switzerland) Co ,Basic Materials,Oil & Gas Drilling & Exploration
+CHK,Chesapeake Energy Corporation C ,Basic Materials,Independent Oil & Gas
+FL,Footlocker Inc. ,Services,Apparel Stores
+DVN,Devon Energy Corporation Common ,Basic Materials,Independent Oil & Gas
+MRO,Marathon Oil Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+OKE,ONEOK Inc. Common ,Utilities,Gas Utilities
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+FTI,FMC Technologies Inc. Common S ,Basic Materials,Oil & Gas Equipment & Services
+NLSN, Nielsen Holdings N.V. Common St ,Technology,Information & Delivery Services
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+ENLC,EnLink Midstream LLC ,Basic Materials,Oil & Gas Refining & Marketing
+NBR,Nabors Industries Ltd. ,Basic Materials,Oil & Gas Drilling & Exploration
+DIN,DineEquity Inc Common ,Services,Restaurants
+PXI,PowerShares Dynamic Energy ETF,US Equity ETF,
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+PDCE,Pioneer Drilling Company Common ,Basic Materials,Oil & Gas Drilling & Exploration
+YXI,ProShares Short FTSE China 25 ETF,Commodity Based ETF,
+DO,Diamond Offshore Drilling Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+SIF,SIFCO Industries Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+LPG,Dorian LPG Ltd. Common,N/A,N/A
+OIH,Market Vectors Oil Services ETF,US Equity ETF,
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+VNDA,Vanda Pharmaceuticals Inc. ,Healthcare,Biotechnology
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+GULF,WisdomTree Middle East Dividend ETF,Global Equity ETF,
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+SPN,Superior Energy Services Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+IXC,iShares S&P Global Energy Index Fund ETF,Global Equity ETF,
+GMLP, Golar LNG Partners LP ,N/A,N/A
+JMBA,Jamba Inc. ,Services,Restaurants
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+FCG,First Trust ISE-Revere Natural Gas ETF,US Equity ETF,
+CRZO,Carrizo Oil & Gas Inc. ,Basic Materials,Independent Oil & Gas
+PATI,Patriot Transportation Holding Inc,Services,Trucking
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+PRCP,Perceptron Inc. ,Technology,Scientific & Technical Instruments
+STS,Supreme Industries Inc. Common ,Consumer Goods,Trucks & Other Vehicles
+ITCI,Intra-Cellular Therapies Inc. ,Healthcare,Drug Manufacturers - Major
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,US Equity ETF,
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+PXJ,PowerShares Dynamic Oil Services ETF,US Equity ETF,
+FILL,iShares MSCI Global Energy Producers Fund ETF,Global Equity ETF,
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+VTVT,vTv Therapeutics Inc.,,
+LPI, Laredo Petroleum Holdings  Inc. ,Basic Materials,Independent Oil & Gas
+IROQ, IF Bancorp  Inc. ,Financial,Savings & Loans
+AGM-A,Federal Agricultural Mortgage Corp.,N/A,N/A
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+FRAK,Market Vectors Unconventl Oil &amp; Gas ETF,Global Equity ETF,
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+CAFE, iPath Pure Beta Coffee ETN ,N/A,N/A
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+ATRA,Atara Biotherapeutics Inc.,N/A,N/A
+ENLK,EnLink Midstream Partners LP ,Basic Materials,Independent Oil & Gas
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities
+HYND,WisdomTree BofA Merrill Lynch H ,,
+OKS,ONEOK Partners L.P. Common Sto ,Basic Materials,Oil & Gas Pipelines
+EAGLU,Silver Eagle Acquisition Corp. ,N/A,N/A
+BCX, BlackRock Resources Common Shar ,N/A,N/A
+IEZ,iShares Dow Jones U.S. Oil Equipment & Services Index Fund ETF,US Equity ETF,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+FGB, First Trust Specialty Finance a ,N/A,N/A
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities
+FXP,ProShares UltraShort FTSE China 25 ETF,Commodity Based ETF,
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+UNT,Unit Corporation Common ,Basic Materials,Oil & Gas Drilling & Exploration
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+HK, Halcon Resources Corporation Co ,Basic Materials,Oil & Gas Drilling & Exploration
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+CHS,Chico's FAS Inc. Common ,Services,Apparel Stores
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+GASL, Direxion Daily Natural Gas Rela ,N/A,N/A
+ZMLP,Direxion Zacks MLP High Income Shares ,N/A,N/A
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+CMRE,Costamare Inc. Common ,Services,Shipping
+YMLP, Yorkville High Income MLP Excha ,N/A,N/A
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+HCLP, Hi-Crush Partners LP Common Uni ,Basic Materials,Industrial Metals & Minerals
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+MLPX,Global X MLP and Energy Infrastructure ETF ,N/A,N/A
+RDC,Rowan Companies plc Class A Ord ,Basic Materials,Oil & Gas Drilling & Exploration
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,US Equity ETF,
+ACNB,ACNB Corporation ,Financial,Regional - Southwest  Banks
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+YANG, Direxion Daily China Bear 3x Sh ,N/A,N/A
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+IGE,iShares Goldman Sachs Natural Resources Index Fund ETF,US Equity ETF,
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances

@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+FSB,Franklin Financial Network,Financial,Money Center Banks
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+LPNT,LifePoint Hospitals Inc. ,Healthcare,Hospitals
+UHS,Universal Health Services Inc. ,Healthcare,Hospitals
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+ADUS,Addus HomeCare Corporation ,Healthcare,Home Health Care
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+AAON,AAON Inc. ,Industrial Goods,General Building Materials
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+PCMI,PCM Inc. ,Services,Specialty Retail
+CPLA,Capella Education Company ,Services,Education & Training Services
+DRI,Darden Restaurants Inc. Common ,Services,Restaurants
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+ECHO,Echo Global Logistics Inc. ,Services,Trucking

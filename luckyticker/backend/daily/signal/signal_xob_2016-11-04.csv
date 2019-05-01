@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+BDE,Black Diamond Inc. ,Consumer Goods,Sporting Goods
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+CORT,Corcept Therapeutics Incorporat ,Healthcare,Biotechnology
+JJU, iPath DJ-UBS Aluminum Subindex  ,N/A,N/A
+LOPE,Grand Canyon Education Inc. ,Services,Education & Training Services
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software

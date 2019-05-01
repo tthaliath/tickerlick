@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CROX,Crocs Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+LAND,Gladstone Land Corporation ,Financial,REIT - Diversified
+RTRX,Retrophin Inc. ,Healthcare,Drug Manufacturers - Major
+AJRD,Aerojet Rocketdyne Holdings  Inc.,Industrial Goods,Aerospace/Defense - Major Diversified
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+DBB, PowerShares DB Base Metals Fund ,N/A,N/A
+JP,Jupai Holdings Limited,N/A,N/A
+VNTV, Vantiv  Inc. Class A Common Sto ,Services,Business Services
+UBNT, Ubiquiti Networks  Inc. ,Technology,Wireless Communications
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+ATHM,Autohome Inc. ,Technology,Internet Information Providers

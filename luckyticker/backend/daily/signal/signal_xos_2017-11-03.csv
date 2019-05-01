@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HEWW,iShares Currency Hedged MSCI Me,,
+UAA,Under Armour  Inc. Class A,,
+TORM,TOR Minerals International Inc ,Basic Materials,Specialty Chemicals
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+HBI, Hanesbrands Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+OHI,Omega Healthcare Investors Inc ,Financial,REIT - Healthcare Facilities
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+EVP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+CSII,Cardiovascular Systems Inc. ,Healthcare,Medical Appliances & Equipment
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+KTF, DSW Municiple Income Trust Comm ,N/A,N/A
+MSGN,MSG Networks Inc.,N/A,N/A
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+HJV, MS Structured Asset Corp MS Str ,N/A,N/A
+ATH,Athene Holding Ltd.,N/A,N/A
+PI,Impinj  Inc.,N/A,N/A
+CATM,Cardtronics Inc. ,Services,Business Services
+FNGN,Financial Engines Inc. ,Services,Business Services
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+BNED,Barnes & Noble Education  Inc.,Services,Specialty Retail  Other
+TWX,Time Warner Inc. New Common Sto ,Services,Entertainment - Diversified
+ECOM,ChannelAdvisor Corporation ,Technology,Application Software
+QSII,Quality Systems Inc. ,Technology,Healthcare Information Services
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

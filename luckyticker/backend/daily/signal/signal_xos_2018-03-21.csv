@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IFMK,iFresh Inc.,,
+AMGP,Antero Midstream GP LP  of Bene,,
+VUZI,VUZIX CORP CMN STK,Consumer Goods,Electronic Equipment
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+EVY, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+IRS,IRSA Inversiones Y Representaci ,Financial,Real Estate Development
+MQT, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+TCRD,THL Credit Inc. ,Financial,Asset Management
+FFC, Flaherty & Crumrine /Claymore P ,Financial,Closed-End Fund - Debt
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+CI,Cigna Corporation Common ,Healthcare,Health Care Plans
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A
+GGM,Guggenheim Credit Allocation Fu ,N/A,N/A
+PCN, Pimco Corporate & Income Strate ,N/A,N/A
+CCA, MFS California Municipal Fund C ,N/A,N/A
+DCUD,Dominion Resources  Inc. 2016 S ,N/A,N/A
+DM,Dolan Company (The) Common Stoc ,Services,Publishing - Periodicals
+GME,Gamestop Corporation Common Sto ,Services,Electronics Stores
+TAST,Carrols Restaurant Group Inc. ,Services,Restaurants
+JASO,JA Solar Holdings Co. Ltd. ,Technology,Semiconductor - Specialized
+TRUE,TrueCar Inc.,Technology,Internet Service Providers
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,103 @@
+Buy,A,Agilent Technologies Inc. Comm ,10.399
+Buy,AEE,Ameren Corporation Common ,11.1111
+Buy,AEP,American Electric Power Company ,8.28221
+Buy,AES,The AES Corporation Common Stoc ,12.963
+Buy,AME,AMETEK Inc. ,15.4304
+Buy,AYI,Acuity Brands Inc (Holding Comp ,8.53863
+Buy,CNP,CenterPoint Energy Inc (Holdin ,1.11094
+Buy,GD,General Dynamics Corporation Co ,5.05871
+Buy,GE,General Electric Company Common ,9.12372
+Buy,GM,General Motors Company Common S ,19.0463
+Buy,GPS,Gap Inc. (The) Common ,6.70706
+Buy,NOC,Northrop Grumman Corporation Co ,16.784
+Buy,NWL,Newell Rubbermaid Inc. Common S ,14.1098
+Buy,ORLY,O'Reilly Automotive Inc. ,11.6916
+Buy,PEG,Public Service Enterprise Group ,12.0466
+Buy,PG,Procter & Gamble Company (The)  ,17.3455
+Buy,ROP,Roper Industries Inc. Common S ,18.2013
+Buy,RSG,Republic Services Inc. Common  ,10.3171
+Buy,RTN,Raytheon Company Common ,11.0628
+Buy,HAL, Halliburton Company Common Stoc ,10.8111
+Buy,HOLX, Hologic  Inc. ,10.2395
+Buy,HON, Honeywell International Inc. Co ,5.10543
+Buy,NLSN, Nielsen Holdings N.V. Common St ,11.7281
+Buy,XYL, Xylem Inc. Common ,3.95947
+Buy,AAL,American Airlines Group Inc. ,13.7049
+Buy,EVHC,Envision Healthcare Holdings Inc. ,6.21479
+Buy,ANTM,Anthem Inc. Common,13.7378
+Buy,WLTW,Willis Towers Watson Public Limited Company,16.3322
+Sell,ABC,AmerisourceBergen Corporation ( ,89.4899
+Sell,ACN,Accenture plc. Class A Ordinary ,96.7794
+Sell,ADBE,Adobe Systems Incorporated ,92.6404
+Sell,ADI,Analog Devices Inc. ,96.0932
+Sell,ADS,Alliance Data Systems Corporati ,85.7829
+Sell,ADSK,Autodesk Inc. ,91.2533
+Sell,AET,Aetna Inc. Common ,93.3981
+Sell,AFL,AFLAC Incorporated Common ,85.0283
+Sell,AIG,American International Group I ,86.2411
+Sell,AKAM,Akamai Technologies Inc. ,80.4998
+Sell,ALXN,Alexion Pharmaceuticals Inc. ,94.2863
+Sell,AMAT,Applied Materials Inc. ,91.975
+Sell,AMGN,Amgen Inc. ,82.5142
+Sell,AMP,Ameriprise Financial Inc. Comm ,86.8906
+Sell,AMT,American Tower Corporation (REI ,83.0669
+Sell,APA,Apache Corporation Common ,90.8087
+Sell,APC,Anadarko Petroleum Corporation  ,97.0373
+Sell,APD,Air Products and Chemicals Inc ,95.8304
+Sell,ARE,Alexandria Real Estate Equities ,88.1482
+Sell,AVGO,Avago Technologies Limited ,82.9014
+Sell,AXP,American Express Company Common ,86.1115
+Sell,COG,Cabot Oil & Gas Corporation Com ,91.8518
+Sell,COH,Coach Inc. Common ,91.9893
+Sell,FMC,FMC Corporation Common ,94.8863
+Sell,FRT,Federal Realty Investment Trust ,84.9959
+Sell,FTI,FMC Technologies Inc. Common S ,97.0157
+Sell,GGP,General Growth Properties Inc. ,98.0392
+Sell,GIS,General Mills Inc. Common Stoc ,96.666
+Sell,GLW,Corning Incorporated Common Sto ,84.135
+Sell,GRMN,Garmin Ltd. ,92.0823
+Sell,GT,Goodyear Tire & Rubber Company  ,97.8906
+Sell,INCY,Incyte Corporation ,93.2254
+Sell,INTC,Intel Corporation ,89.2246
+Sell,INTU,Intuit Inc. ,89.5769
+Sell,IPG,Interpublic Group of Companies ,82.0619
+Sell,IRM,Iron Mountain Incorporated (Del ,80.952
+Sell,ITW,Illinois Tool Works Inc. Common ,87.3858
+Sell,MKC,McCormick & Company Incorporat ,92.5006
+Sell,MLM,Martin Marietta Materials Inc. ,85.9815
+Sell,NFX,Newfield Exploration Company Co ,89.1131
+Sell,NUE,Nucor Corporation Common ,98.5238
+Sell,NVDA,NVIDIA Corporation ,80.8888
+Sell,NWSA,News Corporation ,96.14
+Sell,OKE,ONEOK Inc. Common ,92.4978
+Sell,OMC,Omnicom Group Inc. Common ,86.8232
+Sell,OXY,Occidental Petroleum Corporatio ,96.92
+Sell,PAYX,Paychex Inc. ,85.4432
+Sell,RHT,Red Hat Inc. Common ,85.9266
+Sell,RRC,Range Resources Corporation Com ,95.8603
+Sell,SBUX,Starbucks Corporation ,83.0775
+Sell,SCHW,Charles Schwab Corporation (The ,92.2838
+Sell,SEE,Sealed Air Corporation Common S ,92.4809
+Sell,SHW,Sherwin-Williams Company (The)  ,82.5964
+Sell,SIG,Signet Jewelers Limited Common  ,90.1819
+Sell,SLB,Schlumberger N.V. Common ,82.9907
+Sell,SNPS,Synopsys Inc. ,83.5075
+Sell,SPG,Simon Property Group Inc. Comm ,87.0541
+Sell,FBHS, Fortune Brands Home & Security  ,83.2111
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,85.598
+Sell,HBAN, Huntington Bancshares Incorpora ,86.0779
+Sell,HPQ, Hewlett-Packard Company Common  ,87.5008
+Sell,HRB, H&R Block  Inc. Common ,81.2864
+Sell,MPC, Marathon Petroleum Corporation  ,95.2243
+Sell,PSX, Phillips 66 Common ,97.037
+Sell,STT, State Street Corporation Common ,86.7346
+Sell,SPY,SPDR S&P 500 ETF,81.3127
+Sell,COTY,Coty Inc. ,92.448
+Sell,FOXA,Twenty-First Century Fox Inc. ,96.9533
+Sell,NAVI,Navient Corporation ,88.3214
+Sell,SYF,Synchrony Financial Common Stoc,85.0529
+Sell,PYPL,PayPal Holdings  Inc.,93.1174
+Sell,WRK,WestRock Company,96.6665
+Sell,SPGI,S&P Global  Inc.,86.5117
+Sell,DXC,DXC Technology Company,96.8499
+Sell,UAA,Under Armour  Inc. Class A,83.7078

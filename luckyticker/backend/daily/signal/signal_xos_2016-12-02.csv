@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GRA,W.R. Grace & Co. Common ,Basic Materials,Specialty Chemicals
+NRT,North European Oil Royality Tru ,Financial,Diversified Investments
+AGNC,American Capital Agency Corp. ,Financial,REIT - Residential
+CNY, Market Vectors Chinese Renminbi ,N/A,N/A
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+LAS,Lentuo International Inc. Ameri ,Services,Auto Dealerships
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services

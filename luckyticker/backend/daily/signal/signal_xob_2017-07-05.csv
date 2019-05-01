@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BSET,Bassett Furniture Industries I ,Consumer Goods,Home Furnishings & Fixtures
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+JMP,JMP Group Inc Common ,Financial,Investment Brokerage - National
+LOAN,Manhattan Bridge Capital Inc ,Financial,Credit Services
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+WEAT, Teucrium Wheat Fund ETV ,N/A,N/A

@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WGP,Western Gas Equity Partners LP ,Basic Materials,Oil & Gas Pipelines
+BCPC,Balchem Corporation ,Basic Materials,Chemicals - Major Diversified
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+DRNA,Dicerna Pharmaceuticals Inc. ,Healthcare,Biotechnology
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+AEUA,Anadarko Petroleum Corporation,N/A,N/A
+SVVC, Firsthand Technology Value Fund ,N/A,N/A
+ATV,Acorn International Inc. ADS ,Services,Catalog & Mail Order Houses
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+LL,Lumber Liquidators Holdings In ,Services,Home Improvement Stores
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+MENT,Mentor Graphics Corporation ,Technology,Technical & System Software
+DTSI,DTS Inc. ,Technology,Application Software
+SATS,EchoStar Corporation ,Technology,Communication Equipment
+PCYO,Pure Cycle Corporation ,Utilities,Water Utilities

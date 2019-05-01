@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+MTEX,Mannatech Incorporated ,Consumer Goods,Personal Products
+JBSS,John B. Sanfilippo & Son Inc. ,Consumer Goods,Processed & Packaged Goods
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+HTGC, Hercules Technology Growth Capi ,Financial,Mortgage Investment
+SBRA,Sabra Healthcare REIT Inc. ,Financial,REIT - Healthcare Facilities
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+ERIE,Erie Indemnity Company ,Financial,Insurance Brokers
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+GWPH,GW Pharmaceuticals plc ,Healthcare,Drug Manufacturers - Major
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+MYRG,MYR Group Inc. ,Industrial Goods,General Contractors
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+BDCL, 2xLeveraged Long Exchange Trade ,N/A,N/A
+DPK, Direxion Developed Markets Bear ,N/A,N/A
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+NINI,iPath Pure Beta Nickel ETN ,N/A,N/A
+ARCB,ArcBest Corporation ,N/A,N/A
+TSNU,Tyson Foods Inc. Tangible Equi,N/A,N/A
+GSBD,Goldman Sachs BDC Inc.,N/A,N/A
+LBTYK,Liberty Global Inc. ,NULL,NULL
+ETM,Entercom Communications Corpora ,Services,Broadcasting - Radio
+BOJA,Bojangles  Inc.,Services,Restaurants
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV
+AVT,Avnet Inc. Common ,Services,Electronics Wholesale
+FCN,FTI Consulting Inc. Common Sto ,Services,Management Services
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+LBTYA,Liberty Global Inc. ,Services,CATV Systems
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers

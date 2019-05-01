@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAP,Molson Coors Brewing Company Cl ,Consumer Goods,Beverages - Brewers
+PEP,Pepsico Inc. Common ,Consumer Goods,Beverages - Soft Drinks
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+BPOPN, Popular  Inc. ,N/A,N/A
+CHSCP, CHS Inc ,N/A,N/A
+AIB,Apollo Investment Corporation 6 ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+AEB,AEGON N.V. Perp. Cap. Secs. Flo ,NULL,NULL
+AMOV,America Movil S.A.B. de C.V. ,NULL,NULL
+AMX,America Movil S.A.B. de C.V. A ,Technology,Wireless Communications
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

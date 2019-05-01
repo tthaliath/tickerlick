@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+OAK, Oaktree Capital Group  LLC Clas ,Financial,Asset Management
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+KFYP,KraneShares CSI China Five Year Plan ETF ,N/A,N/A
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+HMHC,HMH Holdings (Delaware) Inc. ,Services,Education & Training Services
+TUES,Tuesday Morning Corp. ,Services,Discount Variety Stores
+MRVC,MRV Communications Inc. ,Technology,Semiconductor - Integrated Circuits

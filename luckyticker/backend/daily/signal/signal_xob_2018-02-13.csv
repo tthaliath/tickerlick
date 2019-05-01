@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+INST,Instructure  Inc.,N/A,N/A
+WK,Workiva Inc. Class A Common Sto,N/A,N/A
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+HHS, Harte-Hanks  Inc. Common ,Services,Marketing Services
+INFN,Infinera Corporation ,Technology,Communication Equipment
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments

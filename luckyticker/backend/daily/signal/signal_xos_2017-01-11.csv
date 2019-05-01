@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+FIZZ,National Beverage Corp. ,Consumer Goods,Beverages - Soft Drinks
+ETH,Ethan Allen Interiors Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+UFAB,Unique Fabricating  Inc.,Consumer Goods,Auto Parts
+NSEC,National Security Group Inc. ,Financial,Property & Casualty Insurance
+NATR,Nature's Sunshine Products Inc ,Healthcare,Drug Related Products
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+GRAM,Gra ,Services,Technical Services
+KONA,Kona Grill Inc. ,Services,Restaurants
+PAC,Grupo Aeroportuario Del Pacific ,Services,Air Services Other
+SPA,Sparton Corporation Common Stoc ,Technology,Diversified Electronics

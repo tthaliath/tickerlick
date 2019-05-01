@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+OPHC,OptimumBank Holdings Inc. ,Financial,Regional - Mid-Atlantic Banks
+HBMD, Howard Bancorp  Inc. ,Financial,Regional - Mid-Atlantic Banks
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+PAHC,Phibro Animal Health Corporation ,Healthcare,Specialized Health Services
+LXRX,Lexicon Pharmaceuticals Inc. ,Healthcare,Biotechnology
+LMCK,Liberty Media Corporation,N/A,N/A
+FFBCW,First Financial Bancorp. ,N/A,N/A
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+NPTN, NeoPhotonics Corporation ,Technology,Semiconductor - Broad Line
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices

@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+SCO,ProShares UltraShort DJ-UBS Crude Oil ETF,Commodity Based ETF,
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+TQQQ,ProShares UltraPro QQQ ETF,Commodity Based ETF,
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+USD,ProShares Ultra Semiconductors ETF,Commodity Based ETF,
+SMN,ProShares UltraShort Basic Materials ETF,Commodity Based ETF,
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+TDG,Transdigm Group Incorporated Tr ,Industrial Goods,Aerospace/Defense Products & Services
+HZN,Horizon Global Corporation,N/A,N/A
+RAD,Rite Aid Corporation Common Sto ,Services,Drug Stores
+BDMS,Birner Dental Management Servic ,Services,Business Services
+WU,Western Union Company (The) Com ,Services,Business Services
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+ALOG,Analogic Corporation ,Technology,Scientific & Technical Instruments
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment

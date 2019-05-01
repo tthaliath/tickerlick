@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EFAD,ProShares Trust ProShares MSCI  ,,
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+PEP,Pepsico Inc. Common ,Consumer Goods,Beverages - Soft Drinks
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+QIWI,Qiwi plc ,Financial,Credit Services
+IPU,SPDR S&P International Utilities Sector ETF,Global Equity ETF,
+EFAV,iShares MSCI EAFE Minimum Volatility Index Fund ETF,Global Equity ETF,
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+RTIX,RTI Biologics Inc. ,Healthcare,Medical Appliances & Equipment
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+BBRY,BlackBerry Limited ,N/A,N/A
+STMP,Stamps.com Inc. ,Services,Catalog & Mail Order Houses
+NRCIB,National Research Corp. ,Services,Research Services
+SINA,Sina Corporation ,Technology,Internet Software & Services
+GSOL,Global Sources Ltd. ,Technology,Internet Information Providers
+CCI,Crown Castle International Corp ,Technology,Diversified Communication Services
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+DTE,DTE Energy Company Common ,Utilities,Electric Utilities
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities

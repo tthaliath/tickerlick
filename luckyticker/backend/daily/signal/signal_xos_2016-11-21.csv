@@ -1,0 +1,53 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QESP,SPDR MSCI Spain Quality Mix ETF ,,
+QDEU,SPDR MSCI Germany Quality Mix E ,,
+IBMH,iShares iBonds Sep 2019 AMT-Fre ,,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+ULE,ProShares Ultra Euro ETF,Commodity Based ETF,
+EL,Estee Lauder Companies Inc. (T ,Consumer Goods,Personal Products
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+NXR, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+CXH, MFS Investment Grade Municipal  ,Financial,Closed-End Fund - Debt
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+AIV,Apartment Investment and Manage ,Financial,REIT - Residential
+MUNI,PIMCO Intermediate Municipal Bond Strategy Fund ETF,Fixed Income ETF,
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+PWZ,PowerShares Insured CA Municipal Bond Portfolio ETF,Fixed Income ETF,
+IBND,SPDR Barclays Capital International Corporate Bond ETF,Fixed Income ETF,
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+ISHG,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fund ETF,Fixed Income ETF,
+EDEN,iShares MSCI Denmark Cppd Investable Mkt,Global Equity ETF,
+CHOC, iPath Pure Beta Cocoa ETN ,N/A,N/A
+MHI, Pioneer Municipal High Income T ,N/A,N/A
+BAF, BlackRock Municipal Income Inve ,N/A,N/A
+ICN, WisdomTree Dreyfus Indian Rupee ,N/A,N/A
+DMB,Dreyfus Municipal Bond Infrastr ,N/A,N/A
+GRR, Asia Tigers Fund  Inc. (The) Co ,N/A,N/A
+PYT, PPlus Tr GSC-2 Tr Ctf Fltg Rate ,N/A,N/A
+NMT, Nuveen Massachusetts Premium In ,N/A,N/A
+PSLV, Sprott Physical Silver Trust ET ,N/A,N/A
+MNE, Blackrock Muni New York Interme ,N/A,N/A
+UDN, PowerShares DB USD Index Bearis ,N/A,N/A
+RVNU,db X-trackers Muni Infras Revn Bd ETF ,N/A,N/A
+JBK, Lehman ABS 3.50 3.50% Adjustabl ,N/A,N/A
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+NUW, Nuveen AMT-Free Municipal Value ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+NCB, Nuveen California Municipal Val ,N/A,N/A
+FXE, Rydex CurrencyShares Euro Curre ,N/A,N/A
+KTN, Structured Products Corp 8.205% ,N/A,N/A
+IGR, CBRE Clarion Global Real Estate ,N/A,N/A
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+FXS, Rydex CurrencyShares Swedish Kr ,N/A,N/A
+UBG, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+FXF, Rydex CurrencyShares Swiss Fran ,N/A,N/A
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+BPOPM, Popular  Inc. ,N/A,N/A
+SOXS, Direxion Daily Semiconductor Be ,N/A,N/A
+GRAM,Gra ,Services,Technical Services
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+ELLO,Ellomay Capital Ltd Ordinary Sh,Utilities,Electric Utilities

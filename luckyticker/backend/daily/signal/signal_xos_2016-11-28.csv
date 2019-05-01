@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IBDQ,iShares iBonds Dec 2025 Corpora,,
+VBND,Vident Core U.S. Bond Fund ,,
+TOTL,SPDR DoubleLine Total Return Ta,,
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+SEF,ProShares Short Financials ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+SWZ, Swiss Helvetia Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+GBF,iShares Barclays Government/Credit Bond Fund ETF,Fixed Income ETF,
+IGOV,iShares S&P/Citigroup International Treasury Fund ETF,Fixed Income ETF,
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+SST,SPDR Barclays Capital Short Term Treasury ETF,Fixed Income ETF,
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Fixed Income ETF,
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+IBND,SPDR Barclays Capital International Corporate Bond ETF,Fixed Income ETF,
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+PWZ,PowerShares Insured CA Municipal Bond Portfolio ETF,Fixed Income ETF,
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+MCA, Blackrock MuniYield California  ,N/A,N/A
+DMF, Dreyfus Municipal Income  Inc.  ,N/A,N/A
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+UBG, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+BSE, Blackrock New York Municipal In ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+TYD, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+BTAL,QuantShares U.S. Market Neutral Anti-Beta Fund ETF,US Equity ETF,

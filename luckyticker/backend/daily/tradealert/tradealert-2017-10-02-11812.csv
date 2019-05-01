@@ -1,0 +1,20 @@
+Buy,MSFT,Microsoft Corporation ,11.0123
+Buy,FB, Facebook  Inc. ,12.3595
+Buy,BAC,Bank of America Corporation Com ,13.7725
+Buy,MA,Mastercard Incorporated Common  ,16.8696
+Buy,NVDA,NVIDIA Corporation ,18.6792
+Buy,MMM,3M Company Common ,18.6848
+Buy,GE,General Electric Company Common ,20.409
+Buy,EMR,Emerson Electric Company Common ,21.4367
+Buy,MDT,Medtronic Inc. Common ,22.0814
+Buy,BK,Bank of New York Mellon Corpora ,22.3638
+Buy,AXP,American Express Company Common ,23.1476
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,23.5293
+Buy,LOW,Lowe's Companies Inc. Common S ,23.8882
+Buy,CMCSA,Comcast Corporation ,24.5912
+Sell,COP,ConocoPhillips Common ,79.2027
+Sell,FDX,FedEx Corporation Common ,81.1588
+Sell,ORCL,Oracle Corporation ,82.2922
+Sell,MO,Altria Group Inc. ,88.8313
+Sell,DOW,Dow Chemical Company (The) Comm ,100
+Sell,DD,E.I. du Pont de Nemours and Com ,100

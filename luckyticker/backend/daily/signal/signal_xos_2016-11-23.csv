@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IBMH,iShares iBonds Sep 2019 AMT-Fre ,,
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+SWZ, Swiss Helvetia Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+BAB,PowerShares Build America Bond Portfolio ETF,Fixed Income ETF,
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+CLY,iShares 10+ Year Credit Bond Fund ETF,Fixed Income ETF,
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+GMTB,Columbia Core Bond Strategy ETF,Fixed Income ETF,
+TLO,SPDR Barclays Capital Long Term Treasury ETF,Fixed Income ETF,
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+EFG,iShares MSCI Growth Index Fund ETF,Global Equity ETF,
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+NQP, Nuveen Pennsylvania Investment  ,N/A,N/A
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+ICN, WisdomTree Dreyfus Indian Rupee ,N/A,N/A
+MCA, Blackrock MuniYield California  ,N/A,N/A
+NXP, Nuveen Select Tax Free Income P ,N/A,N/A
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+TKF, Turkish Investment Fund  Inc. ( ,N/A,N/A
+SLVO,Credit Suisse Silver Shares Cov Call ETN ,N/A,N/A
+UBG, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+JBK, Lehman ABS 3.50 3.50% Adjustabl ,N/A,N/A
+NMT, Nuveen Massachusetts Premium In ,N/A,N/A
+FXSG,CurrencyShares Singapore Dollar Trust ,N/A,N/A
+GLDI,Credit Suisse Gold Shrs Cov Call Exc ETN ,N/A,N/A
+GRAM,Gra ,Services,Technical Services
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign

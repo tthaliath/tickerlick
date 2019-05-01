@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HEWJ,iShares Currency Hedged MSCI Ja ,,
+IPAC,iShares Core MSCI Pacific ETF ,,
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+ESGG,FlexShares STOXX Global ESG Imp,,
+BOTZ,Global X Robotics & Artificial,,
+PLXP,PLx Pharma Inc.,,
+FLQG,Franklin LibertyQ Global Equity,,
+GSJY,Goldman Sachs ActiveBeta Japan,,
+HFXJ,IQ 50 Percent Hedged FTSE Japan,,
+KRO,Kronos Worldwide Inc Common Sto ,Basic Materials,Specialty Chemicals
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+OME,Omega Protein Corporation Commo ,Consumer Goods,Processed & Packaged Goods
+BLK,BlackRock Inc,Financial,Asset Management
+HST, Host Hotels & Resorts  Inc. Com ,Financial,REIT - Hotel/Motel
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+ESNT,Essent Group Ltd. ,Financial,Mortgage Investment
+ACIM,SPDR MSCI ACWI IMI ETF,Global Equity ETF,
+KROO,IndexIQ Australia Small Cap ETF,Global Equity ETF,
+Q,Quintiles Transnational Holdings Inc. ,Healthcare,Medical Laboratories & Research
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+ITT,ITT Corporation Common ,Industrial Goods,Diversified Machinery
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+ROBO,Robo-Stox Glbl Robotics&Automation ETF ,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+SPXX,Nuveen S&P 500 Dynamic Overwrit,N/A,N/A
+APTS, Preferred Apartment Communities ,N/A,N/A
+DBJP, db-X MSCI Japan Currency Hedged ,N/A,N/A
+NXRT,NexPoint Residential Trust  Inc. ,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+HLT,Hilton Worldwide Holdings Inc. ,Services,Lodging
+NAP,Navios Maritime Midstream Partn,Services,Shipping
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+RHT,Red Hat Inc. Common ,Technology,Application Software
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+CDNS,Cadence Design Systems Inc. ,Technology,Application Software
+MRIN,Marin Software Incorporated ,Technology,Application Software
+UCTT,Ultra Clean Holdings Inc. ,Technology,Semiconductor - Specialized
+AUDC,AudioCodes Ltd. ,Technology,Communication Equipment
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+TXN,Texas Instruments Incorporated ,Technology,Semiconductor - Broad Line
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+HE, Hawaiian Electric Industries  I ,Utilities,Electric Utilities
+ETR,Entergy Corporation Common Stoc ,Utilities,Electric Utilities

@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LCII,LCI Industries,,
+XIVH,UBS AG VelocityShares VIX Short,,
+SHLX,Shell Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+THO,Thor Industries Inc. Common St ,Consumer Goods,Recreational Vehicles
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+CHD,Church & Dwight Company Inc. C ,Consumer Goods,Cleaning Products
+LIND,Lindblad Expeditions Holdings Inc.,Consumer Goods,Recreational Goods  Other
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+DX,Dynex Capital Inc. Common Stoc ,Financial,Mortgage Investment
+AI,Arlington Asset Investment Corp ,Financial,Investment Brokerage - Regional
+NNC, Nuveen North Carolina Premium I ,Financial,Closed-End Fund - Debt
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+NWLI,National Western Life Insurance ,Financial,Life Insurance
+MTGE, American Capital Mortgage Inves ,Financial,REIT - Diversified
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+TWO,Two Harbors Investment Corp ,Financial,REIT - Residential
+STAR,iStar Financial Inc. ,Financial,REIT - Diversified
+GAIN,Gladstone Investment Corporatio ,Financial,Diversified Investments
+ATRC,AtriCure Inc. ,Healthcare,Medical Instruments & Supplies
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+LEN,Lennar Corporation Class A Comm ,Industrial Goods,Residential Construction
+PFD, Flaherty & Crumrine Preferred I ,N/A,N/A
+HYB, New America High Income Fund  I ,N/A,N/A
+TDA,Telephone & Data Systems Inc. ,N/A,N/A
+CAA,CalAtlantic Group  Inc.,N/A,N/A
+NBH, Neuberger Berman Intermediate M ,N/A,N/A
+TRTN,Triton International Limited,N/A,N/A
+PI,Impinj  Inc.,N/A,N/A
+IQI, Invesco Quality Municipal Incom ,N/A,N/A
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads
+CAI,CAI International Inc.,Services,Rental & Leasing Services
+CTRL,Control4 Corporation ,Technology,Diversified Electronics
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+AAPL,Apple Inc. ,Technology,Personal Computers
+EGOV,NIC Inc. ,Technology,Application Software

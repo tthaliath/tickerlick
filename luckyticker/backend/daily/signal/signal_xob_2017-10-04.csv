@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HEWG,iShares Currency Hedged MSCI Ge ,,
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+MTRN, Materion Corporation ,Basic Materials,Industrial Metals & Minerals
+KNDI,Kandi Technolgies Corp. ,Consumer Goods,Auto Manufacturers - Major
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+SC,Santander Consumer USA Holdings Inc. ,Financial,Mortgage Investment
+BMA,Banco Macro S.A.  ADR (represen ,Financial,Foreign Regional Banks
+GCBC, Greene County Bancorp  Inc. ,Financial,Savings & Loans
+SMBC, Southern Missouri Bancorp  Inc. ,Financial,Savings & Loans
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+CRVL,CorVel Corp. ,Financial,Insurance Brokers
+C,Citigroup Inc. Common ,Financial,Money Center Banks
+STE,STERIS Corporation Common ,Healthcare,Medical Appliances & Equipment
+CDXS,Codexis Inc. ,Healthcare,Biotechnology
+ACRX, AcelRx Pharmaceuticals  Inc. ,Healthcare,Drug Manufacturers - Major
+SPPI,Spectrum Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+LEN,Lennar Corporation Class A Comm ,Industrial Goods,Residential Construction
+THR, Thermon Group Holdings  Inc. Co ,Industrial Goods,Diversified Machinery
+ITT,ITT Corporation Common ,Industrial Goods,Diversified Machinery
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+CTMX,CytomX Therapeutics  Inc.,N/A,N/A
+ARCB,ArcBest Corporation ,N/A,N/A
+WK,Workiva Inc. Class A Common Sto,N/A,N/A
+CENTA,Central Garden &amp; Pet Company ,NULL,NULL
+BRC,Brady Corporation Common ,Services,Technical Services
+LAD,Lithia Motors Inc. Common Stoc ,Services,Auto Dealerships
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+VVI,Viad Corp Common ,Services,Business Services
+RGS,Regis Corporation Common ,Services,Personal Services
+NSP, Insperity  Inc. Common ,Services,Business Services
+EXLS,ExlService Holdings Inc. ,Services,Business Services
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+VSH,Vishay Intertechnology Inc. Co ,Technology,Semiconductor - Broad Line
+IWO,iShares Russell 2000 Growth ETF,US Equity ETF,
+PXI,PowerShares Dynamic Energy ETF,US Equity ETF,
+PSCH,PowerShares S&P SmallCap Health Care Portfolio ETF,US Equity ETF,
+IEO,iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund ETF,US Equity ETF,
+FNY,First Trust Mid Cap Growth AlphaDEX ETF,US Equity ETF,
+VTWG,Vanguard Russell 2000 Growth ETF,US Equity ETF,
+FYC,First Trust Small Cap Growth AlphaDEX ETF,US Equity ETF,

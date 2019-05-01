@@ -1,0 +1,5 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SEB,Seaboard Corporation Common Sto ,Consumer Goods,Meat Products
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+SIEN,Sientra Inc.,N/A,N/A
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores

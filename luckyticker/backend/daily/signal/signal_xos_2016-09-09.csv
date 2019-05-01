@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+POOL,Pool Corporation ,Consumer Goods,Sporting Goods
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+TMO,Thermo Fisher Scientific Inc Co ,Healthcare,Medical Instruments & Supplies
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+CUPM,iPath Pure Beta Copper ETN ,N/A,N/A
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+ERIC,Ericsson ,NULL,NULL
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+IRDM,Iridium Communications Inc ,Technology,Diversified Communication Services
+VCR,Vanguard Consumer Discretion ETF - DNQ ETF,US Equity ETF,

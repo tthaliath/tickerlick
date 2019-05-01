@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BIB,ProShares Ultra Nasdaq Biotechnology ETF,Commodity Based ETF,
+NUS,Nu Skin Enterprises Inc. Commo ,Consumer Goods,Personal Products
+IRMD,iRadimed Corporation,Healthcare,Medical Appliances & Equipment
+NVS,Novartis AG Common ,Healthcare,Drug Manufacturers - Major
+CNC,Centene Corporation Common Stoc ,Healthcare,Health Care Plans
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Drugs - Generic
+LH,Laboratory Corporation of Ameri ,Healthcare,Medical Laboratories & Research
+BPMC,Blueprint Medicines Corporation,Healthcare,Biotechnology
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AGIO,Agios Pharmaceuticals Inc. ,Healthcare,Biotechnology
+USCR, U S Concrete  Inc. ,Industrial Goods,General Building Materials
+ALRM,Alarm.com Holdings  Inc. ,N/A,N/A
+OTIC,Otonomy Inc.,N/A,N/A
+KSA, Structured Products Corp 8.5% C ,N/A,N/A
+BBC,BioShares Biotechnology Clinica,N/A,N/A
+SNX,Synnex Corporation Common ,Services,Business Services
+Z, Zillow  Inc. ,Services,Business Services
+CSIQ,Canadian Solar Inc. ,Technology,Semiconductor - Specialized
+COOL,Majesco Entertainment Company ,Technology,Multimedia & Graphics Software
+RHT,Red Hat Inc. Common ,Technology,Application Software
+ORCL,Oracle Corporation ,Technology,Application Software
+FBT,First Trust Amex Biotech Index Fund ETF,US Equity ETF,
+IHE,iShares Dow Jones U.S. Pharmaceutical Index Fund ETF,US Equity ETF,
+BBH,Market Vectors Biotech ETF,US Equity ETF,
+XBI,SPDR S&P Biotech ETF,US Equity ETF,
+IBB,iShares Nasdaq Biotechnology ETF,US Equity ETF,
+PJP,PowerShares Dynamic Pharmaceuticals ETF,US Equity ETF,

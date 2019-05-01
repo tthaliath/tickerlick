@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DHIL,Diamond Hill Investment Group  ,Financial,Asset Management
+BK,Bank of New York Mellon Corpora ,Financial,Asset Management
+BWINB,Baldwin & Lyons Inc. ,Financial,Property & Casualty Insurance
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+INO,Inovio Pharmaceuticals Inc. Co ,Healthcare,Biotechnology
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+RCII,Rent-A-Center Inc. ,Services,Rental & Leasing Services
+JCP,J.C. Penney Company Inc. Holdi ,Services,Department Stores
+PSO,Pearson Plc Common ,Services,Publishing - Books
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+BKFS,Black Knight Financial Services  Inc.,Technology,Business Software & Services
+NMRX,Numerex Corp. ,Technology,Communication Equipment

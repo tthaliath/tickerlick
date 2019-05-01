@@ -1,0 +1,75 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XT,iShares Exponential Technologie,,
+EUDG,WisdomTree Europe Dividend Grow ,,
+EFAD,ProShares Trust ProShares MSCI  ,,
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+PHG,Koninklijke Philips Electronics ,Consumer Goods,Electronic Equipment
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+PKG,Packaging Corporation of Americ ,Consumer Goods,Packaging & Containers
+WHR,Whirlpool Corporation Common St ,Consumer Goods,Appliances
+FCFS,First Cash Financial Services  ,Financial,Credit Services
+PKBK,Parke Bancorp Inc. ,Financial,Regional - Northeast Banks
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+SIGI,Selective Insurance Group Inc. ,Financial,Property & Casualty Insurance
+PYPL,PayPal Holdings  Inc.,Financial,Credit Services
+BOE, Blackrock Global Blackrock Glob ,Financial,Closed-End Fund - Foreign
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+FEP,First Trust Europe AlphaDEX ETF,Global Equity ETF,
+SCHC,Schwab International Small-Cap Equity ETF,Global Equity ETF,
+PZD,PowerShares Cleantech Portfolio ETF,Global Equity ETF,
+SCZ,iShares MSCI EAFE Small Cap ETF,Global Equity ETF,
+EFNL,iShares MSCI Finland Capped Inv Mkt,Global Equity ETF,
+DLS,WisdomTree International SmallCap Fund ETF,Global Equity ETF,
+EWGS,iShares MSCI Germany Small Cap,Global Equity ETF,
+EWN,iShares MSCI Netherlands Index Fund ETF,Global Equity ETF,
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+LMAT,LeMaitre Vascular Inc. ,Healthcare,Medical Instruments & Supplies
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+TMO,Thermo Fisher Scientific Inc Co ,Healthcare,Medical Instruments & Supplies
+ALR,Alere Inc. Common ,Healthcare,Medical Laboratories & Research
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+SPPI,Spectrum Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+BCR,C.R. Bard Inc. Common ,Healthcare,Medical Instruments & Supplies
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+MKSI,MKS Instruments Inc. ,Industrial Goods,Diversified Machinery
+BGG,Briggs & Stratton Corporation C ,Industrial Goods,Diversified Machinery
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+GGG,Graco Inc. Common ,Industrial Goods,Diversified Machinery
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+IF, Aberdeen Indonesia Fund  Inc. ( ,N/A,N/A
+RGT,Royce Global Value Trust  Inc.  ,N/A,N/A
+FMS,Fresenius Medical Care AG Commo ,NULL,NULL
+CVGI,Commercial Vehicle Group Inc. ,Services,Auto Parts Wholesale
+BBY,Best Buy Co. Inc. Common ,Services,Electronics Stores
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+FWRD,Forward Air Corporation ,Services,Air Delivery & Freight Services
+MA,Mastercard Incorporated Common  ,Services,Business Services
+CSGP,CoStar Group Inc. ,Services,Business Services
+ASGN,On Assignment Inc. ,Services,Staffing & Outsourcing Services
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+NATI,National Instruments Corporatio ,Technology,Technical & System Software
+ATVI,Activision Blizzard Inc ,Technology,Multimedia & Graphics Software
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+KLAC,KLA-Tencor Corporation ,Technology,Semiconductor Equipment & Materials
+UTEK,Ultratech Inc. ,Technology,Semiconductor Equipment & Materials
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+TYL,Tyler Technologies Inc. Common ,Technology,Technical & System Software
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+NOW,ServiceNow Inc. Common ,Technology,Information Technology Services
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+MOCO,MOCON Inc. ,Technology,Scientific & Technical Instruments
+FB, Facebook  Inc. ,Technology,Internet Information Providers
+AVX,AVX Corporation Common ,Technology,Diversified Electronics
+NFO,Guggenheim Insider Sentiment ETF,US Equity ETF,
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,

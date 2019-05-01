@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MPET,Magellan Petroleum Corporation ,Basic Materials,Independent Oil & Gas
+RFP, Resolute Forest Products Inc. C ,Consumer Goods,Paper & Paper Products
+FFNW,First Financial Northwest Inc. ,Financial,Regional - Pacific Banks
+SBBX,Sussex Bancorp ,Financial,Regional - Northeast Banks
+MNTX,Manitex International Inc. ,Industrial Goods,Diversified Machinery
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+DIT,AMCON Distributing Company Comm ,Services,Food Wholesale
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized

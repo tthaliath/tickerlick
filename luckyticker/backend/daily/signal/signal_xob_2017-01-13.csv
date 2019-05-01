@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DXKW,WisdomTree Korea Hedged Equity ,,
+CCJ,Cameco Corporation Common ,Basic Materials,Industrial Metals & Minerals
+VAL,Valspar Corporation (The) Commo ,Basic Materials,Specialty Chemicals
+SHI,SINOPEC Shangai Petrochemical C ,Basic Materials,Oil & Gas Refining & Marketing
+SNP,China Petroleum & Chemical Corp ,Basic Materials,Major Integrated Oil & Gas
+SLGN,Silgan Holdings Inc. ,Consumer Goods,Packaging & Containers
+AMTD,TD Ameritrade Holding Corporati ,Financial,Investment Brokerage - National
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+CHIM,Global X China Materials ETF,Global Equity ETF,
+SPAN, Span-America Medical Systems  I ,Healthcare,Medical Appliances & Equipment
+ARRY,Array BioPharma Inc. ,Healthcare,Biotechnology
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+ABB,ABB Ltd Common ,Industrial Goods,Industrial Electrical Equipment
+KRNT,Kornit Digital  Ltd.,Industrial Goods,Diversified Machinery
+LBTYA,Liberty Global Inc. ,Services,CATV Systems
+ABCO,The Advisory Board Company ,Services,Business Services
+OMEX,Odyssey Marine Exploration Inc ,Services,Research Services
+CHKP,Check Point Software Technologi ,Technology,Security Software & Services
+PAM,Pampa Energia S.A. Pampa Energi ,Utilities,Electric Utilities

@@ -1,0 +1,100 @@
+ticker,name,sector,industry
+INFO,IHS Markit Ltd.,N/A,N/A
+BXP,Boston Properties Inc. Common  ,Financial,REIT - Office
+RARE,Ultragenyx Pharmaceutical Inc. ,Healthcare,Biotechnology
+EMCG,WisdomTree EM Consumer Growth Fund ,N/A,N/A
+BCE,BCE Inc. Common ,Technology,Telecom Services - Domestic
+LTRPA,Liberty TripAdvisor Holdings I,Consumer Goods,Recreational Goods Other
+LXRX,Lexicon Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+RIF, RMR Real Estate Income Fund Com ,N/A,N/A
+SEAS,SeaWorld Entertainment Inc. ,Services,Sporting Activities
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+NMY, Nuveen Maryland Premium Income  ,Financial,Closed-End Fund - Debt
+CCXI, ChemoCentryx  Inc. ,Healthcare,Biotechnology
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+KPTI,Karyopharm Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+ROIC,Retail Opportunity Investments  ,Financial,REIT - Diversified
+EDIV,SPDR S&P Emerging Markets Dividend ETF,Global Equity ETF,
+GDXJ,Market Vectors Junior Gold Miners ETF,Global Equity ETF,
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+PMT,PennyMac Mortgage Investment Tr ,Financial,REIT - Residential
+OIA, Invesco Municipal Income Opport ,N/A,N/A
+HT, Hersha Hospitality Trust Class  ,Financial,REIT - Retail
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+RBCN,Rubicon Technology Inc. ,Technology,Semiconductor - Specialized
+UBA,Urstadt Biddle Properties Inc.  ,Financial,REIT - Retail
+ERJ,Embraer S.A. Common ,Industrial Goods,Aerospace/Defense Products & Services
+TACO,Del Taco Restaurants  Inc.,Services,Restaurants
+TRVG,trivago N.V. - American Deposit,,
+KFS,Kingsway Financial Services In ,Financial,Property & Casualty Insurance
+MXF, Mexico Fund  Inc. (The) Common  ,N/A,N/A
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+JHI, John Hancock Investors Trust Co ,Financial,Closed-End Fund - Debt
+RMCF,Rocky Mountain Chocolate Factor ,Consumer Goods,Confectioners
+CBON,Market Vectors ChinaAMC China B ,,
+PML, Pimco Municipal Income Fund II  ,N/A,N/A
+CAAS,China Automotive Systems Inc. ,Consumer Goods,Auto Parts
+HMHC,HMH Holdings (Delaware) Inc. ,Services,Education & Training Services
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+ALD,WisdomTree Asia Local Debt Fund ETF,Fixed Income ETF,
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+OUNZ,Merk Gold Trust ETV ,,
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+HDRW,WisdomTree Global ex-U.S. Hedge,,
+DB,Deutsche Bank AG Common ,Financial,Foreign Regional Banks
+ITI,Iteris Inc. Common ,Technology,Communication Equipment
+PSAU,PowerShares Global Gold and Precious Metals Portfolio ETF,Global Equity ETF,
+GLD, SPDR Gold Trust ,N/A,N/A
+VMO, Invesco Van Kampen Municipal Op ,N/A,N/A
+MXE, Mexico Equity and Income Fund   ,N/A,N/A
+MFT, Blackrock MuniYield Investment  ,N/A,N/A
+EWW,iShares MSCI Mexico Index Fund ETF,Global Equity ETF,
+LARE,Tierra XP Latin America Real Es,,
+RZB,Reinsurance Group of America  I ,N/A,N/A
+NHA,Nuveen Municipal 2021 Target Term Fund,N/A,N/A
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+FEMB,First Trust Emerging Markets Lo,,
+UMH,UMH Properties Inc. Common Sto ,Financial,REIT - Diversified
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SRG,Seritage Growth Properties,N/A,N/A
+GYLD, Arrow Dow Jones Global Yield ET ,N/A,N/A
+URA,Global X Uranium ETF,Global Equity ETF,
+CBB,Cincinnati Bell Inc. Common Sto ,Technology,Telecom Services - Domestic
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+NYNY,Empire Resorts Inc. ,Services,Resorts & Casinos
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+BBRC, EGShares Beyond BRICs ETF ,N/A,N/A
+IBKC, IBERIABANK Corporation ,Financial,Regional - Southeast Banks
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+ASR,Grupo Aeroportuario del Sureste ,Services,Air Services Other
+LAND,Gladstone Land Corporation ,Financial,REIT - Diversified
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign
+CCA, MFS California Municipal Fund C ,N/A,N/A
+BSE, Blackrock New York Municipal In ,N/A,N/A
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+SBS,Companhia de saneamento Basico  ,Utilities,Foreign Utilities
+MCR, MFS Charter Income Trust Common ,N/A,N/A
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+IRET,Investors Real Estate Trust ,Financial,REIT - Retail
+NATR,Nature's Sunshine Products Inc ,Healthcare,Drug Related Products
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X Shrs ,N/A,N/A
+NBHC, National Bank Holdings Corporat ,N/A,N/A
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+LEMB,iShares Emerging Markets Local Currency Bond Fund ETF,Fixed Income ETF,
+AMRK,A-Mark Precious Metals Inc. ,Financial,Investment Brokerage - National
+DGRE,WisdomTree Emerging Mkts Dividend Gr ,N/A,N/A
+RGLD, Royal Gold  Inc. ,Basic Materials,Gold
+AKR,Acadia Realty Trust Common Stoc ,Financial,Property Management
+ENIA,Enersis Américas S.A.,N/A,N/A
+DOC,Physicians Realty Trust ,Financial,REIT - Healthcare Facilities
+MSCI,MSCI Inc Common ,Technology,Application Software

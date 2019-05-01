@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAGS,Teucrium Agricultural Fund ETV,,
+PBFX,PBF Logistics LP Common Units r,Basic Materials,Oil & Gas Equipment & Services
+KOLD,ProShares UltraShort DJ-UBS Natural Gas ETF,Commodity Based ETF,
+MMM,3M Company Common ,Conglomerates,Conglomerates
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+CL,Colgate-Palmolive Company Commo ,Consumer Goods,Personal Products
+UL,Unilever PLC Common ,Consumer Goods,Food - Major Diversified
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+CHFN,Charter Financial Corp. ,Financial,Regional - Mid-Atlantic Banks
+ALL,Allstate Corporation (The) Comm ,Financial,Property & Casualty Insurance
+EV,Eaton Vance Corporation Common  ,Financial,Asset Management
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+BCBP,BCB Bancorp Inc. (NJ) ,Financial,Regional - Northeast Banks
+EXAS,Exact Sciences Corporation ,Healthcare,Biotechnology
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+ABT,Abbott Laboratories Common Stoc ,Healthcare,Drug Manufacturers - Major
+LMIA,LMI Aerospace Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+CLACU,Capitol Acquisition Corp. II,N/A,N/A
+WAFDW,Washington Federal Inc.,N/A,N/A
+CIGI,Colliers International Group Inc.,N/A,N/A
+TROX, Tronox Limited Ordinary Shares  ,N/A,N/A
+CHH,Choice Hotels International In ,Services,Lodging
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+WIRE,Encore Wire Corporation ,Technology,Diversified Electronics

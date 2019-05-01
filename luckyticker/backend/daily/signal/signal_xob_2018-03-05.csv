@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AAXN,Axon Enterprise  Inc.,,
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+LOXO,Loxo Oncology Inc.,Healthcare,Biotechnology
+VCEL,Vericel Corporation,Healthcare,Biotechnology
+SRDX,SurModics Inc. ,Healthcare,Diagnostic Substances
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+NTNX,NUTANIX INC,N/A,N/A
+JJG, iPath Dow Jones UBS Grains Tota ,N/A,N/A
+PEN,Penumbra  Inc.,N/A,N/A
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+CLSD,Clearside BioMedical  Inc.,N/A,N/A
+NIB, iPath DJ-UBS Cocoa Subindex Tot ,N/A,N/A
+SBPH,Spring Bank Pharmaceuticals  Inc.,N/A,N/A
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+UPLD,Upland Software Inc.,Technology,Application Software
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+PRFT,Perficient Inc. ,Technology,Business Software & Services

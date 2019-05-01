@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HOML,ETRACS Monthly Reset 2xLeverage,,
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+ELA, Entergy Louisiana  LLC First Mo ,N/A,N/A
+ELB, Entergy Louisiana  Inc. 6.0% Se ,N/A,N/A
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+TRCO,Tribune Media Company Class A C,Services,Publishing - Newspapers
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+XLF,SPDR Financial Select Sector Fund ETF,US Equity ETF,
+RYF,Guggenheim S&P Equal Weight Financial ETF,US Equity ETF,

@@ -1,0 +1,101 @@
+Buy,A,Agilent Technologies Inc. Comm ,3.70382
+Buy,ADM,Archer-Daniels-Midland Company  ,4.83484
+Buy,AIG,American International Group I ,15.3091
+Buy,CMI,Cummins Inc. Common ,11.6959
+Buy,COH,Coach Inc. Common ,7.79923
+Buy,EL,Estee Lauder Companies Inc. (T ,10.7961
+Buy,EOG,EOG Resources Inc. Common Stoc ,19.0475
+Buy,ETR,Entergy Corporation Common Stoc ,6.87843
+Buy,EW,Edwards Lifesciences Corporatio ,15.6252
+Buy,EXPD,Expeditors International of Was ,8.36326
+Buy,FAST,Fastenal Company ,19.0056
+Buy,FMC,FMC Corporation Common ,16.9315
+Buy,FRT,Federal Realty Investment Trust ,4.57987
+Buy,GPC,Genuine Parts Company Common St ,9.5085
+Buy,IR,Ingersoll-Rand plc (Ireland) ,4.49828
+Buy,IVZ,Invesco Plc New Common ,9.52407
+Buy,LEG,Leggett & Platt Incorporated C ,5.55662
+Buy,LH,Laboratory Corporation of Ameri ,15.0978
+Buy,M,Macy's Inc Common ,4.73259
+Buy,MAA,Mid-America Apartment Communiti ,3.84662
+Buy,MAC,Macerich Company (The) Common S ,5.8714
+Buy,MSFT,Microsoft Corporation ,19.9728
+Buy,MTD,Mettler-Toledo International I ,17.6643
+Buy,MU,Micron Technology Inc. ,13.7163
+Buy,NRG,NRG Energy Inc. Common ,11.6798
+Buy,O,Realty Income Corporation Commo ,18.8385
+Buy,OMC,Omnicom Group Inc. Common ,17.0636
+Buy,PCAR,PACCAR Inc. ,3.51715
+Buy,PCG,Pacific Gas & Electric Co. Comm ,6.48154
+Buy,VZ,Verizon Communications Inc. Com ,6.96766
+Buy,WM,Waste Management Inc. Common S ,15.3843
+Buy,WU,Western Union Company (The) Com ,8.22528
+Buy,WYNN,Wynn Resorts Limited ,18.6026
+Buy,XOM,Exxon Mobil Corporation Common  ,15.3065
+Buy,ETN, Eaton Corporation Common ,16.9373
+Buy,HAS, Hasbro  Inc. ,19.7156
+Buy,HCA, HCA Holdings  Inc. Common ,17.5614
+Buy,HCN, Health Care REIT  Inc. Common S ,10.6459
+Buy,HCP, HCP  Inc. Common ,12.3535
+Buy,HIG, Hartford Financial Services Gro ,18.7281
+Buy,HRB, H&R Block  Inc. Common ,3.3334
+Buy,WFM, Whole Foods Market  Inc. ,18.5148
+Buy,XYL, Xylem Inc. Common ,9.43678
+Buy,MNK,Mallinckrodt plc ,12.8994
+Buy,ALLE,Allegion plc Ordinary Shares ,16.8902
+Buy,NAVI,Navient Corporation ,5.55566
+Buy,CSRA,CSRA Inc.,16.2957
+Buy,DXC,DXC Technology Company,3.91607
+Sell,AAP,Advance Auto Parts Inc Advance  ,86.543
+Sell,AAPL,Apple Inc. ,94.8633
+Sell,ABT,Abbott Laboratories Common Stoc ,80.1522
+Sell,ACN,Accenture plc. Class A Ordinary ,92.5427
+Sell,ADI,Analog Devices Inc. ,96.1077
+Sell,AFL,AFLAC Incorporated Common ,93.5173
+Sell,AKAM,Akamai Technologies Inc. ,87.4708
+Sell,ALB,Albemarle Corporation Common St ,80.0338
+Sell,ALK,Alaska Air Group Inc. Common S ,97.4025
+Sell,CME,CME Group Inc. ,86.8597
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,87.4842
+Sell,EMN,Eastman Chemical Company Common ,89.2534
+Sell,EQT,EQT Corporation Common ,92.7693
+Sell,ETFC,E*TRADE Financial Corporation ,93.8769
+Sell,EXPE,Expedia Inc. ,84.1239
+Sell,FCX,Freeport-McMoRan Copper & Gold ,80.1234
+Sell,FE,FirstEnergy Corporation Common  ,88.8889
+Sell,GD,General Dynamics Corporation Co ,86.9902
+Sell,GOOG,Alphabet Inc.,89.3299
+Sell,GS,Goldman Sachs Group Inc. (The) ,88.531
+Sell,IRM,Iron Mountain Incorporated (Del ,90.8734
+Sell,IT,Gartner Inc. Common ,92.8846
+Sell,ITW,Illinois Tool Works Inc. Common ,83.4746
+Sell,LEN,Lennar Corporation Class A Comm ,88.8205
+Sell,LNT,Alliant Energy Corporation Comm ,92.9233
+Sell,LUK,Leucadia National Corporation C ,90.9913
+Sell,MCD,McDonald's Corporation Common S ,84.3617
+Sell,MCHP,Microchip Technology Incorporat ,91.1976
+Sell,MCK,McKesson Corporation Common Sto ,91.3481
+Sell,MOS,Mosaic Company (The) Common Sto ,84.2736
+Sell,MS,Morgan Stanley Common ,93.1748
+Sell,NOV,National Oilwell Varco Inc. Co ,81.4122
+Sell,PBCT,People's United Financial Inc. ,86.7978
+Sell,PEP,Pepsico Inc. Common ,91.2342
+Sell,PFG,Principal Financial Group Inc C ,86.5407
+Sell,WFC,Wells Fargo & Company Common St ,82.1661
+Sell,WMB,Williams Companies Inc. (The)  ,91.2733
+Sell,WY,Weyerhaeuser Company Common Sto ,92.8023
+Sell,XEC,Cimarex Energy Co Common ,94.2677
+Sell,ZION,Zions Bancorporation ,89.239
+Sell,EA, Electronic Arts Inc. ,87.6547
+Sell,FITB, Fifth Third Bancorp ,80.6511
+Sell,HES, Hess Corporation Common ,97.1104
+Sell,HPQ, Hewlett-Packard Company Common  ,88.8447
+Sell,TRIP, TripAdvisor  Inc. ,88.6708
+Sell,SPY,SPDR S&P 500 ETF,89.0758
+Sell,AAL,American Airlines Group Inc. ,97.1327
+Sell,GOOGL,Alphabet Inc.,85.5456
+Sell,CFG,Citizens Financial Group Inc.,92.857
+Sell,PYPL,PayPal Holdings  Inc.,80.3156
+Sell,HPE,Hewlett Packard Enterprise Company,90.3962
+Sell,INFO,IHS Markit Ltd.,92.3022
+Sell,ARNC,Arconic Inc.,89.8146

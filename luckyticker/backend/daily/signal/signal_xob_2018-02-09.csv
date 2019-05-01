@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WYDE,ProShares CDS Short North Ameri ,,
+GDXS,ProShares UltraShort Gold Miner,,
+DRIP,Direxion Daily S&P Oil & Gas Ex,,
+SJB,ProShares Short High Yield ETF,Commodity Based ETF,
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+ASFI,Asta Funding Inc. ,Services,Business Services
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments

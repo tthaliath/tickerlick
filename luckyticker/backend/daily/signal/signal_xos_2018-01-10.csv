@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YTRA,Yatra Online  Inc. - Ordinary S,,
+UTLF,iShares Edge MSCI Multifactor U,,
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+URE,ProShares Ultra Real Estate ETF,Commodity Based ETF,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+UHT,Universal Health Realty Income  ,Financial,REIT - Healthcare Facilities
+AKR,Acadia Realty Trust Common Stoc ,Financial,Property Management
+DEI,Douglas Emmett Inc. Common Sto ,Financial,REIT - Diversified
+EARN,N/A ,Financial,REIT - Diversified
+OUT,OUTFRONT Media Inc. Common Stoc,Financial,Property Management
+MAIN,Main Street Capital Corporation ,Financial,Diversified Investments
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+ORM,Owens Realty Mortgage Inc. ,Financial,REIT - Office
+PSA,Public Storage Common ,Financial,REIT - Diversified
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+WPC,W.P. Carey & Co. LLC Common Sto ,Financial,Real Estate Development
+AIV,Apartment Investment and Manage ,Financial,REIT - Residential
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+O,Realty Income Corporation Commo ,Financial,REIT - Retail
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+JRVR,James River Group Holdings Ltd,N/A,N/A
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+FISK,Empire State Realty OP L.P. ,N/A,N/A
+PCK, Pimco California Municipal Inco ,N/A,N/A
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+HBANP, Huntington Bancshares Incorpora ,N/A,N/A
+BKS,Barnes & Noble Inc. Common Sto ,Services,Specialty Retail Other
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+ICF,iShares Cohen & Steers Realty Major ETF,US Equity ETF,

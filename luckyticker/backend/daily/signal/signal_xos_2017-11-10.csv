@@ -1,0 +1,43 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEXEA,Liberty Expedia Holdings  Inc.,,
+HSC, Harsco Corporation Common ,Basic Materials,Steel & Iron
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+FUL,H. B. Fuller Company Common Sto ,Basic Materials,Specialty Chemicals
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+GEF,Greif Inc. Class A Common ,Consumer Goods,Packaging & Containers
+ANDE,The Andersons Inc. ,Consumer Goods,Farm Products
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+USB,U.S. Bancorp Common ,Financial,Regional - Midwest Banks
+PACW,PacWest Bancorp ,Financial,Regional - Pacific Banks
+XON,Intrexon Corporation ,Healthcare,Biotechnology
+GLMD,Galmed Pharmaceuticals Ltd. ,Healthcare,Biotechnology
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+NVRO,Nevro Corp. Common,Healthcare,Medical Appliances & Equipment
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+MSGN,MSG Networks Inc.,N/A,N/A
+CTZ,Qwest Corporation 6.625% Notes  ,N/A,N/A
+NRCIA,National Research Corp. ,N/A,N/A
+TWLO,Twilio  Inc.,N/A,N/A
+NVTR,Nuvectra Corporation,N/A,N/A
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+RRGB,Red Robin Gourmet Burgers Inc. ,Services,Restaurants
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+SPSC,SPS Commerce Inc. ,Services,Business Services
+KNOP,KNOT Offshore Partners LP ,Services,Shipping
+CAR,Avis Budget Group Inc. ,Services,Rental & Leasing Services
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+RDI,Reading International Inc ,Services,Movie Production Theaters
+LABL,Multi-Color Corporation ,Services,Business Services
+TACO,Del Taco Restaurants  Inc.,Services,Restaurants
+ATTO,Atento S.A. Ordinary Shares,Services,Business Services
+TSQ,Townsquare Media Inc. Class A ,Services,Broadcasting - Radio
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+PINC,Premier Inc. ,Technology,Healthcare Information Services
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,

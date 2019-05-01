@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RGLD, Royal Gold  Inc. ,Basic Materials,Gold
+BVN,Compania Mina Buenaventura S.A ,Basic Materials,Gold
+FSBW,FS Bancorp Inc. ,Financial,Regional - Pacific Banks
+MPB,Mid Penn Bancorp ,Financial,Regional - Northeast Banks
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+EPOL,iShares MSCI Poland Investable Market Index Fund ETF,Global Equity ETF,
+EWZS,iShares MSCI Brazil Small Cap Index Fund (EWZS) ETF,Global Equity ETF,
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+ACOR,Acorda Therapeutics Inc. ,Healthcare,Biotechnology
+IMMU, Immunomedics  Inc. ,Healthcare,Biotechnology
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+JJM, iPath Dow Jones UBS Industrial  ,N/A,N/A
+DBBR,db X-trackers MSCI Brazil Hedged Eq ETF ,N/A,N/A
+CLLS,Cellectis S.A.,N/A,N/A
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+SBAC,SBA Communications Corporation ,Services,Rental & Leasing Services
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software

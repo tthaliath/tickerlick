@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNNX,Cone Midstream Partners LP Comm,Basic Materials,Oil & Gas Pipelines
+DTF, DTF Tax-Free Income  Inc. Commo ,Financial,Closed-End Fund - Debt
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+BBF, BlackRock Municipal Income Inve ,Financial,Closed-End Fund - Debt
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+NTRSP,Northern Trust Corporation,N/A,N/A
+BPOPN, Popular  Inc. ,N/A,N/A
+CHSCP, CHS Inc ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+AEB,AEGON N.V. Perp. Cap. Secs. Flo ,NULL,NULL
+ASR,Grupo Aeroportuario del Sureste ,Services,Air Services Other
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

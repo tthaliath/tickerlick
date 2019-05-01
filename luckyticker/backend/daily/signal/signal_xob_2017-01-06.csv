@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HELE, Helen of Troy Limited ,Consumer Goods,Housewares & Accessories
+PCBC, Pacific Capital Bancorp ,Financial,Regional - Pacific Banks
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+DEX, Delaware Enhanced Global Divide ,N/A,N/A
+LGCYO,Legacy Reserves LP,N/A,N/A
+HLT,Hilton Worldwide Holdings Inc. ,Services,Lodging
+CEB, Corporate Executive Board Compa ,Services,Management Services
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+HCHC,HC2 HOLDINGS INC,Technology,Long Distance Carriers
+VCRA, Vocera Communications  Inc. Com ,Technology,Communication Equipment
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

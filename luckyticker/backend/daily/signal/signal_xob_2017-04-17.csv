@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+AAT,American Assets Trust  Inc. Com,Financial,REIT - Office
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+AXON,Axovant Sciences Ltd.,Healthcare,Biotechnology
+NVET,Nexvet Biopharma Public Limited Company,Healthcare,Biotechnology
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+SCOR,comScore Inc. ,Services,Business Services
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+TGS,Transportadora de Gas del Sur S ,Utilities,Gas Utilities

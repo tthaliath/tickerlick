@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WNRL,Western Refining Logistics LP ,Basic Materials,Oil & Gas Pipelines
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+PZE,Petrobras Argentina S.A. ADS ,Basic Materials,Major Integrated Oil & Gas
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+CLBH, Carolina Bank Holdings Inc. ,Financial,Regional - Mid-Atlantic Banks
+EWG,iShares MSCI Germany Index Fund ETF,Global Equity ETF,
+PHF, Pacholder High Yield Fund  Inc. ,N/A,N/A
+SPLP, Steel Partners Holdings LP LTD  ,N/A,N/A
+XIV, VelocityShares Daily Inverse VI ,N/A,N/A
+LBRDK,Liberty Broadband Corporation,Services,Broadcasting - TV
+RCL,Royal Caribbean Cruises Ltd. Co ,Services,Resorts & Casinos
+URI,United Rentals Inc. Common Sto ,Services,Rental & Leasing Services
+TNAV,TeleNav Inc. ,Technology,Scientific & Technical Instruments
+NVEC,NVE Corporation ,Technology,Semiconductor - Specialized
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+RCI,Rogers Communication Inc. Comm ,Technology,Wireless Communications
+POWI,Power Integrations Inc. ,Technology,Semiconductor - Integrated Circuits
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+MSFT,Microsoft Corporation ,Technology,Application Software
+IIVI, II-VI Incorporated ,Technology,Scientific & Technical Instruments
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+ORBK,Orbotech Ltd. ,Technology,Diversified Electronics
+MXIM,Maxim Integrated Products Inc. ,Technology,Semiconductor - Broad Line

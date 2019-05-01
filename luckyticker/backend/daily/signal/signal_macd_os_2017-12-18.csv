@@ -1,0 +1,182 @@
+ticker,name,sector,industry
+ALLE,Allegion plc Ordinary Shares ,N/A,N/A
+DLPH, Delphi Automotive plc Ordinary  ,Consumer Goods,Auto Parts
+GD,General Dynamics Corporation Co ,Industrial Goods,Aerospace/Defense Products & Services
+HPQ, Hewlett-Packard Company Common  ,Technology,Diversified Computer Systems
+EIX,Edison International Common Sto ,Utilities,Electric Utilities
+ILMN, Illumina  Inc. ,Healthcare,Biotechnology
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments
+SWKS,Skyworks Solutions Inc. ,Technology,Semiconductor - Integrated Circuits
+DISH,DISH Network Corporation ,Services,CATV Systems
+GM,General Motors Company Common S ,Consumer Goods,Auto Manufacturers - Major
+SPOK,Spok Holdings Inc.,Technology,Wireless Communications
+THRM, Gentherm Inc ,Consumer Goods,Auto Parts
+TROX, Tronox Limited Ordinary Shares  ,N/A,N/A
+UBNK,United Financial Bancorp Inc. ,Financial,Savings & Loans
+UFI,Unifi Inc. New Common ,Industrial Goods,Textile Industrial
+VLGEA,Village Super Market Inc. ,Services,Grocery Stores
+VST,Vistra Energy Corp.,,
+ALEX,Alexander & Baldwin Inc. Commo ,Services,Shipping
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+SNR,New Senior Investment Group Inc,N/A,N/A
+AGC, Advent Claymore Convertible Sec ,N/A,N/A
+ATRI,ATRION Corporation ,Healthcare,Medical Instruments & Supplies
+BANF,BancFirst Corporation ,Financial,Regional - Southwest  Banks
+BRFS,BRF-Brasil Foods S.A. ,Consumer Goods,Meat Products
+BUSE,First Busey Corporation ,Financial,Regional - Midwest Banks
+CCF,Chase Corporation Common ,Industrial Goods,Industrial Equipment & Components
+CHOC, iPath Pure Beta Cocoa ETN ,N/A,N/A
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+CWT,California Water Service Group  ,Utilities,Water Utilities
+DDG,ProShares Short Oil & Gas ETF,Commodity Based ETF,
+EBTC,Enterprise Bancorp Inc ,Financial,Savings & Loans
+EVRI,Everi Holdings Inc.,N/A,N/A
+FF, FutureFuel Corp.  Common shares ,Basic Materials,Chemicals - Major Diversified
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+FUL,H. B. Fuller Company Common Sto ,Basic Materials,Specialty Chemicals
+GWB,Great Western Bancorp Inc. Com,Financial,Money Center Banks
+ICCH,ICC Holdings  Inc.,,
+JO, iPath DJ-UBS Coffee Subindex To ,N/A,N/A
+LBAI,Lakeland Bancorp Inc. ,Financial,Regional - Northeast Banks
+LOAN,Manhattan Bridge Capital Inc ,Financial,Credit Services
+MRAM,Everspin Technologies  Inc.,,
+MTLS,Materialise NV,Technology,Application Software
+NBRV,Nabriva Therapeutics AG,N/A,N/A
+OMN,OMNOVA Solutions Inc. Common St ,Basic Materials,Specialty Chemicals
+PGM, iPath DJ-UBS Platinum Subindex  ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+PTEU,Pacer TrendpilotTM European Ind,,
+RECN,Resources Connection Inc. ,Services,Management Services
+ROCK,Gibraltar Industries Inc. ,Basic Materials,Steel & Iron
+SBPH,Spring Bank Pharmaceuticals  Inc.,N/A,N/A
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+SPXC,SPX Corporation,Industrial Goods,Diversified Machinery
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+TTEK,Tetra Tech Inc. ,Services,Technical Services
+UBSI,United Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+UMPQ,Umpqua Holdings Corporation ,Financial,Regional - Pacific Banks
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+WSFS,WSFS Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+AVX,AVX Corporation Common ,Technology,Diversified Electronics
+MPV, Babson Capital Participation In ,N/A,N/A
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+ACGL,Arch Capital Group Ltd. ,Financial,Property & Casualty Insurance
+AGX,Argan Inc. Common ,Industrial Goods,Heavy Construction
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+ATSG,Air Transport Services Group I ,Services,Air Delivery & Freight Services
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+BVN,Compania Mina Buenaventura S.A ,Basic Materials,Gold
+CFFN, Capitol Federal Financial  Inc. ,Financial,Savings & Loans
+CMDT,iShares Dow Jones-UBS Roll Sel Cmdty ,N/A,N/A
+CTBI,Community Trust Bancorp Inc. ,Financial,Regional - Southeast Banks
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+DESC,Deutsche X-trackers Russell 2000 CmpsFtr,N/A,N/A
+DLTH,Duluth Holdings Inc.,N/A,N/A
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+FFG,FBL Financial Group Inc. Commo ,Financial,Life Insurance
+FORR,Forrester Research Inc. ,Services,Research Services
+FULT,Fulton Financial Corporation ,Financial,Regional - Northeast Banks
+GEO,Geo Group Inc (The) Common Stoc ,Services,Security & Protection Services
+GWRS,Global Water Resources  Inc.,N/A,N/A
+HRTX,Heron Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+KTCC,Key Tronic Corporation ,Technology,Computer Peripherals
+LCUT,Lifetime Brands Inc. ,Consumer Goods,Housewares & Accessories
+LYV,Live Nation Entertainment Inc. ,Services,Entertainment - Diversified
+MRUS,Merus B.V.,N/A,N/A
+MTN,Vail Resorts Inc. Common ,Services,Resorts & Casinos
+NEU,NewMarket Corp Common ,Basic Materials,Specialty Chemicals
+ORBC,ORBCOMM Inc. ,Technology,Diversified Communication Services
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+PRNT,3D Printing (The) ETF,,
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+RJA, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+SBSI,Southside Bancshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+SNBC,Sun Bancorp Inc. ,Financial,Regional - Northeast Banks
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+UCI, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+URGN,UroGen Pharma Ltd. - Ordinary S,,
+VRNS,Varonis Systems Inc. ,Technology,Technical & System Software
+XSHD,PowerShares S&P SmallCap High D,,
+BKS,Barnes & Noble Inc. Common Sto ,Services,Specialty Retail Other
+QIWI,Qiwi plc ,Financial,Credit Services
+ACWF,iShares FactorSelect MSCI Global,N/A,N/A
+ALFA, AlphaClone Alternative Alpha ET ,N/A,N/A
+ANGI, Angie's List  Inc. ,N/A,N/A
+AVT,Avnet Inc. Common ,Services,Electronics Wholesale
+BOTZ,Global X Robotics & Artificial,,
+BSJN,Guggenheim BulletShares 2023 Hi,,
+CAFE, iPath Pure Beta Coffee ETN ,N/A,N/A
+CFR,Cullen/Frost Bankers Inc. Comm ,Financial,Regional - Southwest  Banks
+COBZ,CoBiz Financial Inc. ,Financial,Regional - Southwest  Banks
+CTS,CTS Corporation Common ,Technology,Diversified Electronics
+DBES,Deutsche X-trackers MSCI EAFE S,,
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+ERA,Era Group Inc. ,Services,Air Services
+EXTN,Exterran Corporation,N/A,N/A
+FMBH,First Mid-Illinois Bancshares,Financial,Regional - Midwest Banks
+FSIC,FS Investment Corporation Commo ,N/A,N/A
+FXS, Rydex CurrencyShares Swedish Kr ,N/A,N/A
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+HURC, Hurco Companies  Inc. ,Technology,Scientific & Technical Instruments
+INDB,Independent Bank Corp. ,Financial,Regional - Northeast Banks
+LABL,Multi-Color Corporation ,Services,Business Services
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+MSBI,Midland States Bancorp  Inc.,N/A,N/A
+MTOR, Meritor  Inc. Common ,Consumer Goods,Auto Parts
+NWLI,National Western Life Insurance ,Financial,Life Insurance
+ORN,Orion Marine Group Inc Common ,Industrial Goods,Heavy Construction
+PLOW,Douglas Dynamics Inc. Common S ,Consumer Goods,Auto Parts
+PSB,PS Business Parks Inc. Common  ,Financial,REIT - Diversified
+PUTW,WisdomTree CBOE S&P 500 PutWrit,,
+RLI,RLI Corp. Common ,Financial,Property & Casualty Insurance
+RVT, Royce Value Trust  Inc. Common  ,Financial,Closed-End Fund - Equity
+SEB,Seaboard Corporation Common Sto ,Consumer Goods,Meat Products
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,
+TEN,Tenneco Inc. Common ,Consumer Goods,Auto Parts
+TRHC,Tabula Rasa HealthCare  Inc.,,
+UBG, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+VIAV,Viavi Solutions Inc.,Technology,Communication Equipment
+VSH,Vishay Intertechnology Inc. Co ,Technology,Semiconductor - Broad Line
+ZTR, Zweig Total Return Fund  Inc. ( ,Financial,Closed-End Fund - Debt
+CTRE,CareTrust REIT Inc.,N/A,N/A
+RACE,Ferrari N.V.,N/A,N/A
+AED,AEGON N.V. Perp. Cap. Securitie ,NULL,NULL
+ALG,Alamo Group Inc. Common ,Industrial Goods,Farm & Construction Machinery
+AROW,Arrow Financial Corporation ,Financial,Regional - Northeast Banks
+B,Barnes Group Inc. Common ,Industrial Goods,Industrial Equipment & Components
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+CHL,China Mobile Limited Common Sto ,Technology,Wireless Communications
+CSOD, Cornerstone OnDemand  Inc. ,Technology,Multimedia & Graphics Software
+CUBI,Customers Bancorp Inc. ,Financial,Regional - Northeast Banks
+DDEZ,WisdomTree Dynamic Currency Hed,,
+DJCI, UBS AG Linked to the Dow Jones- ,N/A,N/A
+EBF,Ennis Inc. Common ,Consumer Goods,Office Supplies
+EUDV,ProShares MSCI Europe Dividend,,
+FALN,iShares Fallen Angels USD Bond,,
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+GCC, GreenHaven Continuous Commodity ,N/A,N/A
+GSBC,Great Southern Bancorp Inc. ,Financial,Regional - Southwest  Banks
+HEQ, John Hancock Hedged Equity & In ,N/A,N/A
+IAC,IAC/InterActiveCorp,Technology,Internet Information Providers
+IPHI,Inphi Corporation Common ,Technology,Semiconductor - Broad Line
+LANDP,Gladstone Land Corporation,N/A,N/A
+LMNX,Luminex Corporation ,Healthcare,Medical Instruments & Supplies
+MOD,Modine Manufacturing Company Co ,Consumer Goods,Auto Parts
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+MYOV,Myovant Sciences Ltd.,,
+NXRT,NexPoint Residential Trust  Inc. ,N/A,N/A
+PATI,Patriot Transportation Holding Inc,Services,Trucking
+POWI,Power Integrations Inc. ,Technology,Semiconductor - Integrated Circuits
+PSCI,PowerShares S&P SmallCap Industrials Portfolio ETF,US Equity ETF,
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards
+ROBO,Robo-Stox Glbl Robotics&Automation ETF ,N/A,N/A
+SANM,Sanmina-SCI Corporation ,Technology,Printed Circuit Boards
+SFHY,WisdomTree Fundamental U.S. Sho,,

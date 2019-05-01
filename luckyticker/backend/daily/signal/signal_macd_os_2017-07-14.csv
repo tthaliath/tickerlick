@@ -1,0 +1,93 @@
+ticker,name,sector,industry
+DTE,DTE Energy Company Common ,Utilities,Electric Utilities
+M,Macy's Inc Common ,Services,Department Stores
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+K,Kellogg Company Common ,Consumer Goods,Processed & Packaged Goods
+LNT,Alliant Energy Corporation Comm ,Utilities,Electric Utilities
+VZ,Verizon Communications Inc. Com ,Technology,Telecom Services - Domestic
+MDLZ, Mondelez International  Inc. ,Consumer Goods,Confectioners
+AWK,American Water Works Company I ,Utilities,Water Utilities
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+CMS,CMS Energy Corporation Common S ,Utilities,Electric Utilities
+DPS,Dr Pepper Snapple Group Inc Dr ,Consumer Goods,Beverages - Soft Drinks
+ED,Consolidated Edison Inc. Commo ,Utilities,Electric Utilities
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+WEC,Wisconsin Energy Corporation Co ,Utilities,Electric Utilities
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+FLWS,1-800 FLOWERS.COM Inc. ,Services,Specialty Retail Other
+FXU,First Trust Utilities AlphaDEX® Fund ETF,US Equity ETF,
+HSTM, HealthStream  Inc. ,Technology,Internet Information Providers
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+KEF, Korea Equity Fund  Inc. Common  ,N/A,N/A
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+RDIV,RevenueShares Ultra Dividend ,N/A,N/A
+SAMG,Silvercrest Asset Management Group Inc. ,N/A,N/A
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+WPPGY,WPP plc ,NULL,NULL
+AGNCP, American Capital Agency Corp. ,N/A,N/A
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+CBAN,Colony Bankcorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+DIVA,QuantShares Hedged Dividend Inc,,
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities
+EVO, Eaton Vance Ohio Municipal Inco ,Financial,Closed-End Fund - Debt
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+JASO,JA Solar Holdings Co. Ltd. ,Technology,Semiconductor - Specialized
+LABL,Multi-Color Corporation ,Services,Business Services
+MB,MINDBODY  Inc.,Technology,Application Software
+MNI,McClatchy Company (The) Common  ,Services,Publishing - Newspapers
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+PGM, iPath DJ-UBS Platinum Subindex  ,N/A,N/A
+REZ,iShares FTSE NAREIT Residential Index Fund ETF,US Equity ETF,
+SBRA,Sabra Healthcare REIT Inc. ,Financial,REIT - Healthcare Facilities
+TESS,TESSCO Technologies Incorporate ,Services,Electronics Wholesale
+UFAB,Unique Fabricating  Inc.,Consumer Goods,Auto Parts
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+XLP,SPDR Consumer Staples Select Sector Fund ETF,US Equity ETF,
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+APLE,Apple Hospitality REIT  Inc.,N/A,N/A
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+CHH,Choice Hotels International In ,Services,Lodging
+DKT, Deutsch Bk Contingent Cap Tr V  ,N/A,N/A
+EAT,Brinker International Inc. Com ,Services,Restaurants
+EZPW,EZCORP Inc. ,Services,Specialty Retail Other
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+GRFS, Grifols  S.A. ,N/A,N/A
+HT, Hersha Hospitality Trust Class  ,Financial,REIT - Retail
+MEAR,iShares Short Maturity Municipa,,
+NRT,North European Oil Royality Tru ,Financial,Diversified Investments
+ORI,Old Republic International Corp ,Financial,Surety & Title Insurance
+PHI,Philippine Long Distance Teleph ,Technology,Telecom Services - Foreign
+RHS,Guggenheim S&P Equal Weight Consumer Staples ETF,US Equity ETF,
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+USM,United States Cellular Corporat ,Technology,Wireless Communications
+YORW,The York Water Company ,Utilities,Water Utilities
+CLI,Mack-Cali Realty Corporation Co ,Financial,REIT - Office
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+FSTA,Fidelity MSCI Consumer Staples Index ETF ,N/A,N/A
+ICB, MS Income Securities  Inc. Comm ,Financial,Closed-End Fund - Debt
+KAR,KAR Auction Services Inc Commo ,Services,Auto Dealerships
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+MED,MEDIFAST INC Common ,Services,Specialty Retail Other
+NSA,National Storage Affiliates,N/A,N/A
+PAI, Western Asset Income Fund Commo ,Financial,Closed-End Fund - Debt
+PMR,PowerShares Dynamic Retail ETF,US Equity ETF,
+RLJ, RLJ Lodging Trust Common Shares ,Financial,REIT - Hotel/Motel
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,
+VDC,Vanguard Consumer Staples ETF - DNQ ETF,US Equity ETF,
+ZAYO,Zayo Group Holdings Inc. Commo,Technology,Networking & Communication Devices
+UNAM,Unico American Corporation ,Financial,Property & Casualty Insurance
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology

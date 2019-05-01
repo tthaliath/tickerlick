@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SBOW,SilverBow Resorces  Inc.,,
+GOOS,Canada Goose Holdings Inc. Subo,,
+IIPR,Innovative Industrial Propertie,,
+ANAB,AnaptysBio  Inc.,,
+PSDO,Presidio  Inc.,,
+HFC, HollyFrontier Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+VNCE,Apparel Holding Corp. ,Consumer Goods,Textile - Apparel Clothing
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+CVGW,Calavo Growers Inc. ,Consumer Goods,Farm Products
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+TLTE,FlexShares Mstar Emrg Mkts Fct Tl Idx ETF,Global Equity ETF,
+ARNA,Arena Pharmaceuticals Inc. ,Healthcare,Biotechnology
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+ASTE,Astec Industries Inc. ,Industrial Goods,Farm & Construction Machinery
+CRSP,CRISPR Therapeutics AG,N/A,N/A
+TPB,Turning Point Brands  Inc.,N/A,N/A
+USCI, United States Commodity Index F ,N/A,N/A
+DOD, Deutsche Bank AG ELEMENTS Dogs  ,N/A,N/A
+EDIT,Editas Medicine Inc.,N/A,N/A
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+HTHT, China Lodging Group  Limited ,Services,Lodging
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials

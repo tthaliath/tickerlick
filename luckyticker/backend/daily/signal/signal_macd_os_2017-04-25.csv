@@ -1,0 +1,115 @@
+ticker,name,sector,industry
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+NFX,Newfield Exploration Company Co ,Basic Materials,Independent Oil & Gas
+SWN,Southwestern Energy Company Com ,Basic Materials,Independent Oil & Gas
+CF,CF Industries Holdings Inc. Co ,Basic Materials,Agricultural Chemicals
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+HES, Hess Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+JMF, Nuveen Energy MLP Total Return  ,N/A,N/A
+MCRB,Seres Therapeutics  Inc.,Healthcare,Biotechnology
+PBR,Petroleo Brasileiro S.A.- Petro ,NULL,NULL
+PYT, PPlus Tr GSC-2 Tr Ctf Fltg Rate ,N/A,N/A
+SLMAP, SLM Corporation ,N/A,N/A
+TOUR,Tuniu Corporation,Consumer Goods,Recreational Goods Other
+UNT,Unit Corporation Common ,Basic Materials,Oil & Gas Drilling & Exploration
+AMU, ETRACS Alerian MLP Index ETN ,N/A,N/A
+BWV,iPath CBOE SandP 500 BuyWrite Index ETN ,N/A,N/A
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+MLPJ,Global X Junior MLP ETF ,N/A,N/A
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+SAGG,Direxion Daily Tot Bd Mkt Bear 1X Shares ,N/A,N/A
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+AIB,Apollo Investment Corporation 6 ,N/A,N/A
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+BICK,First Trust BICK Index Fund ETF,Global Equity ETF,
+DFVS,iPath US Treasury 5-year Bear ETN ,N/A,N/A
+FCAN,First Trust Canada AlphaDEX ETF,Global Equity ETF,
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+GPRE,Green Plains Renewable Energy  ,Basic Materials,Specialty Chemicals
+IPW,SPDR S&P International Energy Sector ETF,Global Equity ETF,
+IXC,iShares S&P Global Energy Index Fund ETF,Global Equity ETF,
+KED, Kayne Anderson Energy Developme ,N/A,N/A
+MCV,Medley Capital Corporation 6.12 ,N/A,N/A
+MTDR, Matador Resources Company Commo ,Basic Materials,Independent Oil & Gas
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+PGNX,Progenics Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SN, Sanchez Energy Corporation Comm ,Basic Materials,Independent Oil & Gas
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+TREC,Trecora Resources Common,Basic Materials,Chemicals - Major Diversified
+ACOR,Acorda Therapeutics Inc. ,Healthcare,Biotechnology
+AMZA,InfraCap MLP ETF ,,
+CDI,CDI Corporation Common ,Services,Staffing & Outsourcing Services
+DTUS, iPath US Treasury 2 Yr Bear ETN ,N/A,N/A
+MOM,QuantShares U.S. Market Neutral Momentum Fund ETF,US Equity ETF,
+POT,Potash Corporation of Saskatche ,Basic Materials,Agricultural Chemicals
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+YMLI,Yorkville High Income Infras MLP ETF ,N/A,N/A
+AIMT,Aimmune Therapeutics,,
+ATW,Atwood Oceanics Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+BTN,Ballantyne Strong Inc. Common  ,Consumer Goods,Photographic Equipment & Supplies
+CRBP,Corbus Pharmaceuticals Holdings  Inc.,Healthcare,Biotechnology
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+FUD, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+GSK,GlaxoSmithKline PLC Common Stoc ,Healthcare,Drug Manufacturers - Major
+JJA, iPath Dow Jones UBS Agriculture ,N/A,N/A
+KROO,IndexIQ Australia Small Cap ETF,Global Equity ETF,
+MLPI, UBS AG ETN ,N/A,N/A
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+NTG, Tortoise MLP Fund  Inc. Common  ,N/A,N/A
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+RY,Royal Bank Of Canada Common Sto ,Financial,Money Center Banks
+SOHO,Sotherly Hotels Inc. ,Financial,REIT - Hotel/Motel
+TEP,Tallgrass Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,US Equity ETF,
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+CLF,Cliffs Natural Resources Inc Co ,Basic Materials,Steel & Iron
+ICLN,iShares S&P Global Clean Energy Index Fund ETF,Global Equity ETF,
+MRC, MRC Global Inc. Common ,Industrial Goods,Machine Tools & Accessories
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+SYV,SPDR MFS Systematic Value Equit ,,
+ADMS,Adamas Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+AMID, American Midstream Partners  LP ,Utilities,Gas Utilities
+BBL,BHP Billiton plc Sponsored ADR ,Basic Materials,Industrial Metals & Minerals
+CCJ,Cameco Corporation Common ,Basic Materials,Industrial Metals & Minerals
+CRC,Chromcraft Revington Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+FILL,iShares MSCI Global Energy Producers Fund ETF,Global Equity ETF,
+FXN,First Trust Energy AlphaDEX Fund ETF,US Equity ETF,
+IEO,iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund ETF,US Equity ETF,
+JJG, iPath Dow Jones UBS Grains Tota ,N/A,N/A
+LBJ, Direxion Daily Latin America 3x ,N/A,N/A
+MLPX,Global X MLP and Energy Infrastructure ETF ,N/A,N/A
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+OIS,Oil States International Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+PXR,PowerShares Global Emerging Markets Infrastructure Portfolio ETF,Global Equity ETF,
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+SPN,Superior Energy Services Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+TESO,Tesco Corporation ,Basic Materials,Oil & Gas Equipment & Services
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+AMLP,ALPS Alerian MLP ETF,US Equity ETF,
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+DBBR,db X-trackers MSCI Brazil Hedged Eq ETF ,N/A,N/A
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+UAG,UBS E-TRACS CMCI Agriculture TR ETN ,N/A,N/A
+AERI,Aerie Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+AR,Antero Resources Corporation ,Basic Materials,Oil & Gas Drilling & Exploration
+BDD, PowerShares DB Base Metals Doub ,N/A,N/A
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+ENLC,EnLink Midstream LLC ,Basic Materials,Oil & Gas Refining & Marketing
+FLN,First Trust Latin America AlphaDEX ETF,Global Equity ETF,
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+ILF,iShares Latin America 40 Index Fund ETF,Global Equity ETF,

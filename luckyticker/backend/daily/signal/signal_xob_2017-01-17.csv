@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PNRG,PrimeEnergy Corporation ,Basic Materials,Independent Oil & Gas
+SNP,China Petroleum & Chemical Corp ,Basic Materials,Major Integrated Oil & Gas
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+SHI,SINOPEC Shangai Petrochemical C ,Basic Materials,Oil & Gas Refining & Marketing
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+SRTY,ProShares UltraPro Short Russell2000 ETF,Commodity Based ETF,
+RMCF,Rocky Mountain Chocolate Factor ,Consumer Goods,Confectioners
+SLGN,Silgan Holdings Inc. ,Consumer Goods,Packaging & Containers
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+URA,Global X Uranium ETF,Global Equity ETF,
+SPAN, Span-America Medical Systems  I ,Healthcare,Medical Appliances & Equipment
+FWP,Forward Pharma A/S,Healthcare,Biotechnology
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+ARRY,Array BioPharma Inc. ,Healthcare,Biotechnology
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+OMEX,Odyssey Marine Exploration Inc ,Services,Research Services
+CXW,Corrections Corporation of Amer ,Services,Management Services
+HLT,Hilton Worldwide Holdings Inc. ,Services,Lodging
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FGP,Ferrellgas Partners L.P. Commo ,Basic Materials,Oil & Gas Refining & Marketing
+SCSS,Select Comfort Corporation ,Consumer Goods,Home Furnishings & Fixtures
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+TPX,Tempur-pedic International Inc  ,Consumer Goods,Home Furnishings & Fixtures
+HNI, HNI Corp Common ,Consumer Goods,Business Equipment
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+LAND,Gladstone Land Corporation ,Financial,REIT - Diversified
+FXCM,FXCM Inc. Class A Common ,Financial,Investment Brokerage - National
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+ITCI,Intra-Cellular Therapies Inc. ,Healthcare,Drug Manufacturers - Major
+DEL,Deltic Timber Corporation Commo ,Industrial Goods,Lumber Wood Production
+EEH,ELEMENTS SPECTRUM Lg Cap U.S. Sector ETN ,N/A,N/A
+MDCA,MDC Partners Inc. ,NULL,NULL
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+KR,Kroger Company (The) Common Sto ,Services,Grocery Stores
+WMAR,West Marine Inc. ,Services,Specialty Retail Other
+CXW,Corrections Corporation of Amer ,Services,Management Services
+TXRH,Texas Roadhouse Inc. ,Services,Restaurants
+AHS,AMN Healthcare Services Inc AMN ,Services,Staffing & Outsourcing Services
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services

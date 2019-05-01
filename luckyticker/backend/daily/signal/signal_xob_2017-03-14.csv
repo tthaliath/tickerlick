@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QWLD,SPDR MSCI World Quality Mix ETF ,,
+FIZZ,National Beverage Corp. ,Consumer Goods,Beverages - Soft Drinks
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+GNCA,Genocea Biosciences Inc. ,Healthcare,Biotechnology
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+SVT, Servotronics  Inc. Common ,Industrial Goods,Industrial Electrical Equipment
+DNO, United States Short Oil Fund ,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+GDOT,Green Dot Corporation Class A C ,Services,Business Services
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+VCRA, Vocera Communications  Inc. Com ,Technology,Communication Equipment
+CMCM,Cheetah Mobile Inc. American De,Technology,Application Software

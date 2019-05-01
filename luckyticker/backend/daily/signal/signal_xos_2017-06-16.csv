@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YPF,YPF Sociedad Anonima Common Sto ,Basic Materials,Major Integrated Oil & Gas
+CNNX,Cone Midstream Partners LP Comm,Basic Materials,Oil & Gas Pipelines
+VC, Visteon Corporation Common Stoc ,Consumer Goods,Auto Parts
+CRF, Cornerstone Total Return Fund   ,Financial,Closed-End Fund - Equity
+CLM, Cornerstone Strategic Value Fun ,Financial,Closed-End Fund - Equity
+KW,Kennedy-Wilson Holdings Inc. Co ,Financial,Property Management
+ADXS,Advaxis Inc. ,Healthcare,Biotechnology
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+MLNX,Mellanox Technologies Ltd. ,Technology,Semiconductor - Broad Line

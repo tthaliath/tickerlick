@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+EFX,Equifax Inc. Common ,Financial,Credit Services
+ESPR,Esperion Therapeutics Inc. ,Healthcare,Biotechnology
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+FMI,Foundation Medicine Inc. ,Healthcare,Medical Laboratories & Research
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+FPE,First Trust Preferred Sec and Inc ETF ,N/A,N/A
+SLMBP,SLM Corporation ,N/A,N/A
+BST,BlackRock Science and Technolog,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+EEFT,Euronet Worldwide Inc. ,Services,Business Services
+BCO,Brinks Company (The) Common Sto ,Services,Security & Protection Services
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+SNOW,Intrawest Resorts Holdings Inc. ,Services,General Entertainment
+QUNR,Qunar Cayman Islands Limited ,Services,General Entertainment
+TSU,Tele Celular Sul Participacoes  ,Technology,Wireless Communications
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+INFN,Infinera Corporation ,Technology,Communication Equipment
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+CDW,CDW Corporation ,Technology,Information Technology Services

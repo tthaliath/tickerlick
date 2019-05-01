@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+REX,REX American Resources Corporat ,Basic Materials,Specialty Chemicals
+SE,Spectra Energy Corp Common Stoc ,Basic Materials,Oil & Gas Pipelines
+BSM,Black Stone Minerals  L.P.,Basic Materials,Independent Oil & Gas
+OPHC,OptimumBank Holdings Inc. ,Financial,Regional - Mid-Atlantic Banks
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+LBTYB, Liberty Global  Inc. ,N/A,N/A
+JGBL,PowerShares DB Japan Gov Bond ETN ,N/A,N/A
+LMCK,Liberty Media Corporation,N/A,N/A
+IDI, SearchMedia Holdings Limited ,Services,Advertising Agencies
+MA,Mastercard Incorporated Common  ,Services,Business Services
+TIVO,TiVo Inc. ,Services,CATV Systems
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AXJV,iShares MSCI Asia ex Japan Mini ,,
+CHN, China Fund  Inc. (The) Common S ,Financial,Closed-End Fund - Foreign
+EWH,iShares MSCI Hong Kong Index Fund ETF,Global Equity ETF,
+MCHI,iShares MSCI China ETF,Global Equity ETF,
+ECNS,iShares MSCI China Small Cap Index Fund (ECNS) ETF,Global Equity ETF,
+EEMV,iShares MSCI Emerging Markets Minimum Volatility Index Fund ETF,Global Equity ETF,
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+ENZL,iShares MSCI New Zealand Investable Market Index Fund (ENZL) ETF,Global Equity ETF,
+XBIT,XBiotech  Inc.,Healthcare,Biotechnology
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+DBAP,db X-trackers MSCI AP ex JPN Hdgd Eq ETF ,N/A,N/A
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+ISCF,iShares FactorSelect MSCI Intl Small-Cap,N/A,N/A
+EHIC,eHi Car Services Limited Americ,Services,Rental & Leasing Services
+CHT,Chunghwa Telecom Co Ltd America ,Technology,Telecom Services - Domestic

@@ -1,0 +1,30 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+MBFI,MB Financial Inc. ,Financial,Regional - Midwest Banks
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+CBU,Community Bank System Inc. Com ,Financial,Regional - Northeast Banks
+OZRK,Bank of the Ozarks ,Financial,Regional - Southeast Banks
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+PPBI,Pacific Premier Bancorp Inc ,Financial,Regional - Pacific Banks
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+STI,SunTrust Banks Inc. Common Sto ,Financial,Money Center Banks
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+WTFC,Wintrust Financial Corporation ,Financial,Regional - Midwest Banks
+EWBC,East West Bancorp Inc. ,Financial,Regional - Pacific Banks
+ANIP,ANI Pharmaceuticals Inc. ,Healthcare,Biotechnology
+DBO, PowerShares DB Oil Fund ,N/A,N/A
+BTO, John Hancock Bank and Thrift Op ,N/A,N/A
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+HDSN, Hudson Technologies  Inc. ,Services,Industrial Equipment Wholesale
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services
+CHKE,Cherokee Inc. ,Services,Apparel Stores
+LAWS,Lawson Products Inc. ,Services,Industrial Equipment Wholesale
+TISI,Team Inc. Common ,Services,Business Services
+KBWR,PowerShares KBW Regional Banking Portfolio ETF,US Equity ETF,
+QABA,First Trust NASDAQ ABA Community Bank Index Fund ETF,US Equity ETF,
+KRE,SPDR S&P Regional Banking ETF,US Equity ETF,

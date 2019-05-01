@@ -1,0 +1,87 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RISE,Sit Rising Rate ETF,,
+QVM,Arrow QVM Equity Factor ETF,,
+FF, FutureFuel Corp.  Common shares ,Basic Materials,Chemicals - Major Diversified
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+HAR, Harman International Industries ,Consumer Goods,Electronic Equipment
+GEF,Greif Inc. Class A Common ,Consumer Goods,Packaging & Containers
+NAV,Navistar International Corporat ,Consumer Goods,Trucks & Other Vehicles
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+HFWA, Heritage Financial Corporation ,Financial,Regional - Pacific Banks
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+PFIS,Peoples Financial Services Corp. ,Financial,Regional - Northeast Banks
+CCBG,Capital City Bank Group ,Financial,Regional - Mid-Atlantic Banks
+UVSP,Univest Corporation of Pennsylv ,Financial,Regional - Northeast Banks
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+MFSF,MutualFirst Financial Inc. ,Financial,Regional - Midwest Banks
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+MBFI,MB Financial Inc. ,Financial,Regional - Midwest Banks
+RJF,Raymond James Financial Inc. C ,Financial,Investment Brokerage - Regional
+WABC,Westamerica Bancorporation ,Financial,Regional - Pacific Banks
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+KCLI,Kansas City Life Insurance Comp ,Financial,Life Insurance
+BNCN,BNC Bancorp ,Financial,Regional - Mid-Atlantic Banks
+EIG,Employers Holdings Inc Common S ,Financial,Property & Casualty Insurance
+CMA,Comerica Incorporated Common St ,Financial,Regional - Midwest Banks
+FITB, Fifth Third Bancorp ,Financial,Regional - Midwest Banks
+FMBH,First Mid-Illinois Bancshares,Financial,Regional - Midwest Banks
+BMTC,Bryn Mawr Bank Corporation ,Financial,Regional - Northeast Banks
+RF,Regions Financial Corporation C ,Financial,Regional - Southeast Banks
+IBKC, IBERIABANK Corporation ,Financial,Regional - Southeast Banks
+SASR,Sandy Spring Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+UNM,Unum Group Common ,Financial,Accident & Health Insurance
+CNOB,ConnectOne Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+FFWM,First Foundation Inc.,Financial,Regional - Midwest Banks
+FBMS,The First Bancshares Inc. ,Financial,Regional - Southeast Banks
+CASH,Meta Financial Group Inc. ,Financial,Savings & Loans
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+IBCP, Independent Bank Corporation ,Financial,Regional - Midwest Banks
+C,Citigroup Inc. Common ,Financial,Money Center Banks
+OCUL,Ocular Therapeutix Inc.,Healthcare,Biotechnology
+VASC,Vascular Solutions Inc. ,Healthcare,Medical Instruments & Supplies
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+WWD, Woodward  Inc. ,Industrial Goods,Industrial Electrical Equipment
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+MKSI,MKS Instruments Inc. ,Industrial Goods,Diversified Machinery
+WM,Waste Management Inc. Common S ,Industrial Goods,Waste Management
+FLAG,Forensic Accounting ETF ,N/A,N/A
+LMCK,Liberty Media Corporation,N/A,N/A
+SALT,Scorpio Bulkers Inc. ,N/A,N/A
+ARCB,ArcBest Corporation ,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+AGND,WisdomTree Barclays US Aggt Bd Ngt Dur ,N/A,N/A
+STRZB,Starz ,N/A,N/A
+WAFDW,Washington Federal Inc.,N/A,N/A
+SKYW,SkyWest Inc. ,Services,Regional Airlines
+AXE,Anixter International Inc. Comm ,Services,Industrial Equipment Wholesale
+LUV,Southwest Airlines Company Comm ,Services,Regional Airlines
+CASS,Cass Information Systems Inc ,Services,Business Services
+MAN,ManpowerGroup Common ,Services,Staffing & Outsourcing Services
+PIR,Pier 1 Imports Inc. Common Sto ,Services,Home Furnishing Stores
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+CDZI,Cadiz Inc. ,Services,Business Services
+NTRI,NutriSystem Inc ,Services,Consumer Services
+ABM,ABM Industries Incorporated Com ,Services,Business Services
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+ACM,Aecom Technology Corporation Co ,Services,Technical Services
+JBLU,JetBlue Airways Corporation ,Services,Regional Airlines
+AL, Air Lease Corporation Class A C ,Services,Rental & Leasing Services
+LMCA, Liberty Media Corporation ,Services,Entertainment - Diversified
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+MENT,Mentor Graphics Corporation ,Technology,Technical & System Software
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+KEYS,Keysight Technologies Inc. Comm,Technology,Scientific & Technical Instruments
+LOCK, LifeLock  Inc. Common ,Technology,Application Software
+DGI,DigitalGlobe Inc Common ,Technology,Information & Delivery Services
+HURC, Hurco Companies  Inc. ,Technology,Scientific & Technical Instruments
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+CDW,CDW Corporation ,Technology,Information Technology Services
+JKI,iShares Morningstar Mid Value Index Fund ETF,US Equity ETF,
+CHEP,QuantShares U.S. Market Neutral Value Fund ETF,US Equity ETF,
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,

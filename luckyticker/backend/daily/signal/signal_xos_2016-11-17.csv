@@ -1,0 +1,135 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FLTB,Fidelity Limited Term Bond ETF ,,
+OUNZ,Merk Gold Trust ETV ,,
+FMB,First Trust Managed Municipal E ,,
+IUSB,iShares Core Total USD Bond Mar ,,
+PZE,Petrobras Argentina S.A. ADS ,Basic Materials,Major Integrated Oil & Gas
+BVN,Compania Mina Buenaventura S.A ,Basic Materials,Gold
+RWM,ProShares Short Russell2000 ETF,Commodity Based ETF,
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+SMDD,ProShares UltraPro Short MidCap400 ETF,Commodity Based ETF,
+TWM,ProShares UltraShort Russell2000 ETF,Commodity Based ETF,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+SEF,ProShares Short Financials ETF,Commodity Based ETF,
+SRTY,ProShares UltraPro Short Russell2000 ETF,Commodity Based ETF,
+SDD,ProShares UltraShort SmallCap600 ETF,Commodity Based ETF,
+YCL,ProShares Ultra Yen ETF,Commodity Based ETF,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+MYY,ProShares Short MidCap400 ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+NUS,Nu Skin Enterprises Inc. Commo ,Consumer Goods,Personal Products
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+CCE,Coca-Cola Enterprises Inc. Com ,Consumer Goods,Beverages - Soft Drinks
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+PMM, Putnam Managed Municipal Income ,Financial,Closed-End Fund - Debt
+SUI,Sun Communities Inc. Common St ,Financial,REIT - Residential
+EIP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+ZTR, Zweig Total Return Fund  Inc. ( ,Financial,Closed-End Fund - Debt
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+AKP, Alliance California Municipal I ,Financial,Closed-End Fund - Debt
+EVN, Eaton Vance Municipal Income Tr ,Financial,Closed-End Fund - Debt
+MSF, Morgan Stanley Emerging Markets ,Financial,Closed-End Fund - Foreign
+NNY, Nuveen New York Municipal Value ,Financial,Closed-End Fund - Debt
+EVY, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+VMM, Delaware Investments Minnesota  ,Financial,Closed-End Fund - Debt
+DUC, Duff & Phelps Utility & Corpora ,Financial,Closed-End Fund - Debt
+MAB, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+MUB,iShares S&P National Municipal Bond Fund ETF,Fixed Income ETF,
+IHY,Market Vectors Intl High Yield Bond ETF,Fixed Income ETF,
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Fixed Income ETF,
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+BAB,PowerShares Build America Bond Portfolio ETF,Fixed Income ETF,
+SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income ETF,
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+HYXU,iShares Global ex USD High Yield Corp Bd ETF,Fixed Income ETF,
+MLN,Market Vectors-Lehman Brothers AMT-Free Long Municipal Index ETF,Fixed Income ETF,
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+CMF,iShares S&P Cali Muni Bond ETF,Fixed Income ETF,
+IGOV,iShares S&P/Citigroup International Treasury Fund ETF,Fixed Income ETF,
+PCY,PowerShares Emerging Markets Sovereign Debt Portfolio ETF,Fixed Income ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+SST,SPDR Barclays Capital Short Term Treasury ETF,Fixed Income ETF,
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+CSJ,iShares Barclays 1-3 Year Credit Bond Fund ETF,Fixed Income ETF,
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,
+SHY,iShares Barclays 1-3 Year Treasury Bond Fund ETF,Fixed Income ETF,
+TUZ,PIMCO 1-3 Year U.S. Treasury Index Fund ETF,Fixed Income ETF,
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+IFGL,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund ETF,Global Equity ETF,
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+WPS,iShares S&P World ex-US Property ETF,Global Equity ETF,
+IPS,SPDR S&P International Consumer Staples Sector ETF,Global Equity ETF,
+EPOL,iShares MSCI Poland Investable Market Index Fund ETF,Global Equity ETF,
+EMDD,EGShares Emerg Mkts Domestic Demand ETF,Global Equity ETF,
+IPU,SPDR S&P International Utilities Sector ETF,Global Equity ETF,
+SMIN,iShares MSCI India Small Cap ETF,Global Equity ETF,
+KXI,iShares S&P Global Consumer Staples Sector Index Fund ETF,Global Equity ETF,
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+IST,SPDR S&P International Telecommunications Sector ETF,Global Equity ETF,
+SCIF,Market Vectors India Small-Cap ETF,Global Equity ETF,
+LILA,Liberty LiLAC Group,N/A,N/A
+CEW, WisdomTree Dreyfus Emerging Cur ,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+NXP, Nuveen Select Tax Free Income P ,N/A,N/A
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+MIDZ, Direxion Mid Cap Bear 3X Shares ,N/A,N/A
+NID,Nuveen Intermediate Duration Mu ,N/A,N/A
+SHYD,Market Vectors Short Hi-Yld Muni Idx ETF ,N/A,N/A
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+NZF, Nuveen Dividend Advantage Munic ,N/A,N/A
+PNI, Pimco New York Municipal Income ,N/A,N/A
+DBMX,db X-trackers MSCI Mexico Hedged Eq ETF ,N/A,N/A
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+IAU, ishares Gold Trust ,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+TZA, Direxion Small Cap Bear 3X Shar ,N/A,N/A
+FCO, Aberdeen Global Income Fund  In ,N/A,N/A
+NCB, Nuveen California Municipal Val ,N/A,N/A
+DMF, Dreyfus Municipal Income  Inc.  ,N/A,N/A
+PERM, Global X Permanent ETF ,N/A,N/A
+SBW, Western Asset Worldwide Income  ,N/A,N/A
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+BETR,Amplify Snack Brands,N/A,N/A
+BFY, BlackRock New York Municipal In ,N/A,N/A
+NRK, Nuveen New York AMT-Free Munici ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+VCV, Invesco Van Kampen California V ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+MHF, Western Asset Municipal High In ,N/A,N/A
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,N/A,N/A
+IFN, India Fund  Inc. (The) Common S ,N/A,N/A
+INFY,Infosys Limited ,NULL,NULL
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+CHA,China Telecom Corp Ltd ADS ,Technology,Telecom Services - Foreign
+NTT, Nippon Telegraph and Telephone  ,Technology,Telecom Services - Foreign
+BCOV,Brightcove Inc. ,Technology,Application Software
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+CERN,Cerner Corporation ,Technology,Healthcare Information Services
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities
+DUK,Duke Energy Corporation (Holdin ,Utilities,Electric Utilities
+ELP,Companhia Paranaense de Energia ,Utilities,Electric Utilities

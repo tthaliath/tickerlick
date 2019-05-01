@@ -1,0 +1,179 @@
+ticker,name,sector,industry
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+BBT,BB&T Corporation Common ,Financial,Regional - Mid-Atlantic Banks
+MSI, Motorola Solutions  Inc. Common ,Technology,Communication Equipment
+PBCT,People's United Financial Inc. ,Financial,Savings & Loans
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+BRK-B,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+CSCO,Cisco Systems Inc. ,Technology,Networking & Communication Devices
+JPM,JP Morgan Chase & Co. Common St ,Financial,Money Center Banks
+NWS,News Corporation ,NULL,NULL
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+DFS,Discover Financial Services Com ,Financial,Credit Services
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+NWSA,News Corporation ,Services,Entertainment - Diversified
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+USB,U.S. Bancorp Common ,Financial,Regional - Midwest Banks
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits
+AXP,American Express Company Common ,Financial,Credit Services
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+CBAN,Colony Bankcorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+CPRT,Copart Inc. ,Services,Auto Dealerships
+CRY,CryoLife Inc. Common ,Healthcare,Medical Appliances & Equipment
+CUBA, The Herzfeld Caribbean Basin Fu ,Financial,Closed-End Fund - Foreign
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+DXJC,WisdomTree Japan Hedged Capital ,,
+EVX,Market Vectors Environment Index ETF Fund ETF,US Equity ETF,
+FFNW,First Financial Northwest Inc. ,Financial,Regional - Pacific Banks
+FNB,F.N.B. Corporation Common ,Financial,Regional - Southeast Banks
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,
+HOMB, Home BancShares  Inc. ,Financial,Money Center Banks
+HYND,WisdomTree BofA Merrill Lynch H ,,
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+IWD,iShares Russell 1000 Value ETF,US Equity ETF,
+KONA,Kona Grill Inc. ,Services,Restaurants
+MATH,AdvisorShares Meidell Tactical Advantage ETF,Global Equity ETF,
+MINI,Mobile Mini Inc. ,Consumer Goods,Packaging & Containers
+NVS,Novartis AG Common ,Healthcare,Drug Manufacturers - Major
+OEC,Orion Engineered Carbons S.A Co,Basic Materials,Specialty Chemicals
+PAY,Verifone Systems Inc. Common S ,Consumer Goods,Business Equipment
+PSO,Pearson Plc Common ,Services,Publishing - Books
+RGS,Regis Corporation Common ,Services,Personal Services
+RWW,REVENUESHARES FINANCIALS SECTOR FUND ETF,US Equity ETF,
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+SXC, SunCoke Energy  Inc. Common Sto ,Basic Materials,Steel & Iron
+TCFC,The Community Financial Corp. ,Financial,Regional - Pacific Banks
+TRMB,Trimble Navigation Limited ,Technology,Scientific & Technical Instruments
+USFR,WisdomTree Bloomberg Floating Rt Trs ,N/A,N/A
+WACLY,Wacoal Holdings Corporation ,NULL,NULL
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+CIEN,Ciena Corporation ,Technology,Communication Equipment
+IRIX,IRIDEX Corporation ,Healthcare,Medical Appliances & Equipment
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+ADRA,PowerShares BLDRS Asia 50 ADR Index Fund ETF,US Equity ETF,
+AGM,Federal Agricultural Mortgage C ,Financial,Credit Services
+AKAO,Achaogen  Inc. ,N/A,N/A
+AMBA, Ambarella  Inc. ,Technology,Semiconductor Equipment & Materials
+BKEP, Blueknight Energy Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+BSF,Bear State Financial Inc.,Financial,Savings & Loans
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+CS,Credit Suisse Group American De ,Financial,Foreign Money Center Banks
+DBJP, db-X MSCI Japan Currency Hedged ,N/A,N/A
+DOD, Deutsche Bank AG ELEMENTS Dogs  ,N/A,N/A
+DXJS,WisdomTree Japan Hedged SmallCap Equity ,N/A,N/A
+EXPR,Express Inc. Common ,Services,Apparel Stores
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+FORM,FormFactor Inc. ,Technology,Semiconductor - Broad Line
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund ETF,Global Equity ETF,
+HEWJ,iShares Currency Hedged MSCI Ja ,,
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+IBLN,Direxion iBillionaire Index ETF ,,
+IGN,iShares Goldman Sachs Network Index Fund ETF,US Equity ETF,
+IXG,iShares S&P Global Financial Index Fund ETF,Global Equity ETF,
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+MCBC,Macatawa Bank Corporation ,Financial,Regional - Midwest Banks
+NWPX,Northwest Pipe Company ,Basic Materials,Steel & Iron
+OFG,Oriental Financial Group Inc.  ,Financial,Money Center Banks
+PWOD,Penns Woods Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities
+TESS,TESSCO Technologies Incorporate ,Services,Electronics Wholesale
+TROVU, TrovaGene  Inc. ,N/A,N/A
+UHAL,Amerco ,Services,Rental & Leasing Services
+VISI,Volt Information Sciences Inc.,Services,Staffing & Outsourcing Services
+WERN,Werner Enterprises Inc. ,Services,Trucking
+ZEUS,Olympic Steel Inc. ,Services,Basic Materials Wholesale
+DXJF,WisdomTree Japan Hedged Financials ,N/A,N/A
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+TOWR,Tower International Inc. Commo ,Industrial Goods,Metal Fabrication
+AEO,American Eagle Outfitters Inc. ,Services,Apparel Stores
+AGYS,Agilysys Inc. ,Technology,Application Software
+AKS,AK Steel Holding Corporation Co ,Basic Materials,Steel & Iron
+ARRY,Array BioPharma Inc. ,Healthcare,Biotechnology
+BCS,Barclays PLC Common ,Financial,Foreign Money Center Banks
+BPFHW,Boston Private Financial Holdings Inc. ,N/A,N/A
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment
+CROP,IndexIQ Global Agribusiness Small Cap ETF,Global Equity ETF,
+DBVT,DBV Technologies S.A.,N/A,N/A
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+EFR, Eaton Vance Senior Floating-Rat ,Financial,Closed-End Fund - Debt
+FBP,First BanCorp. New Common ,Financial,Foreign Regional Banks
+FJP,First Trust Japan AlphaDEX ETF,Global Equity ETF,
+FTRPR,Frontier Communications Corporation,N/A,N/A
+GSIT,GSI Technology Inc. ,Technology,Semiconductor - Broad Line
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+HSC, Harsco Corporation Common ,Basic Materials,Steel & Iron
+ICPT, Intercept Pharmaceuticals  Inc. ,Healthcare,Drug Manufacturers - Major
+IOSP,Innospec Inc. ,Basic Materials,Specialty Chemicals
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+MFC,Manulife Financial Corporation  ,Financial,Life Insurance
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+OPK,OPKO Health Inc. Common ,Healthcare,Medical Appliances & Equipment
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+PYZ,PowerShares Dynamic Basic Materials ETF,US Equity ETF,
+ROUS,Lattice U.S. Equity Strategy ET,N/A,N/A
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+SINA,Sina Corporation ,Technology,Internet Software & Services
+SPYB,SPDR S&P 500 Buyback ETF,,
+TBX,ProShares Short 7-10 Year Treasury ETF,Commodity Based ETF,
+TLTD,FlexShares Mstar Dev Mk ex-US Fct Tl Idx ETF,Global Equity ETF,
+TRSK,VelocityShares Tail Risk Hedged ,,
+UNVR,Univar Inc.,Basic Materials,Chemicals - Major Diversified
+VOYA,ING U.S. Inc. ,Financial,Asset Management
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+FLRT,AdvisorShares Pacific Asset Enh,,
+PBF,PBF Energy Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+USAG,United States Agriculture Index ,N/A,N/A
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+AFAM,Almost Family Inc ,Healthcare,Home Health Care
+AIMT,Aimmune Therapeutics,,
+ATU,Actuant Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+BDGE,Bridge Bancorp Inc. ,Financial,Regional - Northeast Banks
+BRKR,Bruker Corporation ,Technology,Scientific & Technical Instruments
+CARZ,First Trust NASDAQ Global Auto ETF,Global Equity ETF,
+CLCT,Collectors Universe Inc. ,Services,Business Services
+COWN,Cowen Group Inc. ,Financial,Investment Brokerage - National
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+CSTM,Constellium N.V ,Industrial Goods,Metal Fabrication
+DXJ,WisdomTree Japan Total Dividend Fund ETF,Global Equity ETF,
+ELP,Companhia Paranaense de Energia ,Utilities,Electric Utilities
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+FMK,First Trust Mega Cap AlphaDex,US Equity ETF,
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+GYLD, Arrow Dow Jones Global Yield ET ,N/A,N/A
+HOLI, Hollysys Automation Technologie ,Industrial Goods,Industrial Electrical Equipment
+HURC, Hurco Companies  Inc. ,Technology,Scientific & Technical Instruments
+ICSH,iShares Liquidity Income ETF,N/A,N/A
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+KAMN,Kaman Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+LION,Fidelity Southern Corporation ,Financial,Regional - Mid-Atlantic Banks
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+PATI,Patriot Transportation Holding Inc,Services,Trucking
+PPBI,Pacific Premier Bancorp Inc ,Financial,Regional - Pacific Banks
+RPM,RPM International Inc. Common S ,Basic Materials,Specialty Chemicals
+SENEB, Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+SLF,Sun Life Financial Inc. Common  ,Financial,Life Insurance
+STLD,Steel Dynamics Inc. ,Basic Materials,Steel & Iron
+TCBIL, Texas Capital Bancshares  Inc. ,N/A,N/A
+TOFR,,,
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+VTV,Vanguard Value ETF,US Equity ETF,
+WSO,Watsco Inc. Common ,Services,Electronics Wholesale
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+XNCR,Xencor Inc. ,Healthcare,Biotechnology
+AFH,Atlas Financial Holdings Inc. ,Financial,Property & Casualty Insurance
+AIT,Applied Industrial Technologies ,Services,Industrial Equipment Wholesale
+ALOG,Analogic Corporation ,Technology,Scientific & Technical Instruments
+BGG,Briggs & Stratton Corporation C ,Industrial Goods,Diversified Machinery

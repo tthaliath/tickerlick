@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PDBC,PowerShares DB Optimum Yield Di ,,
+BCI,ETFS Bloomberg All Commodity St,,
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+BRFS,BRF-Brasil Foods S.A. ,Consumer Goods,Meat Products
+DLPH, Delphi Automotive plc Ordinary  ,Consumer Goods,Auto Parts
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+NLR,Market Vectors-Nuclear Energy ETF,Global Equity ETF,
+AGX,Argan Inc. Common ,Industrial Goods,Heavy Construction
+OXLC, Oxford Lane Capital Corp. ,N/A,N/A
+CMFN,N/A ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+ARRS,Arris Group Inc ,Technology,Communication Equipment
+NJR,NewJersey Resources Corporation ,Utilities,Gas Utilities

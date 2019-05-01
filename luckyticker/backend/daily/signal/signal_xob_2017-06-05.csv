@@ -1,0 +1,50 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SYE,SPDR MFS Systematic Core Equity ,,
+PTXP,PennTex Midstream Partners  LP,Basic Materials,Oil & Gas Pipelines
+ATR,AptarGroup Inc. Common ,Consumer Goods,Packaging & Containers
+DECK,Deckers Outdoor Corporation ,Consumer Goods,Textile - Apparel Footwear & Accessories
+AON,Aon plc Class A Ordinary Shares ,Financial,Insurance Brokers
+ARL,American Realty Investors Inc. ,Financial,Property Management
+FOR, Forestar Group Inc Common ,Financial,Real Estate Development
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+ACWV,iShares MSCI All Country World Minimum Volatility Index Fund ETF,Global Equity ETF,
+NLR,Market Vectors-Nuclear Energy ETF,Global Equity ETF,
+TAO,Guggenheim China Real Estate ETF,Global Equity ETF,
+COO,Cooper Companies Inc. (The) Co ,Healthcare,Medical Instruments & Supplies
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+SYK,Stryker Corporation Common Stoc ,Healthcare,Medical Appliances & Equipment
+IART, Integra LifeSciences Holdings C ,Healthcare,Medical Instruments & Supplies
+VRTX,Vertex Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+MODN,Model N Inc. ,N/A,N/A
+FSTA,Fidelity MSCI Consumer Staples Index ETF ,N/A,N/A
+JPC, Nuveen  Preferred Income Opport ,N/A,N/A
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+NFRA,FlexShares STOXX Global Broad Infras ,N/A,N/A
+NGE,Global X Nigeria Index ETF ,N/A,N/A
+FTCS,First Trust Capital Strength ET ,N/A,N/A
+CCZ,Comcast Holdings ZONES,N/A,N/A
+HTY, John Hancock Tax-Advantaged Glo ,N/A,N/A
+VOD,Vodafone Group Plc ,NULL,NULL
+EXLS,ExlService Holdings Inc. ,Services,Business Services
+CACQ,Caesars Acquisition Company ,Services,Resorts & Casinos
+MA,Mastercard Incorporated Common  ,Services,Business Services
+YUM,Yum! Brands Inc. ,Services,Restaurants
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+LPL,LG Display Co Ltd AMERICAN DEP ,Technology,Diversified Electronics
+CTSH,Cognizant Technology Solutions  ,Technology,Business Software & Services
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+DAIO,Data I/O Corporation ,Technology,Diversified Electronics
+PRO,PROS Holdings Inc. Common Stoc ,Technology,Application Software
+EA, Electronic Arts Inc. ,Technology,Multimedia & Graphics Software
+APPF,AppFolio  Inc.,Technology,Application Software
+BLKB,Blackbaud Inc. ,Technology,Business Software & Services
+USMV,iShares MSCI USA Minimum Volatility Index Fund ETF,US Equity ETF,
+XLP,SPDR Consumer Staples Select Sector Fund ETF,US Equity ETF,
+VDC,Vanguard Consumer Staples ETF - DNQ ETF,US Equity ETF,
+SRE,Sempra Energy Common ,Utilities,Gas Utilities
+NI,NiSource Inc Common ,Utilities,Diversified Utilities

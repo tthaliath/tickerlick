@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+CIVB,Civista Bancshares  Inc.,Financial,Regional - Pacific Banks
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+AMG,Affiliated Managers Group Inc. ,Financial,Asset Management
+ALLY,Ally Financial Inc. ,Financial,Mortgage Investment
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+MNTA,Momenta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+CALA,Calithera Biosciences Inc.,Healthcare,Biotechnology
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+LFUS,Littelfuse Inc. ,Industrial Goods,Industrial Electrical Equipment
+EVT, Eaton Vance Tax Advantaged Divi ,N/A,N/A
+PHF, Pacholder High Yield Fund  Inc. ,N/A,N/A
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+FTNT,Fortinet Inc. ,Technology,Application Software
+MSCI,MSCI Inc Common ,Technology,Application Software
+MX, MagnaChip Semiconductor Corpora ,Technology,Semiconductor - Specialized
+ATTU, Attunity Ltd. ,Technology,Technical & System Software
+CSC,Computer Sciences Corporation C ,Technology,Information Technology Services
+DATA,Tableau Software Inc. ,Technology,Application Software
+BRKS,Brooks Automation Inc. ,Technology,Semiconductor Equipment & Materials
+NEE,NextEra Energy Inc. Common Sto ,Utilities,Electric Utilities

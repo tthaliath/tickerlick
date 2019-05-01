@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+SPWH,Sportsman's Warehouse Holdings Inc. ,Consumer Goods,Sporting Goods
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+AGA, DB Agriculture Short ETN DB Agr ,N/A,N/A
+UNL, United States 12 Month Natural  ,N/A,N/A
+CRMT,America's Car-Mart Inc. ,Services,Auto Dealerships
+ASFI,Asta Funding Inc. ,Services,Business Services
+ESP,Espey Mfg. & Electronics Corp.  ,Technology,Diversified Electronics
+KTCC,Key Tronic Corporation ,Technology,Computer Peripherals
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities

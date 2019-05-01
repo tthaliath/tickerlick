@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VTVT,vTv Therapeutics Inc.,,
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+SENEB, Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+SGB,Southwest Georgia Financial Cor ,Financial,Regional - Mid-Atlantic Banks
+OPHC,OptimumBank Holdings Inc. ,Financial,Regional - Mid-Atlantic Banks
+GKOS,Glaukos Corporation,Healthcare,Medical Instruments & Supplies
+LMCK,Liberty Media Corporation,N/A,N/A
+AGM-A,Federal Agricultural Mortgage Corp.,N/A,N/A
+CIVBP,Civista Bancshares  Inc.,N/A,N/A
+LMCA, Liberty Media Corporation ,Services,Entertainment - Diversified

@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PSE,Pioneer Southwest Energy Partne ,Basic Materials,Oil & Gas Drilling & Exploration
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+FOSL,Fossil Inc. ,Consumer Goods,Recreational Goods Other
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+FSAM,Fifth Street Asset Management I,N/A,N/A
+MUE, Blackrock MuniHoldings Quality  ,N/A,N/A
+CATM,Cardtronics Inc. ,Services,Business Services
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+CSGS,CSG Systems International Inc. ,Technology,Business Software & Services
+UBNT, Ubiquiti Networks  Inc. ,Technology,Wireless Communications
+WR,Westar Energy Inc. Common Stoc ,Utilities,Diversified Utilities

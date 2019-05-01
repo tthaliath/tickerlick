@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+BSET,Bassett Furniture Industries I ,Consumer Goods,Home Furnishings & Fixtures
+LOAN,Manhattan Bridge Capital Inc ,Financial,Credit Services
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+NVDQ, Novadaq Technologies Inc ,Healthcare,Medical Laboratories & Research
+RTIX,RTI Biologics Inc. ,Healthcare,Medical Appliances & Equipment
+SPNC,The Spectranetics Corporation ,Healthcare,Medical Appliances & Equipment
+SPNE,SeaSpine Holdings Corporation,Healthcare,Medical Appliances & Equipment
+STRL,Sterling Construction Company I ,Industrial Goods,Heavy Construction
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+IRDMB,Iridium Communications Inc,N/A,N/A

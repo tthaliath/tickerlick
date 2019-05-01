@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+NETS,Netshoes (Cayman) Limited,,
+MLPZ,UBS AG ETRACS ETRACS 2xMonthly,,
+ENB,Enbridge Inc Common ,Basic Materials,Oil & Gas Pipelines
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+AAV,Advantage Oil & Gas Ltd  Ordina ,Basic Materials,Oil & Gas Drilling & Exploration
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+WNRL,Western Refining Logistics LP ,Basic Materials,Oil & Gas Pipelines
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+OFC,Corporate Office Properties Tru ,Financial,REIT - Office
+CSII,Cardiovascular Systems Inc. ,Healthcare,Medical Appliances & Equipment
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+PMD,Psychemedics Corporation ,Healthcare,Medical Laboratories & Research
+IMDZ,Immune Design Corp.,Healthcare,Biotechnology
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+EMO, ClearBridge Energy MLP Opportun ,N/A,N/A
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+RCS, RCM Strategic Global Government ,N/A,N/A
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+GER, General Electric Capital Corpor ,N/A,N/A
+JMF, Nuveen Energy MLP Total Return  ,N/A,N/A
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+NTG, Tortoise MLP Fund  Inc. Common  ,N/A,N/A
+FEN, First Trust Energy Income and G ,N/A,N/A
+MLPI, UBS AG ETN ,N/A,N/A
+PHK, Pimco High Income Fund Pimco Hi ,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+SVU,SuperValu Inc. Common ,Services,Grocery Stores
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+FOGO,Fogo de Chao  Inc.,Services,Restaurants

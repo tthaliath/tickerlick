@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YDIV,International Multi-Asset Diver ,,
+CRED,Credo Petroleum Corporation ,Basic Materials,Independent Oil & Gas
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+BFK, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+LEMB,iShares Emerging Markets Local Currency Bond Fund ETF,Fixed Income ETF,
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+LWC,SPDR Barclays Capital Long Term Credit Bond ETF,Fixed Income ETF,
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Fixed Income ETF,
+EFAV,iShares MSCI EAFE Minimum Volatility Index Fund ETF,Global Equity ETF,
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+BFY, BlackRock New York Municipal In ,N/A,N/A
+FMN, Federated Premier Municipal Inc ,N/A,N/A
+UBG, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+JBK, Lehman ABS 3.50 3.50% Adjustabl ,N/A,N/A
+FXS, Rydex CurrencyShares Swedish Kr ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+IBDC,iSharesBond Mar 2020 Corporate Term ,N/A,N/A
+BAF, BlackRock Municipal Income Inve ,N/A,N/A
+MNP, Western Asset Municipal Partner ,N/A,N/A
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+GRAM,Gra ,Services,Technical Services
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign
+PHI,Philippine Long Distance Teleph ,Technology,Telecom Services - Foreign

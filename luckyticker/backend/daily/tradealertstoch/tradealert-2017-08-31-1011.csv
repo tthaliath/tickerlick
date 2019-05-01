@@ -1,0 +1,43 @@
+Buy,CAT,Caterpillar Inc. Common ,10
+Buy,CMCSA,Comcast Corporation ,11.2496
+Buy,COF,Capital One Financial Corporati ,6.97646
+Buy,DIS,Walt Disney Company (The) Commo ,3.73038
+Buy,GD,General Dynamics Corporation Co ,10.7623
+Buy,JPM,JP Morgan Chase & Co. Common St ,13.0158
+Buy,LMT,Lockheed Martin Corporation Com ,12.6417
+Buy,LOW,Lowe's Companies Inc. Common S ,10.0155
+Buy,MA,Mastercard Incorporated Common  ,16.5265
+Buy,MET,MetLife Inc. Common ,11.3643
+Buy,MO,Altria Group Inc. ,18.033
+Buy,NFLX,Netflix Inc. ,10.7377
+Buy,SPG,Simon Property Group Inc. Comm ,11.2165
+Buy,T,AT&T Inc. ,8.7566
+Buy,TWX,Time Warner Inc. New Common Sto ,2.09951
+Buy,HON, Honeywell International Inc. Co ,4.1669
+Buy,KHC,The Kraft Heinz Company,4.15805
+Buy,SNAP,Snap Inc.,12.7193
+Sell,BIIB,Biogen Idec Inc. ,98.1708
+Sell,BMY,Bristol-Myers Squibb Company Co ,97.9453
+Sell,CELG,Celgene Corporation ,94.2659
+Sell,COST,Costco Wholesale Corporation ,84.7047
+Sell,CSCO,Cisco Systems Inc. ,80.6663
+Sell,CVS,CVS Caremark Corporation Common ,80.2756
+Sell,DD,E.I. du Pont de Nemours and Com ,88.5088
+Sell,DHR,Danaher Corporation Common Stoc ,91.2701
+Sell,DOW,Dow Chemical Company (The) Comm ,87.9957
+Sell,EMR,Emerson Electric Company Common ,94.2761
+Sell,GE,General Electric Company Common ,83.3333
+Sell,GOOG,Alphabet Inc.,82.4948
+Sell,KO,Coca-Cola Company (The) Common  ,83.8701
+Sell,MDT,Medtronic Inc. Common ,85.3573
+Sell,MON,Monsanto Company Common ,94.8721
+Sell,NVDA,NVIDIA Corporation ,83.5947
+Sell,ORCL,Oracle Corporation ,93.0897
+Sell,OXY,Occidental Petroleum Corporatio ,83.4666
+Sell,PFE,Pfizer Inc. Common ,97.0514
+Sell,PM,Philip Morris International Inc ,87.3684
+Sell,GLD, SPDR Gold Trust ,92.1406
+Sell,SPY,SPDR S&P 500 ETF,87.989
+Sell,ABBV,AbbVie Inc. ,96.0866
+Sell,GOOGL,Alphabet Inc.,86.2106
+Sell,VIX,VOLATILITY S&P 500,94.4444

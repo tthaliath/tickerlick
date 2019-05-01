@@ -1,0 +1,47 @@
+Buy,ALL,Allstate Corporation (The) Comm ,18.1197
+Buy,AMZN,Amazon.com Inc. ,11.5885
+Buy,COST,Costco Wholesale Corporation ,2.1534
+Buy,DIS,Walt Disney Company (The) Commo ,18.5943
+Buy,DUK,Duke Energy Corporation (Holdin ,4.10468
+Buy,EXC,Exelon Corporation Common ,4.95612
+Buy,GM,General Motors Company Common S ,17.9586
+Buy,GOOG,Alphabet Inc.,16.796
+Buy,KO,Coca-Cola Company (The) Common  ,3.17544
+Buy,MCD,McDonald's Corporation Common S ,15.6698
+Buy,NEE,NextEra Energy Inc. Common Sto ,17.4423
+Buy,NKE,Nike Inc. Common ,5.93409
+Buy,ORCL,Oracle Corporation ,1.52082
+Buy,SO,Southern Company (The) Common S ,3.53495
+Buy,SPG,Simon Property Group Inc. Comm ,9.36437
+Buy,T,AT&T Inc. ,7.63894
+Buy,TGT,Target Corporation Common ,12.3706
+Buy,BLK,BlackRock Inc,17.9435
+Buy,GLD, SPDR Gold Trust ,18.7181
+Buy,HON, Honeywell International Inc. Co ,2.57109
+Buy,SNAP,Snap Inc.,14.0305
+Sell,ABT,Abbott Laboratories Common Stoc ,95.468
+Sell,ACN,Accenture plc. Class A Ordinary ,85.7983
+Sell,AMD,Advanced Micro Devices Inc. Co ,91.2113
+Sell,AXP,American Express Company Common ,87.1535
+Sell,BAC,Bank of America Corporation Com ,86.7712
+Sell,BMY,Bristol-Myers Squibb Company Co ,89.7978
+Sell,C,Citigroup Inc. Common ,97.3601
+Sell,CELG,Celgene Corporation ,90.6476
+Sell,COP,ConocoPhillips Common ,81.8264
+Sell,CSCO,Cisco Systems Inc. ,93.4723
+Sell,CVS,CVS Caremark Corporation Common ,84.0797
+Sell,EMR,Emerson Electric Company Common ,87.3454
+Sell,FDX,FedEx Corporation Common ,81.1492
+Sell,GD,General Dynamics Corporation Co ,91.3656
+Sell,GE,General Electric Company Common ,98.461
+Sell,GILD,Gilead Sciences Inc. ,89.2291
+Sell,GS,Goldman Sachs Group Inc. (The) ,83.8249
+Sell,INTC,Intel Corporation ,82.5991
+Sell,JNJ,Johnson & Johnson Common ,96.6044
+Sell,JPM,JP Morgan Chase & Co. Common St ,92.021
+Sell,MET,MetLife Inc. Common ,84.4103
+Sell,MON,Monsanto Company Common ,83.1045
+Sell,MS,Morgan Stanley Common ,95.4074
+Sell,NVDA,NVIDIA Corporation ,86.4558
+Sell,PFE,Pfizer Inc. Common ,85.8592
+Sell,SLB,Schlumberger N.V. Common ,85.8304

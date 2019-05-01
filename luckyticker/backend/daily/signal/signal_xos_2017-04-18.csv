@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OCIP,OCI Partners LP ,Basic Materials,Chemicals - Major Diversified
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+TESO,Tesco Corporation ,Basic Materials,Oil & Gas Equipment & Services
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+BAP,Credicorp Ltd. Common ,Financial,Money Center Banks
+IRIX,IRIDEX Corporation ,Healthcare,Medical Appliances & Equipment
+ANGO,AngioDynamics Inc. ,Healthcare,Medical Instruments & Supplies
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+CUPM,iPath Pure Beta Copper ETN ,N/A,N/A
+WSO,Watsco Inc. Common ,Services,Electronics Wholesale
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+MCK,McKesson Corporation Common Sto ,Services,Drugs Wholesale
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment

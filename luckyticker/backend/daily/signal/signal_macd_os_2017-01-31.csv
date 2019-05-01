@@ -1,0 +1,99 @@
+ticker,name,sector,industry
+MNST, Monster Beverage Corporation ,Consumer Goods,Beverages - Soft Drinks
+FL,Footlocker Inc. ,Services,Apparel Stores
+PFE,Pfizer Inc. Common ,Healthcare,Drug Manufacturers - Major
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+AES,The AES Corporation Common Stoc ,Utilities,Electric Utilities
+MFT, Blackrock MuniYield Investment  ,N/A,N/A
+MZOR,Mazor Robotics Ltd. ,N/A,N/A
+NTX, Nuveen Texas Quality Income Mun ,Financial,Closed-End Fund - Debt
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+SMN,ProShares UltraShort Basic Materials ETF,Commodity Based ETF,
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+XLRN,Acceleron Pharma Inc. ,Healthcare,Biotechnology
+BZQ,ProShares UltraShort MSCI Brazil ETF,Commodity Based ETF,
+HOLD,AdvisorShares Sage Core Reserves ETF ,N/A,N/A
+MDWD,MediWound Ltd. ,Healthcare,Biotechnology
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+AIMT,Aimmune Therapeutics,,
+AXDX,Accelerate Diagnostics Inc. ,Healthcare,Diagnostic Substances
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+CHKE,Cherokee Inc. ,Services,Apparel Stores
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+DSPG,DSP Group Inc. ,Technology,Communication Equipment
+EEV,ProShares UltraShort MSCI Emerging Markets ETF,Commodity Based ETF,
+FCFS,First Cash Financial Services  ,Financial,Credit Services
+GHDX,Genomic Health Inc. ,Healthcare,Medical Laboratories & Research
+HQH, H&Q Healthcare Investors Common ,N/A,N/A
+IHE,iShares Dow Jones U.S. Pharmaceutical Index Fund ETF,US Equity ETF,
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+RGEN,Repligen Corporation ,Healthcare,Biotechnology
+SOXS, Direxion Daily Semiconductor Be ,N/A,N/A
+TERP,TerraForm Power Inc.,Utilities,Diversified Utilities
+TZOO,Travelzoo Inc. ,Technology,Internet Information Providers
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+XPH,SPDR S&P Pharmaceuticals ETF,US Equity ETF,
+DL,China Distance Education Holdin ,Services,Education & Training Services
+JJN, iPath Dow Jones UBS Nickel Subi ,N/A,N/A
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+BBW,Build-A-Bear Workshop Inc. Com ,Services,Toy & Hobby Stores
+BURL,Burlington Stores Inc. ,Services,Discount
+CKX,CKX Lands Inc. Common ,Basic Materials,Independent Oil & Gas
+DERM,Dermira Inc.,Healthcare,Biotechnology
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+EMCF, Emclaire Financial Corp ,Financial,Regional - Northeast Banks
+GLYC,GlycoMimetics Inc. ,N/A,N/A
+HQL, H&Q Life Sciences Investors Com ,Financial,Closed-End Fund - Equity
+ITCI,Intra-Cellular Therapies Inc. ,Healthcare,Drug Manufacturers - Major
+MGPI,MGP Ingredients Inc. ,Consumer Goods,Processed & Packaged Goods
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software
+USFR,WisdomTree Bloomberg Floating Rt Trs ,N/A,N/A
+WBMD,WebMD Health Corp ,Technology,Healthcare Information Services
+JOE,St. Joe Company (The) Common St ,Financial,Real Estate Development
+MYN, Blackrock MuniYield New York Qu ,N/A,N/A
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BIG,Big Lots Inc. Common ,Services,Discount Variety Stores
+CASY,Caseys General Stores Inc. ,Services,Grocery Stores
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+EDZ, Direxion Emerging Markets Bear  ,N/A,N/A
+EPZM,Epizyme Inc. ,Healthcare,Biotechnology
+GCBC, Greene County Bancorp  Inc. ,Financial,Savings & Loans
+GNC, GNC Holdings  Inc. Class A Comm ,Services,Drug Stores
+HRTX,Heron Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+LMNR,Limoneira Co ,Consumer Goods,Farm Products
+MLPS, UBS AG  1xMonthly Short Exchang ,N/A,N/A
+NINI,iPath Pure Beta Nickel ETN ,N/A,N/A
+PJP,PowerShares Dynamic Pharmaceuticals ETF,US Equity ETF,
+SIFI,SI Financial Group Inc. ,Financial,Savings & Loans
+SSG,ProShares UltraShort Semiconductors ETF,Commodity Based ETF,
+TNGO, Tangoe  Inc. ,Technology,Business Software & Services
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+GTWN,Georgetown Bancorp Inc. ,Financial,Savings & Loans
+KRS,ProShares Short KBW Regional Banking ETF,Commodity Based ETF,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+AMPH,Amphastar Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Other
+BKE,Buckle Inc. (The) Common ,Services,Apparel Stores
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail
+DAR,Darling International Inc. Comm ,Industrial Goods,Waste Management
+DRYS,DryShips Inc. ,Services,Shipping
+EE,El Paso Electric Company Common ,Utilities,Electric Utilities
+EUM,ProShares Short MSCI Emerging Markets ETF,Commodity Based ETF,
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+GPRE,Green Plains Renewable Energy  ,Basic Materials,Specialty Chemicals
+IGLD, Internet Gold Golden Lines Ltd. ,Technology,Diversified Communication Services
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment

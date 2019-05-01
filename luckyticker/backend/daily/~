@@ -1,0 +1,56 @@
+#schedule the loading of price data and calculation of technical indicatirs
+30 15 * * 1-7 /home/tthaliath/tickerlick/daily/loadprice.sh
+50 5 * * 1-5 /home/tthaliath/tickerlick/history/new1/load_split_adj_data.sh
+30 17 * * 1-5 /home/tthaliath/tickerlick/history/new1/get_rating_daily.pl
+30 6 * * 1-5 /home/tthaliath/tickerlick/daily/loadratings.sh
+0 10 * * 1-5 /home/tthaliath/tickerlick/daily/loadratings.sh
+0 18 * * 1-5 /home/tthaliath/tickerlick/daily/loadratings.sh
+30 5 * * 1-5 /home/tthaliath/tickerlick/daily/loaddividend.sh
+#52 17 * * 0-7 /home/tthaliath/tickerlick/history/new1/load_security_data.pl
+#12 7 * * 0-7 /home/tthaliath/tickerlick/history/new1/load_macd_1226_history.pl
+#57 16 * * 1-7 /home/tthaliath/tickerlick/history/stoch/4_stoch_update_dma_history.pl
+#6 0 * * 1-5 /home/tthaliath/perltest/gettickerindustry.pl
+#44 8 * * 1-5 /home/tthaliath/tickerlick/history/new1/load_bollinger_band_data.pl
+#40 7 * * 1-5 /home/tthaliath/tickerdata/history/price/daily/checkapi.pl
+30 5 * * 0-5 /home/tthaliath/tickerlick/history/new1/get_earnings_date_yahoo.pl
+45 5 * * 1-5 /home/tthaliath/tickerlick/daily/send_earnings_rep.pl
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_1.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_2.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_3.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_4.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_5.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_6.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_7.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_8.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_9.sh
+30 6 * * 1-5 /home/tthaliath/Tickerdaily/loadrtq_10.sh
+#0,5,10,15,20,25,30,35,40,45,50,55 6-12 * * 1-5 /home/tthaliath/tickerlick/daily/send_trade_alert_new.pl
+#0,3,6,9,12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57 6-12 * * 1-5 /home/tthaliath/tickerlick/daily/send_trade_alert_new.pl
+#*/2 6-12 * * 1-5 /home/tthaliath/tickerlick/daily/send_trade_alert_stoch.pl
+#*/2 6-12 * * 1-5 /home/tthaliath/tickerlick/daily/send_trade_alert_rsi.pl
+* 7-12 * * 1-5 /usr/local/bin/python /home/tthaliath/tickerlick/history/rtq/python/alphartqnew.py AAPL,SNAP,PCLN,AMD,NVDA,AMZN,GOOGL,TSLA,FB,NFLX,AGN,FEYE,EFX,ROKU,QCOM,pcg,sq,CMG,TWTR,TRIP,SHOP
+30-59 6 * * 1-5 /usr/local/bin/python /home/tthaliath/tickerlick/history/rtq/python/alphartqnew.py AAPL,SNAP,PCLN,AMD,NVDA,AMZN,GOOGL,TSLA,FB,NFLX,AGN,FEYE,EFX,ROKU,QCOM,pcg,sq,twtr,cmg,trip,SHOP
+*/2 6-12 * * 1-5 /usr/local/bin/python /home/tthaliath/tickerlick/tradevantage/reportquery.py
+#0 13 * * 1-5 /home/tthaliath/tickerlick/daily/send_trade_alert.pl
+#34 18 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data.pl
+#15 13 * * 1-5 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data_all.pl
+#20 21 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data1.pl
+#20 21 * * 1-7 /home/tthaliath/tickerlick/history/rtq/load_security_rtq_data2.pl
+#27 13 * * 1-7 /home/tthaliath/tickerlick/history/rtq/daily/update_ema_535_rtq_daily_3_macd_5.pl
+#7 14 * * 1-7 /home/tthaliath/tickerlick/history/rtq/daily/update_dma_rtq_daily_1_dma200.pl
+#43 11 * * 0-6 /home/tthaliath/tickerlick/daily/load_rep_history.pl
+#28 13 * * 1-7 /home/tthaliath/tickerlick/history/new1/rsistoch_update_full_16.pl
+#50 19 * * 1-5 /home/tthaliath/tickerlick/history/new1/update_vol_history.pl
+#20 18 * * 1-5 /home/tthaliath/tickerlick/daily/update_vol_daily.pl 2016-03-22
+#07 13 * * 0-7 /home/tthaliath/eoddata/get_new_tickerlist_1.pl
+#56 12 * * 0-7 /home/tthaliath/eoddata/checkprice.pl
+#20 11  * * 6 /home/tthaliath/userreports/getetfstatus.pl
+#14 10  * * 6 /home/tthaliath/userreports/gettickervalidity.pl
+#18 19 * * 7 /home/tthaliath/python/redis/getrtqnewdet.pl
+#54 6 * * 0-7 /home/tthaliath/tickerlick/history/new1/get_nasdaq_guru_anal.pl
+45 5 * * 1-5 /home/tthaliath/tickerlick/daily/sec/getsecnoticelinks.pl
+45 7 * * 1-5 /home/tthaliath/tickerlick/daily/sec/getsecnoticelinks.pl
+45 9 * * 1-5 /home/tthaliath/tickerlick/daily/sec/getsecnoticelinks.pl
+45 11 * * 1-5 /home/tthaliath/tickerlick/daily/sec/getsecnoticelinks.pl
+10 19 * * 1-5 /home/tthaliath/tickerlick/daily/sec/getsecnoticelinks.pl
+0 6 * * 1-5 /home/tthaliath/tickerlick/daily/sec/getsecnoticelinks2.pl

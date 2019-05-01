@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+NHI,National Health Investors Inc. ,Financial,REIT - Healthcare Facilities
+FSBW,FS Bancorp Inc. ,Financial,Regional - Pacific Banks
+RTRX,Retrophin Inc. ,Healthcare,Drug Manufacturers - Major
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+AINC,Ashford Inc. Common,N/A,N/A
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+NTL, Nortel Inversora SA  ADR Common ,Technology,Telecom Services - Foreign

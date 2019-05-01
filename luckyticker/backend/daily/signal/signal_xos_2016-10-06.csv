@@ -1,0 +1,50 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+SLW,Silver Wheaton Corp Common Shar ,Basic Materials,Silver
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+MLHR,Herman Miller Inc. ,Consumer Goods,Business Equipment
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+ARI,Apollo Commercial Real Estate F ,Financial,REIT - Diversified
+DFT,Dupont Fabros Technology Inc.  ,Financial,Property Management
+UVE,UNIVERSAL INSURANCE HOLDINGS IN ,Financial,Property & Casualty Insurance
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+CPT,Camden Property Trust Common St ,Financial,REIT - Residential
+CIM,Chimera Investment Corporation  ,Financial,REIT - Diversified
+CAC,Camden National Corporation ,Financial,Regional - Northeast Banks
+ELS,Equity Lifestyle Properties In ,Financial,REIT - Residential
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+IRMD,iRadimed Corporation,Healthcare,Medical Appliances & Equipment
+DXCM,DexCom Inc. ,Healthcare,Medical Instruments & Supplies
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+GOLD, Randgold Resources Limited ,N/A,N/A
+DIV,Global X SuperDividend™ US ETF ,N/A,N/A
+ORC,Orchid Island Capital Inc. ,N/A,N/A
+USV, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+EXCU,Exelon Corp. Conv Unit,N/A,N/A
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+FUTY,Fidelity MSCI Utilities Index ETF ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+DBS, PowerShares DB Silver Fund ,N/A,N/A
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+CLLS,Cellectis S.A.,N/A,N/A
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+GLTR, ETFS Physical Precious Metal Ba ,N/A,N/A
+SIVR, ETFS Physical Silver Shares Tru ,N/A,N/A
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+LKQ, LKQ Corporation ,Services,Auto Parts Wholesale
+LOCO,El Pollo Loco Holdings Inc.,Services,Restaurants
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+RYU,Guggenheim S&P Equal Weight Utilities ETF,US Equity ETF,
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+NJR,NewJersey Resources Corporation ,Utilities,Gas Utilities
+NWE,NorthWestern Corporation Common ,Utilities,Diversified Utilities
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities
+WEC,Wisconsin Energy Corporation Co ,Utilities,Electric Utilities

@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EFAD,ProShares Trust ProShares MSCI  ,,
+REX,REX American Resources Corporat ,Basic Materials,Specialty Chemicals
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+IFEU,iShares FTSE EPRA/NAREIT Europe Index Fund ETF,Global Equity ETF,
+PZD,PowerShares Cleantech Portfolio ETF,Global Equity ETF,
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+SCZ,iShares MSCI EAFE Small Cap ETF,Global Equity ETF,
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+PAHC,Phibro Animal Health Corporation ,Healthcare,Specialized Health Services
+ADUS,Addus HomeCare Corporation ,Healthcare,Home Health Care
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+GGG,Graco Inc. Common ,Industrial Goods,Diversified Machinery
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+PSF, Cohen & Steers Select Preferred ,N/A,N/A
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+FTCS,First Trust Capital Strength ET ,N/A,N/A
+NICE,NICE-Systems Limited ,NULL,NULL
+W,Wayfair Inc. Class A Common Sto,Services,Catalog & Mail Order Houses
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+MELI,MercadoLibre Inc. ,Services,Business Services
+VEC,Vectrus Inc. Common,Services,Business Services
+RH,Restoration Hardware Holdings Inc. ,Services,Home Furnishing Stores
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+MAR,Marriot International Common St ,Services,Lodging
+BZUN,Baozun Inc.,Services,Catalog & Mail Order Houses
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+WB,Weibo Corporation ,Technology,Internet Information Providers
+ASUR,Asure Software Inc ,Technology,Business Software & Services
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+EQIX,Equinix Inc. ,Technology,Telecom Services - Domestic
+CPSI,Computer Programs and Systems  ,Technology,Healthcare Information Services
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+PAYC,Paycom Software Inc. ,Technology,Application Software
+EA, Electronic Arts Inc. ,Technology,Multimedia & Graphics Software
+FDN,First Trust DJ Internet Index Fund ETF,US Equity ETF,

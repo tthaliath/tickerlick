@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NUE,Nucor Corporation Common ,Basic Materials,Steel & Iron
+PAL,North American Palladium Ltd.  ,Basic Materials,Industrial Metals & Minerals
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+EXP,Eagle Materials Inc Common Stoc ,Industrial Goods,Cement
+MLM,Martin Marietta Materials Inc. ,Industrial Goods,General Building Materials
+VMC,Vulcan Materials Company (Holdi ,Industrial Goods,General Building Materials
+NOC,Northrop Grumman Corporation Co ,Industrial Goods,Aerospace/Defense - Major Diversified
+CACI,CACI International Inc. Class  ,Services,Technical Services
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+HRS, Harris Corporation Common ,Technology,Communication Equipment

@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+SPNC,The Spectranetics Corporation ,Healthcare,Medical Appliances & Equipment
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+LILA,Liberty LiLAC Group,N/A,N/A
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+BZUN,Baozun Inc.,Services,Catalog & Mail Order Houses
+SRT,StarTek Inc. Common ,Services,Business Services
+ACY,AeroCentury Corp. Common ,Services,Rental & Leasing Services

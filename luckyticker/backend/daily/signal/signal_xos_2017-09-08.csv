@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+ZSL,ProShares UltraShort Silver ETF,Commodity Based ETF,
+RXD,ProShares UltraShort Health Care ETF,Commodity Based ETF,
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+UVE,UNIVERSAL INSURANCE HOLDINGS IN ,Financial,Property & Casualty Insurance
+AHL,Aspen Insurance Holdings Limite ,Financial,Property & Casualty Insurance
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+NGHC,National General Holdings Corp. ,Financial,Property & Casualty Insurance
+HOMB, Home BancShares  Inc. ,Financial,Money Center Banks
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+RESI,Altisource Residential Corporation ,Financial,REIT - Residential
+UIHC,United Insurance Holdings Corp. ,Financial,Property & Casualty Insurance
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+TTC,Toro Company (The) Common ,Industrial Goods,Small Tools & Accessories
+PJH,Prudential Financial Inc. ,N/A,N/A
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+CBS,CBS Corporation Class B Common  ,Services,Broadcasting - TV
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+WMK,Weis Markets Inc. Common ,Services,Grocery Stores
+RELL,Richardson Electronics Ltd. ,Services,Electronics Wholesale
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities

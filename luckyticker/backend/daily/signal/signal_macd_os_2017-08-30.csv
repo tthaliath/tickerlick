@@ -1,0 +1,107 @@
+ticker,name,sector,industry
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+SLG,SL Green Realty Corporation Com ,Financial,REIT - Retail
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+MMM,3M Company Common ,Conglomerates,Conglomerates
+MAS,Masco Corporation Common ,Industrial Goods,General Building Materials
+BLL,Ball Corporation Common ,Consumer Goods,Packaging & Containers
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+ETN, Eaton Corporation Common ,Industrial Goods,Industrial Electrical Equipment
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+BWA,BorgWarner Inc. Common ,Consumer Goods,Auto Parts
+CLRO,ClearOne Communications Inc. ,Technology,Communication Equipment
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+MINI,Mobile Mini Inc. ,Consumer Goods,Packaging & Containers
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+BVXV,BiondVax Pharmaceuticals Ltd.,N/A,N/A
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+SALM,Salem Communications Corporatio ,Services,Broadcasting - Radio
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+VOD,Vodafone Group Plc ,NULL,NULL
+Z, Zillow  Inc. ,Services,Business Services
+ETH,Ethan Allen Interiors Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,
+AMRB,American River Bankshares ,Financial,Regional - Pacific Banks
+FPL,First Trust New Opportunities M ,N/A,N/A
+ELLO,Ellomay Capital Ltd Ordinary Sh,Utilities,Electric Utilities
+ATTU, Attunity Ltd. ,Technology,Technical & System Software
+UUP, PowerShares DB USD Index Bullis ,N/A,N/A
+MMLP,Martin Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+CRTO,Criteo SA ,Technology,Internet Information Providers
+NTCT,NetScout Systems Inc. ,Technology,Business Software & Services
+CVGI,Commercial Vehicle Group Inc. ,Services,Auto Parts Wholesale
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+VIPS, Vipshop Holdings Limited Americ ,Technology,Internet Service Providers
+HQY,HealthEquity Inc.,Technology,Healthcare Information Services
+TRSK,VelocityShares Tail Risk Hedged ,,
+LMNX,Luminex Corporation ,Healthcare,Medical Instruments & Supplies
+CNNX,Cone Midstream Partners LP Comm,Basic Materials,Oil & Gas Pipelines
+BZQ,ProShares UltraShort MSCI Brazil ETF,Commodity Based ETF,
+CAE,CAE Inc. Ordinary Shares ,Industrial Goods,Aerospace/Defense Products & Services
+GPRK,GeoPark Limited ,N/A,N/A
+RECN,Resources Connection Inc. ,Services,Management Services
+RINF,ProShares 30 Year TIPS/TSY Spread ETF,Commodity Based ETF,
+GABC,German American Bancorp Inc. ,Financial,Regional - Midwest Banks
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+SHO,Sunstone Hotel Investors Inc.  ,Financial,REIT - Hotel/Motel
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+CEL,Cellcom Israel Ltd. Ordinary S ,Technology,Wireless Communications
+WBIB,WBI SMID Tactical Value Shares ,,
+AXE,Anixter International Inc. Comm ,Services,Industrial Equipment Wholesale
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+VIG,Vanguard Div Appreciation ETF - DNQ ETF,US Equity ETF,
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+RH,Restoration Hardware Holdings Inc. ,Services,Home Furnishing Stores
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+QTM,Quantum Corporation Common Stoc ,Technology,Data Storage Devices
+AVNW,Aviat Networks Inc. ,Technology,Communication Equipment
+RBC,Regal Beloit Corporation Common ,Industrial Goods,Industrial Electrical Equipment
+MFD, Macquarie/First Trust Global Co ,Financial,Closed-End Fund - Equity
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+WSO,Watsco Inc. Common ,Services,Electronics Wholesale
+ATRC,AtriCure Inc. ,Healthcare,Medical Instruments & Supplies
+CXP,Columbia Property Trust Inc. ,Financial,REIT - Office
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+DIVA,QuantShares Hedged Dividend Inc,,
+HHC, Howard Hughes Corporation (The) ,Financial,REIT - Diversified
+JD,JD.com Inc.,Technology,Internet Information Providers
+CSPI,CSP Inc. ,Technology,Business Software & Services
+RTH,Market Vectors Retail ETF,US Equity ETF,
+WBIE,WBI Large Cap Tactical Growth S ,,
+TSC,Tristate Capital Holdings Inc. ,Financial,Money Center Banks
+NHC,National HealthCare Corporation ,Healthcare,Long-Term Care Facilities
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+ALKS,Alkermes plc ,Healthcare,Drug Delivery
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+DXJF,WisdomTree Japan Hedged Financials ,N/A,N/A
+DTK, Deutsche Bk Contingent Cap Tr I ,N/A,N/A
+ISTR,Investar Holding Corporation,Financial,Regional - Southwest  Banks
+GRR, Asia Tigers Fund  Inc. (The) Co ,N/A,N/A
+IOSP,Innospec Inc. ,Basic Materials,Specialty Chemicals
+NTES,NetEase Inc. ,Technology,Internet Software & Services
+CNHI,CNH Industrial N.V. ,Industrial Goods,Farm & Construction Machinery
+KEYS,Keysight Technologies Inc. Comm,Technology,Scientific & Technical Instruments
+AE,Adams Resources & Energy Inc.  ,Basic Materials,Oil & Gas Refining & Marketing
+PRI,Primerica Inc. Common ,Financial,Life Insurance
+OSK,Oshkosh Corporation Common Stoc ,Consumer Goods,Trucks & Other Vehicles
+MLR,Miller Industries Inc. Common  ,Consumer Goods,Auto Parts
+TWI,Titan International Inc. Commo ,Consumer Goods,Rubber & Plastics
+JBLU,JetBlue Airways Corporation ,Services,Regional Airlines
+RFT,RAIT Financial Trust 7.625% Sen ,N/A,N/A
+SGB,Southwest Georgia Financial Cor ,Financial,Regional - Mid-Atlantic Banks
+LNN,Lindsay Corporation Common Stoc ,Industrial Goods,Farm & Construction Machinery
+MANH,Manhattan Associates Inc. ,Technology,Application Software
+HCAC,Hennessy Capital Acquisition Corp. ,N/A,N/A
+EIG,Employers Holdings Inc Common S ,Financial,Property & Casualty Insurance

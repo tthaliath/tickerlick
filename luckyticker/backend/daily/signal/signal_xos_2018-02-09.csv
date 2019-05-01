@@ -1,0 +1,70 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TRSK,VelocityShares Tail Risk Hedged ,,
+CNXT,Market Vectors ChinaAMC SME-ChN ,,
+SGDM,Sprott Gold Miners ETF ,,
+GMOM,Cambria Global Momentum ETF ,,
+GDXX,ProShares Ultra Gold Miners ETF,,
+DEZU,iShares Adaptive Currency Hedge,,
+JHMU,John Hancock Multifactor Utilit,,
+MVIN,Natixis ETF Trust ETF,,
+QED,IQ Hedge Event-Driven Tracker E,,
+WAAS,AquaVenture Holdings Limited Or,,
+OLN,Olin Corporation Common ,Basic Materials,Specialty Chemicals
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+CXO,Concho Resources Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+AE,Adams Resources & Energy Inc.  ,Basic Materials,Oil & Gas Refining & Marketing
+FNV, Franco Nev Corp Common (Canada) ,Basic Materials,Gold
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+KOS, Kosmos Energy Ltd. Common Share ,Basic Materials,Independent Oil & Gas
+MPAA,Motorcar Parts of America Inc. ,Consumer Goods,Auto Parts
+CCK,Crown Holdings Inc. ,Consumer Goods,Packaging & Containers
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+WHG,Westwood Holdings Group Inc Com ,Financial,Asset Management
+BNS,Bank Nova Scotia Halifax Pfd 3  ,Financial,Money Center Banks
+CNS,Cohn & Steers Inc Common ,Financial,Asset Management
+GLQ, Clough Global Equity Fund Cloug ,Financial,Closed-End Fund - Foreign
+RPT,Ramco-Gershenson Properties Tru ,Financial,REIT - Retail
+ASA,ASA  Gold and Precious Metals L ,Financial,Closed-End Fund - Equity
+CBOE,CBOE Holdings Inc. ,Financial,Diversified Investments
+EFX,Equifax Inc. Common ,Financial,Credit Services
+JXI,iShares S&P Global Utilities Sector Index Fund ETF,Global Equity ETF,
+FFR,First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund ETF,Global Equity ETF,
+RING,iShares MSCI Global Gold Miners Fund ETF,Global Equity ETF,
+PSAU,PowerShares Global Gold and Precious Metals Portfolio ETF,Global Equity ETF,
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+OC,Owens Corning Inc Common ,Industrial Goods,General Building Materials
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+CMI,Cummins Inc. Common ,Industrial Goods,Diversified Machinery
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+ACGLP,Arch Capital Group Ltd. ,N/A,N/A
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+BSCM,Guggenheim BulletShares 2022 Corp Bd ETF ,N/A,N/A
+SPXH,VelocityShares Volatility Hdgd Lg Cp ETF ,N/A,N/A
+VCV, Invesco Van Kampen California V ,N/A,N/A
+PGP, Pimco Global ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+WHF,WhiteHorse Finance  Inc. ,N/A,N/A
+GNT, GAMCO Natural Resources  Gold & ,N/A,N/A
+DSGX,The Descartes Systems Group Inc ,NULL,NULL
+FORR,Forrester Research Inc. ,Services,Research Services
+DNKN, Dunkin' Brands Group  Inc. ,Services,Restaurants
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+WEB,Web.com Group  Inc.,Technology,Internet Information Providers
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+DNB,Dun & Bradstreet Corporation (T ,Technology,Information & Delivery Services
+NCR,NCR Corporation Common ,Technology,Information Technology Services
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+BRKR,Bruker Corporation ,Technology,Scientific & Technical Instruments
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+EMKR,EMCORE Corporation ,Technology,Semiconductor - Integrated Circuits
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments
+NYLD,NRG Yield Inc. ,Utilities,Electric Utilities
+SJW,SJW Corporation Common ,Utilities,Water Utilities
+PEGI,Pattern Energy Group Inc. ,Utilities,Diversified Utilities

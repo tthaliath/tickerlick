@@ -1,0 +1,110 @@
+Buy,AEP,American Electric Power Company ,14.0097
+Buy,AGN,Allergan Inc. Common ,16.013
+Buy,AIG,American International Group I ,17.7664
+Buy,ALK,Alaska Air Group Inc. Common S ,4.18462
+Buy,AMG,Affiliated Managers Group Inc. ,5.894
+Buy,AMP,Ameriprise Financial Inc. Comm ,9.37003
+Buy,AMZN,Amazon.com Inc. ,13.8346
+Buy,AN,AutoNation Inc. Common ,18.75
+Buy,APC,Anadarko Petroleum Corporation  ,13.4825
+Buy,APD,Air Products and Chemicals Inc ,3.25649
+Buy,ARE,Alexandria Real Estate Equities ,16.7679
+Buy,AVY,Avery Dennison Corporation Comm ,10.1395
+Buy,CMA,Comerica Incorporated Common St ,8.63482
+Buy,CMI,Cummins Inc. Common ,17.1861
+Buy,COF,Capital One Financial Corporati ,2.12975
+Buy,EIX,Edison International Common Sto ,15.7403
+Buy,EL,Estee Lauder Companies Inc. (T ,4.28106
+Buy,EMN,Eastman Chemical Company Common ,10.0041
+Buy,EMR,Emerson Electric Company Common ,2.07305
+Buy,ESRX,Express Scripts Holding Company ,3.72738
+Buy,EW,Edwards Lifesciences Corporatio ,10.5899
+Buy,F,Ford Motor Company Common ,18.0079
+Buy,FAST,Fastenal Company ,5.21278
+Buy,FIS,Fidelity National Information S ,6.00766
+Buy,FLIR,FLIR Systems Inc. ,6.79463
+Buy,FLR,Fluor Corporation Common ,5.19481
+Buy,FLS,Flowserve Corporation Common St ,7.83194
+Buy,GE,General Electric Company Common ,8.35521
+Buy,GIS,General Mills Inc. Common Stoc ,13.7568
+Buy,GM,General Motors Company Common S ,16.2469
+Buy,GPC,Genuine Parts Company Common St ,13.058
+Buy,GPS,Gap Inc. (The) Common ,9.28748
+Buy,GRMN,Garmin Ltd. ,11.6779
+Buy,GS,Goldman Sachs Group Inc. (The) ,9.15857
+Buy,GT,Goodyear Tire & Rubber Company  ,11.509
+Buy,INTU,Intuit Inc. ,13.4923
+Buy,IP,International Paper Company Com ,6.52828
+Buy,IT,Gartner Inc. Common ,10.4576
+Buy,MAC,Macerich Company (The) Common S ,17.4668
+Buy,MAT,Mattel Inc. ,10.445
+Buy,MCD,McDonald's Corporation Common S ,17.6051
+Buy,MCK,McKesson Corporation Common Sto ,11.2056
+Buy,MET,MetLife Inc. Common ,1.45798
+Buy,MLM,Martin Marietta Materials Inc. ,17.8463
+Buy,PAYX,Paychex Inc. ,5.20313
+Buy,PBCT,People's United Financial Inc. ,2.28073
+Buy,PCG,Pacific Gas & Electric Co. Comm ,16.0492
+Buy,PDCO,Patterson Companies Inc. ,13.9938
+Buy,PEG,Public Service Enterprise Group ,17.6769
+Buy,PEP,Pepsico Inc. Common ,9.87681
+Buy,PFE,Pfizer Inc. Common ,11.247
+Buy,PFG,Principal Financial Group Inc C ,1.66663
+Buy,SEE,Sealed Air Corporation Common S ,1.32661
+Buy,SHW,Sherwin-Williams Company (The)  ,13.2946
+Buy,SIG,Signet Jewelers Limited Common  ,10.147
+Buy,SNI,Scripps Networks Interactive I ,11.9492
+Buy,SO,Southern Company (The) Common S ,8.79598
+Buy,ETN, Eaton Corporation Common ,10.1231
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,3.48939
+Buy,HBAN, Huntington Bancshares Incorpora ,13.3857
+Buy,HOG, Harley-Davidson  Inc. Common St ,8.56074
+Buy,HOLX, Hologic  Inc. ,4.88479
+Buy,HON, Honeywell International Inc. Co ,1.83783
+Buy,HRB, H&R Block  Inc. Common ,19.6082
+Buy,WFM, Whole Foods Market  Inc. ,18.8873
+Buy,SPY,SPDR S&P 500 ETF,17.1997
+Buy,ABBV,AbbVie Inc. ,5.62971
+Buy,FOX,Twenty-First Century Fox Inc. ,10.7407
+Buy,FOXA,Twenty-First Century Fox Inc. ,13.1482
+Buy,CFG,Citizens Financial Group Inc.,8.70896
+Buy,SYF,Synchrony Financial Common Stoc,4.39435
+Buy,KHC,The Kraft Heinz Company,6.91973
+Buy,WRK,WestRock Company,8.25383
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,6.94454
+Buy,CSRA,CSRA Inc.,15.8498
+Buy,SPGI,S&P Global  Inc.,7.68122
+Buy,UAA,Under Armour  Inc. Class A,10.3099
+Sell,AFL,AFLAC Incorporated Common ,82.0732
+Sell,AIV,Apartment Investment and Manage ,87.9477
+Sell,AJG,Arthur J. Gallagher & Co. Commo ,93.7276
+Sell,AMT,American Tower Corporation (REI ,88.1782
+Sell,AON,Aon plc Class A Ordinary Shares ,81.1125
+Sell,AVB,AvalonBay Communities Inc. Com ,91.5087
+Sell,CERN,Cerner Corporation ,83.4278
+Sell,CHK,Chesapeake Energy Corporation C ,84.8477
+Sell,COG,Cabot Oil & Gas Corporation Com ,85.4535
+Sell,DVA,DaVita Inc. Common ,82.6455
+Sell,EFX,Equifax Inc. Common ,91.4939
+Sell,EQR,Equity Residential Common Share ,81.2402
+Sell,EXPD,Expeditors International of Was ,86.9491
+Sell,EXR,Extra Space Storage Inc Common  ,83.1761
+Sell,FFIV,F5 Networks Inc. ,96.9168
+Sell,GOOG,Alphabet Inc.,90.441
+Sell,IR,Ingersoll-Rand plc (Ireland) ,84.5791
+Sell,MAA,Mid-America Apartment Communiti ,98.9975
+Sell,MAR,Marriot International Common St ,85.3936
+Sell,MAS,Masco Corporation Common ,96.254
+Sell,MHK,Mohawk Industries Inc. Common  ,83.6819
+Sell,PG,Procter & Gamble Company (The)  ,83.2762
+Sell,SLB,Schlumberger N.V. Common ,80.9523
+Sell,SLG,SL Green Realty Corporation Com ,88.9318
+Sell,FB, Facebook  Inc. ,84.6141
+Sell,FBHS, Fortune Brands Home & Security  ,92.3751
+Sell,HAL, Halliburton Company Common Stoc ,87.8357
+Sell,HCA, HCA Holdings  Inc. Common ,83.4881
+Sell,HES, Hess Corporation Common ,87.4902
+Sell,GOOGL,Alphabet Inc.,88.7557
+Sell,WBA,Walgreens Boots Alliance Inc.,80.5664
+Sell,FTV,Fortive Corporation,95.2259
+Sell,INFO,IHS Markit Ltd.,90.8676

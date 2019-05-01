@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+CVA,Covanta Holding Corporation Com ,Industrial Goods,Waste Management
+DBV, PowerShares DB G10 Currency Har ,N/A,N/A
+WATT,Energous Corporation ,N/A,N/A

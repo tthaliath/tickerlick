@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBII,WBI Tactical Income Shares ,,
+AGGY,WisdomTree Barclays Yield Enhan,,
+SBBC,Scorpio Tankers Inc. 8.25 Seni,,
+DSKE,Daseke  Inc.,,
+NUAG,NuShares Enhanced Yield US Aggr,,
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+UMH,UMH Properties Inc. Common Sto ,Financial,REIT - Diversified
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+NX,Quanex Building Products Corpor ,Industrial Goods,General Building Materials
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+NRE,Northstar Realty Europe Corp.,N/A,N/A
+DTK, Deutsche Bk Contingent Cap Tr I ,N/A,N/A
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+YRCW,YRC Worldwide Inc. ,Services,Trucking
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software
+LXFT,Luxoft Holding Inc. ,Technology,Application Software
+CAFD,8point3 Energy Partners LP,Utilities,Diversified Utilities

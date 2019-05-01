@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TELL,Tellurian Inc.,,
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+PKG,Packaging Corporation of Americ ,Consumer Goods,Packaging & Containers
+K,Kellogg Company Common ,Consumer Goods,Processed & Packaged Goods
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+VC, Visteon Corporation Common Stoc ,Consumer Goods,Auto Parts
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+BFZ, BlackRock California Municipal  ,Financial,Closed-End Fund - Debt
+OAK, Oaktree Capital Group  LLC Clas ,Financial,Asset Management
+MQY, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+JHI, John Hancock Investors Trust Co ,Financial,Closed-End Fund - Debt
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+DCUD,Dominion Resources  Inc. 2016 S ,N/A,N/A
+KTF, DSW Municiple Income Trust Comm ,N/A,N/A
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+SBI, Western Asset Intermediate Muni ,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+MYI, Blackrock MuniYield Quality Fun ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+MYN, Blackrock MuniYield New York Qu ,N/A,N/A
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+DM,Dolan Company (The) Common Stoc ,Services,Publishing - Periodicals
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+XLG,Guggenheim Russell Top 50® ETF,US Equity ETF,
+CHEP,QuantShares U.S. Market Neutral Value Fund ETF,US Equity ETF,
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities

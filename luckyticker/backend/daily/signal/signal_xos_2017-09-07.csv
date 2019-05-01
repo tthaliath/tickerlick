@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+RESI,Altisource Residential Corporation ,Financial,REIT - Residential
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+PPBI,Pacific Premier Bancorp Inc ,Financial,Regional - Pacific Banks
+STI,SunTrust Banks Inc. Common Sto ,Financial,Money Center Banks
+AHL,Aspen Insurance Holdings Limite ,Financial,Property & Casualty Insurance
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+FNHC, Federated National Holding Comp ,Financial,Property & Casualty Insurance
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+CSFL,CenterState Banks Inc. ,Financial,Regional - Southeast Banks
+AFG,American Financial Group Inc.  ,Financial,Property & Casualty Insurance
+NGHC,National General Holdings Corp. ,Financial,Property & Casualty Insurance
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+PFBI,Premier Financial Bancorp Inc. ,Financial,Regional - Southeast Banks
+BKU, BankUnited  Inc. Common ,Financial,Regional - Mid-Atlantic Banks
+AFSI,AmTrust Financial Services Inc ,Financial,Property & Casualty Insurance
+PGR,Progressive Corporation (The) C ,Financial,Property & Casualty Insurance
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+UVE,UNIVERSAL INSURANCE HOLDINGS IN ,Financial,Property & Casualty Insurance
+WRB,W.R. Berkley Corporation Common ,Financial,Property & Casualty Insurance
+PNC,PNC Financial Services Group I ,Financial,Money Center Banks
+TMHC,Taylor Morrison Home Corporation ,Industrial Goods,Residential Construction
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+PJH,Prudential Financial Inc. ,N/A,N/A
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+TECD,Tech Data Corporation ,Services,Computers Wholesale
+DRI,Darden Restaurants Inc. Common ,Services,Restaurants
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+SIZ,QuantShares U.S. Market Neutral Size Fund ETF,US Equity ETF,
+KBWP,PowerShares KBW Property & Casualty Insurance Portfolio ETF,US Equity ETF,
+KIE,SPDR KBW Insurance ETF,US Equity ETF,

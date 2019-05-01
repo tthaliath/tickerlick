@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+TAHO, Tahoe Resources  Inc. Ordinary  ,Basic Materials,Industrial Metals & Minerals
+CROC,ProShares UltraShort Australian Dollar,Commodity Based ETF,
+CRWS,Crown Crafts Inc. ,Consumer Goods,Textile - Apparel Clothing
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+COMM,CommScope Holding Company Inc. ,Technology,Communication Equipment

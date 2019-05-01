@@ -1,0 +1,636 @@
+retrieving tickers missing ema data
+Calculating EMA10
+10146
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 1,1;
+problem
+update tickerprice set ema_12 = 14.0616666475932 where ticker_id = 10146 and price_date = '2011-12-23'
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 208,1;
+ 14.0616666475932	update tickerprice set ema_12 = 14.0706410005276 where ticker_id = 10146 and price_date = '2011-12-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 208,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 207,1;
+ 14.0706	update tickerprice set ema_12 = 14.0274308124 where ticker_id = 10146 and price_date = '2011-12-28'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 207,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 206,1;
+ 14.0274	update tickerprice set ema_12 = 13.9908769596 where ticker_id = 10146 and price_date = '2011-12-29'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 206,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 205,1;
+ 13.9909	update tickerprice set ema_12 = 13.9953769186 where ticker_id = 10146 and price_date = '2011-12-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 205,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 204,1;
+ 13.9954	update tickerprice set ema_12 = 14.0237999716 where ticker_id = 10146 and price_date = '2012-01-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 204,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 203,1;
+ 14.0238	update tickerprice set ema_12 = 13.9816769652 where ticker_id = 10146 and price_date = '2012-01-04'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 203,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 202,1;
+ 13.9817	update tickerprice set ema_12 = 13.9075923818 where ticker_id = 10146 and price_date = '2012-01-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 202,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 201,1;
+ 13.9076	update tickerprice set ema_12 = 13.8448923704 where ticker_id = 10146 and price_date = '2012-01-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 201,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 200,1;
+ 13.8449	update tickerprice set ema_12 = 13.7103001346 where ticker_id = 10146 and price_date = '2012-01-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 200,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 199,1;
+ 13.7103	update tickerprice set ema_12 = 13.5548693862 where ticker_id = 10146 and price_date = '2012-01-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 199,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 198,1;
+ 13.5549	update tickerprice set ema_12 = 13.4356847346 where ticker_id = 10146 and price_date = '2012-01-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 198,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 197,1;
+ 13.4357	update tickerprice set ema_12 = 13.3671308378 where ticker_id = 10146 and price_date = '2012-01-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 197,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 196,1;
+ 13.3671	update tickerprice set ema_12 = 13.3121615934 where ticker_id = 10146 and price_date = '2012-01-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 196,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 195,1;
+ 13.3122	update tickerprice set ema_12 = 13.3472461188 where ticker_id = 10146 and price_date = '2012-01-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 195,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 194,1;
+ 13.3472	update tickerprice set ema_12 = 13.4630152688 where ticker_id = 10146 and price_date = '2012-01-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 194,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 193,1;
+ 13.463	update tickerprice set ema_12 = 13.637922902 where ticker_id = 10146 and price_date = '2012-01-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 193,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 192,1;
+ 13.6379	update tickerprice set ema_12 = 13.8705305366 where ticker_id = 10146 and price_date = '2012-01-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 192,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 191,1;
+ 13.8705	update tickerprice set ema_12 = 14.199653517 where ticker_id = 10146 and price_date = '2012-01-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 191,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 190,1;
+ 14.1997	update tickerprice set ema_12 = 14.3551306138 where ticker_id = 10146 and price_date = '2012-01-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 190,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 189,1;
+ 14.3551	update tickerprice set ema_12 = 14.6866227454 where ticker_id = 10146 and price_date = '2012-01-25'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 189,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 188,1;
+ 14.6866	update tickerprice set ema_12 = 15.0963534364 where ticker_id = 10146 and price_date = '2012-01-26'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 188,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 187,1;
+ 15.0964	update tickerprice set ema_12 = 15.4507996456 where ticker_id = 10146 and price_date = '2012-01-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 187,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 186,1;
+ 15.4508	update tickerprice set ema_12 = 15.7537535432 where ticker_id = 10146 and price_date = '2012-01-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 186,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 185,1;
+ 15.7538	update tickerprice set ema_12 = 16.2839840852 where ticker_id = 10146 and price_date = '2012-01-31'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 185,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 184,1;
+ 16.284	update tickerprice set ema_12 = 16.701845736 where ticker_id = 10146 and price_date = '2012-02-01'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 184,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 183,1;
+ 16.7018	update tickerprice set ema_12 = 17.0184458372 where ticker_id = 10146 and price_date = '2012-02-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 183,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 182,1;
+ 17.0184	update tickerprice set ema_12 = 17.1217229736 where ticker_id = 10146 and price_date = '2012-02-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 182,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 181,1;
+ 17.1217	update tickerprice set ema_12 = 17.3045152018 where ticker_id = 10146 and price_date = '2012-02-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 181,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 180,1;
+ 17.3045	update tickerprice set ema_12 = 17.625345833 where ticker_id = 10146 and price_date = '2012-02-07'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 180,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 179,1;
+ 17.6253	update tickerprice set ema_12 = 17.8614074562 where ticker_id = 10146 and price_date = '2012-02-08'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 179,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 178,1;
+ 17.8614	update tickerprice set ema_12 = 18.0688767156 where ticker_id = 10146 and price_date = '2012-02-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 178,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 177,1;
+ 18.0689	update tickerprice set ema_12 = 18.0567615506 where ticker_id = 10146 and price_date = '2012-02-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 177,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 176,1;
+ 18.0568	update tickerprice set ema_12 = 18.2495998072 where ticker_id = 10146 and price_date = '2012-02-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 176,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 175,1;
+ 18.2496	update tickerprice set ema_12 = 18.3373537584 where ticker_id = 10146 and price_date = '2012-02-14'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 175,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 174,1;
+ 18.3374	update tickerprice set ema_12 = 18.2193385796 where ticker_id = 10146 and price_date = '2012-02-15'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 174,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 173,1;
+ 18.2193	update tickerprice set ema_12 = 18.2086384722 where ticker_id = 10146 and price_date = '2012-02-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 173,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 172,1;
+ 18.2086	update tickerprice set ema_12 = 18.3918921244 where ticker_id = 10146 and price_date = '2012-02-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 172,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 171,1;
+ 18.3919	update tickerprice set ema_12 = 18.4177615126 where ticker_id = 10146 and price_date = '2012-02-21'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 171,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 170,1;
+ 18.4178	update tickerprice set ema_12 = 18.2027540612 where ticker_id = 10146 and price_date = '2012-02-22'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 170,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 169,1;
+ 18.2028	update tickerprice set ema_12 = 18.0316001712 where ticker_id = 10146 and price_date = '2012-02-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 169,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 168,1;
+ 18.0316	update tickerprice set ema_12 = 17.9036616664 where ticker_id = 10146 and price_date = '2012-02-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 168,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 167,1;
+ 17.9037	update tickerprice set ema_12 = 17.7877462698 where ticker_id = 10146 and price_date = '2012-02-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 167,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 166,1;
+ 17.7877	update tickerprice set ema_12 = 17.5695925258 where ticker_id = 10146 and price_date = '2012-02-28'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 166,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 165,1;
+ 17.5696	update tickerprice set ema_12 = 17.4819693184 where ticker_id = 10146 and price_date = '2012-02-29'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 165,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 164,1;
+ 17.482	update tickerprice set ema_12 = 17.386307788 where ticker_id = 10146 and price_date = '2012-03-01'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 164,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 163,1;
+ 17.3863	update tickerprice set ema_12 = 17.3037923902 where ticker_id = 10146 and price_date = '2012-03-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 163,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 162,1;
+ 17.3038	update tickerprice set ema_12 = 17.1493693852 where ticker_id = 10146 and price_date = '2012-03-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 162,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 161,1;
+ 17.1494	update tickerprice set ema_12 = 17.0648770076 where ticker_id = 10146 and price_date = '2012-03-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 161,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 160,1;
+ 17.0649	update tickerprice set ema_12 = 17.0472230946 where ticker_id = 10146 and price_date = '2012-03-07'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 160,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 159,1;
+ 17.0472	update tickerprice set ema_12 = 17.1414768288 where ticker_id = 10146 and price_date = '2012-03-08'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 159,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 158,1;
+ 17.1415	update tickerprice set ema_12 = 17.115115411 where ticker_id = 10146 and price_date = '2012-03-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 158,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 157,1;
+ 17.1151	update tickerprice set ema_12 = 16.9897001254 where ticker_id = 10146 and price_date = '2012-03-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 157,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 156,1;
+ 16.9897	update tickerprice set ema_12 = 16.9066693138 where ticker_id = 10146 and price_date = '2012-03-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 156,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 155,1;
+ 16.9067	update tickerprice set ema_12 = 16.7779770518 where ticker_id = 10146 and price_date = '2012-03-14'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 155,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 154,1;
+ 16.778	update tickerprice set ema_12 = 16.716769292 where ticker_id = 10146 and price_date = '2012-03-15'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 154,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 153,1;
+ 16.7168	update tickerprice set ema_12 = 16.7142153872 where ticker_id = 10146 and price_date = '2012-03-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 153,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 152,1;
+ 16.7142	update tickerprice set ema_12 = 16.8304768068 where ticker_id = 10146 and price_date = '2012-03-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 152,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 151,1;
+ 16.8305	update tickerprice set ema_12 = 16.905807617 where ticker_id = 10146 and price_date = '2012-03-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 151,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 150,1;
+ 16.9058	update tickerprice set ema_12 = 16.8956769332 where ticker_id = 10146 and price_date = '2012-03-21'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 150,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 149,1;
+ 16.8957	update tickerprice set ema_12 = 16.9086692178 where ticker_id = 10146 and price_date = '2012-03-22'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 149,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 148,1;
+ 16.9087	update tickerprice set ema_12 = 16.8996692398 where ticker_id = 10146 and price_date = '2012-03-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 148,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 147,1;
+ 16.8997	update tickerprice set ema_12 = 16.9305153538 where ticker_id = 10146 and price_date = '2012-03-26'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 147,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 146,1;
+ 16.9305	update tickerprice set ema_12 = 16.864269297 where ticker_id = 10146 and price_date = '2012-03-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 146,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 145,1;
+ 16.8643	update tickerprice set ema_12 = 16.7267155222 where ticker_id = 10146 and price_date = '2012-03-28'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 145,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 144,1;
+ 16.7267	update tickerprice set ema_12 = 16.5702847718 where ticker_id = 10146 and price_date = '2012-03-29'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 144,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 143,1;
+ 16.5703	update tickerprice set ema_12 = 16.4302539862 where ticker_id = 10146 and price_date = '2012-03-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 143,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 142,1;
+ 16.4303	update tickerprice set ema_12 = 16.2533309462 where ticker_id = 10146 and price_date = '2012-04-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 142,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 141,1;
+ 16.2533	update tickerprice set ema_12 = 16.0358694482 where ticker_id = 10146 and price_date = '2012-04-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 141,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 140,1;
+ 16.0359	update tickerprice set ema_12 = 15.7796079486 where ticker_id = 10146 and price_date = '2012-04-04'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 140,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 139,1;
+ 15.7796	update tickerprice set ema_12 = 15.6319693784 where ticker_id = 10146 and price_date = '2012-04-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 139,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 138,1;
+ 15.632	update tickerprice set ema_12 = 15.465538628 where ticker_id = 10146 and price_date = '2012-04-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 138,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 137,1;
+ 15.4655	update tickerprice set ema_12 = 15.418500047 where ticker_id = 10146 and price_date = '2012-04-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 137,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 136,1;
+ 15.4185	update tickerprice set ema_12 = 15.357192369 where ticker_id = 10146 and price_date = '2012-04-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 136,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 135,1;
+ 15.3572	update tickerprice set ema_12 = 15.3437846288 where ticker_id = 10146 and price_date = '2012-04-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 135,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 134,1;
+ 15.3438	update tickerprice set ema_12 = 15.2678308452 where ticker_id = 10146 and price_date = '2012-04-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 134,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 133,1;
+ 15.2678	update tickerprice set ema_12 = 15.2281385012 where ticker_id = 10146 and price_date = '2012-04-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 133,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 132,1;
+ 15.2281	update tickerprice set ema_12 = 15.2868537874 where ticker_id = 10146 and price_date = '2012-04-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 132,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 131,1;
+ 15.2869	update tickerprice set ema_12 = 15.2889153826 where ticker_id = 10146 and price_date = '2012-04-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 131,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 130,1;
+ 15.2889	update tickerprice set ema_12 = 15.2121462306 where ticker_id = 10146 and price_date = '2012-04-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 130,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 129,1;
+ 15.2121	update tickerprice set ema_12 = 15.1625462034 where ticker_id = 10146 and price_date = '2012-04-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 129,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 128,1;
+ 15.1625	update tickerprice set ema_12 = 15.079038545 where ticker_id = 10146 and price_date = '2012-04-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 128,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 127,1;
+ 15.079	update tickerprice set ema_12 = 15.008384686 where ticker_id = 10146 and price_date = '2012-04-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 127,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 126,1;
+ 15.0084	update tickerprice set ema_12 = 14.9655692736 where ticker_id = 10146 and price_date = '2012-04-25'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 126,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 125,1;
+ 14.9656	update tickerprice set ema_12 = 14.9293538824 where ticker_id = 10146 and price_date = '2012-04-26'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 125,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 124,1;
+ 14.9294	update tickerprice set ema_12 = 14.8494923876 where ticker_id = 10146 and price_date = '2012-04-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 124,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 123,1;
+ 14.8495	update tickerprice set ema_12 = 14.800346203 where ticker_id = 10146 and price_date = '2012-04-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 123,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 122,1;
+ 14.8003	update tickerprice set ema_12 = 14.7848692462 where ticker_id = 10146 and price_date = '2012-05-01'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 122,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 121,1;
+ 14.7849	update tickerprice set ema_12 = 14.6903000946 where ticker_id = 10146 and price_date = '2012-05-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 121,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 120,1;
+ 14.6903	update tickerprice set ema_12 = 14.5887154862 where ticker_id = 10146 and price_date = '2012-05-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 120,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 119,1;
+ 14.5887	update tickerprice set ema_12 = 14.5289000598 where ticker_id = 10146 and price_date = '2012-05-04'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 119,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 118,1;
+ 14.5289	update tickerprice set ema_12 = 14.3398386506 where ticker_id = 10146 and price_date = '2012-05-07'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 118,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 117,1;
+ 14.3398	update tickerprice set ema_12 = 14.0813694892 where ticker_id = 10146 and price_date = '2012-05-08'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 117,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 116,1;
+ 14.0814	update tickerprice set ema_12 = 13.8211848756 where ticker_id = 10146 and price_date = '2012-05-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 116,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 115,1;
+ 13.8212	update tickerprice set ema_12 = 13.6502463248 where ticker_id = 10146 and price_date = '2012-05-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 115,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 114,1;
+ 13.6502	update tickerprice set ema_12 = 13.4701694108 where ticker_id = 10146 and price_date = '2012-05-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 114,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 113,1;
+ 13.4702	update tickerprice set ema_12 = 13.1901695108 where ticker_id = 10146 and price_date = '2012-05-14'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 113,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 112,1;
+ 13.1902	update tickerprice set ema_12 = 12.8701695508 where ticker_id = 10146 and price_date = '2012-05-15'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 112,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 111,1;
+ 12.8702	update tickerprice set ema_12 = 12.5378618708 where ticker_id = 10146 and price_date = '2012-05-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 111,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 110,1;
+ 12.5379	update tickerprice set ema_12 = 12.2013003366 where ticker_id = 10146 and price_date = '2012-05-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 110,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 109,1;
+ 12.2013	update tickerprice set ema_12 = 11.9734079202 where ticker_id = 10146 and price_date = '2012-05-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 109,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 108,1;
+ 11.9734	update tickerprice set ema_12 = 11.7774925036 where ticker_id = 10146 and price_date = '2012-05-21'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 108,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 107,1;
+ 11.7775	update tickerprice set ema_12 = 11.557884835 where ticker_id = 10146 and price_date = '2012-05-22'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 107,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 106,1;
+ 11.5579	update tickerprice set ema_12 = 11.3520694366 where ticker_id = 10146 and price_date = '2012-05-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 106,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 105,1;
+ 11.3521	update tickerprice set ema_12 = 11.0979310234 where ticker_id = 10146 and price_date = '2012-05-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 105,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 104,1;
+ 11.0979	update tickerprice set ema_12 = 10.8397617966 where ticker_id = 10146 and price_date = '2012-05-25'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 104,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 103,1;
+ 10.8398	update tickerprice set ema_12 = 10.7090616692 where ticker_id = 10146 and price_date = '2012-05-29'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 103,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 102,1;
+ 10.7091	update tickerprice set ema_12 = 10.5230848014 where ticker_id = 10146 and price_date = '2012-05-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 102,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 101,1;
+ 10.5231	update tickerprice set ema_12 = 10.3964693574 where ticker_id = 10146 and price_date = '2012-05-31'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 101,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 100,1;
+ 10.3965	update tickerprice set ema_12 = 10.210884801 where ticker_id = 10146 and price_date = '2012-06-01'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 100,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 99,1;
+ 10.2109	update tickerprice set ema_12 = 10.0784539786 where ticker_id = 10146 and price_date = '2012-06-04'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 99,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 98,1;
+ 10.0785	update tickerprice set ema_12 = 9.889500189 where ticker_id = 10146 and price_date = '2012-06-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 98,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 97,1;
+ 9.8895	update tickerprice set ema_12 = 9.789577023 where ticker_id = 10146 and price_date = '2012-06-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 97,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 96,1;
+ 9.78958	update tickerprice set ema_12 = 9.68964471532 where ticker_id = 10146 and price_date = '2012-06-07'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 96,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 95,1;
+ 9.68964	update tickerprice set ema_12 = 9.66046464456 where ticker_id = 10146 and price_date = '2012-06-08'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 95,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 94,1;
+ 9.66046	update tickerprice set ema_12 = 9.60038929084 where ticker_id = 10146 and price_date = '2012-06-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 94,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 93,1;
+ 9.60039	update tickerprice set ema_12 = 9.57109926006 where ticker_id = 10146 and price_date = '2012-06-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 93,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 92,1;
+ 9.5711	update tickerprice set ema_12 = 9.5878538294 where ticker_id = 10146 and price_date = '2012-06-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 92,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 91,1;
+ 9.58785	update tickerprice set ema_12 = 9.7881805689 where ticker_id = 10146 and price_date = '2012-06-14'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 91,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 90,1;
+ 9.78818	update tickerprice set ema_12 = 10.10384429972 where ticker_id = 10146 and price_date = '2012-06-15'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 90,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 89,1;
+ 10.1038	update tickerprice set ema_12 = 10.3262920852 where ticker_id = 10146 and price_date = '2012-06-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 89,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 88,1;
+ 10.3263	update tickerprice set ema_12 = 10.6191766302 where ticker_id = 10146 and price_date = '2012-06-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 88,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 87,1;
+ 10.6192	update tickerprice set ema_12 = 10.8408613168 where ticker_id = 10146 and price_date = '2012-06-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 87,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 86,1;
+ 10.8409	update tickerprice set ema_12 = 10.9746075586 where ticker_id = 10146 and price_date = '2012-06-21'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 86,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 85,1;
+ 10.9746	update tickerprice set ema_12 = 11.1138921684 where ticker_id = 10146 and price_date = '2012-06-22'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 85,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 84,1;
+ 11.1139	update tickerprice set ema_12 = 11.0963769406 where ticker_id = 10146 and price_date = '2012-06-25'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 84,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 83,1;
+ 11.0964	update tickerprice set ema_12 = 11.0969538456 where ticker_id = 10146 and price_date = '2012-06-26'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 83,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 82,1;
+ 11.097	update tickerprice set ema_12 = 11.108230758 where ticker_id = 10146 and price_date = '2012-06-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 82,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 81,1;
+ 11.1082	update tickerprice set ema_12 = 11.1023230828 where ticker_id = 10146 and price_date = '2012-06-28'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 81,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 80,1;
+ 11.1023	update tickerprice set ema_12 = 11.2557921542 where ticker_id = 10146 and price_date = '2012-06-29'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 80,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 79,1;
+ 11.2558	update tickerprice set ema_12 = 11.3702921932 where ticker_id = 10146 and price_date = '2012-07-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 79,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 78,1;
+ 11.3703	update tickerprice set ema_12 = 11.4456383862 where ticker_id = 10146 and price_date = '2012-07-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 78,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 77,1;
+ 11.4456	update tickerprice set ema_12 = 11.5431999024 where ticker_id = 10146 and price_date = '2012-07-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 77,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 76,1;
+ 11.5432	update tickerprice set ema_12 = 11.6119383928 where ticker_id = 10146 and price_date = '2012-07-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 76,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 75,1;
+ 11.6119	update tickerprice set ema_12 = 11.6454538126 where ticker_id = 10146 and price_date = '2012-07-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 75,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 74,1;
+ 11.6455	update tickerprice set ema_12 = 11.606192347 where ticker_id = 10146 and price_date = '2012-07-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 74,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 73,1;
+ 11.6062	update tickerprice set ema_12 = 11.5314000748 where ticker_id = 10146 and price_date = '2012-07-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 73,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 72,1;
+ 11.5314	update tickerprice set ema_12 = 11.4927231156 where ticker_id = 10146 and price_date = '2012-07-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 72,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 71,1;
+ 11.4927	update tickerprice set ema_12 = 11.5153615158 where ticker_id = 10146 and price_date = '2012-07-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 71,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 70,1;
+ 11.5154	update tickerprice set ema_12 = 11.5684153316 where ticker_id = 10146 and price_date = '2012-07-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 70,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 69,1;
+ 11.5684	update tickerprice set ema_12 = 11.5809538336 where ticker_id = 10146 and price_date = '2012-07-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 69,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 68,1;
+ 11.581	update tickerprice set ema_12 = 11.594692294 where ticker_id = 10146 and price_date = '2012-07-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 68,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 67,1;
+ 11.5947	update tickerprice set ema_12 = 11.6170538238 where ticker_id = 10146 and price_date = '2012-07-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 67,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 66,1;
+ 11.6171	update tickerprice set ema_12 = 11.6252384534 where ticker_id = 10146 and price_date = '2012-07-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 66,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 65,1;
+ 11.6252	update tickerprice set ema_12 = 11.4967078208 where ticker_id = 10146 and price_date = '2012-07-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 65,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 64,1;
+ 11.4967	update tickerprice set ema_12 = 11.3464386118 where ticker_id = 10146 and price_date = '2012-07-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 64,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 63,1;
+ 11.3464	update tickerprice set ema_12 = 11.2238770456 where ticker_id = 10146 and price_date = '2012-07-25'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 63,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 62,1;
+ 11.2239	update tickerprice set ema_12 = 11.1586846806 where ticker_id = 10146 and price_date = '2012-07-26'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 62,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 61,1;
+ 11.1587	update tickerprice set ema_12 = 11.1204384998 where ticker_id = 10146 and price_date = '2012-07-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 61,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 60,1;
+ 11.1204	update tickerprice set ema_12 = 11.1126461616 where ticker_id = 10146 and price_date = '2012-07-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 60,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 59,1;
+ 11.1126	update tickerprice set ema_12 = 11.0768154204 where ticker_id = 10146 and price_date = '2012-07-31'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 59,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 58,1;
+ 11.0768	update tickerprice set ema_12 = 11.0911384472 where ticker_id = 10146 and price_date = '2012-08-01'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 58,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 57,1;
+ 11.0911	update tickerprice set ema_12 = 11.0432385094 where ticker_id = 10146 and price_date = '2012-08-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 57,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 56,1;
+ 11.0432	update tickerprice set ema_12 = 11.0703999728 where ticker_id = 10146 and price_date = '2012-08-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 56,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 55,1;
+ 11.0704	update tickerprice set ema_12 = 11.1318768616 where ticker_id = 10146 and price_date = '2012-08-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 55,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 54,1;
+ 11.1319	update tickerprice set ema_12 = 11.2346845126 where ticker_id = 10146 and price_date = '2012-08-07'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 54,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 53,1;
+ 11.2347	update tickerprice set ema_12 = 11.2616692038 where ticker_id = 10146 and price_date = '2012-08-08'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 53,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 52,1;
+ 11.2617	update tickerprice set ema_12 = 11.2814384418 where ticker_id = 10146 and price_date = '2012-08-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 52,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 51,1;
+ 11.2814	update tickerprice set ema_12 = 11.3150307356 where ticker_id = 10146 and price_date = '2012-08-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 51,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 50,1;
+ 11.315	update tickerprice set ema_12 = 11.35423073 where ticker_id = 10146 and price_date = '2012-08-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 50,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 49,1;
+ 11.3542	update tickerprice set ema_12 = 11.3766307468 where ticker_id = 10146 and price_date = '2012-08-14'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 49,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 48,1;
+ 11.3766	update tickerprice set ema_12 = 11.3755846164 where ticker_id = 10146 and price_date = '2012-08-15'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 48,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 47,1;
+ 11.3756	update tickerprice set ema_12 = 11.4608922224 where ticker_id = 10146 and price_date = '2012-08-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 47,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 46,1;
+ 11.4609	update tickerprice set ema_12 = 11.5638383586 where ticker_id = 10146 and price_date = '2012-08-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 46,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 45,1;
+ 11.5638	update tickerprice set ema_12 = 11.6047538052 where ticker_id = 10146 and price_date = '2012-08-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 45,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 44,1;
+ 11.6048	update tickerprice set ema_12 = 11.7009845192 where ticker_id = 10146 and price_date = '2012-08-21'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 44,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 43,1;
+ 11.701	update tickerprice set ema_12 = 11.785461454 where ticker_id = 10146 and price_date = '2012-08-22'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 43,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 42,1;
+ 11.7855	update tickerprice set ema_12 = 11.818499967 where ticker_id = 10146 and price_date = '2012-08-23'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 42,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 41,1;
+ 11.8185	update tickerprice set ema_12 = 11.901807609 where ticker_id = 10146 and price_date = '2012-08-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 41,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 40,1;
+ 11.9018	update tickerprice set ema_12 = 11.9492153372 where ticker_id = 10146 and price_date = '2012-08-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 40,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 39,1;
+ 11.9492	update tickerprice set ema_12 = 11.9631692168 where ticker_id = 10146 and price_date = '2012-08-28'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 39,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 38,1;
+ 11.9632	update tickerprice set ema_12 = 11.9796307528 where ticker_id = 10146 and price_date = '2012-08-29'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 38,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 37,1;
+ 11.9796	update tickerprice set ema_12 = 11.9642769384 where ticker_id = 10146 and price_date = '2012-08-30'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 37,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 36,1;
+ 11.9643	update tickerprice set ema_12 = 11.9913307422 where ticker_id = 10146 and price_date = '2012-08-31'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 36,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 35,1;
+ 11.9913	update tickerprice set ema_12 = 12.0526384002 where ticker_id = 10146 and price_date = '2012-09-04'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 35,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 34,1;
+ 12.0526	update tickerprice set ema_12 = 12.2029690804 where ticker_id = 10146 and price_date = '2012-09-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 34,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 33,1;
+ 12.203	update tickerprice set ema_12 = 12.360999842 where ticker_id = 10146 and price_date = '2012-09-06'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 33,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 32,1;
+ 12.361	update tickerprice set ema_12 = 12.576230554 where ticker_id = 10146 and price_date = '2012-09-07'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 32,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 31,1;
+ 12.5762	update tickerprice set ema_12 = 12.8521689548 where ticker_id = 10146 and price_date = '2012-09-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 31,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 30,1;
+ 12.8522	update tickerprice set ema_12 = 13.1780150588 where ticker_id = 10146 and price_date = '2012-09-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 30,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 29,1;
+ 13.178	update tickerprice set ema_12 = 13.576768832 where ticker_id = 10146 and price_date = '2012-09-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 29,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 28,1;
+ 13.5768	update tickerprice set ema_12 = 13.8819073872 where ticker_id = 10146 and price_date = '2012-09-13'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 28,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 27,1;
+ 13.8819	update tickerprice set ema_12 = 14.0877613326 where ticker_id = 10146 and price_date = '2012-09-14'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 27,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 26,1;
+ 14.0878	update tickerprice set ema_12 = 14.2389075412 where ticker_id = 10146 and price_date = '2012-09-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 26,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 25,1;
+ 14.2389	update tickerprice set ema_12 = 14.4344536506 where ticker_id = 10146 and price_date = '2012-09-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 25,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 24,1;
+ 14.4345	update tickerprice set ema_12 = 14.601499833 where ticker_id = 10146 and price_date = '2012-09-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 24,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 23,1;
+ 14.6015	update tickerprice set ema_12 = 14.725884491 where ticker_id = 10146 and price_date = '2012-09-20'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 23,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 22,1;
+ 14.7259	update tickerprice set ema_12 = 14.8480691086 where ticker_id = 10146 and price_date = '2012-09-21'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 22,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 21,1;
+ 14.8481	update tickerprice set ema_12 = 14.8714692074 where ticker_id = 10146 and price_date = '2012-09-24'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 21,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 20,1;
+ 14.8715	update tickerprice set ema_12 = 14.851269251 where ticker_id = 10146 and price_date = '2012-09-25'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 20,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 19,1;
+ 14.8513	update tickerprice set ema_12 = 14.8264846402 where ticker_id = 10146 and price_date = '2012-09-26'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 19,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 18,1;
+ 14.8265	update tickerprice set ema_12 = 14.859346121 where ticker_id = 10146 and price_date = '2012-09-27'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 18,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 17,1;
+ 14.8593	update tickerprice set ema_12 = 14.8255615722 where ticker_id = 10146 and price_date = '2012-09-28'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 17,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 16,1;
+ 14.8256	update tickerprice set ema_12 = 14.8093538624 where ticker_id = 10146 and price_date = '2012-10-01'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 16,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 15,1;
+ 14.8094	update tickerprice set ema_12 = 14.8971845276 where ticker_id = 10146 and price_date = '2012-10-02'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 15,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 14,1;
+ 14.8972	update tickerprice set ema_12 = 14.9837845288 where ticker_id = 10146 and price_date = '2012-10-03'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 14,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 13,1;
+ 14.9838	update tickerprice set ema_12 = 15.0939845052 where ticker_id = 10146 and price_date = '2012-10-04'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 13,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 12,1;
+ 15.094	update tickerprice set ema_12 = 15.370307416 where ticker_id = 10146 and price_date = '2012-10-05'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 12,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 11,1;
+ 15.3703	update tickerprice set ema_12 = 15.5887151662 where ticker_id = 10146 and price_date = '2012-10-08'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 11,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 10,1;
+ 15.5887	update tickerprice set ema_12 = 15.6858229798 where ticker_id = 10146 and price_date = '2012-10-09'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 10,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 9,1;
+ 15.6858	update tickerprice set ema_12 = 15.6833692332 where ticker_id = 10146 and price_date = '2012-10-10'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 9,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 8,1;
+ 15.6834	update tickerprice set ema_12 = 15.7290307236 where ticker_id = 10146 and price_date = '2012-10-11'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 8,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 7,1;
+ 15.729	update tickerprice set ema_12 = 15.829153746 where ticker_id = 10146 and price_date = '2012-10-12'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 7,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 6,1;
+ 15.8292	update tickerprice set ema_12 = 16.0016305968 where ticker_id = 10146 and price_date = '2012-10-15'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 6,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 5,1;
+ 16.0016	update tickerprice set ema_12 = 16.2382766864 where ticker_id = 10146 and price_date = '2012-10-16'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 5,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 4,1;
+ 16.2383	update tickerprice set ema_12 = 16.5400996982 where ticker_id = 10146 and price_date = '2012-10-17'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 4,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 3,1;
+ 16.5401	update tickerprice set ema_12 = 16.7523920954 where ticker_id = 10146 and price_date = '2012-10-18'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 3,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 2,1;
+ 16.7524	update tickerprice set ema_12 = 16.9520305696 where ticker_id = 10146 and price_date = '2012-10-19'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 2,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 1,1;
+ 16.952	update tickerprice set ema_12 = 17.236307408 where ticker_id = 10146 and price_date = '2012-10-22'
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 1,1;
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 10146 ORDER BY price_date DESC LIMIT 0,1;
+ 17.2363	update tickerprice set ema_12 = 17.3707152502 where ticker_id = 10146 and price_date = '2012-10-23'
+5947
+SELECT ema_12 as ema_prev FROM tickerprice WHERE ticker_id = 5947 ORDER BY price_date DESC LIMIT 1,1;
+problem
+SELECT close_price,price_date FROM tickerprice WHERE ticker_id = 5947 ORDER BY price_date DESC LIMIT -1,1;

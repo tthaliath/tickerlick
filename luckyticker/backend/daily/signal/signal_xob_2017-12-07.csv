@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNDF,iShares Edge MSCI Multifactor C,,
+CVNA,Carvana Co. Class A,,
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+ZSL,ProShares UltraShort Silver ETF,Commodity Based ETF,
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+PMD,Psychemedics Corporation ,Healthcare,Medical Laboratories & Research
+DSLV, VelocityShares 3x Inverse Silve ,N/A,N/A
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+SHAK,Shake Shack Inc. Class A Commo,Services,Specialty Eateries
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+BFAM,Bright Horizons Family Solutions Inc. ,Services,Personal Services
+RRR,Red Rock Resorts  Inc.,Services,Rental & Leasing Services
+CUDA,Barracuda Networks Inc. ,Technology,Communication Equipment

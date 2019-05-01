@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GAMR,FactorShares Trust PureFunds Vi,,
+VYMI,Vanguard International High Div,,
+IDLB,PowerShares FTSE International,,
+LSVX,UBS AG VelocityShares VIX Varia,,
+OIIL,Credit Suisse X-Links WTI Crude,,
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+LAZ,Lazard LTD. Lazard LTD. Class  ,Financial,Asset Management
+VEA,Vanguard Europe Pacific ETF,Global Equity ETF,
+PDN,PowerShares FTSE RAFI Developed Markets ex-U.S. Small-Mid Portfolio ETF,Global Equity ETF,
+SCZ,iShares MSCI EAFE Small Cap ETF,Global Equity ETF,
+FILL,iShares MSCI Global Energy Producers Fund ETF,Global Equity ETF,
+FDTS,First Trust Dev Mkts ex-US SC AlphaDEX ETF,Global Equity ETF,
+VEGI,iShares MSCI Global Agriculture Producers Fund ETF,Global Equity ETF,
+SCHE,Schwab Emerging Markets Equity ETF,Global Equity ETF,
+THD,iShares MSCI Thailand Investable Market Index Fund ETF,Global Equity ETF,
+TLTD,FlexShares Mstar Dev Mk ex-US Fct Tl Idx ETF,Global Equity ETF,
+MOO,Market Vectors-Agribusiness ETF,Global Equity ETF,
+GMF,SPDR S&P Emerging Asia Pacific ETF,Global Equity ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+CHE,Chemed Corp ,Healthcare,Home Health Care
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+IXUS,iShares Core MSCI Total Intl Stk ,N/A,N/A
+ISCF,iShares FactorSelect MSCI Intl Small-Cap,N/A,N/A
+IEUS,iShares Developed Small Cap ex,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+UNG, United States Natural Gas Fund  ,N/A,N/A
+BBRC, EGShares Beyond BRICs ETF ,N/A,N/A
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+UPS,United Parcel Service Inc. Com ,Services,Air Delivery & Freight Services
+LOV,Spark Networks Inc. Common Sto ,Services,Consumer Services
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+MIK,The Michaels Companies Inc.,Services,Specialty Retail Other
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+IBM, International Business Machines ,Technology,Diversified Computer Systems

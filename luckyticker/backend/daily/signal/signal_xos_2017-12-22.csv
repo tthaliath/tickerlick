@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VBND,Vident Core U.S. Bond Fund ,,
+SPDN,Direxion Daily S&P 500 Bear 1X,,
+UTSL,Direxion Daily Utilities Bull 3,,
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+DUG,ProShares UltraShort Oil & Gas ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+INTG,The InterGroup Corporation ,Financial,Property Management
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+AON,Aon plc Class A Ordinary Shares ,Financial,Insurance Brokers
+PCH,Potlatch Corporation ,Financial,REIT - Industrial
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+JXI,iShares S&P Global Utilities Sector Index Fund ETF,Global Equity ETF,
+NLR,Market Vectors-Nuclear Energy ETF,Global Equity ETF,
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+NVTR,Nuvectra Corporation,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+OGS,ONE Gas  Inc. Common Stock ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+BOJA,Bojangles  Inc.,Services,Restaurants
+NSP, Insperity  Inc. Common ,Services,Business Services
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+IDU,iShares Dow Jones U.S. Utilities Index Fund ETF,US Equity ETF,
+PNW,Pinnacle West Capital Corporati ,Utilities,Electric Utilities
+PNM,PNM Resources Inc. (Holding Co ,Utilities,Diversified Utilities
+PCG,Pacific Gas & Electric Co. Comm ,Utilities,Electric Utilities
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities

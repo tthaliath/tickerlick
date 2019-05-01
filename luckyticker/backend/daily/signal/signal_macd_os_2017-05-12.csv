@@ -1,0 +1,91 @@
+ticker,name,sector,industry
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+EXC,Exelon Corporation Common ,Utilities,Diversified Utilities
+NDAQ,The NASDAQ OMX Group Inc. ,Financial,Diversified Investments
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+GRES, IQ ARB Global Resources ETF ,N/A,N/A
+SHY,iShares Barclays 1-3 Year Treasury Bond Fund ETF,Fixed Income ETF,
+IPE,SPDR Barclays Capital TIPS ETF,Fixed Income ETF,
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+BETR,Amplify Snack Brands,N/A,N/A
+DL,China Distance Education Holdin ,Services,Education & Training Services
+SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income ETF,
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+SLVO,Credit Suisse Silver Shares Cov Call ETN ,N/A,N/A
+DBS, PowerShares DB Silver Fund ,N/A,N/A
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+SLV, iShares Silver Trust ,N/A,N/A
+NYV, Nuveen New York Municipal Value ,N/A,N/A
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+PEK,Market Vectors China ETF,Global Equity ETF,
+JJC, iPath Dow Jones UBS Copper Tota ,N/A,N/A
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+JJM, iPath Dow Jones UBS Industrial  ,N/A,N/A
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+PGM, iPath DJ-UBS Platinum Subindex  ,N/A,N/A
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+ENX, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+IBDH,iShares iBonds Dec 2018 Corpora ,,
+KNOW, Direxion All Cap Insider Sentim ,N/A,N/A
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+CEF,Central Fund of Canada Limited  ,Basic Materials,Industrial Metals & Minerals
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+TCBIL, Texas Capital Bancshares  Inc. ,N/A,N/A
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+ASHR,db X-trackers Harvest China ETF ,N/A,N/A
+CQP,Cheniere Energy Partners LP Ch ,Basic Materials,Oil & Gas Pipelines
+LANC,Lancaster Colony Corporation ,Consumer Goods,Food - Major Diversified
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+BOND,PIMCO Total Return Exchange-Traded Fund,Fixed Income ETF,
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+CNCO, Cencosud S.A. American Deposita ,Services,Specialty Retail  Other
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+PATI,Patriot Transportation Holding Inc,Services,Trucking
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+ISTB,iShares Core Short-Term US Bond ,N/A,N/A
+QQQE, Direxion NASDAQ-100 Equal Weigh ,N/A,N/A
+DISCB,Discovery Communications Inc. ,N/A,N/A
+ICBK,County Bancorp Inc.,Financial,Savings & Loans
+UBN,E-TRACS USB Bloomberg Commodity ,,
+CKX,CKX Lands Inc. Common ,Basic Materials,Independent Oil & Gas
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+HYGS, Hydrogenics Corporation ,Industrial Goods,Industrial Electrical Equipment
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Fixed Income ETF,
+STML,Stemline Therapeutics Inc. ,Healthcare,Biotechnology
+CYCCP,Cyclacel Pharmaceuticals Inc. ,N/A,N/A
+MAGS,Magal Security Systems Ltd. ,Services,Security & Protection Services
+RXD,ProShares UltraShort Health Care ETF,Commodity Based ETF,
+PFIG,PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF,Fixed Income ETF,
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+ATRA,Atara Biotherapeutics Inc.,N/A,N/A
+SLRA,Solar Capital Ltd. 6.75% Senior ,N/A,N/A
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+SJW,SJW Corporation Common ,Utilities,Water Utilities
+TUZ,PIMCO 1-3 Year U.S. Treasury Index Fund ETF,Fixed Income ETF,
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+SPXL, Direxion Daily S&P 500 Bull 3X  ,N/A,N/A
+FTSD,Franklin Short Duration U.S. Go ,,
+MTR,Mesa Royalty Trust Common ,Financial,Diversified Investments
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+SIVR, ETFS Physical Silver Shares Tru ,N/A,N/A
+GLTR, ETFS Physical Precious Metal Ba ,N/A,N/A
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+BFY, BlackRock New York Municipal In ,N/A,N/A
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+CPER,United States Copper ,N/A,N/A

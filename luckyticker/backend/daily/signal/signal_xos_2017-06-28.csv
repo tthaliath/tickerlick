@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TICC,TICC Capital Corp. ,Financial,Asset Management
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+CVA,Covanta Holding Corporation Com ,Industrial Goods,Waste Management
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+BAL, iPath DJ-UBS Cotton Subindex To ,N/A,N/A
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+MSCA,Main Street Capital Corporation ,N/A,N/A
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+ATV,Acorn International Inc. ADS ,Services,Catalog & Mail Order Houses

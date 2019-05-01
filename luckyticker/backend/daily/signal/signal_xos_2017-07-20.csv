@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+BHGE,Baker Hughes Incorporated Commo ,Basic Materials,Oil & Gas Equipment & Services
+CROC,ProShares UltraShort Australian Dollar,Commodity Based ETF,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+URE,ProShares Ultra Real Estate ETF,Commodity Based ETF,
+URTY,ProShares UltraPro Russell2000 ETF,Commodity Based ETF,
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+UWM,ProShares Ultra Russell2000 ETF,Commodity Based ETF,
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+INO,Inovio Pharmaceuticals Inc. Co ,Healthcare,Biotechnology
+ABDC,Alcentra Capital Corp.,N/A,N/A
+QTNT,Quotient Limited,N/A,N/A
+STON,StoneMor Partners L.P. Common U ,Services,Personal Services
+BCOM, B Communications Ltd. ,Technology,Diversified Communication Services

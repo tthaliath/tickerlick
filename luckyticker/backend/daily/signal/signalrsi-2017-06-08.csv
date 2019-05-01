@@ -1,0 +1,86 @@
+OS,AAP,Advance Auto Parts Inc Advance  ,125.92,28.902
+OS,APC,Anadarko Petroleum Corporation  ,46.63,20.6187
+OS,BBBY,Bed Bath & Beyond Inc. ,33.82,26.4693
+OS,CHRW,C.H. Robinson Worldwide Inc. ,66.97,28.975
+OS,DIS,Walt Disney Company (The) Commo ,104.32,28.1755
+OS,DVN,Devon Energy Corporation Common ,31.49,24.0353
+OS,FL,Footlocker Inc. ,53.88,14.2303
+OS,FTI,FMC Technologies Inc. Common S ,28.08,29.9792
+OS,LOW,Lowe's Companies Inc. Common S ,77.64,29.1984
+OS,M,Macy's Inc Common ,21.77,25.6877
+OS,MRO,Marathon Oil Corporation Common ,12.09,23.3487
+OS,NBL,Noble Energy Inc. Common ,27.94,26.7376
+OS,NFX,Newfield Exploration Company Co ,28.86,26.6742
+OS,ORLY,O'Reilly Automotive Inc. ,230.62,28.9995
+OS,RIG,Transocean Ltd (Switzerland) Co ,8.42,20.2144
+OS,RRC,Range Resources Corporation Com ,22.19,28.9308
+OS,TAP,Molson Coors Brewing Company Cl ,87.16,27.1388
+OS,URBN,Urban Outfitters Inc. ,16.35,19.0688
+OS,XEC,Cimarex Energy Co Common ,98.61,20.7975
+OS,GWW, W.W. Grainger  Inc. Common Stoc ,170.6,27.505
+OS,HP, Helmerich & Payne  Inc. Common  ,50.4,27.9896
+OS,TRIP, TripAdvisor  Inc. ,37.39,27.3371
+OS,TGNA,TEGNA Inc.,14.2,16.2722
+OS,HPE,Hewlett Packard Enterprise Company,17.05,22.7507
+OB,ABT,Abbott Laboratories Common Stoc ,46.72,72.8694
+OB,ADSK,Autodesk Inc. ,111.12,70.3947
+OB,AET,Aetna Inc. Common ,149.31,77.8449
+OB,AMAT,Applied Materials Inc. ,47.43,76.0351
+OB,AME,AMETEK Inc. ,61.96,72.8894
+OB,AMZN,Amazon.com Inc. ,1010.27,73.5732
+OB,AON,Aon plc Class A Ordinary Shares ,131.71,78.6648
+OB,APH,Amphenol Corporation Common Sto ,76.18,75.3317
+OB,ATVI,Activision Blizzard Inc ,60.55,76.8319
+OB,BAX,Baxter International Inc. Commo ,59.76,73.234
+OB,BCR,C.R. Bard Inc. Common ,313.88,81.5113
+OB,BSX,Boston Scientific Corporation C ,27.91,75.3153
+OB,CB,Chubb Corporation (The) Common  ,144.96,70.5906
+OB,CERN,Cerner Corporation ,68.11,77.0793
+OB,COO,Cooper Companies Inc. (The) Co ,241.76,89.3722
+OB,CTSH,Cognizant Technology Solutions  ,66.87,70.5659
+OB,DE,Deere & Company Common ,126,78.0484
+OB,DRI,Darden Restaurants Inc. Common ,91.85,72.9952
+OB,EL,Estee Lauder Companies Inc. (T ,96.05,70.9786
+OB,ESS,Essex Property Trust Inc. Comm ,265.68,72.6692
+OB,EW,Edwards Lifesciences Corporatio ,118.13,78.8712
+OB,EXPE,Expedia Inc. ,149.22,70.3895
+OB,FDX,FedEx Corporation Common ,205.84,72.482
+OB,GOOG,Alphabet Inc.,983.41,73.3221
+OB,INTU,Intuit Inc. ,142.71,81.6216
+OB,ISRG,Intuitive Surgical Inc. ,929.85,84.7905
+OB,ITW,Illinois Tool Works Inc. Common ,144.59,71.4055
+OB,JNJ,Johnson & Johnson Common ,130.55,73.9164
+OB,KLAC,KLA-Tencor Corporation ,108.93,76.8968
+OB,KSU,Kansas City Southern Common Sto ,98.85,77.2702
+OB,LRCX,Lam Research Corporation ,164.97,81.3147
+OB,LVLT,Level 3 Communications Inc. Co ,62.37,70.2805
+OB,MA,Mastercard Incorporated Common  ,124.76,72.6915
+OB,MAA,Mid-America Apartment Communiti ,107.37,79.207
+OB,MCD,McDonald's Corporation Common S ,151.43,70.0204
+OB,MCHP,Microchip Technology Incorporat ,86.86,80.539
+OB,MJN,Mead Johnson Nutrition Company  ,89.98,83.2007
+OB,MMM,3M Company Common ,205.94,71.5634
+OB,MO,Altria Group Inc. ,75.21,70.049
+OB,MTD,Mettler-Toledo International I ,601.15,85.4591
+OB,MU,Micron Technology Inc. ,32.45,76.3257
+OB,NVDA,NVIDIA Corporation ,159.94,82.4103
+OB,PGR,Progressive Corporation (The) C ,43.06,73.7317
+OB,PM,Philip Morris International Inc ,121.11,72.056
+OB,REGN,Regeneron Pharmaceuticals Inc. ,485.9,73.8432
+OB,SWKS,Skyworks Solutions Inc. ,111.01,73.0878
+OB,TDG,Transdigm Group Incorporated Tr ,273.25,70.9654
+OB,TSO,Tesoro Corporation Common ,89.46,74.3506
+OB,UDR,UDR Inc. Common ,39.94,73.6583
+OB,VAR,Varian Medical Systems Inc. Co ,103.22,84.8941
+OB,WAT,Waters Corporation Common ,186.33,82.7482
+OB,YHOO,Yahoo! Inc. ,55.71,86.0147
+OB,YUM,Yum! Brands Inc. ,73.97,82.543
+OB,BLK,BlackRock Inc,415.23,76.2616
+OB,HAS, Hasbro  Inc. ,108.51,79.9711
+OB,ICE, IntercontinentalExchange  Inc.  ,63.79,75.7341
+OB,STT, State Street Corporation Common ,86,72.3179
+OB,ABBV,AbbVie Inc. ,68.76,72.2507
+OB,AAL,American Airlines Group Inc. ,51.43,72.7444
+OB,GOOGL,Alphabet Inc.,1004.28,73.7792
+OB,PYPL,PayPal Holdings  Inc.,54.39,81.0173
+OB,SPGI,S&P Global  Inc.,145.61,74.1711

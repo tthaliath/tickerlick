@@ -1,0 +1,2 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WMT,Wal-Mart Stores Inc. Common St ,Services,2015-10-27,57.48,-0.229678630828857,2.03308,23.823,3.60119,14.4047622680664

@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SNSR,Global X Internet of Things ETF,,
+HUN, Huntsman Corporation Common Sto ,Basic Materials,Specialty Chemicals
+PBF,PBF Energy Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+MPC, Marathon Petroleum Corporation  ,Basic Materials,Oil & Gas Refining & Marketing
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+STRL,Sterling Construction Company I ,Industrial Goods,Heavy Construction
+WLH,William Lyon Homes ,N/A,N/A
+DRR, Market Vectors Double Short Eur ,N/A,N/A
+CAA,CalAtlantic Group  Inc.,N/A,N/A
+DYNC,Dynegy Inc. 7.00% Tangible Equi ,N/A,N/A
+KEX,Kirby Corporation Common ,Services,Shipping
+GRMN,Garmin Ltd. ,Technology,Scientific & Technical Instruments
+CDNS,Cadence Design Systems Inc. ,Technology,Application Software
+INTC,Intel Corporation ,Technology,Semiconductor - Broad Line
+FARO,FARO Technologies Inc. ,Technology,Scientific & Technical Instruments
+XNET,Xunlei Limited,Technology,Application Software
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities

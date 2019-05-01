@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QWLD,SPDR MSCI World Quality Mix ETF ,,
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+OVBC,Ohio Valley Banc Corp. ,Financial,Regional - Midwest Banks
+SWZ, Swiss Helvetia Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+EWO,iShares MSCI Austria Index Fund ETF,Global Equity ETF,
+SOCL,Global X Social Media Index ETF,Global Equity ETF,
+IFEU,iShares FTSE EPRA/NAREIT Europe Index Fund ETF,Global Equity ETF,
+AFAM,Almost Family Inc ,Healthcare,Home Health Care
+ICUI, ICU Medical  Inc. ,Healthcare,Medical Instruments & Supplies
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+SOXS, Direxion Daily Semiconductor Be ,N/A,N/A
+EEA, The European Equity Fund  Inc.  ,N/A,N/A
+LPSN,LivePerson Inc. ,Services,Business Services
+W,Wayfair Inc. Class A Common Sto,Services,Catalog & Mail Order Houses
+RAIL,Freightcar America Inc. ,Services,Railroads
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+BZUN,Baozun Inc.,Services,Catalog & Mail Order Houses
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services
+CSGP,CoStar Group Inc. ,Services,Business Services
+APEI,American Public Education Inc. ,Services,Business Services
+MCD,McDonald's Corporation Common S ,Services,Restaurants
+EA, Electronic Arts Inc. ,Technology,Multimedia & Graphics Software
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+TNGO, Tangoe  Inc. ,Technology,Business Software & Services
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+ASUR,Asure Software Inc ,Technology,Business Software & Services
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+MTLS,Materialise NV,Technology,Application Software
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics

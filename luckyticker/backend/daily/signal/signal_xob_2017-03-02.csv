@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+CLX,Clorox Company (The) Common Sto ,Consumer Goods,Housewares & Accessories
+DVAX,Dynavax Technologies Corporatio ,Healthcare,Drug Manufacturers - Other
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+IBP,Installed Building Products Inc. ,Industrial Goods,General Building Materials
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+NASH,LocalShares Nashville Area ETF ,N/A,N/A
+GHC,Graham Holdings ,N/A,N/A
+SP,SP Plus Corporation ,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+BLDR,Builders FirstSource Inc. ,Services,Home Improvement Stores
+NTRI,NutriSystem Inc ,Services,Consumer Services
+MCRI,Monarch Casino & Resort Inc. ,Services,Resorts & Casinos
+BID,Sotheby's Common ,Services,Specialty Retail Other
+CSCO,Cisco Systems Inc. ,Technology,Networking & Communication Devices
+MENT,Mentor Graphics Corporation ,Technology,Technical & System Software
+EBIX,Ebix Inc ,Technology,Business Software & Services
+IPDN,Professional Diversity Network LLC ,Technology,Internet Information Providers
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities

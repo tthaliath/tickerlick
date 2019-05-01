@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+INSE,Inspired Entertainment  Inc.,,
+HESM,Hess Midstream Partners LP Comm,,
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+ANDE,The Andersons Inc. ,Consumer Goods,Farm Products
+OHI,Omega Healthcare Investors Inc ,Financial,REIT - Healthcare Facilities
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+AFT, Apollo Senior Floating Rate Fun ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+MNE, Blackrock Muni New York Interme ,N/A,N/A
+CUPM,iPath Pure Beta Copper ETN ,N/A,N/A
+ICI, iPath iPath Optimized Currency  ,N/A,N/A
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+EDGW,Edgewater Technology Inc. ,Technology,Information Technology Services

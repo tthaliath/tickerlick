@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TTD,The Trade Desk  Inc.,,
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+HSC, Harsco Corporation Common ,Basic Materials,Steel & Iron
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+JCI,Johnson Controls Inc. Common S ,Consumer Goods,Auto Parts
+HBI, Hanesbrands Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+CFFN, Capitol Federal Financial  Inc. ,Financial,Savings & Loans
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+GKOS,Glaukos Corporation,Healthcare,Medical Instruments & Supplies
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+AGX,Argan Inc. Common ,Industrial Goods,Heavy Construction
+AER,Aercap Holdings N.V. Ordinary S ,Industrial Goods,Aerospace/Defense - Major Diversified
+ESL,Esterline Technologies Corporat ,Industrial Goods,Aerospace/Defense Products & Services
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+PIY, Preferred Plus Trust (Ser CZN)  ,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+MSGN,MSG Networks Inc.,N/A,N/A
+BKHU,Black Hills Corporation,N/A,N/A
+CSRA,CSRA Inc.,N/A,N/A
+CYAD,Celyad SA,N/A,N/A
+ESLT,Elbit Systems Ltd. ,NULL,NULL
+HSIC, Henry Schein  Inc. ,Services,Medical Equipment Wholesale
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+AXE,Anixter International Inc. Comm ,Services,Industrial Equipment Wholesale
+INCR,INC Research Holdings Inc.,Services,Research Services
+HABT,The Habit Restaurants Inc.,Services,Restaurants
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+BT,BT Group plc Common ,Technology,Telecom Services - Foreign
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,

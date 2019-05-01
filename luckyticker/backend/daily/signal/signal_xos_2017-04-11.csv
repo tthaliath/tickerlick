@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+F,Ford Motor Company Common ,Consumer Goods,Auto Manufacturers - Major
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+WBKC, Wolverine Bancorp  Inc. ,Financial,Money Center Banks
+ARRY,Array BioPharma Inc. ,Healthcare,Biotechnology
+NTRA,Natera  Inc.,Healthcare,Medical Laboratories & Research
+LBIO,LION BIOTECHNOLOGIES,Healthcare,Biotechnology
+HOLI, Hollysys Automation Technologie ,Industrial Goods,Industrial Electrical Equipment
+ARM,ARM Holdings plc ,NULL,NULL
+RECN,Resources Connection Inc. ,Services,Management Services
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+CGI,Celadon Group Inc. Common Stoc ,Services,Trucking
+EIGI,Endurance International Group Holdings Inc. ,Technology,Application Software
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services

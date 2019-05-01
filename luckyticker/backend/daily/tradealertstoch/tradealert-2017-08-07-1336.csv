@@ -1,0 +1,131 @@
+Buy,AN,AutoNation Inc. Common ,8.48034
+Buy,AZO,AutoZone Inc. Common ,16.2122
+Buy,CCL,Carnival Corporation Common Sto ,14.438
+Buy,CHD,Church & Dwight Company Inc. C ,1.23513
+Buy,CMI,Cummins Inc. Common ,11.8778
+Buy,COH,Coach Inc. Common ,7.39278
+Buy,DLR,Digital Realty Trust Inc. Comm ,11.3403
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,17.7782
+Buy,EQT,EQT Corporation Common ,4.33052
+Buy,FFIV,F5 Networks Inc. ,11.7673
+Buy,FL,Footlocker Inc. ,1.79724
+Buy,GPC,Genuine Parts Company Common St ,12.5104
+Buy,PWR,Quanta Services Inc. Common St ,12.728
+Buy,QCOM,QUALCOMM Incorporated ,14.1031
+Buy,SCG,SCANA Corporation Common ,18.2717
+Buy,SIG,Signet Jewelers Limited Common  ,4.42771
+Buy,BLK,BlackRock Inc,14.1936
+Buy,HP, Helmerich & Payne  Inc. Common  ,14.4565
+Buy,HRB, H&R Block  Inc. Common ,12.1081
+Buy,MDLZ, Mondelez International  Inc. ,16.0039
+Buy,PSX, Phillips 66 Common ,9.30446
+Buy,VIAB, Viacom Inc. ,11.7789
+Buy,CFG,Citizens Financial Group Inc.,11.2798
+Buy,SPGI,S&P Global  Inc.,2.70467
+Sell,AMAT,Applied Materials Inc. ,93.9257
+Sell,AME,AMETEK Inc. ,87.5007
+Sell,AMG,Affiliated Managers Group Inc. ,93.356
+Sell,AMGN,Amgen Inc. ,85.494
+Sell,AMP,Ameriprise Financial Inc. Comm ,89.6248
+Sell,AMZN,Amazon.com Inc. ,89.3727
+Sell,APC,Anadarko Petroleum Corporation  ,92.17
+Sell,ATVI,Activision Blizzard Inc ,80.3866
+Sell,AVB,AvalonBay Communities Inc. Com ,80.9507
+Sell,AVGO,Avago Technologies Limited ,91.4504
+Sell,AVY,Avery Dennison Corporation Comm ,83.4886
+Sell,AYI,Acuity Brands Inc (Holding Comp ,90.0011
+Sell,CELG,Celgene Corporation ,96.1611
+Sell,CERN,Cerner Corporation ,90.6062
+Sell,CHK,Chesapeake Energy Corporation C ,88.0951
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,85.4589
+Sell,CI,Cigna Corporation Common ,91.6563
+Sell,CINF,Cincinnati Financial Corporatio ,86.8957
+Sell,CL,Colgate-Palmolive Company Commo ,83.8395
+Sell,CME,CME Group Inc. ,89.3273
+Sell,CMS,CMS Energy Corporation Common S ,90.1964
+Sell,DD,E.I. du Pont de Nemours and Com ,88.4214
+Sell,DE,Deere & Company Common ,87.721
+Sell,DIS,Walt Disney Company (The) Commo ,96.5303
+Sell,DOW,Dow Chemical Company (The) Comm ,87.9713
+Sell,DTE,DTE Energy Company Common ,94.6559
+Sell,DUK,Duke Energy Corporation (Holdin ,84.2532
+Sell,DVA,DaVita Inc. Common ,85.1616
+Sell,ECL,Ecolab Inc. Common ,87.119
+Sell,ED,Consolidated Edison Inc. Commo ,81.494
+Sell,EFX,Equifax Inc. Common ,80.6533
+Sell,EIX,Edison International Common Sto ,88.5728
+Sell,EMR,Emerson Electric Company Common ,87.5302
+Sell,EQIX,Equinix Inc. ,87.2129
+Sell,FIS,Fidelity National Information S ,91.2814
+Sell,FLIR,FLIR Systems Inc. ,84.614
+Sell,FMC,FMC Corporation Common ,96.9067
+Sell,GOOG,Alphabet Inc.,86.2133
+Sell,GPN,Global Payments Inc. Common Sto ,84.5409
+Sell,GRMN,Garmin Ltd. ,81.9932
+Sell,GS,Goldman Sachs Group Inc. (The) ,90.9425
+Sell,INCY,Incyte Corporation ,87.1929
+Sell,IP,International Paper Company Com ,88.0815
+Sell,IPG,Interpublic Group of Companies ,90.0763
+Sell,ISRG,Intuitive Surgical Inc. ,86.6508
+Sell,IVZ,Invesco Plc New Common ,82.9532
+Sell,LEN,Lennar Corporation Class A Comm ,87.0107
+Sell,LLL,L-3 Communications Holdings In ,89.5905
+Sell,LMT,Lockheed Martin Corporation Com ,95.7712
+Sell,LNC,Lincoln National Corporation Co ,82.4261
+Sell,LNT,Alliant Energy Corporation Comm ,89.1848
+Sell,LOW,Lowe's Companies Inc. Common S ,95.216
+Sell,LUV,Southwest Airlines Company Comm ,81.6287
+Sell,MA,Mastercard Incorporated Common  ,94.9911
+Sell,MAR,Marriot International Common St ,91.734
+Sell,MCD,McDonald's Corporation Common S ,92.397
+Sell,MCHP,Microchip Technology Incorporat ,90.1823
+Sell,MCK,McKesson Corporation Common Sto ,95.6303
+Sell,MKC,McCormick & Company Incorporat ,93.3339
+Sell,MLM,Martin Marietta Materials Inc. ,84.33
+Sell,NVDA,NVIDIA Corporation ,85.5044
+Sell,NWSA,News Corporation ,97.2221
+Sell,OKE,ONEOK Inc. Common ,80.4315
+Sell,OXY,Occidental Petroleum Corporatio ,81.2635
+Sell,PCG,Pacific Gas & Electric Co. Comm ,81.6669
+Sell,PCLN,priceline.com Incorporated ,83.2133
+Sell,PEG,Public Service Enterprise Group ,84.3951
+Sell,PFE,Pfizer Inc. Common ,84.7553
+Sell,PPL,PP&L Corporation Common ,91.3566
+Sell,PSA,Public Storage Common ,90.6778
+Sell,PXD,Pioneer Natural Resources Compa ,86.0935
+Sell,R,Ryder System Inc. Common ,81.3857
+Sell,REG,Regency Centers Corporation Com ,91.8967
+Sell,RF,Regions Financial Corporation C ,91.2171
+Sell,RHI,Robert Half International Inc.  ,91.0759
+Sell,RHT,Red Hat Inc. Common ,87.2129
+Sell,ROP,Roper Industries Inc. Common S ,94.4041
+Sell,SBUX,Starbucks Corporation ,88.4815
+Sell,SEE,Sealed Air Corporation Common S ,86.4103
+Sell,SLG,SL Green Realty Corporation Com ,92.7359
+Sell,SNI,Scripps Networks Interactive I ,82.1837
+Sell,SNPS,Synopsys Inc. ,80.6823
+Sell,SO,Southern Company (The) Common S ,90.9967
+Sell,YUM,Yum! Brands Inc. ,80.3618
+Sell,EA, Electronic Arts Inc. ,88.1825
+Sell,ETN, Eaton Corporation Common ,88.3609
+Sell,FB, Facebook  Inc. ,93.1209
+Sell,FITB, Fifth Third Bancorp ,82.2751
+Sell,HAL, Halliburton Company Common Stoc ,86.3252
+Sell,HBAN, Huntington Bancshares Incorpora ,90.864
+Sell,HCA, HCA Holdings  Inc. Common ,80.2522
+Sell,HPQ, Hewlett-Packard Company Common  ,82.4056
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,87.0363
+Sell,LKQ, LKQ Corporation ,90.0138
+Sell,LLY, Eli Lilly and Company Common St ,90.1417
+Sell,SPY,SPDR S&P 500 ETF,94.5261
+Sell,ABBV,AbbVie Inc. ,97.6905
+Sell,EVHC,Envision Healthcare Holdings Inc. ,83.6556
+Sell,MNK,Mallinckrodt plc ,85.4132
+Sell,ZTS,Zoetis Inc. ,93.6373
+Sell,ALLE,Allegion plc Ordinary Shares ,95.8325
+Sell,GOOGL,Alphabet Inc.,89.1607
+Sell,ANTM,Anthem Inc. Common,93.5212
+Sell,QRVO,Qorvo Inc.,87.3463
+Sell,PYPL,PayPal Holdings  Inc.,94.2559
+Sell,FTV,Fortive Corporation,83.2026
+Sell,UAA,Under Armour  Inc. Class A,93.3332

@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNDT,Conduent Incorporated,,
+XNCR,Xencor Inc. ,Healthcare,Biotechnology
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+VNDA,Vanda Pharmaceuticals Inc. ,Healthcare,Biotechnology
+DRNA,Dicerna Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+MCRN,Milacron Holdings Corp.,Industrial Goods,Diversified Machinery
+MESO,Mesoblast Limited,N/A,N/A
+CSRA,CSRA Inc.,N/A,N/A
+VYGR,Voyager Therapeutics  Inc.,N/A,N/A
+DIN,DineEquity Inc Common ,Services,Restaurants
+SPSC,SPS Commerce Inc. ,Services,Business Services
+FCN,FTI Consulting Inc. Common Sto ,Services,Management Services
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+CNK,Cinemark Holdings Inc Cinemark  ,Services,Movie Production Theaters
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+GTT,GTT Communications Inc. ,Technology,Diversified Communication Services
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+VICR,Vicor Corporation ,Technology,Diversified Electronics
+FARO,FARO Technologies Inc. ,Technology,Scientific & Technical Instruments

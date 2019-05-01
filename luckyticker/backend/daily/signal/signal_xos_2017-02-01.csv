@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TPX,Tempur-pedic International Inc  ,Consumer Goods,Home Furnishings & Fixtures
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+OPB,Opus Bank ,Financial,Money Center Banks
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+CEMI, Chembio Diagnostics  Inc. ,Healthcare,Diagnostic Substances
+MCRN,Milacron Holdings Corp.,Industrial Goods,Diversified Machinery
+EVA,Enviva Partners  LP,Industrial Goods,Lumber  Wood Production
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+HRB, H&R Block  Inc. Common ,Services,Personal Services
+SBUX,Starbucks Corporation ,Services,Specialty Eateries
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+ADP,Automatic Data Processing Inc. ,Technology,Business Software & Services
+PDVW,Pacific DataVision Inc.,Technology,Application Software
+BBOX,Black Box Corporation ,Technology,Networking & Communication Devices

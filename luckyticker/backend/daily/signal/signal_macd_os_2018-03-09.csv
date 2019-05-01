@@ -1,0 +1,131 @@
+ticker,name,sector,industry
+LKQ, LKQ Corporation ,Services,Auto Parts Wholesale
+WHR,Whirlpool Corporation Common St ,Consumer Goods,Appliances
+XEL,Xcel Energy Inc. Common ,Utilities,Electric Utilities
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+ES,EnergySolutions Inc Common Stoc ,Industrial Goods,Waste Management
+HOG, Harley-Davidson  Inc. Common St ,Consumer Goods,Recreational Vehicles
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+INDL, Direxion Daily India Bull 3x Sh ,N/A,N/A
+KNOP,KNOT Offshore Partners LP ,Services,Shipping
+MIE,Cohen and Steers MLP Income and E ,N/A,N/A
+NCLH,Norwegian Cruise Line Holdings Ltd. ,N/A,N/A
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+PIN,PowerShares India Portfolio ETF,Global Equity ETF,
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+SYX,Systemax Inc. Common ,Technology,Technical & System Software
+TTP, Tortoise Pipeline & Energy Fund ,N/A,N/A
+ULST,SPDR SSgA Ultra Short Term Bond ETF ,N/A,N/A
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+EMLP, First Trust North American Ener ,N/A,N/A
+ESRT,Empire State Realty Trust Inc. ,Financial,REIT - Diversified
+IBDD,iSharesBond Mar 2023 Corporate Term ,N/A,N/A
+INDF,iShares Edge MSCI Multifactor I,,
+MPA, Blackrock MuniYield Pennsylvani ,N/A,N/A
+PBBI,PB Bancorp  Inc.,N/A,N/A
+VLP,Valero Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+AGO,Assured Guaranty Ltd. Common St ,Financial,Surety & Title Insurance
+AMLP,ALPS Alerian MLP ETF,US Equity ETF,
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+BKEPP, Blueknight Energy Partners L.P. ,N/A,N/A
+CLNS,Colony NorthStar  Inc.,,
+DOD, Deutsche Bank AG ELEMENTS Dogs  ,N/A,N/A
+ENY,Guggenheim Canadian Energy Income ETF,Global Equity ETF,
+ESSA,ESSA Bancorp Inc. ,Financial,Savings & Loans
+FGBI,First Guaranty Bancshares  Inc.,N/A,N/A
+GIFI,Gulf Island Fabrication Inc. ,Basic Materials,Oil & Gas Equipment & Services
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+INDY,iShares S&P India Nifty 50 Index Fund ETF,Global Equity ETF,
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+LMRK,Landmark Infrastructure Partner,Financial,Property Management
+MITL,Mitel Networks Corporation ,Technology,Communication Equipment
+NEP,NextEra Energy Partners LP Com,Utilities,Diversified Utilities
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+PMO, Putnam Municipal Opportunities  ,Financial,Closed-End Fund - Debt
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+TCBIP,Texas Capital BancShares Inc. ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+ZMLP,Direxion Zacks MLP High Income Shares ,N/A,N/A
+AEM,Agnico-Eagle Mines Limited Comm ,Basic Materials,Gold
+ENB,Enbridge Inc Common ,Basic Materials,Oil & Gas Pipelines
+FDC,First Data Corporation,N/A,N/A
+IFN, India Fund  Inc. (The) Common S ,N/A,N/A
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities
+YMLP, Yorkville High Income MLP Excha ,N/A,N/A
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+AMU, ETRACS Alerian MLP Index ETN ,N/A,N/A
+AWR,American States Water Company C ,Utilities,Water Utilities
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+CMCT,CIM Commerical Trust Corp. ,Financial,REIT - Industrial
+DSE,Duff &amp; Phelps Select Energy MLP,N/A,N/A
+ETE,Energy Transfer Equity L.P. En ,Basic Materials,Oil & Gas Pipelines
+FIF, First Trust Energy Infrastructu ,N/A,N/A
+GLP,Global Partners LP Global Partn ,Services,Basic Materials Wholesale
+GTN, Gray Communications Systems  In ,Services,Broadcasting - TV
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+INP, Barclays Bank Plc iPath ETNs li ,N/A,N/A
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+LVIN,Hartford Multifactor Low Volati,,
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+PBA, Pembina Pipeline Corp. Ordinary ,Basic Materials,Oil & Gas Pipelines
+RMP,Rice Midstream Partners LP Comm,N/A,N/A
+SMM, Salient Midstream Common Shares ,N/A,N/A
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+UHAL,Amerco ,Services,Rental & Leasing Services
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A
+WNC,Wabash National Corporation Com ,Consumer Goods,Trucks & Other Vehicles
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+EPD,Enterprise Products Partners L. ,Basic Materials,Independent Oil & Gas
+IIF, Morgan Stanley India Investment ,N/A,N/A
+MLPA,Global X MLP ETF,Global Equity ETF,
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+SRLP,Sprague Resources LP ,Basic Materials,Oil & Gas Refining & Marketing
+AER,Aercap Holdings N.V. Ordinary S ,Industrial Goods,Aerospace/Defense - Major Diversified
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+AMZA,InfraCap MLP ETF ,,
+BSM,Black Stone Minerals  L.P.,Basic Materials,Independent Oil & Gas
+CTR, ClearBridge Energy MLP Total Re ,N/A,N/A
+DXJC,WisdomTree Japan Hedged Capital ,,
+EPI,WisdomTree India Earnings Fund ETF,Global Equity ETF,
+FEI,First Trust MLP and Energy Inco ,N/A,N/A
+FXS, Rydex CurrencyShares Swedish Kr ,N/A,N/A
+GMLP, Golar LNG Partners LP ,N/A,N/A
+HEP, Holly Energy Partners  L.P. Com ,Basic Materials,Oil & Gas Pipelines
+INDA,iShares MSCI India Index ETF,Global Equity ETF,
+KMF, Kayne Anderson Midstream Energy ,N/A,N/A
+LCUT,Lifetime Brands Inc. ,Consumer Goods,Housewares & Accessories
+MBSD,FlexShares Disciplined Duration ,,
+NBLX,Noble Midstream Partners LP ,N/A,N/A
+NML,Neuberger Berman MLP Income Fun ,N/A,N/A
+PCTI,PC-Tel Inc. ,Technology,Diversified Communication Services
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+SRV, The Cushing MLP Total Return Fu ,N/A,N/A
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+ULH,Universal Logistics Holdings  Inc.,N/A,N/A
+WPZ,Williams Partners L.P. Common U ,Basic Materials,Specialty Chemicals
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+GLV, Clough Global Allocation Fund C ,Financial,Closed-End Fund - Equity
+INCO,EGShares India Consumer ETF,Global Equity ETF,
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+SZC, Cushing Renaissance Fund (The)  ,N/A,N/A
+AGND,WisdomTree Barclays US Aggt Bd Ngt Dur ,N/A,N/A
+AMJL,Credit Suisse X-Links Monthly P,,
+APU,AmeriGas Partners L.P. Common  ,Utilities,Gas Utilities
+BEP,Brookfield Renewable Energy Partners LP ,Utilities,Diversified Utilities
+CEM, ClearBridge Energy MLP Fund Inc ,N/A,N/A
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+ENFR,ALPS Alerian Energy Infrastructure ETF ,N/A,N/A
+FEN, First Trust Energy Income and G ,N/A,N/A
+GFY, Western Asset Variable Rate Str ,Financial,Closed-End Fund - Debt
+GOODO, Gladstone Commercial Corporatio ,N/A,N/A

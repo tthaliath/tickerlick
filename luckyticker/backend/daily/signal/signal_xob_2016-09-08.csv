@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BSM,Black Stone Minerals  L.P.,Basic Materials,Independent Oil & Gas
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+BTN,Ballantyne Strong Inc. Common  ,Consumer Goods,Photographic Equipment & Supplies
+SMP,Standard Motor Products Inc. C ,Consumer Goods,Auto Parts
+UFPT,UFP Technologies Inc. ,Consumer Goods,Packaging & Containers
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+DGICB, Donegal Group  Inc. ,Financial,Property & Casualty Insurance
+ACAS,American Capital Ltd. ,Financial,Asset Management
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+QCRH,QCR Holdings Inc. ,Financial,Regional - Southwest  Banks
+CAC,Camden National Corporation ,Financial,Regional - Northeast Banks
+FSB,Franklin Financial Network,Financial,Money Center Banks
+AUD,PIMCO Australia Bond Index Fund ETF,Fixed Income ETF,
+CQQQ,Guggenheim China Technology ETF,Global Equity ETF,
+CLCD,CoLucid Pharmaceuticals  Inc.,Healthcare,Biotechnology
+VCYT,Veracyte Inc. ,Healthcare,Biotechnology
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+AGX,Argan Inc. Common ,Industrial Goods,Heavy Construction
+ARCC, Ares Capital Corporation ,N/A,N/A
+MBUU,Malibu Boats  Inc. ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+UAL,United Continental Holdings ,Services,Major Airlines
+ABM,ABM Industries Incorporated Com ,Services,Business Services
+BLOX, Infoblox Inc. Common ,Services,Business Services
+TIVO,TiVo Inc. ,Services,CATV Systems
+NTP,Nam Tai Property Inc. ,Technology,Diversified Electronics
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+IDCC, InterDigital  Inc. ,Technology,Wireless Communications
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+AMID, American Midstream Partners  LP ,Utilities,Gas Utilities

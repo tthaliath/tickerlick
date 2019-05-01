@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+CMT,Core Molding Technologies Inc C ,Consumer Goods,Rubber & Plastics
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+OPB,Opus Bank ,Financial,Money Center Banks
+TFSL,TFS Financial Corporation ,Financial,Regional - Midwest Banks
+OLP,One Liberty Properties Inc. Co ,Financial,REIT - Diversified
+EEI,Ecology and Environment Inc. ,Industrial Goods,Waste Management
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+SCOR,comScore Inc. ,Services,Business Services
+SPSC,SPS Commerce Inc. ,Services,Business Services
+RAD,Rite Aid Corporation Common Sto ,Services,Drug Stores
+ICFI, ICF International  Inc. ,Services,Management Services
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+EZM,WisdomTree MidCap Earnings Fund ETF,US Equity ETF,
+EES,WisdomTree SmallCap Earnings Fund ETF,US Equity ETF,

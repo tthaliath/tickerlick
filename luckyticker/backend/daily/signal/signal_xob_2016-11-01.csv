@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+ADM,Archer-Daniels-Midland Company  ,Consumer Goods,Farm Products
+OCFC,OceanFirst Financial Corp. ,Financial,Savings & Loans
+OSHC,Ocean Shore Holding Co. ,Financial,Regional - Northeast Banks
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+JJT, iPath DJ-UBS Tin Subindex Total ,N/A,N/A
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits

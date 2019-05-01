@@ -1,0 +1,32 @@
+Buy,AMZN,Amazon.com Inc. ,6.17476
+Buy,COF,Capital One Financial Corporati ,14.8764
+Buy,COST,Costco Wholesale Corporation ,19.0058
+Buy,GOOG,Alphabet Inc.,5.08555
+Buy,MCD,McDonald's Corporation Common S ,14.9697
+Buy,MDT,Medtronic Inc. Common ,6.96216
+Buy,NKE,Nike Inc. Common ,6.74585
+Buy,PEP,Pepsico Inc. Common ,7.93108
+Buy,HD, Home Depot  Inc. (The) Common S ,1.86556
+Buy,HON, Honeywell International Inc. Co ,15.213
+Buy,VIX,VOLATILITY S&P 500,13.7931
+Sell,DUK,Duke Energy Corporation (Holdin ,94.5969
+Sell,EXC,Exelon Corporation Common ,93.8611
+Sell,INTC,Intel Corporation ,97.9105
+Sell,JNJ,Johnson & Johnson Common ,85.787
+Sell,MA,Mastercard Incorporated Common  ,98.7031
+Sell,MET,MetLife Inc. Common ,83.2929
+Sell,MMM,3M Company Common ,80.2584
+Sell,MON,Monsanto Company Common ,91.1113
+Sell,MRK,Merck & Company Inc. Common St ,97.4572
+Sell,MS,Morgan Stanley Common ,82.8661
+Sell,MSFT,Microsoft Corporation ,94.2087
+Sell,NEE,NextEra Energy Inc. Common Sto ,96.0917
+Sell,NVDA,NVIDIA Corporation ,96.5054
+Sell,OXY,Occidental Petroleum Corporatio ,94.5129
+Sell,PFE,Pfizer Inc. Common ,98.1165
+Sell,XOM,Exxon Mobil Corporation Common  ,82.8354
+Sell,BRK-B,Berkshire Hathaway Inc.,94.6974
+Sell,GLD, SPDR Gold Trust ,95.6743
+Sell,HAL, Halliburton Company Common Stoc ,96.9032
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,95.8337
+Sell,LLY, Eli Lilly and Company Common St ,85.0747

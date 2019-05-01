@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DIVC,Citigroup Inc. C-Tracks ETN Mil ,,
+LEDD,iPath Pure Beta Lead ETN ,,
+VMAX,REX VolMAXX Long VIX Weekly Fut,,
+MINI,Mobile Mini Inc. ,Consumer Goods,Packaging & Containers
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+ENVA,Enova International Inc. Commo,Financial,Credit Services
+SNSS,Sunesis Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HTM, U.S. Geothermal Inc. Common Sto ,Utilities,Diversified Utilities

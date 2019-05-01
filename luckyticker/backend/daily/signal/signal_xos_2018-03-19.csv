@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+MAT,Mattel Inc. ,Consumer Goods,Toys & Games
+NNC, Nuveen North Carolina Premium I ,Financial,Closed-End Fund - Debt
+BQH, Blackrock New York Municipal Bo ,Financial,Closed-End Fund - Debt
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+MTG,MGIC Investment Corporation Com ,Financial,Property & Casualty Insurance
+MVF, Blackrock MuniVest Fund  Inc. C ,Financial,Closed-End Fund - Debt
+NMZ, Nuveen Municipal High Income Op ,Financial,Closed-End Fund - Debt
+AIG,American International Group I ,Financial,Property & Casualty Insurance
+ARNA,Arena Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ACRS,Aclaris Therapeutics  Inc.,N/A,N/A
+GMLP, Golar LNG Partners LP ,N/A,N/A
+GGM,Guggenheim Credit Allocation Fu ,N/A,N/A
+KTOS,Kratos Defense & Security Solut ,Services,Security & Protection Services
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities

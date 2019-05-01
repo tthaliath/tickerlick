@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+STI,SunTrust Banks Inc. Common Sto ,Financial,Money Center Banks
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+WRB,W.R. Berkley Corporation Common ,Financial,Property & Casualty Insurance
+AFG,American Financial Group Inc.  ,Financial,Property & Casualty Insurance
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+UVE,UNIVERSAL INSURANCE HOLDINGS IN ,Financial,Property & Casualty Insurance
+CB,Chubb Corporation (The) Common  ,Financial,Property & Casualty Insurance
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+AHL,Aspen Insurance Holdings Limite ,Financial,Property & Casualty Insurance
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+PNC,PNC Financial Services Group I ,Financial,Money Center Banks
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+DRI,Darden Restaurants Inc. Common ,Services,Restaurants
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+KBWP,PowerShares KBW Property & Casualty Insurance Portfolio ETF,US Equity ETF,
+KIE,SPDR KBW Insurance ETF,US Equity ETF,

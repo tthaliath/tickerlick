@@ -1,0 +1,32 @@
+Buy,AAPL,Apple Inc. ,19.3532
+Buy,ACN,Accenture plc. Class A Ordinary ,12.3757
+Buy,BIIB,Biogen Idec Inc. ,17.1616
+Buy,DHR,Danaher Corporation Common Stoc ,8.92373
+Buy,DOW,Dow Chemical Company (The) Comm ,17.5927
+Buy,DUK,Duke Energy Corporation (Holdin ,16.1115
+Buy,GOOG,Alphabet Inc.,14.879
+Buy,MCD,McDonald's Corporation Common S ,11.1111
+Buy,NVDA,NVIDIA Corporation ,15.0396
+Buy,BRK-B,Berkshire Hathaway Inc.,16.6667
+Buy,KHC,The Kraft Heinz Company,9.26829
+Buy,SNAP,Snap Inc.,9.2416
+Sell,ALL,Allstate Corporation (The) Comm ,89.9305
+Sell,AMGN,Amgen Inc. ,85.283
+Sell,AXP,American Express Company Common ,92.5913
+Sell,BK,Bank of New York Mellon Corpora ,83.2261
+Sell,COST,Costco Wholesale Corporation ,88.6785
+Sell,CVX,Chevron Corporation Common Stoc ,90.6254
+Sell,GILD,Gilead Sciences Inc. ,86.4704
+Sell,GM,General Motors Company Common S ,93.635
+Sell,JPM,JP Morgan Chase & Co. Common St ,90.2425
+Sell,MRK,Merck & Company Inc. Common St ,87.3
+Sell,NKE,Nike Inc. Common ,89.8545
+Sell,ORCL,Oracle Corporation ,91.0817
+Sell,OXY,Occidental Petroleum Corporatio ,96.0908
+Sell,TGT,Target Corporation Common ,96.1684
+Sell,FB, Facebook  Inc. ,83.6016
+Sell,HD, Home Depot  Inc. (The) Common S ,85.5323
+Sell,HON, Honeywell International Inc. Co ,90.0223
+Sell,IBM, International Business Machines ,87.9339
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,97.4363
+Sell,PYPL,PayPal Holdings  Inc.,81.2838

@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AXJV,iShares MSCI Asia ex Japan Mini ,,
+VBND,Vident Core U.S. Bond Fund ,,
+JFC, JF China Region  Fund  Inc. Com ,Financial,Closed-End Fund - Foreign
+AIA,iShares S&P Asia 50 ETF,Global Equity ETF,
+TAO,Guggenheim China Real Estate ETF,Global Equity ETF,
+HAO,Guggenheim China Small Cap ETF,Global Equity ETF,
+FXI,iShares FTSE/Xinhua China 25 Index Fund ETF,Global Equity ETF,
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+YAO,Guggenheim China All-Cap ETF,Global Equity ETF,
+DRW,WisdomTree Global ex-U.S. Real Estate Fund ETF,Global Equity ETF,
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+RRF, WisdomTree Global Real Return F ,N/A,N/A
+GYEN,AdvisorShares Gartman Gold/Yen ETF ,N/A,N/A
+KFYP,KraneShares CSI China Five Year Plan ETF ,N/A,N/A
+GNC, GNC Holdings  Inc. Class A Comm ,Services,Drug Stores
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+PRTY,Party City Holdco Inc.,Services,Specialty Retail  Other
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores

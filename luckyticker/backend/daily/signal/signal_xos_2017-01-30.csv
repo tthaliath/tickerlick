@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+DRE,Duke Realty Corporation Common  ,Financial,REIT - Office
+FR,First Industrial Realty Trust  ,Financial,REIT - Industrial
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+PLD,ProLogis Inc. Common ,Financial,REIT - Industrial
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+DIN,DineEquity Inc Common ,Services,Restaurants
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+RAD,Rite Aid Corporation Common Sto ,Services,Drug Stores
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

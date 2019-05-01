@@ -1,0 +1,92 @@
+Buy,AWK,American Water Works Company I ,18.1319
+Buy,CAG,ConAgra Foods Inc. Common Stoc ,18.3999
+Buy,CI,Cigna Corporation Common ,4.88614
+Buy,CMS,CMS Energy Corporation Common S ,8.33218
+Buy,COF,Capital One Financial Corporati ,5.01003
+Buy,DLR,Digital Realty Trust Inc. Comm ,12.4906
+Buy,DOV,Dover Corporation Common ,7.41508
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,3.77611
+Buy,DRI,Darden Restaurants Inc. Common ,4.8247
+Buy,DTE,DTE Energy Company Common ,1.6867
+Buy,DUK,Duke Energy Corporation (Holdin ,12.9822
+Buy,ED,Consolidated Edison Inc. Commo ,12.7912
+Buy,EIX,Edison International Common Sto ,5.9639
+Buy,EMN,Eastman Chemical Company Common ,17.108
+Buy,EMR,Emerson Electric Company Common ,7.37533
+Buy,F,Ford Motor Company Common ,7.74364
+Buy,FL,Footlocker Inc. ,14.7507
+Buy,FLIR,FLIR Systems Inc. ,19.3735
+Buy,FLS,Flowserve Corporation Common St ,4.37397
+Buy,FRT,Federal Realty Investment Trust ,11.8144
+Buy,GGP,General Growth Properties Inc. ,8.51977
+Buy,GIS,General Mills Inc. Common Stoc ,14.6625
+Buy,GM,General Motors Company Common S ,12.4126
+Buy,GT,Goodyear Tire & Rubber Company  ,1.13306
+Buy,IP,International Paper Company Com ,6.59332
+Buy,IVZ,Invesco Plc New Common ,13.3902
+Buy,M,Macy's Inc Common ,16.4995
+Buy,MAC,Macerich Company (The) Common S ,4.55765
+Buy,MAT,Mattel Inc. ,4.41967
+Buy,MLM,Martin Marietta Materials Inc. ,19.2983
+Buy,NUE,Nucor Corporation Common ,7.83465
+Buy,O,Realty Income Corporation Commo ,11.9473
+Buy,PAYX,Paychex Inc. ,2.20225
+Buy,PBCT,People's United Financial Inc. ,3.11694
+Buy,PCG,Pacific Gas & Electric Co. Comm ,2.85147
+Buy,PDCO,Patterson Companies Inc. ,11.9835
+Buy,PEG,Public Service Enterprise Group ,4.04035
+Buy,PEP,Pepsico Inc. Common ,13.5776
+Buy,PFE,Pfizer Inc. Common ,15.7408
+Buy,ROK,Rockwell Automation Inc. Commo ,13.9179
+Buy,SBUX,Starbucks Corporation ,4.05313
+Buy,SEE,Sealed Air Corporation Common S ,12.9081
+Buy,SHW,Sherwin-Williams Company (The)  ,17.6393
+Buy,SNA,Snap-On Incorporated Common Sto ,18.8847
+Buy,SO,Southern Company (The) Common S ,5.26969
+Buy,HOG, Harley-Davidson  Inc. Common St ,9.81238
+Buy,HOLX, Hologic  Inc. ,13.1558
+Buy,HON, Honeywell International Inc. Co ,14.0424
+Buy,KHC,The Kraft Heinz Company,8.92808
+Buy,WRK,WestRock Company,15.6614
+Buy,HPE,Hewlett Packard Enterprise Company,17.7781
+Buy,SPGI,S&P Global  Inc.,11.3623
+Sell,ATVI,Activision Blizzard Inc ,81.5064
+Sell,AYI,Acuity Brands Inc (Holding Comp ,90.5459
+Sell,CBOE,CBOE Holdings Inc. ,95.4849
+Sell,CCI,Crown Castle International Corp ,89.1787
+Sell,CCL,Carnival Corporation Common Sto ,93.8492
+Sell,CERN,Cerner Corporation ,89.0539
+Sell,CHK,Chesapeake Energy Corporation C ,97.6162
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,95.696
+Sell,COH,Coach Inc. Common ,80.0923
+Sell,DVA,DaVita Inc. Common ,95.9456
+Sell,DVN,Devon Energy Corporation Common ,81.1446
+Sell,EFX,Equifax Inc. Common ,90.4319
+Sell,EQT,EQT Corporation Common ,87.269
+Sell,EXPD,Expeditors International of Was ,95.4652
+Sell,EXPE,Expedia Inc. ,87.1596
+Sell,FCX,Freeport-McMoRan Copper & Gold ,86.1911
+Sell,FDX,FedEx Corporation Common ,94.302
+Sell,FFIV,F5 Networks Inc. ,95.3088
+Sell,FMC,FMC Corporation Common ,89.0075
+Sell,GOOG,Alphabet Inc.,80.8981
+Sell,GPC,Genuine Parts Company Common St ,80.9808
+Sell,INTC,Intel Corporation ,92.9037
+Sell,ITW,Illinois Tool Works Inc. Common ,85.7781
+Sell,LYB,LyondellBasell Industries NV Or ,91.4007
+Sell,MAR,Marriot International Common St ,94.3899
+Sell,MAS,Masco Corporation Common ,93.1731
+Sell,MHK,Mohawk Industries Inc. Common  ,89.292
+Sell,OKE,ONEOK Inc. Common ,80.2867
+Sell,OXY,Occidental Petroleum Corporatio ,89.1317
+Sell,PG,Procter & Gamble Company (The)  ,98.9113
+Sell,RHI,Robert Half International Inc.  ,97.678
+Sell,RHT,Red Hat Inc. Common ,88.457
+Sell,SLB,Schlumberger N.V. Common ,96.7685
+Sell,HCA, HCA Holdings  Inc. Common ,90.469
+Sell,HES, Hess Corporation Common ,91.1326
+Sell,HIG, Hartford Financial Services Gro ,90.4686
+Sell,PYPL,PayPal Holdings  Inc.,84.6245
+Sell,FTV,Fortive Corporation,97.7092
+Sell,INFO,IHS Markit Ltd.,93.0612
+Sell,ARNC,Arconic Inc.,92.7572

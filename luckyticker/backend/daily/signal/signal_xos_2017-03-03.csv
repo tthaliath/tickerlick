@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+AHP,Ashford Hospitality Prime Inc. ,Financial,REIT - Hotel/Motel
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+ANIP,ANI Pharmaceuticals Inc. ,Healthcare,Biotechnology
+KTP, Corts 7.625 Pfd Common ,N/A,N/A
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+ETSY,Etsy  Inc. ,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+PHII,PHI Inc. ,Services,Air Services Other
+VLGEA,Village Super Market Inc. ,Services,Grocery Stores
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+FRGI, Fiesta Restaurant Group  Inc. ,Services,Restaurants
+ICFI, ICF International  Inc. ,Services,Management Services
+RLH,Red Lions Hotels Corporation Co ,Services,Lodging
+KR,Kroger Company (The) Common Sto ,Services,Grocery Stores
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+DIN,DineEquity Inc Common ,Services,Restaurants
+TRK,Speedway Motorsports Inc. Comm ,Services,Sporting Activities
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+TDS,Telephone and Data Systems Inc ,Technology,Wireless Communications
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized

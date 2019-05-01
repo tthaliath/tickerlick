@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FRD,Friedman Industries Inc. Common ,Basic Materials,Steel & Iron
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+SIM,Grupo Simec S.A.B. de C.V. Ame ,Basic Materials,Steel & Iron
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+PSQ,ProShares Short QQQ ETF,Commodity Based ETF,
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+QID,ProShares UltraShort QQQ ETF,Commodity Based ETF,
+ERIE,Erie Indemnity Company ,Financial,Insurance Brokers
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+STWD,STARWOOD PROPERTY TRUST INC. S ,Financial,REIT - Diversified
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+DFS,Discover Financial Services Com ,Financial,Credit Services
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+GWPH,GW Pharmaceuticals plc ,Healthcare,Drug Manufacturers - Major
+NVRO,Nevro Corp. Common,Healthcare,Medical Appliances & Equipment
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+GSBD,Goldman Sachs BDC Inc.,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+SP,SP Plus Corporation ,N/A,N/A
+AFE,American Financial Group Inc.  ,NULL,NULL
+LBTYK,Liberty Global Inc. ,NULL,NULL
+BH,Biglari Holdings Inc. ,Services,Restaurants
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+LBTYA,Liberty Global Inc. ,Services,CATV Systems
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+ETM,Entercom Communications Corpora ,Services,Broadcasting - Radio
+STN,Stantec Inc Common ,Services,Technical Services
+BOJA,Bojangles  Inc.,Services,Restaurants
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+FRP, FairPoint Communications  Inc. ,Technology,Telecom Services - Domestic

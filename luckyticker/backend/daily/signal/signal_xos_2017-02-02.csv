@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMG,Scotts Miracle-Gro Company (The ,Basic Materials,Agricultural Chemicals
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+TROW,T. Rowe Price Group Inc. ,Financial,Asset Management
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+STML,Stemline Therapeutics Inc. ,Healthcare,Biotechnology
+UFI,Unifi Inc. New Common ,Industrial Goods,Textile Industrial
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+AEK, Aegon NV 8.00% Non-Cumulative S ,N/A,N/A
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+BH,Biglari Holdings Inc. ,Services,Restaurants
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+SBUX,Starbucks Corporation ,Services,Specialty Eateries
+SPOK,Spok Holdings Inc.,Technology,Wireless Communications
+BBOX,Black Box Corporation ,Technology,Networking & Communication Devices
+CSGS,CSG Systems International Inc. ,Technology,Business Software & Services
+CTSH,Cognizant Technology Solutions  ,Technology,Business Software & Services

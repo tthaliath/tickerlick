@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+NR,Newpark Resources Inc. Common  ,Basic Materials,Oil & Gas Equipment & Services
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+AGM,Federal Agricultural Mortgage C ,Financial,Credit Services
+CCBG,Capital City Bank Group ,Financial,Regional - Mid-Atlantic Banks
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+AJRD,Aerojet Rocketdyne Holdings  Inc.,Industrial Goods,Aerospace/Defense - Major Diversified
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+ITRN,Ituran Location and Control Ltd ,NULL,NULL
+JBHT,J.B. Hunt Transport Services I ,Services,Trucking
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services

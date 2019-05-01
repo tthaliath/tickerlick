@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NWPX,Northwest Pipe Company ,Basic Materials,Steel & Iron
+SXC, SunCoke Energy  Inc. Common Sto ,Basic Materials,Steel & Iron
+FELP,Foresight Energy LP Common Unit,Basic Materials,Nonmetallic Mineral Mining
+SD,Sandridge Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+MBVT,Merchants Bancshares Inc. ,Financial,Regional - Northeast Banks
+KEY,KeyCorp Common ,Financial,Money Center Banks
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+LGCYP,Legacy Reserves LP,N/A,N/A
+LGCYO,Legacy Reserves LP,N/A,N/A
+MCRO, IQ Hedge Macro Tracker ETF ,N/A,N/A
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+EVDY,Everyday Health Inc. ,Technology,Internet Information Providers
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

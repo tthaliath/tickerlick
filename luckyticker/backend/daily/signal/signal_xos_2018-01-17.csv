@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WTID,UBS ETRACS - ProShares Daily 3x,,
+INSE,Inspired Entertainment  Inc.,,
+DWT,VelocityShares 3x Inverse Crude,,
+OILD,ProShares UltraPro 3x Short Cru,,
+ALCO,Alico Inc. ,Consumer Goods,Farm Products
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+WRE,Washington Real Estate Investme ,Financial,REIT - Retail
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+PDT, John Hancock Premium Dividend F ,N/A,N/A
+SIEN,Sientra Inc.,N/A,N/A
+EUFX,ProShares Short Euro,US Equity Income ETF,

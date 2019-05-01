@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+SXT,Sensient Technologies Corporati ,Basic Materials,Specialty Chemicals
+AXTA,Axalta Coating Systems Ltd. Com,Basic Materials,Specialty Chemicals
+YXI,ProShares Short FTSE China 25 ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+OFC,Corporate Office Properties Tru ,Financial,REIT - Office
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+BANF,BancFirst Corporation ,Financial,Regional - Southwest  Banks
+EIS,iShares MSCI Israel Capped Investable Market Index Fund ETF,Global Equity ETF,
+INO,Inovio Pharmaceuticals Inc. Co ,Healthcare,Biotechnology
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+PRGO,Perrigo Company ,Healthcare,Drug Related Products
+AMED,Amedisys Inc ,Healthcare,Home Health Care
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+RRGB,Red Robin Gourmet Burgers Inc. ,Services,Restaurants
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+FRGI, Fiesta Restaurant Group  Inc. ,Services,Restaurants
+EROS,Eros International Plc ,Services,Movie Production
+IVAC,Intevac Inc. ,Technology,Diversified Electronics
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+KLAC,KLA-Tencor Corporation ,Technology,Semiconductor Equipment & Materials
+TTMI,TTM Technologies Inc. ,Technology,Printed Circuit Boards
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+IMMR, Immersion Corporation ,Technology,Computer Peripherals
+XHS,SPDR S&P Health Care Services ETF,US Equity ETF,

@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+POL,PolyOne Corporation Common Stoc ,Basic Materials,Specialty Chemicals
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+WHR,Whirlpool Corporation Common St ,Consumer Goods,Appliances
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+PKBK,Parke Bancorp Inc. ,Financial,Regional - Northeast Banks
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+EIRL,iShares MSCI Ireland Capped Investable Market Index Fund ETF,Global Equity ETF,
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+NVET,Nexvet Biopharma Public Limited Company,Healthcare,Biotechnology
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+BCR,C.R. Bard Inc. Common ,Healthcare,Medical Instruments & Supplies
+TMO,Thermo Fisher Scientific Inc Co ,Healthcare,Medical Instruments & Supplies
+OFLX,Omega Flex Inc. ,Industrial Goods,Industrial Equipment & Components
+IR,Ingersoll-Rand plc (Ireland) ,Industrial Goods,Diversified Machinery
+IEX, IDEX Corporation Common ,Industrial Goods,Diversified Machinery
+MCD,McDonald's Corporation Common S ,Services,Restaurants
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+SBUX,Starbucks Corporation ,Services,Specialty Eateries
+WYN,Wyndham Worldwide Corp Common   ,Services,Lodging
+SIX,Six Flags Entertainment Corpora ,Services,General Entertainment
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+OLLI,Ollies Bargain Outlet Holdings  Inc.,Services,Discount  Variety Stores
+FISV,Fiserv Inc. ,Services,Business Services
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+TSS,Total System Services Inc. Com ,Services,Business Services
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+OOMA,Ooma  Inc.,Technology,Diversified Communication Services
+IHI,iShares Dow Jones U.S. Medical Devices Index Fund ETF,US Equity ETF,
+YORW,The York Water Company ,Utilities,Water Utilities

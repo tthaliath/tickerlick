@@ -1,0 +1,40 @@
+Buy,ALL,Allstate Corporation (The) Comm ,17.4842
+Buy,CSCO,Cisco Systems Inc. ,17.7597
+Buy,DAL,Delta Air Lines Inc. (New) Comm ,17.8139
+Buy,EXC,Exelon Corporation Common ,6.26745
+Buy,GD,General Dynamics Corporation Co ,12.2837
+Buy,GE,General Electric Company Common ,4.54546
+Buy,JNJ,Johnson & Johnson Common ,18.3404
+Buy,KO,Coca-Cola Company (The) Common  ,16.2939
+Buy,MCD,McDonald's Corporation Common S ,12.5929
+Buy,MS,Morgan Stanley Common ,7.40741
+Buy,MSFT,Microsoft Corporation ,11.4431
+Buy,PM,Philip Morris International Inc ,11.4451
+Buy,SPG,Simon Property Group Inc. Comm ,8.87128
+Buy,TGT,Target Corporation Common ,13.3313
+Buy,HON, Honeywell International Inc. Co ,16.7726
+Buy,AAL,American Airlines Group Inc. ,15.5649
+Buy,FOX,Twenty-First Century Fox Inc. ,15.7203
+Buy,KHC,The Kraft Heinz Company,17.9729
+Sell,AAPL,Apple Inc. ,81.6302
+Sell,AMZN,Amazon.com Inc. ,91.244
+Sell,BAC,Bank of America Corporation Com ,81.1115
+Sell,BMY,Bristol-Myers Squibb Company Co ,84.362
+Sell,CMCSA,Comcast Corporation ,82.734
+Sell,COP,ConocoPhillips Common ,90.311
+Sell,DIS,Walt Disney Company (The) Commo ,97.6565
+Sell,DOW,Dow Chemical Company (The) Comm ,86.6667
+Sell,EMR,Emerson Electric Company Common ,89.1184
+Sell,GM,General Motors Company Common S ,97.732
+Sell,GOOG,Alphabet Inc.,97.3544
+Sell,INTC,Intel Corporation ,83.7618
+Sell,MA,Mastercard Incorporated Common  ,88.1398
+Sell,NKE,Nike Inc. Common ,82.9436
+Sell,NVDA,NVIDIA Corporation ,87.6895
+Sell,OXY,Occidental Petroleum Corporatio ,93.5982
+Sell,SLB,Schlumberger N.V. Common ,91.9131
+Sell,XOM,Exxon Mobil Corporation Common  ,94.8065
+Sell,BLK,BlackRock Inc,80.3962
+Sell,FB, Facebook  Inc. ,89.5516
+Sell,HAL, Halliburton Company Common Stoc ,95.7176
+Sell,BABA,Alibaba Group Holding Limited A,90.1069

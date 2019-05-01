@@ -1,0 +1,91 @@
+Buy,AKAM,Akamai Technologies Inc. ,5.96412
+Buy,ALXN,Alexion Pharmaceuticals Inc. ,7.89926
+Buy,AMAT,Applied Materials Inc. ,7.90676
+Buy,AMD,Advanced Micro Devices Inc. Co ,9.40192
+Buy,AMG,Affiliated Managers Group Inc. ,16.0961
+Buy,AMGN,Amgen Inc. ,16.1927
+Buy,AMZN,Amazon.com Inc. ,15.3151
+Buy,APD,Air Products and Chemicals Inc ,1.17072
+Buy,ARE,Alexandria Real Estate Equities ,16.2152
+Buy,ATVI,Activision Blizzard Inc ,6.90925
+Buy,AVGO,Avago Technologies Limited ,10.0838
+Buy,CHD,Church & Dwight Company Inc. C ,7.40756
+Buy,CHK,Chesapeake Energy Corporation C ,13.7039
+Buy,CINF,Cincinnati Financial Corporatio ,19.5296
+Buy,CLX,Clorox Company (The) Common Sto ,11.4988
+Buy,CNC,Centene Corporation Common Stoc ,11.2863
+Buy,EFX,Equifax Inc. Common ,19.6779
+Buy,EMR,Emerson Electric Company Common ,9.87652
+Buy,EQIX,Equinix Inc. ,8.82138
+Buy,EQT,EQT Corporation Common ,18.1814
+Buy,FLR,Fluor Corporation Common ,16.2391
+Buy,FLS,Flowserve Corporation Common St ,5.26298
+Buy,GGP,General Growth Properties Inc. ,4.44461
+Buy,GILD,Gilead Sciences Inc. ,11.0425
+Buy,GM,General Motors Company Common S ,4.63024
+Buy,GOOG,Alphabet Inc.,11.2643
+Buy,GPC,Genuine Parts Company Common St ,15.088
+Buy,GPN,Global Payments Inc. Common Sto ,3.99223
+Buy,GRMN,Garmin Ltd. ,1.51551
+Buy,GS,Goldman Sachs Group Inc. (The) ,8.38548
+Buy,GT,Goodyear Tire & Rubber Company  ,8.57117
+Buy,INCY,Incyte Corporation ,7.86644
+Buy,INTU,Intuit Inc. ,8.83375
+Buy,IRM,Iron Mountain Incorporated (Del ,11.8517
+Buy,IT,Gartner Inc. Common ,8.16349
+Buy,MHK,Mohawk Industries Inc. Common  ,7.4072
+Buy,MLM,Martin Marietta Materials Inc. ,7.84839
+Buy,NOC,Northrop Grumman Corporation Co ,14.8838
+Buy,NSC,Norfolk Southern Corporation Co ,8.93374
+Buy,NVDA,NVIDIA Corporation ,11.5076
+Buy,O,Realty Income Corporation Commo ,5.80811
+Buy,ORCL,Oracle Corporation ,9.21106
+Buy,PCLN,priceline.com Incorporated ,14.0372
+Buy,PG,Procter & Gamble Company (The)  ,16.8842
+Buy,PWR,Quanta Services Inc. Common St ,11.2205
+Buy,PX,Praxair Inc. Common ,15.7205
+Buy,RCL,Royal Caribbean Cruises Ltd. Co ,2.0495
+Buy,RJF,Raymond James Financial Inc. C ,17.7461
+Buy,RL,Ralph Lauren Corporation Common ,5.66509
+Buy,ROP,Roper Industries Inc. Common S ,12.6003
+Buy,RRC,Range Resources Corporation Com ,13.4921
+Buy,SCHW,Charles Schwab Corporation (The ,14.3285
+Buy,SHW,Sherwin-Williams Company (The)  ,16.6145
+Buy,SJM,J.M. Smucker Company (The) New  ,15.3713
+Buy,SNI,Scripps Networks Interactive I ,15.3239
+Buy,ABBV,AbbVie Inc. ,14.9487
+Buy,COTY,Coty Inc. ,2.25975
+Buy,ALLE,Allegion plc Ordinary Shares ,16.6667
+Buy,GOOGL,Alphabet Inc.,5.06526
+Buy,KHC,The Kraft Heinz Company,16.1401
+Buy,PYPL,PayPal Holdings  Inc.,6.48327
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,14.2455
+Buy,HPE,Hewlett Packard Enterprise Company,19.2746
+Buy,WLTW,Willis Towers Watson Public Limited Company,9.45867
+Buy,CSRA,CSRA Inc.,3.70337
+Buy,SPGI,S&P Global  Inc.,7.96379
+Buy,FTV,Fortive Corporation,11.8515
+Buy,INFO,IHS Markit Ltd.,9.21156
+Sell,ALL,Allstate Corporation (The) Comm ,82.6348
+Sell,AN,AutoNation Inc. Common ,88.4771
+Sell,AVY,Avery Dennison Corporation Comm ,93.7967
+Sell,AWK,American Water Works Company I ,86.6945
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,82.5695
+Sell,CMA,Comerica Incorporated Common St ,96.289
+Sell,CMCSA,Comcast Corporation ,85.3417
+Sell,CNP,CenterPoint Energy Inc (Holdin ,95.4244
+Sell,ED,Consolidated Edison Inc. Commo ,94.9484
+Sell,EIX,Edison International Common Sto ,98.9905
+Sell,EL,Estee Lauder Companies Inc. (T ,80.7333
+Sell,GIS,General Mills Inc. Common Stoc ,95.5742
+Sell,MET,MetLife Inc. Common ,89.9458
+Sell,NKE,Nike Inc. Common ,83.2618
+Sell,NOV,National Oilwell Varco Inc. Co ,84.29
+Sell,PBCT,People's United Financial Inc. ,83.7126
+Sell,R,Ryder System Inc. Common ,88.3186
+Sell,RSG,Republic Services Inc. Common  ,88.8889
+Sell,SIG,Signet Jewelers Limited Common  ,82.9487
+Sell,SLB,Schlumberger N.V. Common ,83.8123
+Sell,HRB, H&R Block  Inc. Common ,86.5587
+Sell,NAVI,Navient Corporation ,90.7993
+Sell,SYF,Synchrony Financial Common Stoc,91.1615

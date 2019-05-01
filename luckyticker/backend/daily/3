@@ -1,0 +1,8 @@
+select "Buy", a.ticker from secpricelast a where a.ema_diff_5_35 > a.ema_macd_5 and a.price_date = '2017-10-04' and exists (select 1 from secpricelast p where p.ticker = a.ticker and p.price_date = "2017-10-03" and p.ema_diff_5_35 < p.ema_macd_5)
+union
+select "Sell", a.ticker from secpricelast a where a.ema_diff_5_35 < a.ema_macd_5 and a.price_date = '2017-10-04' and exists (select 1 from secpricelast p where p.ticker = a.ticker nnd p.price_date = "2017-10-03" and p.ema_diff_5_35 > p.ema_macd_5) order by a.ticker asc;
+
+
+select "Buy", a.ticker from secpricelast a where a.ema_diff > a.ema_macd_9 and a.price_date = '2017-10-04' and exists (select 1 from secpricelast p where p.ticker = a.ticker and p.price_date = "2017-10-03" and p.ema_diff < p.ema_macd_9)
+union
+select "Sell", a.ticker from secpricelast a where a.ema_diff < a.ema_macd_9 and a.price_date = '2017-10-04' and exists (select 1 from secpricelast p where p.ticker = a.ticker and p.price_date = "2017-10-03" and p.ema_diff > p.ema_macd_9);

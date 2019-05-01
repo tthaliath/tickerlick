@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OILU,ProShares UltraPro 3x Crude Oil,,
+CADE,Cadence Bancorporation Class A,,
+GUSH,Direxion Daily S&P Oil & Gas Ex,,
+DEWJ,iShares Adaptive Currency Hedge,,
+TCF,TCF Financial Corporation,,
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+MPC, Marathon Petroleum Corporation  ,Basic Materials,Oil & Gas Refining & Marketing
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+HFC, HollyFrontier Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+CRC,Chromcraft Revington Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+CAJ,Canon Inc. American Depositary ,Consumer Goods,Photographic Equipment & Supplies
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+IBKR, Interactive Brokers Group  Inc. ,Financial,Investment Brokerage - National
+ALL,Allstate Corporation (The) Comm ,Financial,Property & Casualty Insurance
+IOO,iShares S&P Global 100 Index Fund ETF,Global Equity ETF,
+FJP,First Trust Japan AlphaDEX ETF,Global Equity ETF,
+VPL,Vanguard Pacific ETF,Global Equity ETF,
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+AEGN, Aegion Corp ,Industrial Goods,Heavy Construction
+TDY,Teledyne Technologies Incorpora ,Industrial Goods,Aerospace/Defense Products & Services
+FTCS,First Trust Capital Strength ET ,N/A,N/A
+DBGR,db X-trackers MSCI Germany Hedged Eq ETF ,N/A,N/A
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+KFRC,Kforce Inc. ,Services,Staffing & Outsourcing Services
+NATH,Nathan's Famous Inc. ,Services,Restaurants
+RDWR,Radware Ltd. ,Technology,Information Technology Services
+QLYS, Qualys  Inc. ,Technology,Application Software
+ORBK,Orbotech Ltd. ,Technology,Diversified Electronics
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line
+IEO,iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund ETF,US Equity ETF,

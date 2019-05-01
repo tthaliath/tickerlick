@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YTRA,Yatra Online  Inc. - Ordinary S,,
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+SSG,ProShares UltraShort Semiconductors ETF,Commodity Based ETF,
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+ETH,Ethan Allen Interiors Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+DBD,Diebold Incorporated Common St ,Consumer Goods,Business Equipment
+PKG,Packaging Corporation of Americ ,Consumer Goods,Packaging & Containers
+ANDE,The Andersons Inc. ,Consumer Goods,Farm Products
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+AMBC,Ambac Financial Group Inc. ,Financial,Surety & Title Insurance
+PKBK,Parke Bancorp Inc. ,Financial,Regional - Northeast Banks
+AI,Arlington Asset Investment Corp ,Financial,Investment Brokerage - Regional
+EMHY,iShares Emerging Markets High Yield Bond ETF,Fixed Income ETF,
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CSII,Cardiovascular Systems Inc. ,Healthcare,Medical Appliances & Equipment
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+SOXS, Direxion Daily Semiconductor Be ,N/A,N/A
+NASH,LocalShares Nashville Area ETF ,N/A,N/A
+JRVR,James River Group Holdings Ltd,N/A,N/A
+HJV, MS Structured Asset Corp MS Str ,N/A,N/A
+IRL, New Ireland Fund  Inc (The) Com ,N/A,N/A
+ERY, Direxion Energy Bear 3X Shares ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+TWLO,Twilio  Inc.,N/A,N/A
+JBR,Select Asset Inc. Corporate Bac ,N/A,N/A
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+NVTR,Nuvectra Corporation,N/A,N/A
+SRCLP,Stericycle  Inc.,N/A,N/A
+VWOB,Vanguard Emerg Mkts Govt Bd Idx ETF ,N/A,N/A
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+MGI,Moneygram International Inc. N ,Services,Business Services
+RRGB,Red Robin Gourmet Burgers Inc. ,Services,Restaurants
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+GPX,GP Strategies Corporation Commo ,Services,Education & Training Services
+TWX,Time Warner Inc. New Common Sto ,Services,Entertainment - Diversified
+RDI,Reading International Inc ,Services,Movie Production Theaters
+RRTS,Roadrunner Transportation Syste ,Services,Air Delivery & Freight Services
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services

@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DGRO,iShares Core Dividend Growth ET ,,
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+CIM,Chimera Investment Corporation  ,Financial,REIT - Diversified
+SBY,Silver Bay Realty Trust Corp. ,Financial,REIT - Residential
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+XBIT,XBiotech  Inc.,Healthcare,Biotechnology
+IBP,Installed Building Products Inc. ,Industrial Goods,General Building Materials
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+LMIA,LMI Aerospace Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+BWXT,BWX Technologies  Inc.,Industrial Goods,Aerospace/Defense Products & Services
+SP,SP Plus Corporation ,N/A,N/A
+GHC,Graham Holdings ,N/A,N/A
+CIGI,Colliers International Group Inc.,N/A,N/A
+FIBG,Credit Suisse FI Enhanced Big Cap Gr ETN ,N/A,N/A
+DOD, Deutsche Bank AG ELEMENTS Dogs  ,N/A,N/A
+WTW,Weight Watchers International I ,Services,Personal Services
+BURL,Burlington Stores Inc. ,Services,Discount
+NTRI,NutriSystem Inc ,Services,Consumer Services
+PNTR, Pointer Telocation Ltd. ,Services,Security & Protection Services
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments
+MENT,Mentor Graphics Corporation ,Technology,Technical & System Software
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+IHI,iShares Dow Jones U.S. Medical Devices Index Fund ETF,US Equity ETF,
+VIXH,First Trust CBOE S&amp;P 500 VIX Tail Hedge ETF,US Equity ETF,
+IVW,iShares S&P 500 Growth Index Fund ETF,US Equity ETF,
+VOOG,Vanguard S&P 500 Growth ETF,US Equity ETF,
+FDL,First Trust Morningstar ETF,US Equity ETF,
+SPYG,SPDR S&P 500 Growth ETF,US Equity ETF,
+USMV,iShares MSCI USA Minimum Volatility Index Fund ETF,US Equity ETF,

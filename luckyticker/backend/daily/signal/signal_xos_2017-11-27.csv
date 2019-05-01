@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VTEB,Vanguard Tax-Exempt Bond ETF,,
+BSWN,UBS AG VelocityShares VIX Tail,,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+ORM,Owens Realty Mortgage Inc. ,Financial,REIT - Office
+BFO, Blackrock Florida Municipal 202 ,Financial,Closed-End Fund - Debt
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+NYV, Nuveen New York Municipal Value ,N/A,N/A
+AEUA,Anadarko Petroleum Corporation,N/A,N/A
+SZO, PowerShares DB Crude Oil Short  ,N/A,N/A
+CRTO,Criteo SA ,Technology,Internet Information Providers
+DON,WisdomTree MidCap Dividend Fund ETF,US Equity ETF,

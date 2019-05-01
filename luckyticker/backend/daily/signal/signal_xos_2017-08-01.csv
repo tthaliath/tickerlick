@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+THRM, Gentherm Inc ,Consumer Goods,Auto Parts
+JCI,Johnson Controls Inc. Common S ,Consumer Goods,Auto Parts
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+WHR,Whirlpool Corporation Common St ,Consumer Goods,Appliances
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+FSB,Franklin Financial Network,Financial,Money Center Banks
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+LPNT,LifePoint Hospitals Inc. ,Healthcare,Hospitals
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+ABAX,ABAXIS Inc. ,Healthcare,Diagnostic Substances
+AVHI, A V Homes  Inc. ,Industrial Goods,Residential Construction
+ETN, Eaton Corporation Common ,Industrial Goods,Industrial Electrical Equipment
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+HZO, MarineMax  Inc. Common ,Services,Specialty Retail  Other
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+RRGB,Red Robin Gourmet Burgers Inc. ,Services,Restaurants
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+PCMI,PCM Inc. ,Services,Specialty Retail
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+EGOV,NIC Inc. ,Technology,Application Software
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+CLS,Celestica Inc. Common ,Technology,Printed Circuit Boards

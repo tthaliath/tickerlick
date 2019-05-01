@@ -1,0 +1,54 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TSE,Trinseo S.A. Ordinary Shares,Basic Materials,Synthetics
+DK,Delek US Holdings Inc. Common  ,Basic Materials,Oil & Gas Refining & Marketing
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+IOSP,Innospec Inc. ,Basic Materials,Specialty Chemicals
+SAA,ProShares Ultra SmallCap600 ETF,Commodity Based ETF,
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+ICON, Iconix Brand Group  Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+INN, Summit Hotel Properties  Inc. C ,Financial,Real Estate Development
+GSBC,Great Southern Bancorp Inc. ,Financial,Regional - Southwest  Banks
+BCBP,BCB Bancorp Inc. (NJ) ,Financial,Regional - Northeast Banks
+PRA,ProAssurance Corporation Common ,Financial,Property & Casualty Insurance
+FCB,FCB Financial Holdings Inc. Cl,Financial,Regional - Southeast Banks
+PFIS,Peoples Financial Services Corp. ,Financial,Regional - Northeast Banks
+CHCO,City Holding Company ,Financial,Regional - Mid-Atlantic Banks
+BOKF,BOK Financial Corporation ,Financial,Regional - Southwest  Banks
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+LTC,LTC Properties Inc. Common Sto ,Financial,REIT - Healthcare Facilities
+TCFC,The Community Financial Corp. ,Financial,Regional - Pacific Banks
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+PCRX, Pacira Pharmaceuticals  Inc. ,Healthcare,Drug Manufacturers - Major
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+TGLS,Tecnoglass Inc. ,Industrial Goods,General Building Materials
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+SHPG, Shire plc ,N/A,N/A
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+GNL,Global Net Lease  Inc.,N/A,N/A
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+MSTR,MicroStrategy Incorporated ,Technology,Business Software & Services
+RST,Rosetta Stone Rosetta Stone In ,Technology,Multimedia & Graphics Software
+QTM,Quantum Corporation Common Stoc ,Technology,Data Storage Devices
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+CLS,Celestica Inc. Common ,Technology,Printed Circuit Boards
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+LXFT,Luxoft Holding Inc. ,Technology,Application Software
+IWN,iShares Russell 2000 Value ETF,US Equity ETF,
+VTWV,Vanguard Russell 2000 Value ETF,US Equity ETF,

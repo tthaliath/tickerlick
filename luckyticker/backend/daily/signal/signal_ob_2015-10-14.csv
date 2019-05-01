@@ -1,0 +1,4 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DD,E.I. du Pont de Nemours and Com ,Basic Materials,2015-10-14,56.4,0.598169803619385,81.3108,72.889,3.73428,14.9371175765991
+ECL,Ecolab Inc. Common ,Consumer Goods,2015-10-14,121.34,0.710107803344727,97.1201,70.7118,4.64016,18.5606307983398
+INTC,Intel Corporation ,Technology,2015-10-14,32.8,0.14399528503418,91.9357,72.4808,1.50151,6.00602769851685

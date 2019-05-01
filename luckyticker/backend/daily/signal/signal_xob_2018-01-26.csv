@@ -1,0 +1,53 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VIGI,Vanguard International Dividend,,
+EFAX,SPDR MSCI EAFE Fossil Fuel Rese,,
+EMDV,ProShares MSCI Emerging Markets,,
+FLQD,Franklin LibertyQ Global Divide,,
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+MMM,3M Company Common ,Conglomerates,Conglomerates
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+CII, Blackrock Capital and Income Fu ,Financial,Closed-End Fund - Equity
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+IBKC, IBERIABANK Corporation ,Financial,Regional - Southeast Banks
+CACC,Credit Acceptance Corporation ,Financial,Credit Services
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+WY,Weyerhaeuser Company Common Sto ,Financial,REIT - Industrial
+BCS,Barclays PLC Common ,Financial,Foreign Money Center Banks
+AJG,Arthur J. Gallagher & Co. Commo ,Financial,Insurance Brokers
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Fixed Income ETF,
+EMLC,Market Vectors Emerging Markets Local Currency Bond ETF,Fixed Income ETF,
+EWX,SPDR S&P Emerging Markets Small Cap ETF,Global Equity ETF,
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+EIDO,iShares MSCI Indonesia Investable Market Index Fund ETF,Global Equity ETF,
+EZA,iShares MSCI South Africa Index Fund ETF,Global Equity ETF,
+FPA,First Trust Asia Pacific Ex-Japan AlphaDEX ETF,Global Equity ETF,
+CBIO,Catalyst Biosciences  Inc.,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+NVS,Novartis AG Common ,Healthcare,Drug Manufacturers - Major
+OPGN,OpGen  Inc.,Healthcare,Medical Laboratories & Research
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+RTN,Raytheon Company Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+ITW,Illinois Tool Works Inc. Common ,Industrial Goods,Diversified Machinery
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+GD,General Dynamics Corporation Co ,Industrial Goods,Aerospace/Defense Products & Services
+PHDG,PowerShares SandP 500 Downside Hdg ,N/A,N/A
+FXCH, CurrencyShares Chinese Renminbi ,N/A,N/A
+EDOG,ALPS Emerging Sector Dividend Dogs ETF ,N/A,N/A
+WDIV,SPDR SandP Global Dividend ETF ,N/A,N/A
+BIF, Boulder Growth & Income Fund  I ,N/A,N/A
+EMCG,WisdomTree EM Consumer Growth Fund ,N/A,N/A
+FXB, Rydex CurrencyShares British Po ,N/A,N/A
+KURA,Kura Oncology  Inc.,N/A,N/A
+FICO,Fair Isaac Incorporated Commo ,Services,Business Services
+ODFL,Old Dominion Freight Line Inc. ,Services,Trucking
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+MELI,MercadoLibre Inc. ,Services,Business Services
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+CSPI,CSP Inc. ,Technology,Business Software & Services
+SHOP,Shopify Inc.,Technology,Application Software
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software

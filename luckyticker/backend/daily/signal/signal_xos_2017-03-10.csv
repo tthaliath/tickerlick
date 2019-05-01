@@ -1,0 +1,48 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BSJM,Guggenheim BulletShares 2022 Hi ,,
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+BHI,Baker Hughes Incorporated Commo ,Basic Materials,Oil & Gas Equipment & Services
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+WEYS,Weyco Group Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+BPOP,Popular Inc. ,Financial,Foreign Regional Banks
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+WMC, Western Asset Mortgage Capital  ,Financial,Mortgage Investment
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+AKR,Acadia Realty Trust Common Stoc ,Financial,Property Management
+NHI,National Health Investors Inc. ,Financial,REIT - Healthcare Facilities
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+AFH,Atlas Financial Holdings Inc. ,Financial,Property & Casualty Insurance
+RM, Regional Management Corp. Commo ,Financial,Credit Services
+LAND,Gladstone Land Corporation ,Financial,REIT - Diversified
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Fund ETF,Fixed Income ETF,
+TRIB,Trinity Biotech plc ,Healthcare,Diagnostic Substances
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+CSTM,Constellium N.V ,Industrial Goods,Metal Fabrication
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+BNO, United States Brent Oil Fund  L ,N/A,N/A
+KTP, Corts 7.625 Pfd Common ,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+GSC, Goldman Sachs Connect S&P Enhan ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+USL, United States 12 Month Oil ,N/A,N/A
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+GPX,GP Strategies Corporation Commo ,Services,Education & Training Services
+VLGEA,Village Super Market Inc. ,Services,Grocery Stores
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+TISI,Team Inc. Common ,Services,Business Services
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+FLDM, Fluidigm Corporation ,Technology,Scientific & Technical Instruments

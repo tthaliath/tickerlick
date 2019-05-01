@@ -1,0 +1,164 @@
+ticker,name,sector,industry
+MRO,Marathon Oil Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+NSC,Norfolk Southern Corporation Co ,Services,Railroads
+HES, Hess Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+JBHT,J.B. Hunt Transport Services I ,Services,Trucking
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+LKQ, LKQ Corporation ,Services,Auto Parts Wholesale
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+AIG,American International Group I ,Financial,Property & Casualty Insurance
+CXO,Concho Resources Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+UPS,United Parcel Service Inc. Com ,Services,Air Delivery & Freight Services
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+COP,ConocoPhillips Common ,Basic Materials,Major Integrated Oil & Gas
+DVN,Devon Energy Corporation Common ,Basic Materials,Independent Oil & Gas
+LILA,Liberty LiLAC Group,N/A,N/A
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+MINI,Mobile Mini Inc. ,Consumer Goods,Packaging & Containers
+ODFL,Old Dominion Freight Line Inc. ,Services,Trucking
+ORN,Orion Marine Group Inc Common ,Industrial Goods,Heavy Construction
+PETX,Aratana Therapeutics Inc. ,Healthcare,Biotechnology
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+REI,Ring Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+SAIA,Saia Inc. ,Services,Trucking
+SN, Sanchez Energy Corporation Comm ,Basic Materials,Independent Oil & Gas
+TD,Toronto Dominion Bank (The) Com ,Financial,Money Center Banks
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+XME,SPDR S&P Metals and Mining ETF,US Equity ETF,
+YRCW,YRC Worldwide Inc. ,Services,Trucking
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+INTG,The InterGroup Corporation ,Financial,Property Management
+RUN,Sunrun,N/A,N/A
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+APLE,Apple Hospitality REIT  Inc.,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+BSQR,BSQUARE Corporation ,Technology,Application Software
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron
+CRC,Chromcraft Revington Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+DDS,Dillard's Inc. Common ,Services,Department Stores
+DVP,Deep Value ETF ,,
+ENLK,EnLink Midstream Partners LP ,Basic Materials,Independent Oil & Gas
+FBP,First BanCorp. New Common ,Financial,Foreign Regional Banks
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+FXN,First Trust Energy AlphaDEX Fund ETF,US Equity ETF,
+IEO,iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund ETF,US Equity ETF,
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+MDLY,Medley Management Inc. Class A,N/A,N/A
+MLPA,Global X MLP ETF,Global Equity ETF,
+NSM,Nationstar Mortgage Holdings In ,Financial,Mortgage Investment
+OIH,Market Vectors Oil Services ETF,US Equity ETF,
+PAY,Verifone Systems Inc. Common S ,Consumer Goods,Business Equipment
+PFIS,Peoples Financial Services Corp. ,Financial,Regional - Northeast Banks
+PWOD,Penns Woods Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+SBR,Sabine Royalty Trust Common Sto ,Financial,Diversified Investments
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+VDE,Vanguard Energy ETF,US Equity ETF,
+WDR,Waddell & Reed Financial Inc.  ,Financial,Asset Management
+XON,Intrexon Corporation ,Healthcare,Biotechnology
+BGR, BlackRock Energy and Resources  ,Financial,Closed-End Fund - Equity
+GSP, Barclays Bank PLC iPath Exchang ,N/A,N/A
+IRET,Investors Real Estate Trust ,Financial,REIT - Retail
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+AGA, DB Agriculture Short ETN DB Agr ,N/A,N/A
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+ATHN,athenahealth Inc. ,Services,Business Services
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+BPOP,Popular Inc. ,Financial,Foreign Regional Banks
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+CMD,ProShares UltraShort DJ-UBS Commodity ETF,Commodity Based ETF,
+CRT,Cross Timbers Royalty Trust Com ,Basic Materials,Oil & Gas Drilling & Exploration
+DIG,ProShares Ultra Oil & Gas ETF,Commodity Based ETF,
+DWSN,Dawson Geophysical Company ,Basic Materials,Oil & Gas Equipment & Services
+ERF,Enerplus Corporation Common Sto ,Basic Materials,Oil & Gas Drilling & Exploration
+FEN, First Trust Energy Income and G ,N/A,N/A
+FNHC, Federated National Holding Comp ,Financial,Property & Casualty Insurance
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+HLX, Helix Energy Solutions Group  I ,Basic Materials,Oil & Gas Equipment & Services
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+JCP,J.C. Penney Company Inc. Holdi ,Services,Department Stores
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+MGRC,McGrath RentCorp ,Services,Rental & Leasing Services
+MLPI, UBS AG ETN ,N/A,N/A
+NECB,Northeast Community Bancorp Inc. ,Financial,Savings & Loans
+NWPX,Northwest Pipe Company ,Basic Materials,Steel & Iron
+OII,Oceaneering International Inc. ,Basic Materials,Oil & Gas Equipment & Services
+PKY,Parkway Properties Inc. Common ,Financial,REIT - Office
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,Chemicals - Major Diversified
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+TREC,Trecora Resources Common,Basic Materials,Chemicals - Major Diversified
+VGR,Vector Group Ltd. Common ,Consumer Goods,Cigarettes
+WETF, WisdomTree Investments  Inc. ,N/A,N/A
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,US Equity ETF,
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,US Equity ETF,
+CRZO,Carrizo Oil & Gas Inc. ,Basic Materials,Independent Oil & Gas
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+SMMF,Summit Financial Group Inc. ,Financial,Regional - Mid-Atlantic Banks
+AMLP,ALPS Alerian MLP ETF,US Equity ETF,
+BANX,StoneCastle Financial Corp. ,N/A,N/A
+BIG,Big Lots Inc. Common ,Services,Discount Variety Stores
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+CCRN,Cross Country Healthcare Inc. ,Services,Staffing & Outsourcing Services
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+DIVA,QuantShares Hedged Dividend Inc,,
+DXJH,WisdomTree Japan Hedged Health,,
+ERI,Eldorado Resorts Inc.,Services,Resorts & Casinos
+FENY,Fidelity MSCI Energy Index ETF ,N/A,N/A
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+GTT,GTT Communications Inc. ,Technology,Diversified Communication Services
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+IEZ,iShares Dow Jones U.S. Oil Equipment & Services Index Fund ETF,US Equity ETF,
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+LEDD,iPath Pure Beta Lead ETN ,,
+MATX, Matson  Inc. Common ,Services,Shipping
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+OB,OneBeacon Insurance Group Ltd. ,Financial,Surety & Title Insurance
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+PDCE,Pioneer Drilling Company Common ,Basic Materials,Oil & Gas Drilling & Exploration
+PNNT, PennantPark Investment Corporat ,N/A,N/A
+PXMV,PowerShares Fundamental Pure Mid Value Portfolio ETF,US Equity ETF,
+RYE,Guggenheim S&P Equal Weight Energy ETF,US Equity ETF,
+TAST,Carrols Restaurant Group Inc. ,Services,Restaurants
+TTP, Tortoise Pipeline & Energy Fund ,N/A,N/A
+VRTS,Virtus Investment Partners Inc ,Financial,Asset Management
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+XLE,SPDR Energy Select Sector Fund ETF,US Equity ETF,
+XTN,SPDR S&P Transportation ETF,US Equity ETF,
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+IKNX, Ikonics Corporation ,Basic Materials,Specialty Chemicals
+OPB,Opus Bank ,Financial,Money Center Banks
+AB,Allianceberstein Holding L.P.   ,Financial,Asset Management
+AKAO,Achaogen  Inc. ,N/A,N/A
+BBSI,Barrett Business Services Inc. ,Services,Staffing & Outsourcing Services
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+BSET,Bassett Furniture Industries I ,Consumer Goods,Home Furnishings & Fixtures
+CIR,CIRCOR International Inc. Comm ,Industrial Goods,Industrial Equipment & Components
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+ERX, Direxion Energy Bull 3X Shares ,N/A,N/A
+FFG,FBL Financial Group Inc. Commo ,Financial,Life Insurance
+FTK,Flotek Industries Inc. Common  ,Basic Materials,Specialty Chemicals
+GWR, Genesee & Wyoming Inc. Class A  ,Services,Railroads
+HYHG,ProShares High Yield-Interest Rate Hdgd ,N/A,N/A
+IGT, International Game Technology C ,Technology,Multimedia & Graphics Software
+IYT,iShares Dow Jones Transportation Average Index Fund ETF,US Equity ETF,
+JMP,JMP Group Inc Common ,Financial,Investment Brokerage - National

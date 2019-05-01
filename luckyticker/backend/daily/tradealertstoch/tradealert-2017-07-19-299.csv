@@ -1,0 +1,106 @@
+Buy,AMG,Affiliated Managers Group Inc. ,10.7717
+Buy,APD,Air Products and Chemicals Inc ,9.96177
+Buy,ARE,Alexandria Real Estate Equities ,17.5925
+Buy,AXP,American Express Company Common ,8.47428
+Buy,AZO,AutoZone Inc. Common ,6.60152
+Buy,BK,Bank of New York Mellon Corpora ,18.1814
+Buy,CBS,CBS Corporation Class B Common  ,17.8623
+Buy,CHRW,C.H. Robinson Worldwide Inc. ,12.925
+Buy,COF,Capital One Financial Corporati ,9.85536
+Buy,D,Dominion Resources Inc. Common ,6.1697
+Buy,DFS,Discover Financial Services Com ,12.222
+Buy,DISCA,Discovery Communications Inc ,16.4075
+Buy,DISCK,Discovery Communications Inc ,6.40151
+Buy,DTE,DTE Energy Company Common ,1.58765
+Buy,IRM,Iron Mountain Incorporated (Del ,3.70441
+Buy,MS,Morgan Stanley Common ,10.5344
+Buy,MTB,M&T Bank Corporation Common Sto ,16.0493
+Buy,MU,Micron Technology Inc. ,15.5123
+Buy,NOC,Northrop Grumman Corporation Co ,17.3494
+Buy,NUE,Nucor Corporation Common ,12.9898
+Buy,NWL,Newell Rubbermaid Inc. Common S ,15.858
+Buy,PBCT,People's United Financial Inc. ,8.30993
+Buy,PFG,Principal Financial Group Inc C ,13.76
+Buy,RCL,Royal Caribbean Cruises Ltd. Co ,18.4898
+Buy,RF,Regions Financial Corporation C ,16.6672
+Buy,RHI,Robert Half International Inc.  ,3.7037
+Buy,RJF,Raymond James Financial Inc. C ,15.556
+Buy,ROK,Rockwell Automation Inc. Commo ,9.00039
+Buy,SCHW,Charles Schwab Corporation (The ,17.417
+Buy,SEE,Sealed Air Corporation Common S ,5.55556
+Buy,HBAN, Huntington Bancshares Incorpora ,19.2895
+Buy,SYF,Synchrony Financial Common Stoc,2.7773
+Buy,WLTW,Willis Towers Watson Public Limited Company,15.4183
+Buy,ARNC,Arconic Inc.,13.3336
+Buy,DXC,DXC Technology Company,9.64611
+Sell,ALB,Albemarle Corporation Common St ,91.8184
+Sell,ALK,Alaska Air Group Inc. Common S ,85.0633
+Sell,AMAT,Applied Materials Inc. ,89.4734
+Sell,AON,Aon plc Class A Ordinary Shares ,92.9816
+Sell,APC,Anadarko Petroleum Corporation  ,80.4377
+Sell,AVB,AvalonBay Communities Inc. Com ,88.1524
+Sell,AVGO,Avago Technologies Limited ,96.5327
+Sell,BLL,Ball Corporation Common ,97.2225
+Sell,BMY,Bristol-Myers Squibb Company Co ,81.7949
+Sell,BWA,BorgWarner Inc. Common ,85.7691
+Sell,CA,CA Inc. ,96.2718
+Sell,CBOE,CBOE Holdings Inc. ,91.2596
+Sell,CHD,Church & Dwight Company Inc. C ,80.8079
+Sell,CHK,Chesapeake Energy Corporation C ,96.2962
+Sell,CINF,Cincinnati Financial Corporatio ,94.6589
+Sell,CLX,Clorox Company (The) Common Sto ,97.0545
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,81.0913
+Sell,CMS,CMS Energy Corporation Common S ,88.8889
+Sell,COG,Cabot Oil & Gas Corporation Com ,87.6543
+Sell,COH,Coach Inc. Common ,87.1027
+Sell,DG,Dollar General Corporation Comm ,80.0258
+Sell,DGX,Quest Diagnostics Incorporated  ,80.8639
+Sell,DHI,D.R. Horton Inc. Common ,83.7171
+Sell,DLR,Digital Realty Trust Inc. Comm ,94.5551
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,90.0226
+Sell,DVA,DaVita Inc. Common ,81.9622
+Sell,EBAY,eBay Inc. ,81.4921
+Sell,EIX,Edison International Common Sto ,91.1118
+Sell,EL,Estee Lauder Companies Inc. (T ,97.9801
+Sell,EQIX,Equinix Inc. ,81.1326
+Sell,EQT,EQT Corporation Common ,83.6512
+Sell,GRMN,Garmin Ltd. ,96.0676
+Sell,GT,Goodyear Tire & Rubber Company  ,90.9573
+Sell,INTC,Intel Corporation ,91.314
+Sell,ITW,Illinois Tool Works Inc. Common ,96.2449
+Sell,MKC,McCormick & Company Incorporat ,83.8167
+Sell,MON,Monsanto Company Common ,82.6899
+Sell,MRO,Marathon Oil Corporation Common ,87.9018
+Sell,MSFT,Microsoft Corporation ,86.8385
+Sell,MUR,Murphy Oil Corporation Common S ,82.0045
+Sell,NBL,Noble Energy Inc. Common ,94.2656
+Sell,NDAQ,The NASDAQ OMX Group Inc. ,98.1464
+Sell,NEM,Newmont Mining Corporation (Hol ,84.3583
+Sell,NKE,Nike Inc. Common ,88.2904
+Sell,NVDA,NVIDIA Corporation ,94.5465
+Sell,NWS,News Corporation ,88.8889
+Sell,NWSA,News Corporation ,91.7812
+Sell,OXY,Occidental Petroleum Corporatio ,90.8643
+Sell,PAYX,Paychex Inc. ,93.2282
+Sell,PEP,Pepsico Inc. Common ,97.9801
+Sell,PFE,Pfizer Inc. Common ,81.252
+Sell,PVH,PVH Corp. Common ,91.2767
+Sell,PX,Praxair Inc. Common ,94.0853
+Sell,QCOM,QUALCOMM Incorporated ,88.8207
+Sell,RAI,Reynolds American Inc Common St ,86.3939
+Sell,REGN,Regeneron Pharmaceuticals Inc. ,82.5967
+Sell,RHT,Red Hat Inc. Common ,88.625
+Sell,RL,Ralph Lauren Corporation Common ,90.6158
+Sell,ROST,Ross Stores Inc. ,93.9227
+Sell,RRC,Range Resources Corporation Com ,94.1522
+Sell,SHW,Sherwin-Williams Company (The)  ,91.8642
+Sell,SLG,SL Green Realty Corporation Com ,88.7808
+Sell,SNPS,Synopsys Inc. ,96.3342
+Sell,HOLX, Hologic  Inc. ,98.5449
+Sell,SPY,SPDR S&P 500 ETF,82.3031
+Sell,ABBV,AbbVie Inc. ,83.9321
+Sell,EVHC,Envision Healthcare Holdings Inc. ,95.6518
+Sell,QRVO,Qorvo Inc.,91.2494
+Sell,PYPL,PayPal Holdings  Inc.,83.6106
+Sell,HPE,Hewlett Packard Enterprise Company,95.7268
+Sell,UAA,Under Armour  Inc. Class A,98.8304

@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+APB, Asia Pacific Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+TWO,Two Harbors Investment Corp ,Financial,REIT - Residential
+CZWI,Citizens Community Bancorp Inc ,Financial,Regional - Midwest Banks
+AYA,Amaya  Inc.,N/A,N/A
+FXSG,CurrencyShares Singapore Dollar Trust ,N/A,N/A
+PENN,Penn National Gaming Inc. ,Services,Resorts & Casinos
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+GAIA,Gaiam Inc. ,Services,Catalog & Mail Order Houses
+MBLY,Mobileye N.V. Ordinary Shares,Technology,Application Software
+KZ,KongZhong Corporation,Technology,Multimedia & Graphics Software
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities

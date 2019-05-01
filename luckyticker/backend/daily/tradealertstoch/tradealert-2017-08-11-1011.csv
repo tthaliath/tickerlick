@@ -1,0 +1,101 @@
+Buy,ABC,AmerisourceBergen Corporation ( ,18.1631
+Buy,AEP,American Electric Power Company ,15.2787
+Buy,AIG,American International Group I ,3.8155
+Buy,AIV,Apartment Investment and Manage ,2.77751
+Buy,AN,AutoNation Inc. Common ,6.11056
+Buy,CHD,Church & Dwight Company Inc. C ,14.8151
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,13.3064
+Buy,COG,Cabot Oil & Gas Corporation Com ,12.2225
+Buy,COH,Coach Inc. Common ,4.12173
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,4.16746
+Buy,DUK,Duke Energy Corporation (Holdin ,17.7789
+Buy,DVA,DaVita Inc. Common ,8.99465
+Buy,EBAY,eBay Inc. ,9.78733
+Buy,FDX,FedEx Corporation Common ,8.95961
+Buy,FE,FirstEnergy Corporation Common  ,4.76113
+Buy,FLR,Fluor Corporation Common ,9.72408
+Buy,GGP,General Growth Properties Inc. ,10.0533
+Buy,GM,General Motors Company Common S ,10.2668
+Buy,GT,Goodyear Tire & Rubber Company  ,16.9444
+Buy,LOW,Lowe's Companies Inc. Common S ,19.4961
+Buy,LVLT,Level 3 Communications Inc. Co ,3.7036
+Buy,LYB,LyondellBasell Industries NV Or ,11.5088
+Buy,MCK,McKesson Corporation Common Sto ,8.53847
+Buy,MLM,Martin Marietta Materials Inc. ,5.48598
+Buy,REG,Regency Centers Corporation Com ,8.33121
+Buy,RRC,Range Resources Corporation Com ,19.1265
+Buy,RSG,Republic Services Inc. Common  ,9.63185
+Buy,SJM,J.M. Smucker Company (The) New  ,16.666
+Buy,SNI,Scripps Networks Interactive I ,11.1135
+Buy,SO,Southern Company (The) Common S ,16.3303
+Buy,SPG,Simon Property Group Inc. Comm ,18.0966
+Buy,HD, Home Depot  Inc. (The) Common S ,15.9163
+Buy,HP, Helmerich & Payne  Inc. Common  ,13.6921
+Buy,COTY,Coty Inc. ,3.14844
+Buy,FOX,Twenty-First Century Fox Inc. ,6.66623
+Buy,MNK,Mallinckrodt plc ,15.3455
+Buy,NAVI,Navient Corporation ,17.2831
+Sell,AAPL,Apple Inc. ,84.5399
+Sell,ACN,Accenture plc. Class A Ordinary ,84.826
+Sell,ADBE,Adobe Systems Incorporated ,93.0622
+Sell,ADSK,Autodesk Inc. ,89.6175
+Sell,AET,Aetna Inc. Common ,84.1263
+Sell,AGN,Allergan Inc. Common ,97.7012
+Sell,AIZ,Assurant Inc. Common ,84.3142
+Sell,AKAM,Akamai Technologies Inc. ,82.8134
+Sell,ALK,Alaska Air Group Inc. Common S ,94.1534
+Sell,ALL,Allstate Corporation (The) Comm ,80.2863
+Sell,ALXN,Alexion Pharmaceuticals Inc. ,80.0328
+Sell,AMP,Ameriprise Financial Inc. Comm ,96.085
+Sell,AMZN,Amazon.com Inc. ,81.2073
+Sell,AXP,American Express Company Common ,85.872
+Sell,CAT,Caterpillar Inc. Common ,85.9586
+Sell,CBOE,CBOE Holdings Inc. ,93.1517
+Sell,CF,CF Industries Holdings Inc. Co ,87.2488
+Sell,CL,Colgate-Palmolive Company Commo ,98.7661
+Sell,CMA,Comerica Incorporated Common St ,93.5185
+Sell,CMCSA,Comcast Corporation ,88.9987
+Sell,CMI,Cummins Inc. Common ,83.6196
+Sell,CNC,Centene Corporation Common Stoc ,88.9303
+Sell,COF,Capital One Financial Corporati ,81.4805
+Sell,EFX,Equifax Inc. Common ,96.2959
+Sell,EMN,Eastman Chemical Company Common ,96.4256
+Sell,EMR,Emerson Electric Company Common ,91.7915
+Sell,FCX,Freeport-McMoRan Copper & Gold ,86.9446
+Sell,FISV,Fiserv Inc. ,91.1477
+Sell,FLS,Flowserve Corporation Common St ,85.186
+Sell,GD,General Dynamics Corporation Co ,84.4319
+Sell,GILD,Gilead Sciences Inc. ,89.9326
+Sell,GLW,Corning Incorporated Common Sto ,86.2435
+Sell,GRMN,Garmin Ltd. ,81.2864
+Sell,IRM,Iron Mountain Incorporated (Del ,86.1095
+Sell,ISRG,Intuitive Surgical Inc. ,84.024
+Sell,ITW,Illinois Tool Works Inc. Common ,90.5545
+Sell,IVZ,Invesco Plc New Common ,97.2225
+Sell,LRCX,Lam Research Corporation ,89.7562
+Sell,LUV,Southwest Airlines Company Comm ,82.4553
+Sell,MAR,Marriot International Common St ,83.7821
+Sell,MAS,Masco Corporation Common ,98.1478
+Sell,MCO,Moody's Corporation Common Stoc ,83.2433
+Sell,MDT,Medtronic Inc. Common ,90.1149
+Sell,MET,MetLife Inc. Common ,81.6686
+Sell,REGN,Regeneron Pharmaceuticals Inc. ,84.2952
+Sell,RHT,Red Hat Inc. Common ,96.1142
+Sell,ROST,Ross Stores Inc. ,85.3647
+Sell,RTN,Raytheon Company Common ,80.5372
+Sell,SEE,Sealed Air Corporation Common S ,83.3344
+Sell,SLG,SL Green Realty Corporation Com ,85.4169
+Sell,SNA,Snap-On Incorporated Common Sto ,81.4853
+Sell,SNPS,Synopsys Inc. ,80.3624
+Sell,ETN, Eaton Corporation Common ,94.443
+Sell,HPQ, Hewlett-Packard Company Common  ,89.0447
+Sell,EVHC,Envision Healthcare Holdings Inc. ,90.5458
+Sell,ALLE,Allegion plc Ordinary Shares ,94.9484
+Sell,GOOGL,Alphabet Inc.,84.1105
+Sell,SYF,Synchrony Financial Common Stoc,83.3325
+Sell,QRVO,Qorvo Inc.,85.6882
+Sell,WBA,Walgreens Boots Alliance Inc.,95.7479
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,95.0518
+Sell,HPE,Hewlett Packard Enterprise Company,92.2392
+Sell,INFO,IHS Markit Ltd.,92.1487
+Sell,DXC,DXC Technology Company,89.7776

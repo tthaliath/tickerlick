@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CRK,Comstock Resources Inc. Common ,Basic Materials,Independent Oil & Gas
+AAV,Advantage Oil & Gas Ltd  Ordina ,Basic Materials,Oil & Gas Drilling & Exploration
+NTIC,Northern Technologies Internati ,Consumer Goods,Packaging & Containers
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+FNF,Fidelity National Financial In ,Financial,Surety & Title Insurance
+PFXF,Market Vectors Pref Secs ex Fincls ETF,Fixed Income ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+PRB,Market Vectors Pre-Refunded Municipal Index ETF,Fixed Income ETF,
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+PFF, iShares S&P US Preferred ,N/A,N/A
+BOM, PowerShares DB Base Metals Doub ,N/A,N/A
+YANG, Direxion Daily China Bear 3x Sh ,N/A,N/A
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services
+TERP,TerraForm Power Inc.,Utilities,Diversified Utilities
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities

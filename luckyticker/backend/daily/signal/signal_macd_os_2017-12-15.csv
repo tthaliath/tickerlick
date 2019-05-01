@@ -1,0 +1,123 @@
+ticker,name,sector,industry
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+MCHP,Microchip Technology Incorporat ,Technology,Semiconductor - Specialized
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+AON,Aon plc Class A Ordinary Shares ,Financial,Insurance Brokers
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+BCR,C.R. Bard Inc. Common ,Healthcare,Medical Instruments & Supplies
+WAIR, Wesco Aircraft Holdings  Inc. C ,Services,Industrial Equipment Wholesale
+ACLS,Axcelis Technologies Inc. ,Technology,Semiconductor Equipment & Materials
+NVMI,Nova Measuring Instruments Ltd. ,Industrial Goods,Diversified Machinery
+GRA,W.R. Grace & Co. Common ,Basic Materials,Specialty Chemicals
+DJP, iPath Dow Jones UBS Commodity I ,N/A,N/A
+BCI,ETFS Bloomberg All Commodity St,,
+YORW,The York Water Company ,Utilities,Water Utilities
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+KEYS,Keysight Technologies Inc. Comm,Technology,Scientific & Technical Instruments
+CHCO,City Holding Company ,Financial,Regional - Mid-Atlantic Banks
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+GPRO,Gen-Probe Incorporated ,Services,Research Services
+WIFI, Boingo Wireless  Inc. ,Technology,Information Technology Services
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+MGEE,MGE Energy Inc. ,Utilities,Diversified Utilities
+PPBI,Pacific Premier Bancorp Inc ,Financial,Regional - Pacific Banks
+WEAT, Teucrium Wheat Fund ETV ,N/A,N/A
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+USCI, United States Commodity Index F ,N/A,N/A
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+DEMG,Deutsche X-trackers FTSE Emergi,,
+CRUS,Cirrus Logic Inc. ,Technology,Semiconductor - Specialized
+GDL, GDL Fund  The Common Shares of  ,N/A,N/A
+FTXL,First Trust Nasdaq Semiconducto,,
+KLIC,Kulicke and Soffa Industries I ,Technology,Semiconductor Equipment & Materials
+PSI,PowerShares Dynamic Semiconductors ETF,US Equity ETF,
+HYEM,Market Vectors Emer Mkts Hi Yld Bond ETF,Fixed Income ETF,
+AVX,AVX Corporation Common ,Technology,Diversified Electronics
+FTGC,First Trust Global Tact Cmdty Strat ,N/A,N/A
+PBNC,Paragon Commercial Corporation,N/A,N/A
+ICHR,Ichor Holdings - Ordinary Share,,
+STBA,S&T Bancorp Inc. ,Financial,Regional - Northeast Banks
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+HIFR,InfraREIT Inc. Common,N/A,N/A
+SPSC,SPS Commerce Inc. ,Services,Business Services
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+BHE,Benchmark Electronics Inc. Com ,Technology,Printed Circuit Boards
+STE,STERIS Corporation Common ,Healthcare,Medical Appliances & Equipment
+KN,Knowles Corporation ,Technology,Communication Equipment
+BSET,Bassett Furniture Industries I ,Consumer Goods,Home Furnishings & Fixtures
+MBWM,Mercantile Bank Corporation ,Financial,Regional - Midwest Banks
+CELP,Cypress Energy Partners L.P. ,Basic Materials,Oil & Gas Equipment & Services
+QSII,Quality Systems Inc. ,Technology,Healthcare Information Services
+CXW,Corrections Corporation of Amer ,Services,Management Services
+ORIT,Oritani Financial Corp. ,Financial,Regional - Northeast Banks
+BLKB,Blackbaud Inc. ,Technology,Business Software & Services
+BSJI,Guggenheim BulletShares 2018 HY C Bd ETF,Fixed Income ETF,
+LION,Fidelity Southern Corporation ,Financial,Regional - Mid-Atlantic Banks
+SOXL, Direxion Daily Semiconductor Bu ,N/A,N/A
+INN, Summit Hotel Properties  Inc. C ,Financial,Real Estate Development
+UVSP,Univest Corporation of Pennsylv ,Financial,Regional - Northeast Banks
+MITK, Mitek Systems  Inc. ,Technology,Application Software
+ETM,Entercom Communications Corpora ,Services,Broadcasting - Radio
+HZN,Horizon Global Corporation,N/A,N/A
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+IVTY,Invuity  Inc.,Healthcare,Medical Instruments & Supplies
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+LORL,Loral Space and Communications ,Technology,Communication Equipment
+NBHC, National Bank Holdings Corporat ,N/A,N/A
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+EDGE,Edge Therapeutics  Inc.,N/A,N/A
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+USV, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+VOXX,VOXX International Corporation ,Services,Electronics Wholesale
+PCYG,Park City Group Inc. Common St ,Technology,Business Software & Services
+COW, iPath Dow Jones UBS Livestock T ,N/A,N/A
+ACFC,Atlantic Coast Federal Corporat ,Financial,Regional - Southeast Banks
+NIB, iPath DJ-UBS Cocoa Subindex Tot ,N/A,N/A
+SNR,New Senior Investment Group Inc,N/A,N/A
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+LFUS,Littelfuse Inc. ,Industrial Goods,Industrial Electrical Equipment
+KRNY,Kearny Financial ,Financial,Savings & Loans
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+INSI,Insight Select Income Fund,,
+MLR,Miller Industries Inc. Common  ,Consumer Goods,Auto Parts
+GSIT,GSI Technology Inc. ,Technology,Semiconductor - Broad Line
+FORM,FormFactor Inc. ,Technology,Semiconductor - Broad Line
+HEWL,iShares Currency Hedged MSCI Sw,,
+TTPH,Tetraphase Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+IHY,Market Vectors Intl High Yield Bond ETF,Fixed Income ETF,
+CFBI,Community First Bancshares  Inc,,
+MCBC,Macatawa Bank Corporation ,Financial,Regional - Midwest Banks
+FLIC,The First of Long Island Corpor ,Financial,Regional - Northeast Banks
+FFIC,Flushing Financial Corporation ,Financial,Savings & Loans
+HSTM, HealthStream  Inc. ,Technology,Internet Information Providers
+USD,ProShares Ultra Semiconductors ETF,Commodity Based ETF,
+CPL,CPFL Energia S.A. CPFL Energia  ,Utilities,Foreign Utilities
+FCVT,First Trust SSI Strategic Conve,,
+GLDW,SPDR Long Dollar Gold Trust,,
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+PLUS,ePlus inc. ,Technology,Business Software & Services
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+GSUM,Gridsum Holding Inc. - American,,
+CCXI, ChemoCentryx  Inc. ,Healthcare,Biotechnology
+SYBT,S.Y. Bancorp Inc. ,Financial,Regional - Southeast Banks
+CCD,Calamos Dynamic Convertible and Income Fund ,N/A,N/A
+UFCS,United Fire Group Inc ,Financial,Property & Casualty Insurance
+SSB,South State Corporation,Financial,Regional - Mid-Atlantic Banks
+LABL,Multi-Color Corporation ,Services,Business Services
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+MSCC,Microsemi Corporation ,Technology,Semiconductor - Integrated Circuits
+BCM, iPath Pure Beta Broad Commodity ,N/A,N/A
+BCOV,Brightcove Inc. ,Technology,Application Software
+ARTNA,Artesian Resources Corporation ,Utilities,Water Utilities
+HDEE,Deutsche X-trackers MSCI Emergi,,
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+OSBC,Old Second Bancorp Inc. ,Financial,Regional - Midwest Banks
+PAI, Western Asset Income Fund Commo ,Financial,Closed-End Fund - Debt
+TIPT,Tiptree Financial Inc. ,Financial,Asset Management
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+FDEF,First Defiance Financial Corp. ,Financial,Savings & Loans

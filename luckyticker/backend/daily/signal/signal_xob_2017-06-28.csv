@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+EBF,Ennis Inc. Common ,Consumer Goods,Office Supplies
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+KIN,Kindred Biosciences Inc. ,Healthcare,Biotechnology
+ESPR,Esperion Therapeutics Inc. ,Healthcare,Biotechnology
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+ATRI,ATRION Corporation ,Healthcare,Medical Instruments & Supplies
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SPNC,The Spectranetics Corporation ,Healthcare,Medical Appliances & Equipment
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+EXLS,ExlService Holdings Inc. ,Services,Business Services

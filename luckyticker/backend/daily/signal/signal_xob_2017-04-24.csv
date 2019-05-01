@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RMCF,Rocky Mountain Chocolate Factor ,Consumer Goods,Confectioners
+NKSH,National Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+INN, Summit Hotel Properties  Inc. C ,Financial,Real Estate Development
+BCR,C.R. Bard Inc. Common ,Healthcare,Medical Instruments & Supplies
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+IEX, IDEX Corporation Common ,Industrial Goods,Diversified Machinery
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+PAR, PAR Technology Corporation Comm ,Technology,Application Software
+BIO,Bio-Rad Laboratories Inc. Clas ,Technology,Scientific & Technical Instruments
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials

@@ -1,0 +1,50 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YERR,Yangtze River Development Limit,,
+LRET,ETRACS Monthly Pay 2xLeveraged,,
+RORE,Hartford Multifactor REIT ETF,,
+URE,ProShares Ultra Real Estate ETF,Commodity Based ETF,
+SR,Spire Inc.,Consumer Goods,Office Supplies
+SAFM,Sanderson Farms Inc. ,Consumer Goods,Food - Major Diversified
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+GTY, Getty Realty Corporation Common ,Financial,REIT - Retail
+EPR,Entertainment Properties Trust  ,Financial,REIT - Retail
+ORI,Old Republic International Corp ,Financial,Surety & Title Insurance
+ORM,Owens Realty Mortgage Inc. ,Financial,REIT - Office
+AIV,Apartment Investment and Manage ,Financial,REIT - Residential
+PSA,Public Storage Common ,Financial,REIT - Diversified
+MPW,Medical Properties Trust Inc.  ,Financial,REIT - Healthcare Facilities
+AAT,American Assets Trust  Inc. Com,Financial,REIT - Office
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+ESRT,Empire State Realty Trust Inc. ,Financial,REIT - Diversified
+CDR,Cedar Realty Trust Inc. Common ,Financial,REIT - Retail
+DEI,Douglas Emmett Inc. Common Sto ,Financial,REIT - Diversified
+UBA,Urstadt Biddle Properties Inc.  ,Financial,REIT - Retail
+O,Realty Income Corporation Commo ,Financial,REIT - Retail
+HIW, Highwoods Properties  Inc. Comm ,Financial,REIT - Office
+CPT,Camden Property Trust Common St ,Financial,REIT - Residential
+AKR,Acadia Realty Trust Common Stoc ,Financial,Property Management
+PSB,PS Business Parks Inc. Common  ,Financial,REIT - Diversified
+EGP,EastGroup Properties Inc. Comm ,Financial,REIT - Industrial
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+STAG, Stag Industrial  Inc. Common St ,Financial,REIT - Industrial
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+STOR,STORE Capital Corporation Commo,N/A,N/A
+ORC,Orchid Island Capital Inc. ,N/A,N/A
+GNL,Global Net Lease  Inc.,N/A,N/A
+FCPT,Four Corners Property Trust  Inc.,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+OGS,ONE Gas  Inc. Common Stock ,N/A,N/A
+APTS, Preferred Apartment Communities ,N/A,N/A
+BKHU,Black Hills Corporation,N/A,N/A
+PGRE,Paramount Group Inc. Common St,N/A,N/A
+DTV,DIRECTV ,Services,CATV Systems
+PSR,PowerShares Active U.S. Real Estate Fund ETF,US Equity ETF,
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+WEC,Wisconsin Energy Corporation Co ,Utilities,Electric Utilities
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities
+SJW,SJW Corporation Common ,Utilities,Water Utilities
+IDA, IDACORP  Inc. Common ,Utilities,Electric Utilities
+AWK,American Water Works Company I ,Utilities,Water Utilities
+WTR,Aqua America Inc. Common ,Utilities,Water Utilities

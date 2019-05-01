@@ -1,0 +1,325 @@
+ticker,name,sector,industry
+KR,Kroger Company (The) Common Sto ,Services,Grocery Stores
+PPG,PPG Industries Inc. Common Sto ,Basic Materials,Specialty Chemicals
+AES,The AES Corporation Common Stoc ,Utilities,Electric Utilities
+EQT,EQT Corporation Common ,Utilities,Gas Utilities
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+HST, Host Hotels & Resorts  Inc. Com ,Financial,REIT - Hotel/Motel
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+NEM,Newmont Mining Corporation (Hol ,Basic Materials,Gold
+O,Realty Income Corporation Commo ,Financial,REIT - Retail
+NAVI,Navient Corporation ,Technology,Information Technology Services
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+NFX,Newfield Exploration Company Co ,Basic Materials,Independent Oil & Gas
+HES, Hess Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+PX,Praxair Inc. Common ,Basic Materials,Synthetics
+PLD,ProLogis Inc. Common ,Financial,REIT - Industrial
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+NUW, Nuveen AMT-Free Municipal Value ,N/A,N/A
+ETX,Eaton Vance Municipal Income Te ,N/A,N/A
+FXB, Rydex CurrencyShares British Po ,N/A,N/A
+RELL,Richardson Electronics Ltd. ,Services,Electronics Wholesale
+HMN, Horace Mann Educators Corporati ,Financial,Property & Casualty Insurance
+SCHL,Scholastic Corporation ,Services,Publishing - Books
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+CPE,Callon Petroleum Company Common ,Basic Materials,Independent Oil & Gas
+PRAA,Portfolio Recovery Associates  ,Services,Business Services
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Fixed Income ETF,
+BSCJ,Guggenheim BulletShares 2019 Corp Bond ETF,Fixed Income ETF,
+SAH,Sonic Automotive Inc. Common S ,Services,Auto Dealerships
+SLVP,iShares MSCI Global Silver Miners Fund ETF,Global Equity ETF,
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+CBB,Cincinnati Bell Inc. Common Sto ,Technology,Telecom Services - Domestic
+TLO,SPDR Barclays Capital Long Term Treasury ETF,Fixed Income ETF,
+VIOV,Vanguard S&P Small-Cap 600 Value ETF,US Equity ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+NIQ,Nuveenn Intermediate Duration Q ,N/A,N/A
+BEP,Brookfield Renewable Energy Partners LP ,Utilities,Diversified Utilities
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+RIC,Richmont Mines Inc. Common Sto ,Basic Materials,Gold
+TOTL,SPDR DoubleLine Total Return Ta,,
+SGDM,Sprott Gold Miners ETF ,,
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized
+PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio ETF,US Equity ETF,
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund ETF,Global Equity ETF,
+RETL, Direxion Daily Retail Bull 3X S ,N/A,N/A
+SIL,Global X Silver Miners ETF,Global Equity ETF,
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+GDX,Market Vectors TR Gold Miners ETF,US Equity ETF,
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+EBTC,Enterprise Bancorp Inc ,Financial,Savings & Loans
+YCL,ProShares Ultra Yen ETF,Commodity Based ETF,
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+STPZ,PIMCO 1-5 Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+ISTB,iShares Core Short-Term US Bond ,N/A,N/A
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+BSJH,Guggenheim BulletShares 2017 HY C Bd ETF,Fixed Income ETF,
+JKL,iShares Morningstar Small Value Index Fund ETF,US Equity ETF,
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+GTS, Triple-S Management Corporation ,Financial,Accident & Health Insurance
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+ECHO,Echo Global Logistics Inc. ,Services,Trucking
+CIX,CompX International Inc. Common ,Industrial Goods,Machine Tools & Accessories
+BHP,BHP Billiton Limited Common Sto ,Basic Materials,Industrial Metals & Minerals
+ACLS,Axcelis Technologies Inc. ,Technology,Semiconductor Equipment & Materials
+ACWF,iShares FactorSelect MSCI Global,N/A,N/A
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+FOMX,Foamix Pharmaceuticals Ltd.,Healthcare,Biotechnology
+SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income ETF,
+MITT, AG Mortgage Investment Trust  I ,N/A,N/A
+AI,Arlington Asset Investment Corp ,Financial,Investment Brokerage - Regional
+AMSF,AMERISAFE Inc. ,Financial,Property & Casualty Insurance
+EFC,Ellington Financial LLC Common  ,Financial,Mortgage Investment
+MTT, Western Asset Municipal Defined ,N/A,N/A
+XME,SPDR S&P Metals and Mining ETF,US Equity ETF,
+COWN,Cowen Group Inc. ,Financial,Investment Brokerage - National
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+PNI, Pimco New York Municipal Income ,N/A,N/A
+BDC,Belden Inc Common ,Industrial Goods,Industrial Electrical Equipment
+AHGP,Alliance Holdings GP L.P. ,Basic Materials,Nonmetallic Mineral Mining
+HYG,iShares iBoxx $ HY Corp Bond Fund ETF,Fixed Income ETF,
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+STLD,Steel Dynamics Inc. ,Basic Materials,Steel & Iron
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+WEN,Wendy's Company (The) ,Services,Restaurants
+RZV,Guggenheim S&P SmallCap 600 Pure Value ETF,US Equity ETF,
+OME,Omega Protein Corporation Commo ,Consumer Goods,Processed & Packaged Goods
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+EWC,iShares MSCI Canada Index Fund ETF,Global Equity ETF,
+NBB, Nuveen Build America Bond Fund  ,N/A,N/A
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+QINC,First Trust RBA Quality Income ,N/A,N/A
+SGC,Superior Uniform Group Inc. ,Consumer Goods,Textile - Apparel Clothing
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+BW,Babcock & Wilcox Enterprises  Inc.,Industrial Goods,Industrial Electrical Equipment
+PFNX,Pfenex Inc. Common,Healthcare,Biotechnology
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+BAK,Braskem SA ADR ,Basic Materials,Chemicals - Major Diversified
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+NR,Newpark Resources Inc. Common  ,Basic Materials,Oil & Gas Equipment & Services
+BYLD,iShares Yield Optimized Bond ,N/A,N/A
+EMB,iShares JP Morgan Em Bond Fd ETF,Fixed Income ETF,
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+FEYE,FireEye Inc. ,Technology,Application Software
+GBF,iShares Barclays Government/Credit Bond Fund ETF,Fixed Income ETF,
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+FDM,First Trust DJ Select MicroCap ETF,US Equity ETF,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+RES,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+ITR,SPDR Barclays Capital Intermediate Term Credit Bond ETF,Fixed Income ETF,
+VRTS,Virtus Investment Partners Inc ,Financial,Asset Management
+HL, Hecla Mining Company Common Sto ,Basic Materials,Silver
+HMST, HomeStreet  Inc. ,Financial,Savings & Loans
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+RPAI, Retail Properties of America  I ,Financial,REIT - Diversified
+ATW,Atwood Oceanics Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+SHY,iShares Barclays 1-3 Year Treasury Bond Fund ETF,Fixed Income ETF,
+COPX,Global X Copper Miners ETF,Global Equity ETF,
+SMFG,Sumitomo Mitsui Financial Group ,Financial,Foreign Regional Banks
+CORR,CorEnergy Infrastructure Trust Inc. ,Financial,Asset Management
+RGS,Regis Corporation Common ,Services,Personal Services
+IVR,INVESCO MORTGAGE CAPITAL INC Co ,Financial,Mortgage Investment
+IPE,SPDR Barclays Capital TIPS ETF,Fixed Income ETF,
+BBDO,Banco Bradesco S.A. ,Financial,Foreign Regional Banks
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+HT, Hersha Hospitality Trust Class  ,Financial,REIT - Retail
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+IJS,iShares S&P SmallCap 600 Values Index Fund ETF,US Equity ETF,
+WHG,Westwood Holdings Group Inc Com ,Financial,Asset Management
+CLF,Cliffs Natural Resources Inc Co ,Basic Materials,Steel & Iron
+AMOV,America Movil S.A.B. de C.V. ,NULL,NULL
+OBAS, Optibase Ltd. ,Financial,Property Management
+BBL,BHP Billiton plc Sponsored ADR ,Basic Materials,Industrial Metals & Minerals
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+CASS,Cass Information Systems Inc ,Services,Business Services
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+FWRD,Forward Air Corporation ,Services,Air Delivery & Freight Services
+MTX,Minerals Technologies Inc. Comm ,Basic Materials,Synthetics
+REG,Regency Centers Corporation Com ,Financial,REIT - Retail
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+HZNP, Horizon Pharma  Inc. ,Healthcare,Drug Manufacturers - Major
+IBCE,iSharesBond Mar 2023 Corp ex-Fincls Term ,N/A,N/A
+WACLY,Wacoal Holdings Corporation ,NULL,NULL
+FLAT, iPath US Treasury Flattener ETN ,N/A,N/A
+VIOO,Vanguard S&P Small-Cap 600 ETF,US Equity ETF,
+KAI,Kadant Inc Common ,Industrial Goods,Diversified Machinery
+APEI,American Public Education Inc. ,Services,Business Services
+FYT,First Trust Small Cap Value AlphaDEX ETF,US Equity ETF,
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+GQRE,FlexShares Global Quality Real Estate ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+FRAN, Francesca's Holdings Corporatio ,Services,Specialty Retail  Other
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+HK, Halcon Resources Corporation Co ,Basic Materials,Oil & Gas Drilling & Exploration
+NUTR,Nutraceutical International Cor ,Healthcare,Drug Related Products
+AXE,Anixter International Inc. Comm ,Services,Industrial Equipment Wholesale
+NEWM,New Media Investment Group Inc. ,Services,Publishing - Newspapers
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+CLDT,Chatham Lodging Trust (REIT) Co ,Financial,REIT - Hotel/Motel
+SIF,SIFCO Industries Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+EIV, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+NAT, Nordic American Tankers Limited ,Services,Shipping
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+GLT,Glatfelter Common ,Consumer Goods,Paper & Paper Products
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+AEH, AEGON N.V. Perp. Cap Secs. ,N/A,N/A
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+DGRS,WisdomTree US SmallCap Dividend Growth ,N/A,N/A
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+UCP,UCP Inc. ,Industrial Goods,Residential Construction
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+SCPB,SPDR Barclays Capital Short Term Corporate Bond ETF,Fixed Income ETF,
+TU,TELUS Corporation Common ,Technology,Wireless Communications
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+MATX, Matson  Inc. Common ,Services,Shipping
+EPU,iShares MSCI All Peru Capped Index Fund ETF,Global Equity ETF,
+SLYV,SPDR S&P 600 Small Cap Value ETF (SLYV) ETF,US Equity ETF,
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+INWK, InnerWorkings  Inc. ,N/A,N/A
+AG,First Majestic Silver Corp. Ord ,Basic Materials,Silver
+JJM, iPath Dow Jones UBS Industrial  ,N/A,N/A
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+MTGE, American Capital Mortgage Inves ,Financial,REIT - Diversified
+CSJ,iShares Barclays 1-3 Year Credit Bond Fund ETF,Fixed Income ETF,
+HSTM, HealthStream  Inc. ,Technology,Internet Information Providers
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+BOND,PIMCO Total Return Exchange-Traded Fund,Fixed Income ETF,
+IOSP,Innospec Inc. ,Basic Materials,Specialty Chemicals
+BKS,Barnes & Noble Inc. Common Sto ,Services,Specialty Retail Other
+AXTI,AXT Inc ,Technology,Semiconductor - Integrated Circuits
+ENV,Envestnet Inc Common ,Services,Business Services
+SILJ,PureFunds ISE Jnr Slvr,N/A,N/A
+GPX,GP Strategies Corporation Commo ,Services,Education & Training Services
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+STC,Stewart Information Services Co ,Financial,Property & Casualty Insurance
+GG,Goldcorp Incorporated Common St ,Basic Materials,Gold
+WETF, WisdomTree Investments  Inc. ,N/A,N/A
+ASA,ASA  Gold and Precious Metals L ,Financial,Closed-End Fund - Equity
+WB,Weibo Corporation ,Technology,Internet Information Providers
+FYX,First Trust Small Cap Core AlphaDEX ETF,US Equity ETF,
+APLE,Apple Hospitality REIT  Inc.,N/A,N/A
+RFV,Guggenheim S&P MidCap 400 Pure Value ETF,US Equity ETF,
+IBDD,iSharesBond Mar 2023 Corporate Term ,N/A,N/A
+ITRI,Itron Inc. ,Technology,Scientific & Technical Instruments
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+PSCT,PowerShares S&P SmallCap Info Tech ETF,US Equity ETF,
+MUB,iShares S&P National Municipal Bond Fund ETF,Fixed Income ETF,
+JAKK,JAKKS Pacific Inc. ,Consumer Goods,Toys & Games
+DX,Dynex Capital Inc. Common Stoc ,Financial,Mortgage Investment
+PHYS, Sprott Physical Gold Trust ETV ,N/A,N/A
+UE,Urban Edge Properties Common Sh,N/A,N/A
+LAYN,Layne Christensen Company ,Industrial Goods,Heavy Construction
+IBCD,iSharesBond Mar 2020 Corp ex-Fincls Term ,N/A,N/A
+XTL,SPDR S&P Telecom ETF,US Equity ETF,
+RPT,Ramco-Gershenson Properties Tru ,Financial,REIT - Retail
+SJR,Shaw Communications Inc. Common ,Services,CATV Systems
+AHP,Ashford Hospitality Prime Inc. ,Financial,REIT - Hotel/Motel
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+CMCO,Columbus McKinnon Corporation ,Industrial Goods,Farm & Construction Machinery
+GRIF,Griffin Land & Nurseries Inc. ,Consumer Goods,Farm Products
+RS,Reliance Steel & Aluminum Co. C ,Industrial Goods,Metal Fabrication
+HBANP, Huntington Bancshares Incorpora ,N/A,N/A
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+NYLD,NRG Yield Inc. ,Utilities,Electric Utilities
+ZEUS,Olympic Steel Inc. ,Services,Basic Materials Wholesale
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+NCB, Nuveen California Municipal Val ,N/A,N/A
+CDE,Coeur d'Alene Mines Corporation ,Basic Materials,Silver
+EBF,Ennis Inc. Common ,Consumer Goods,Office Supplies
+AGCO,AGCO Corporation Common ,Industrial Goods,Farm & Construction Machinery
+GDXX,ProShares Ultra Gold Miners ETF,,
+BFS,Saul Centers Inc. Common ,Financial,REIT - Retail
+TRS,TriMas Corporation ,Industrial Goods,Industrial Equipment & Components
+DRH,Diamondrock Hospitality Company ,Financial,REIT - Hotel/Motel
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities
+MRTX,Mirati Therapeutics Inc. ,N/A,N/A
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+AHT,Ashford Hospitality Trust Inc C ,Financial,REIT - Hotel/Motel
+IIM, Invesco Value Municipal Income  ,N/A,N/A
+CMF,iShares S&P Cali Muni Bond ETF,Fixed Income ETF,
+CTY,Qwest Corp. ,N/A,N/A
+BEL,Belmond Ltd. Class A Common Sto,Services,Lodging
+VFL, Delaware Investments National M ,N/A,N/A
+IBDH,iShares iBonds Dec 2018 Corpora ,,
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+PHX,Panhandle Oil and Gas Inc Commo ,Basic Materials,Independent Oil & Gas
+VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income ETF,
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+VIV,Telefonica Brasil S.A. ADS ,Technology,Wireless Communications
+CDR,Cedar Realty Trust Inc. Common ,Financial,REIT - Retail
+FCAN,First Trust Canada AlphaDEX ETF,Global Equity ETF,
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+VTIP, Vanguard Short-Term Inflation-P ,N/A,N/A
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail
+FPO,First Potomac Realty Trust Comm ,Financial,REIT - Office
+YORW,The York Water Company ,Utilities,Water Utilities
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+TRN,Trinity Industries Inc. Common ,Services,Railroads
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+UVSP,Univest Corporation of Pennsylv ,Financial,Regional - Northeast Banks
+IGN,iShares Goldman Sachs Network Index Fund ETF,US Equity ETF,
+RGLD, Royal Gold  Inc. ,Basic Materials,Gold
+PFIS,Peoples Financial Services Corp. ,Financial,Regional - Northeast Banks
+BSET,Bassett Furniture Industries I ,Consumer Goods,Home Furnishings & Fixtures
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+BZH,Beazer Homes USA Inc. Common S ,Industrial Goods,Residential Construction
+XRT,SPDR S&P Retail ETF,US Equity ETF,
+REX,REX American Resources Corporat ,Basic Materials,Specialty Chemicals
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+ORRF,Orrstown Financial Services Inc ,Financial,Regional - Northeast Banks
+WDR,Waddell & Reed Financial Inc.  ,Financial,Asset Management
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Fund ETF,Fixed Income ETF,
+IX, Orix Corp Ads Common ,Financial,Credit Services
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+BNCL,Beneficial Mutual Bancorp Inc. ,Financial,Regional - Northeast Banks
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+PEI,Pennsylvania Real Estate Invest ,Financial,REIT - Retail
+GEF,Greif Inc. Class A Common ,Consumer Goods,Packaging & Containers
+KVHI,KVH Industries Inc. ,Technology,Communication Equipment
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+CMBS,iShares Barclays CMBS Bond ETF,Fixed Income ETF,
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+HPT, Hospitality Properites Trust Co ,Financial,REIT - Retail
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+RAIL,Freightcar America Inc. ,Services,Railroads
+ASTE,Astec Industries Inc. ,Industrial Goods,Farm & Construction Machinery
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+WPG,Washington Prime Group Inc. Com,Financial,Property Management
+GNT, GAMCO Natural Resources  Gold & ,N/A,N/A
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+AU,AngloGold Ashanti Ltd. Common S ,Basic Materials,Gold
+KRG,Kite Realty Group Trust Common  ,Financial,REIT - Retail
+BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,N/A,N/A
+PAAS,Pan American Silver Corp. ,NULL,NULL
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+CPT,Camden Property Trust Common St ,Financial,REIT - Residential
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron

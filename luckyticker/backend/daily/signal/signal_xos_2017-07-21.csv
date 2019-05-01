@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CROC,ProShares UltraShort Australian Dollar,Commodity Based ETF,
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+XBKS, Xenith Bankshares  Inc. ,Financial,Regional - Mid-Atlantic Banks
+UBSH,Union First Market Bankshares C ,Financial,Regional - Mid-Atlantic Banks
+MBFI,MB Financial Inc. ,Financial,Regional - Midwest Banks
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+ASB,Associated Banc-Corp Common Stock,Financial,Regional - Midwest Banks
+INO,Inovio Pharmaceuticals Inc. Co ,Healthcare,Biotechnology
+PCOM, Points International  Ltd. ,N/A,N/A
+QTNT,Quotient Limited,N/A,N/A
+DL,China Distance Education Holdin ,Services,Education & Training Services
+MRTN,Marten Transport Ltd. ,Services,Trucking
+IBM, International Business Machines ,Technology,Diversified Computer Systems

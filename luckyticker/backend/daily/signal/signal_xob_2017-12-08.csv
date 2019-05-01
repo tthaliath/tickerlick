@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DFND,Realty Shares DIVCON Dividend D,,
+FLQL,Franklin LibertyQ U.S. Equity E,,
+OPD,Guggenheim Large Cap Optimized,,
+FLQM,Franklin LibertyQ U.S. Mid Cap,,
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+PFSI,PennyMac Financial Services Inc. ,Financial,Mortgage Investment
+GGAL,Grupo Financiero Galicia S.A. ,Financial,Foreign Regional Banks
+UCBA,United Community Bancorp ,Financial,Savings & Loans
+CACC,Credit Acceptance Corporation ,Financial,Credit Services
+AMP,Ameriprise Financial Inc. Comm ,Financial,Asset Management
+ARL,American Realty Investors Inc. ,Financial,Property Management
+ETSY,Etsy  Inc. ,N/A,N/A
+LOV,Spark Networks Inc. Common Sto ,Services,Consumer Services
+SHAK,Shake Shack Inc. Class A Commo,Services,Specialty Eateries
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+NXST,Nexstar Broadcasting Group Inc ,Services,Broadcasting - TV
+PCO, Pendrell Corporation ,Technology,Wireless Communications

@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MULE,MuleSoft  Inc. Class A Common S,,
+FRD,Friedman Industries Inc. Common ,Basic Materials,Steel & Iron
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+NAVG,The Navigators Group Inc. ,Financial,Property & Casualty Insurance
+TWLO,Twilio  Inc.,N/A,N/A
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+WBAI,500.com Limited ,Services,Gaming Activities
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+IPG,Interpublic Group of Companies ,Services,Advertising Agencies
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+RNG,RingCentral Inc. ,Technology,Application Software
+TTGT,TechTarget Inc. ,Technology,Internet Information Providers
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized

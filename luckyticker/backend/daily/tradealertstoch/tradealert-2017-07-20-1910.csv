@@ -1,0 +1,102 @@
+Buy,AAPL,Apple Inc. ,10.9901
+Buy,ADP,Automatic Data Processing Inc. ,14.0411
+Buy,ADSK,Autodesk Inc. ,10.71
+Buy,AIZ,Assurant Inc. Common ,5.92303
+Buy,ALB,Albemarle Corporation Common St ,7.2236
+Buy,ALL,Allstate Corporation (The) Comm ,15.2747
+Buy,AMAT,Applied Materials Inc. ,13.9954
+Buy,AMG,Affiliated Managers Group Inc. ,9.35503
+Buy,AMGN,Amgen Inc. ,16.9513
+Buy,AMT,American Tower Corporation (REI ,4.77419
+Buy,AON,Aon plc Class A Ordinary Shares ,15.5064
+Buy,APD,Air Products and Chemicals Inc ,10.8179
+Buy,AVB,AvalonBay Communities Inc. Com ,19.0463
+Buy,AVY,Avery Dennison Corporation Comm ,14.0197
+Buy,CCI,Crown Castle International Corp ,8.95468
+Buy,CMA,Comerica Incorporated Common St ,19.7376
+Buy,CMI,Cummins Inc. Common ,8.70213
+Buy,FIS,Fidelity National Information S ,13.4389
+Buy,FISV,Fiserv Inc. ,2.42353
+Buy,GD,General Dynamics Corporation Co ,6.17242
+Buy,GPN,Global Payments Inc. Common Sto ,2.46955
+Buy,GS,Goldman Sachs Group Inc. (The) ,5.20889
+Buy,INTU,Intuit Inc. ,17.4416
+Buy,LUV,Southwest Airlines Company Comm ,16.9994
+Buy,LYB,LyondellBasell Industries NV Or ,17.9884
+Buy,MCHP,Microchip Technology Incorporat ,3.02052
+Buy,MCO,Moody's Corporation Common Stoc ,5.88624
+Buy,PAYX,Paychex Inc. ,6.17226
+Buy,PFG,Principal Financial Group Inc C ,2.77831
+Buy,PRU,Prudential Financial Inc. Comm ,19.1768
+Buy,REG,Regency Centers Corporation Com ,3.70182
+Buy,RJF,Raymond James Financial Inc. C ,9.64673
+Buy,RSG,Republic Services Inc. Common  ,15.0749
+Buy,SLG,SL Green Realty Corporation Com ,18.059
+Buy,SNPS,Synopsys Inc. ,14.0849
+Buy,HPQ, Hewlett-Packard Company Common  ,14.7506
+Buy,TRIP, TripAdvisor  Inc. ,11.9375
+Buy,WFM, Whole Foods Market  Inc. ,15.9766
+Buy,GOOGL,Alphabet Inc.,7.36813
+Buy,NAVI,Navient Corporation ,13.5186
+Buy,CFG,Citizens Financial Group Inc.,8.88838
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,7.98468
+Buy,SPGI,S&P Global  Inc.,5.07661
+Buy,INFO,IHS Markit Ltd.,7.39999
+Buy,ARNC,Arconic Inc.,14.3749
+Sell,AAP,Advance Auto Parts Inc Advance  ,93.9985
+Sell,ABT,Abbott Laboratories Common Stoc ,93.217
+Sell,ACN,Accenture plc. Class A Ordinary ,86.2658
+Sell,AET,Aetna Inc. Common ,85.4374
+Sell,AIV,Apartment Investment and Manage ,96.2954
+Sell,AMP,Ameriprise Financial Inc. Comm ,83.9077
+Sell,AN,AutoNation Inc. Common ,91.2695
+Sell,APA,Apache Corporation Common ,86.2971
+Sell,APC,Anadarko Petroleum Corporation  ,81.9008
+Sell,AXP,American Express Company Common ,84.53
+Sell,CBS,CBS Corporation Class B Common  ,90.2774
+Sell,CF,CF Industries Holdings Inc. Co ,94.3377
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,83.0958
+Sell,CI,Cigna Corporation Common ,93.3682
+Sell,CME,CME Group Inc. ,80.5015
+Sell,CMS,CMS Energy Corporation Common S ,85.715
+Sell,CNC,Centene Corporation Common Stoc ,81.4812
+Sell,COG,Cabot Oil & Gas Corporation Com ,86.8523
+Sell,EIX,Edison International Common Sto ,90.1235
+Sell,EQIX,Equinix Inc. ,90.8656
+Sell,EQT,EQT Corporation Common ,86.7005
+Sell,FL,Footlocker Inc. ,86.0602
+Sell,FLR,Fluor Corporation Common ,93.8137
+Sell,GE,General Electric Company Common ,92.5922
+Sell,GPC,Genuine Parts Company Common St ,98.7639
+Sell,GT,Goodyear Tire & Rubber Company  ,92.0648
+Sell,IP,International Paper Company Com ,95.442
+Sell,LOW,Lowe's Companies Inc. Common S ,83.842
+Sell,M,Macy's Inc Common ,95.6789
+Sell,MA,Mastercard Incorporated Common  ,83.2036
+Sell,MAR,Marriot International Common St ,87.9867
+Sell,MCD,McDonald's Corporation Common S ,97.5354
+Sell,MLM,Martin Marietta Materials Inc. ,87.7794
+Sell,ORLY,O'Reilly Automotive Inc. ,85.8949
+Sell,OXY,Occidental Petroleum Corporatio ,83.0097
+Sell,PCAR,PACCAR Inc. ,85.5567
+Sell,PG,Procter & Gamble Company (The)  ,83.239
+Sell,PNW,Pinnacle West Capital Corporati ,98.5182
+Sell,PSA,Public Storage Common ,98.2907
+Sell,RCL,Royal Caribbean Cruises Ltd. Co ,95.8221
+Sell,RL,Ralph Lauren Corporation Common ,95.0616
+Sell,ROK,Rockwell Automation Inc. Commo ,81.3005
+Sell,RRC,Range Resources Corporation Com ,89.8987
+Sell,SCG,SCANA Corporation Common ,90.6169
+Sell,SIG,Signet Jewelers Limited Common  ,97.8949
+Sell,SO,Southern Company (The) Common S ,81.1129
+Sell,HP, Helmerich & Payne  Inc. Common  ,86.8811
+Sell,NLSN, Nielsen Holdings N.V. Common St ,92.8024
+Sell,PSX, Phillips 66 Common ,82.2879
+Sell,VIAB, Viacom Inc. ,84.3832
+Sell,EVHC,Envision Healthcare Holdings Inc. ,95.3595
+Sell,FOX,Twenty-First Century Fox Inc. ,89.2595
+Sell,FOXA,Twenty-First Century Fox Inc. ,88.2715
+Sell,MNK,Mallinckrodt plc ,82.4688
+Sell,ALLE,Allegion plc Ordinary Shares ,88.5979
+Sell,ANTM,Anthem Inc. Common,92.5382
+Sell,FTV,Fortive Corporation,92.8616

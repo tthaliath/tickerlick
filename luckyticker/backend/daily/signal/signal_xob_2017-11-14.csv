@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+MNST, Monster Beverage Corporation ,Consumer Goods,Beverages - Soft Drinks
+IPCC,Infinity Property and Casualty  ,Financial,Property & Casualty Insurance
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+GMED, Globus Medical  Inc. Class A Co ,Healthcare,Medical Appliances & Equipment
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+HOLI, Hollysys Automation Technologie ,Industrial Goods,Industrial Electrical Equipment
+VBLT,Vascular Biogenics Ltd.,N/A,N/A
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+USAK,USA Truck Inc. ,Services,Trucking
+USAT,USA Technologies Inc. ,Services,Business Services
+WING,Wingstop Inc.,Services,Restaurants
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+VRTU,Virtusa Corporation ,Technology,Information Technology Services

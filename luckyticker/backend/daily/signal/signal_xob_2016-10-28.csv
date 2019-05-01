@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VALE,VALE S.A.  American Depositary  ,Basic Materials,Industrial Metals & Minerals
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+IX, Orix Corp Ads Common ,Financial,Credit Services
+OSHC,Ocean Shore Holding Co. ,Financial,Regional - Northeast Banks
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+XRS,TAL Education Group American De ,Services,Education & Training Services
+MA,Mastercard Incorporated Common  ,Services,Business Services
+SAIA,Saia Inc. ,Services,Trucking
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+VVI,Viad Corp Common ,Services,Business Services
+LVLT,Level 3 Communications Inc. Co ,Technology,Diversified Communication Services
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+SJW,SJW Corporation Common ,Utilities,Water Utilities

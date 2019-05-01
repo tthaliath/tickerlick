@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AVD,American Vanguard Corporation C ,Basic Materials,Agricultural Chemicals
+MLVF,Malvern Federal Bancorp Inc. ,Financial,Savings & Loans
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+LYTS,LSI Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV
+VLRS,Controladora Vuela Compa ,Services,Major Airlines
+LMCA, Liberty Media Corporation ,Services,Entertainment - Diversified
+RCII,Rent-A-Center Inc. ,Services,Rental & Leasing Services
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+BKFS,Black Knight Financial Services  Inc.,Technology,Business Software & Services

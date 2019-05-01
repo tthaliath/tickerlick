@@ -1,0 +1,64 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OUNZ,Merk Gold Trust ETV ,,
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+COG,Cabot Oil & Gas Corporation Com ,Basic Materials,Independent Oil & Gas
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+UN,Unilever NV Common ,Consumer Goods,Processed & Packaged Goods
+UL,Unilever PLC Common ,Consumer Goods,Food - Major Diversified
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+MYF, Blackrock MuniYield Investment  ,Financial,Closed-End Fund - Debt
+BFK, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+GCAP,GAIN Capital Holdings Inc. Com ,Financial,Investment Brokerage - National
+AGD, Alpine Global Dynamic Dividend  ,Financial,Closed-End Fund - Foreign
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+CERS,Cerus Corporation ,Healthcare,Biotechnology
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+TRIB,Trinity Biotech plc ,Healthcare,Diagnostic Substances
+CI,Cigna Corporation Common ,Healthcare,Health Care Plans
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+ROLL,RBC Bearings Incorporated ,Industrial Goods,Machine Tools & Accessories
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+FLIR,FLIR Systems Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+IAU, ishares Gold Trust ,N/A,N/A
+GGZ,Gabelli Global Small and Mid Ca,N/A,N/A
+EOD, Wells Fargo Advantage Global Di ,N/A,N/A
+DRA,Diversified Real Asset Income F,N/A,N/A
+EOT, Eaton Vance Municipal Income Tr ,N/A,N/A
+PPHMP,Peregrine Pharmaceuticals  Inc. ,N/A,N/A
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+HPI, John Hancock Preferred Income F ,N/A,N/A
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+PEX,ProShares Global Listed Private Eq ETF ,N/A,N/A
+HPS, John Hancock Preferred Income F ,N/A,N/A
+COW, iPath Dow Jones UBS Livestock T ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+JCE, Nuveen Core Equity Alpha Fund N ,N/A,N/A
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+P, Pandora Media  Inc. Common Stoc ,Services,Broadcasting - Radio
+GCI,Gannett Co. Inc. Common ,Services,Publishing - Newspapers
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+CVTI,Covenant Transportation Group  ,Services,Trucking
+GME,Gamestop Corporation Common Sto ,Services,Electronics Stores
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+AMCC,Applied Micro Circuits Corporat ,Technology,Semiconductor - Integrated Circuits
+CY,Cypress Semiconductor Corporati ,Technology,Semiconductor - Broad Line
+MBLY,Mobileye N.V. Ordinary Shares,Technology,Application Software
+N,Netsuite Inc Common ,Technology,Business Software & Services
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments
+MITL,Mitel Networks Corporation ,Technology,Communication Equipment
+ZEN,Zendesk Inc. Common,Technology,Application Software
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software

@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MTRN, Materion Corporation ,Basic Materials,Industrial Metals & Minerals
+KRA,Kraton Performance Polymers In ,Basic Materials,Specialty Chemicals
+DIG,ProShares Ultra Oil & Gas ETF,Commodity Based ETF,
+NAV,Navistar International Corporat ,Consumer Goods,Trucks & Other Vehicles
+IBKR, Interactive Brokers Group  Inc. ,Financial,Investment Brokerage - National
+CRVL,CorVel Corp. ,Financial,Insurance Brokers
+FMBH,First Mid-Illinois Bancshares,Financial,Regional - Midwest Banks
+BYBK,Bay Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+CHMG,Chemung Financial Corporation ,Financial,Regional - Pacific Banks
+BMA,Banco Macro S.A.  ADR (represen ,Financial,Foreign Regional Banks
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+HALO, Halozyme Therapeutics  Inc. ,Healthcare,Biotechnology
+SPPI,Spectrum Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AJRD,Aerojet Rocketdyne Holdings  Inc.,Industrial Goods,Aerospace/Defense - Major Diversified
+ARCB,ArcBest Corporation ,N/A,N/A
+BIOP,Bioptix  Inc.,N/A,N/A
+ERX, Direxion Energy Bull 3X Shares ,N/A,N/A
+CTAS,Cintas Corporation ,Services,Apparel Stores
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+NSP, Insperity  Inc. Common ,Services,Business Services
+FORR,Forrester Research Inc. ,Services,Research Services
+AL, Air Lease Corporation Class A C ,Services,Rental & Leasing Services
+FNGN,Financial Engines Inc. ,Services,Business Services
+CONN,Conn's Inc. ,Services,Electronics Stores
+TRN,Trinity Industries Inc. Common ,Services,Railroads
+PRFT,Perficient Inc. ,Technology,Business Software & Services
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+GRPN,Groupon Inc. ,Technology,Internet Information Providers
+FXN,First Trust Energy AlphaDEX Fund ETF,US Equity ETF,
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+PSCE,PowerShares S&P SmallCap Energy Portfolio ETF,US Equity ETF,

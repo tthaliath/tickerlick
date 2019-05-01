@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+CUBE, CubeSmart Common Shares ,Financial,REIT - Industrial
+DOC,Physicians Realty Trust ,Financial,REIT - Healthcare Facilities
+ESRT,Empire State Realty Trust Inc. ,Financial,REIT - Diversified
+HTA, Healthcare Trust of America  In ,Financial,REIT - Healthcare Facilities
+OCUL,Ocular Therapeutix Inc.,Healthcare,Biotechnology
+MSON,MISONIX Inc. ,Healthcare,Medical Appliances & Equipment
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+BGFV,Big 5 Sporting Goods Corporatio ,Services,Sporting Goods Stores
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale

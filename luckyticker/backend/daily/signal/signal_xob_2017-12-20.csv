@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JHMS,John Hancock Multifactor Consum,,
+FLQM,Franklin LibertyQ U.S. Mid Cap,,
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+CLX,Clorox Company (The) Common Sto ,Consumer Goods,Housewares & Accessories
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+ENFC,Entegra Financial Corp.,Financial,Regional - Southeast Banks
+SIEB, Siebert Financial Corp. ,Financial,Investment Brokerage - Regional
+CBIO,Catalyst Biosciences  Inc.,Healthcare,Biotechnology
+QDEL,Quidel Corporation ,Healthcare,Diagnostic Substances
+ENTL,Entellus Medical Inc.,Healthcare,Medical Instruments & Supplies
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ZIV, VelocityShares Daily Inverse VI ,N/A,N/A
+BETR,Amplify Snack Brands,N/A,N/A
+WINS,Wins Finance Holdings Inc.,N/A,N/A
+VQT, Barclays ETN S&P VEQTOR ETN ,N/A,N/A
+GLNG,Golar LNG Limited ,Services,Shipping
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+RRR,Red Rock Resorts  Inc.,Services,Rental & Leasing Services
+USAT,USA Technologies Inc. ,Services,Business Services
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV
+DRI,Darden Restaurants Inc. Common ,Services,Restaurants
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+TXN,Texas Instruments Incorporated ,Technology,Semiconductor - Broad Line
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+XLY,SPDR Consumer Discretionary Select Sector Fund ETF,US Equity ETF,

@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BCPC,Balchem Corporation ,Basic Materials,Chemicals - Major Diversified
+JCAP,Jernigan Capital  Inc.,Financial,REIT - Industrial
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+USBI,United Security Bancshares Inc ,Financial,Regional - Southeast Banks
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+NUTR,Nutraceutical International Cor ,Healthcare,Drug Related Products
+ASPN,Aspen Aerogels Inc. Common Sto,Industrial Goods,General Building Materials
+RCMT,RCM Technologies Inc. ,Services,Staffing & Outsourcing Services
+BLOX, Infoblox Inc. Common ,Services,Business Services
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+MB,MINDBODY  Inc.,Technology,Application Software

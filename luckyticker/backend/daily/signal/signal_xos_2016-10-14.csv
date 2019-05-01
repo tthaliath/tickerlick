@@ -1,0 +1,48 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WYDE,ProShares CDS Short North Ameri ,,
+WBII,WBI Tactical Income Shares ,,
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+ULE,ProShares Ultra Euro ETF,Commodity Based ETF,
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+DEO,Diageo plc Common ,Consumer Goods,Beverages - Wineries & Distillers
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+UL,Unilever PLC Common ,Consumer Goods,Food - Major Diversified
+CAC,Camden National Corporation ,Financial,Regional - Northeast Banks
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+CNS,Cohn & Steers Inc Common ,Financial,Asset Management
+CLDT,Chatham Lodging Trust (REIT) Co ,Financial,REIT - Hotel/Motel
+IGOV,iShares S&P/Citigroup International Treasury Fund ETF,Fixed Income ETF,
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+MUNI,PIMCO Intermediate Municipal Bond Strategy Fund ETF,Fixed Income ETF,
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+IBND,SPDR Barclays Capital International Corporate Bond ETF,Fixed Income ETF,
+PGF,PowerShares Financial Preferred ETF,Fixed Income ETF,
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+FLIR,FLIR Systems Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+JCE, Nuveen Core Equity Alpha Fund N ,N/A,N/A
+ZF, Zweig Fund  Inc. (The) Common S ,N/A,N/A
+HPS, John Hancock Preferred Income F ,N/A,N/A
+PPHMP,Peregrine Pharmaceuticals  Inc. ,N/A,N/A
+GBAB, Guggenheim Build America Bonds  ,N/A,N/A
+NEA, Nuveen AMT-Free Municipal Incom ,N/A,N/A
+GLDI,Credit Suisse Gold Shrs Cov Call Exc ETN ,N/A,N/A
+HPI, John Hancock Preferred Income F ,N/A,N/A
+UDN, PowerShares DB USD Index Bearis ,N/A,N/A
+CVTI,Covenant Transportation Group  ,Services,Trucking
+TRCO,Tribune Media Company Class A C,Services,Publishing - Newspapers
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+FTNT,Fortinet Inc. ,Technology,Application Software
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+N,Netsuite Inc Common ,Technology,Business Software & Services
+CSOD, Cornerstone OnDemand  Inc. ,Technology,Multimedia & Graphics Software
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+BBH,Market Vectors Biotech ETF,US Equity ETF,
+FBT,First Trust Amex Biotech Index Fund ETF,US Equity ETF,

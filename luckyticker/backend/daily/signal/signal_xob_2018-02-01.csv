@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FLQM,Franklin LibertyQ U.S. Mid Cap,,
+BIVV,Bioverativ Inc.,,
+VSDA,VictoryShares Dividend Accelera,,
+WNC,Wabash National Corporation Com ,Consumer Goods,Trucks & Other Vehicles
+AFG,American Financial Group Inc.  ,Financial,Property & Casualty Insurance
+FOR, Forestar Group Inc Common ,Financial,Real Estate Development
+CARO,Carolina Financial Corporation,Financial,Regional - Mid-Atlantic Banks
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+OFG,Oriental Financial Group Inc.  ,Financial,Money Center Banks
+CNMD,CONMED Corporation ,Healthcare,Medical Appliances & Equipment
+CASC,Cascadian Therapeutics, Inc.,Healthcare,Biotechnology
+MSGN,MSG Networks Inc.,N/A,N/A
+LOGI,Logitech International S.A. ,NULL,NULL
+EBAY,eBay Inc. ,Services,Catalog & Mail Order Houses
+NVGS,Navigator Holdings Ltd. ,Services,Shipping
+QNST,QuinStreet Inc. ,Services,Advertising Agencies
+CALD,Callidus Software Inc. ,Technology,Business Software & Services
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+EA, Electronic Arts Inc. ,Technology,Multimedia & Graphics Software
+PNQI,PowerShares Nasdaq Internet Portfolio ETF,US Equity ETF,
+FDN,First Trust DJ Internet Index Fund ETF,US Equity ETF,

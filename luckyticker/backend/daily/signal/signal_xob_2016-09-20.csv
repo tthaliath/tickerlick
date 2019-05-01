@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BOCH,Bank of Commerce Holdings (CA) ,Financial,Regional - Pacific Banks
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+SUPN, Supernus Pharmaceuticals  Inc. ,Healthcare,Drugs - Generic
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ALDX,Aldeyra Therapeutics Inc.,Healthcare,Biotechnology
+ATEC,Alphatec Holdings Inc. ,Healthcare,Medical Instruments & Supplies
+BSTC,BioSpecifics Technologies Corp ,Healthcare,Biotechnology
+AERI,Aerie Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SIF,SIFCO Industries Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+GLPG,Galapagos NV ,N/A,N/A
+TIVO,TiVo Inc. ,Services,CATV Systems
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+AWRE,Aware Inc. ,Technology,Communication Equipment
+ISIL,Intersil Corporation ,Technology,Semiconductor - Broad Line
+DTSI,DTS Inc. ,Technology,Application Software

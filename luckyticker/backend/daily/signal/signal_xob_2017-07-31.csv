@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+DEO,Diageo plc Common ,Consumer Goods,Beverages - Wineries & Distillers
+TREE,Tree.com Inc. ,Financial,Mortgage Investment
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+INBK,First Internet Bancorp ,Financial,Regional - Midwest Banks
+LAYN,Layne Christensen Company ,Industrial Goods,Heavy Construction
+LBRDA,Liberty Broadband Corporation,N/A,N/A
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+TRK,Speedway Motorsports Inc. Comm ,Services,Sporting Activities
+VVI,Viad Corp Common ,Services,Business Services
+LBRDK,Liberty Broadband Corporation,Services,Broadcasting - TV
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+CHTR,Charter Communications Inc. ,Services,CATV Systems
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+ADP,Automatic Data Processing Inc. ,Technology,Business Software & Services
+BIDU,Baidu Inc. ,Technology,Internet Information Providers
+GNCMA,General Communication Inc. ,Technology,Long Distance Carriers
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+NEP,NextEra Energy Partners LP Com,Utilities,Diversified Utilities

@@ -1,0 +1,106 @@
+ticker,name,sector,industry
+BLK,BlackRock Inc,Financial,Asset Management
+SWK,Stanley Black & Decker Inc. Co ,Industrial Goods,Machine Tools & Accessories
+MHK,Mohawk Industries Inc. Common  ,Industrial Goods,Textile Industrial
+A,Agilent Technologies Inc. Comm ,Technology,Scientific & Technical Instruments
+MSI, Motorola Solutions  Inc. Common ,Technology,Communication Equipment
+ISRG,Intuitive Surgical Inc. ,Healthcare,Medical Appliances & Equipment
+PNR,Pentair Inc. Common ,Industrial Goods,Industrial Equipment & Components
+OMC,Omnicom Group Inc. Common ,Services,Advertising Agencies
+CBG,CBRE Group Inc Common ,Financial,Property Management
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities
+AIZ,Assurant Inc. Common ,Financial,Accident & Health Insurance
+GGP,General Growth Properties Inc. ,Financial,REIT - Retail
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+NDAQ,The NASDAQ OMX Group Inc. ,Financial,Diversified Investments
+KSU,Kansas City Southern Common Sto ,Services,Railroads
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+SCTO,Global X JPMorgan US Sector Rot ,,
+NRIM,Northrim BanCorp Inc ,Financial,Regional - Pacific Banks
+AVD,American Vanguard Corporation C ,Basic Materials,Agricultural Chemicals
+DTV,DIRECTV ,Services,CATV Systems
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+NAC, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+AXDX,Accelerate Diagnostics Inc. ,Healthcare,Diagnostic Substances
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+ECPG,Encore Capital Group Inc ,Financial,Credit Services
+CZWI,Citizens Community Bancorp Inc ,Financial,Regional - Midwest Banks
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services
+AMBC,Ambac Financial Group Inc. ,Financial,Surety & Title Insurance
+CFMS,ConforMIS Inc ,N/A,N/A
+CAMP,CalAmp Corp. ,Technology,Communication Equipment
+BHV, BlackRock Virginia Municipal Bo ,Financial,Closed-End Fund - Debt
+AAPC,Atlantic Alliance Partnership Corp.,Conglomerates,Conglomerates
+SON,Sonoco Products Company Common  ,Consumer Goods,Paper & Paper Products
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+ATSG,Air Transport Services Group I ,Services,Air Delivery & Freight Services
+NPO,Enpro Industries Inc ,Industrial Goods,Industrial Equipment & Components
+POL,PolyOne Corporation Common Stoc ,Basic Materials,Specialty Chemicals
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+MZF, Managed Duration Investment Gra ,N/A,N/A
+HAE, Haemonetics Corporation Common  ,Healthcare,Medical Instruments & Supplies
+VDSI,VASCO Data Security Internation ,Technology,Security Software & Services
+JAKK,JAKKS Pacific Inc. ,Consumer Goods,Toys & Games
+MEG,Media General Inc. Class A Com ,Services,Publishing - Newspapers
+EVM, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+FNBC,First NBC Bank Holding Company,Financial,Foreign Regional Banks
+WBC,Wabco Holdings Inc. Common Stoc ,Consumer Goods,Auto Parts
+RELY,Real Industry  Inc.,Industrial Goods,Waste Management
+MMS,Maximus Inc. Common ,Services,Business Services
+TOL,Toll Brothers Inc. Common ,Industrial Goods,Residential Construction
+NCB, Nuveen California Municipal Val ,N/A,N/A
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+ELY,Callaway Golf Company Common St ,Consumer Goods,Sporting Goods
+STAA,STAAR Surgical Company ,Healthcare,Medical Instruments & Supplies
+DECK,Deckers Outdoor Corporation ,Consumer Goods,Textile - Apparel Footwear & Accessories
+AIRM,Air Methods Corporation ,Services,Air Services Other
+SALM,Salem Communications Corporatio ,Services,Broadcasting - Radio
+WBII,WBI Tactical Income Shares ,,
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+GGOV,ProShares German Sovereign/Sub-Sovereign ETF,Commodity Based ETF,
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+VRTU,Virtusa Corporation ,Technology,Information Technology Services
+MCQ, Medley Capital Corporation 7.12 ,N/A,N/A
+GCAP,GAIN Capital Holdings Inc. Com ,Financial,Investment Brokerage - National
+SHOR,ShoreTel Inc. ,Technology,Communication Equipment
+STS,Supreme Industries Inc. Common ,Consumer Goods,Trucks & Other Vehicles
+EMCI,EMC Insurance Group Inc. ,Financial,Property & Casualty Insurance
+DTQ, DTE Energy Company 2012 Series  ,N/A,N/A
+WWD, Woodward  Inc. ,Industrial Goods,Industrial Electrical Equipment
+FRD,Friedman Industries Inc. Common ,Basic Materials,Steel & Iron
+TTGT,TechTarget Inc. ,Technology,Internet Information Providers
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+USAK,USA Truck Inc. ,Services,Trucking
+BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,N/A,N/A
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+NYLD,NRG Yield Inc. ,Utilities,Electric Utilities
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+EEH,ELEMENTS SPECTRUM Lg Cap U.S. Sector ETN ,N/A,N/A
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+HALO, Halozyme Therapeutics  Inc. ,Healthcare,Biotechnology
+WMS,WMS Industries Inc. Common Stoc ,Consumer Goods,Recreational Goods Other
+MANH,Manhattan Associates Inc. ,Technology,Application Software
+HMTV,Hemisphere Media Group Inc. ,Services,CATV Systems
+CTT,CatchMark Timber Trust Inc. ,Industrial Goods,Lumber
+AIXG,Aixtron SE ,NULL,NULL
+INGN,Inogen Inc. ,Healthcare,Medical Instruments & Supplies
+GJR, Synthetic Fixed-Income Securiti ,N/A,N/A
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+LAS,Lentuo International Inc. Ameri ,Services,Auto Dealerships
+HTF, Horizon Technology Finance Corp ,N/A,N/A
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+RATE, Bankrate  Inc. Common ,Technology,Internet Information Providers
+FEYE,FireEye Inc. ,Technology,Application Software
+SIGM,Sigma Designs Inc. ,Technology,Semiconductor - Specialized
+TUBE,TubeMogul Inc.,Technology,Application Software

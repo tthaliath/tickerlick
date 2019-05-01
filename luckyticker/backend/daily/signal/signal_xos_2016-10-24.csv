@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QWLD,SPDR MSCI World Quality Mix ETF ,,
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+SWN,Southwestern Energy Company Com ,Basic Materials,Independent Oil & Gas
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+PG,Procter & Gamble Company (The)  ,Consumer Goods,Personal Products
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+OPB,Opus Bank ,Financial,Money Center Banks
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+LBIO,LION BIOTECHNOLOGIES,Healthcare,Biotechnology
+INO,Inovio Pharmaceuticals Inc. Co ,Healthcare,Biotechnology
+ADPT,Adeptus Health Inc. Common Stoc,Healthcare,Hospitals
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+BCC,Boise Cascade Company ,Industrial Goods,Lumber
+SWNC,Southwestern Energy Company Dep,N/A,N/A
+URR,Market Vectors Double Long Euro ETN ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+USAK,USA Truck Inc. ,Services,Trucking
+ATHN,athenahealth Inc. ,Services,Business Services
+VDSI,VASCO Data Security Internation ,Technology,Security Software & Services
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services

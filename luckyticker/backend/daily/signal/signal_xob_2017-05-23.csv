@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PTXP,PennTex Midstream Partners  LP,Basic Materials,Oil & Gas Pipelines
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+OVBC,Ohio Valley Banc Corp. ,Financial,Regional - Midwest Banks
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+CGEN,Compugen Ltd. ,Healthcare,Biotechnology
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+DAR,Darling International Inc. Comm ,Industrial Goods,Waste Management
+GRR, Asia Tigers Fund  Inc. (The) Co ,N/A,N/A
+GLYC,GlycoMimetics Inc. ,N/A,N/A
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+IMOS,ChipMOS TECHNOLOGIES (Bermuda)  ,Technology,Semiconductor Equipment & Materials
+TSRI,TSR Inc. ,Technology,Business Software & Services
+CCI,Crown Castle International Corp ,Technology,Diversified Communication Services
+GSOL,Global Sources Ltd. ,Technology,Internet Information Providers

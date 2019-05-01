@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MTRN, Materion Corporation ,Basic Materials,Industrial Metals & Minerals
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+MTOR, Meritor  Inc. Common ,Consumer Goods,Auto Parts
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+UG,United-Guardian Inc. ,Consumer Goods,Personal Products
+CHMG,Chemung Financial Corporation ,Financial,Regional - Pacific Banks
+TCBK,TriCo Bancshares ,Financial,Regional - Pacific Banks
+TMP,Tompkins Financial Corporation  ,Financial,Regional - Northeast Banks
+ITG,Investment Technology Group In ,Financial,Investment Brokerage - Regional
+FMBH,First Mid-Illinois Bancshares,Financial,Regional - Midwest Banks
+PFBC,Preferred Bank ,Financial,Regional - Pacific Banks
+NCOM,NATIONAL COMMERCE CORP,Financial,Regional - Southeast Banks
+TROW,T. Rowe Price Group Inc. ,Financial,Asset Management
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+WHG,Westwood Holdings Group Inc Com ,Financial,Asset Management
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+CCF,Chase Corporation Common ,Industrial Goods,Industrial Equipment & Components
+UFPI,Universal Forest Products Inc. ,Industrial Goods,General Building Materials
+OA,Orbital ATK Inc. Common,Industrial Goods,Aerospace/Defense Products & Services
+PARR,Par Petroleum Corporation.  Com,N/A,N/A
+BUFF,Blue Buffalo Pet Products  Inc.,N/A,N/A
+ODFL,Old Dominion Freight Line Inc. ,Services,Trucking
+LAD,Lithia Motors Inc. Common Stoc ,Services,Auto Dealerships
+EGL, Engility Holdings  Inc. Common  ,Services,Technical Services
+AMN,AMN Healthcare Services Inc AMN ,Services,Staffing & Outsourcing Services
+SAH,Sonic Automotive Inc. Common S ,Services,Auto Dealerships
+BFAM,Bright Horizons Family Solutions Inc. ,Services,Personal Services
+HCSG, Healthcare Services Group  Inc. ,Services,Business Services
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+EXA, Exa Corporation ,Technology,Application Software
+VICR,Vicor Corporation ,Technology,Diversified Electronics
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+PLUS,ePlus inc. ,Technology,Business Software & Services
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers

@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+DPS,Dr Pepper Snapple Group Inc Dr ,Consumer Goods,Beverages - Soft Drinks
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+PSA,Public Storage Common ,Financial,REIT - Diversified
+BMO,Bank Of Montreal Common ,Financial,Money Center Banks
+UHN, United States Diesel Heating Oi ,N/A,N/A
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+UGA, United States Gasoline Fund LP ,N/A,N/A
+WATT,Energous Corporation ,N/A,N/A
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+CAH,Cardinal Health Inc. Common St ,Services,Drugs Wholesale
+GSH,Guangshen Railway Company Limit ,Services,Railroads

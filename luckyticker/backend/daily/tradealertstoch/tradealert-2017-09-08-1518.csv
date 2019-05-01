@@ -1,0 +1,51 @@
+Buy,AMZN,Amazon.com Inc. ,3.33213
+Buy,BIIB,Biogen Idec Inc. ,1.72739
+Buy,CELG,Celgene Corporation ,6.14091
+Buy,COP,ConocoPhillips Common ,19.4974
+Buy,COST,Costco Wholesale Corporation ,7.12284
+Buy,CVS,CVS Caremark Corporation Common ,4.0397
+Buy,EXC,Exelon Corporation Common ,6.49788
+Buy,FDX,FedEx Corporation Common ,14.5919
+Buy,GILD,Gilead Sciences Inc. ,5.79541
+Buy,GOOG,Alphabet Inc.,18.9659
+Buy,INTC,Intel Corporation ,9.87061
+Buy,NEE,NextEra Energy Inc. Common Sto ,2.52863
+Buy,NFLX,Netflix Inc. ,12.336
+Buy,PEP,Pepsico Inc. Common ,14.0687
+Buy,QCOM,QUALCOMM Incorporated ,18.2748
+Buy,SLB,Schlumberger N.V. Common ,6.6382
+Buy,TGT,Target Corporation Common ,16.1731
+Buy,FB, Facebook  Inc. ,14.2837
+Buy,HAL, Halliburton Company Common Stoc ,2.56365
+Buy,PYPL,PayPal Holdings  Inc.,11.1107
+Sell,ABT,Abbott Laboratories Common Stoc ,94.6665
+Sell,ACN,Accenture plc. Class A Ordinary ,88.9411
+Sell,AGN,Allergan Inc. Common ,91.1757
+Sell,AIG,American International Group I ,88.8889
+Sell,ALL,Allstate Corporation (The) Comm ,93.2713
+Sell,AXP,American Express Company Common ,90.7455
+Sell,BA,Boeing Company (The) Common Sto ,94.7442
+Sell,BK,Bank of New York Mellon Corpora ,94.4444
+Sell,CAT,Caterpillar Inc. Common ,80.3359
+Sell,CL,Colgate-Palmolive Company Commo ,84.5574
+Sell,CMCSA,Comcast Corporation ,89.5064
+Sell,COF,Capital One Financial Corporati ,81.8023
+Sell,DD,E.I. du Pont de Nemours and Com ,92.8569
+Sell,DHR,Danaher Corporation Common Stoc ,93.1993
+Sell,DUK,Duke Energy Corporation (Holdin ,84.8662
+Sell,JNJ,Johnson & Johnson Common ,80.2475
+Sell,KO,Coca-Cola Company (The) Common  ,93.603
+Sell,LOW,Lowe's Companies Inc. Common S ,83.3302
+Sell,MMM,3M Company Common ,91.8834
+Sell,MS,Morgan Stanley Common ,81.666
+Sell,ORCL,Oracle Corporation ,80.3788
+Sell,PCLN,priceline.com Incorporated ,88.7222
+Sell,PFE,Pfizer Inc. Common ,94.7917
+Sell,PM,Philip Morris International Inc ,87.2217
+Sell,SBUX,Starbucks Corporation ,98.2143
+Sell,SO,Southern Company (The) Common S ,80.8606
+Sell,HD, Home Depot  Inc. (The) Common S ,83.3416
+Sell,LLY, Eli Lilly and Company Common St ,98.4849
+Sell,MDLZ, Mondelez International  Inc. ,81.7331
+Sell,AAL,American Airlines Group Inc. ,93.6105
+Sell,WBA,Walgreens Boots Alliance Inc.,85.5339

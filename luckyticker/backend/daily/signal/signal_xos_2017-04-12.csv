@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NWPX,Northwest Pipe Company ,Basic Materials,Steel & Iron
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+WBKC, Wolverine Bancorp  Inc. ,Financial,Money Center Banks
+ANGO,AngioDynamics Inc. ,Healthcare,Medical Instruments & Supplies
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+NTRA,Natera  Inc.,Healthcare,Medical Laboratories & Research
+DBVT,DBV Technologies S.A.,N/A,N/A
+KFI, KKR Financial Holdings LLC 7.50 ,N/A,N/A
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+ECHO,Echo Global Logistics Inc. ,Services,Trucking
+SEAS,SeaWorld Entertainment Inc. ,Services,Sporting Activities
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits

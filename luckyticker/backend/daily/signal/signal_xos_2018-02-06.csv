@@ -1,0 +1,86 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IUSB,iShares Core Total USD Bond Mar ,,
+SMLL,Direxiion Daily Small Cap Bull  ,,
+VBND,Vident Core U.S. Bond Fund ,,
+AGGE,IQ Enhanced Core Bond U.S. ETF,,
+IBDN,iShares iBonds Dec 2022 Term Co,,
+CLPR,Clipper Realty Inc.,,
+YLD,Principal Exchange-Traded Funds,,
+UNIT,Uniti Group Inc.,,
+XIVH,UBS AG VelocityShares VIX Short,,
+BSCQ,GuggenheimBulletShares2026Corpo,,
+REML,Credit Suisse AG Credit Suisse,,
+EXIV,VelocityShares 1x Daily Inverse,,
+BSCP,Guggenheim BulletShares 2025 Co,,
+VMIN,REX VolMAXX Inverse VIX Weekly,,
+FNV, Franco Nev Corp Common (Canada) ,Basic Materials,Gold
+MFCB,MFC Bancorp Ltd.,Basic Materials,Industrial Metals & Minerals
+BCPC,Balchem Corporation ,Basic Materials,Chemicals - Major Diversified
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+RFP, Resolute Forest Products Inc. C ,Consumer Goods,Paper & Paper Products
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+JBSS,John B. Sanfilippo & Son Inc. ,Consumer Goods,Processed & Packaged Goods
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products
+SCL,Stepan Company Common ,Consumer Goods,Cleaning Products
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+MFA,MFA Financial Inc. ,Financial,REIT - Diversified
+TMK,Torchmark Corporation Common St ,Financial,Life Insurance
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+EVO, Eaton Vance Ohio Municipal Inco ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+RNP, Cohen & Steers Reit and Preferr ,Financial,Closed-End Fund - Equity
+IVR,INVESCO MORTGAGE CAPITAL INC Co ,Financial,Mortgage Investment
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+MCY,Mercury General Corporation Com ,Financial,Property & Casualty Insurance
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+AKR,Acadia Realty Trust Common Stoc ,Financial,Property Management
+NYMT,New York Mortgage Trust Inc. ,Financial,REIT - Residential
+NWLI,National Western Life Insurance ,Financial,Life Insurance
+SAFT,Safety Insurance Group Inc. ,Financial,Property & Casualty Insurance
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income ETF,
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+MBB,iShares Barclays MBS Fixed-Rate Bond ETF,Fixed Income ETF,
+PFXF,Market Vectors Pref Secs ex Fincls ETF,Fixed Income ETF,
+CNDA,IndexIQ Canada Small Cap ETF,Global Equity ETF,
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+SNHY,Sun Hydraulics Corporation ,Industrial Goods,Industrial Equipment & Components
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+WM,Waste Management Inc. Common S ,Industrial Goods,Waste Management
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+AFGH,American Financial Group  Inc.  ,N/A,N/A
+PFF, iShares S&P US Preferred ,N/A,N/A
+ZIV, VelocityShares Daily Inverse VI ,N/A,N/A
+PCK, Pimco California Municipal Inco ,N/A,N/A
+FGB, First Trust Specialty Finance a ,N/A,N/A
+PYS, Merrill Lynch Depositor Inc PPl ,N/A,N/A
+PARR,Par Petroleum Corporation.  Com,N/A,N/A
+VGI, Virtus Global Multi-Sector Inco ,N/A,N/A
+BYLD,iShares Yield Optimized Bond ,N/A,N/A
+XIV, VelocityShares Daily Inverse VI ,N/A,N/A
+MITT, AG Mortgage Investment Trust  I ,N/A,N/A
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+PI,Impinj  Inc.,N/A,N/A
+JSM,SLM Corporation ,NULL,NULL
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+LABL,Multi-Color Corporation ,Services,Business Services
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+CRUS,Cirrus Logic Inc. ,Technology,Semiconductor - Specialized
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+EGOV,NIC Inc. ,Technology,Application Software
+SPA,Sparton Corporation Common Stoc ,Technology,Diversified Electronics
+MORT,Market Vectors Mortgage REIT Income ETF,US Equity ETF,
+REM,iShares FTSE NAREIT Mortgage REITs Index Fund ETF,US Equity ETF,

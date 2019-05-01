@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+CCS,Century Communities Inc. Commo,Financial,Real Estate Development
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+HLI,Houlihan Lokey  Inc.,Financial,Investment Brokerage - National
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+MTG,MGIC Investment Corporation Com ,Financial,Property & Casualty Insurance
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+IRCP,IRSA Propiedades Comerciales S.A.,N/A,N/A
+SLTB,Scorpio Bulkers Inc. 7.50% Seni,N/A,N/A
+BST,BlackRock Science and Technolog,N/A,N/A
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+GILT,Gilat Satellite Networks Ltd. ,Technology,Communication Equipment
+TEAM,Atlassian Corporation Plc,Technology,Information Technology Services
+AEIS,Advanced Energy Industries Inc ,Technology,Diversified Electronics
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+PWB,PowerShares Dynamic LargeCap Growth ETF,US Equity ETF,

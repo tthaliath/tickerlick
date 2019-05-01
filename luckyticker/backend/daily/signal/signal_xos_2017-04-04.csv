@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+VSBN,VSB Bancorp Inc. (NY) ,Financial,Regional - Northeast Banks
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+SOYB, Teucrium Soybean Fund ETV ,N/A,N/A
+FLT,FleetCor Technologies Inc. Com ,Services,Business Services
+UEPS,Net 1 UEPS Technologies Inc. ,Services,Business Services
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+CLFD,Clearfield Inc. ,Technology,Communication Equipment
+BSFT,BroadSoft Inc. ,Technology,Application Software

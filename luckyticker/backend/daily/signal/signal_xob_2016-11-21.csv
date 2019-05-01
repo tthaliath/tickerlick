@@ -1,0 +1,71 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MTX,Minerals Technologies Inc. Comm ,Basic Materials,Synthetics
+WNR,Western Refining Inc. Western R ,Basic Materials,Oil & Gas Refining & Marketing
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+CCBG,Capital City Bank Group ,Financial,Regional - Mid-Atlantic Banks
+AMTD,TD Ameritrade Holding Corporati ,Financial,Investment Brokerage - National
+LPLA,LPL Financial Holdings Inc. ,Financial,Investment Brokerage - National
+EVBN,Evans Bancorp Inc. Common Stoc ,Financial,Regional - Northeast Banks
+BKSC, Bank of South Carolina Corp. ,Financial,Regional - Mid-Atlantic Banks
+BNCN,BNC Bancorp ,Financial,Regional - Mid-Atlantic Banks
+MBFI,MB Financial Inc. ,Financial,Regional - Midwest Banks
+KCLI,Kansas City Life Insurance Comp ,Financial,Life Insurance
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+STAR,iStar Financial Inc. ,Financial,REIT - Diversified
+PLBC, Plumas Bancorp ,Financial,Regional - Pacific Banks
+BRO,Brown & Brown Inc. Common Stoc ,Financial,Insurance Brokers
+EBSB,Meridian Interstate Bancorp In ,Financial,Savings & Loans
+SASR,Sandy Spring Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+FBMS,The First Bancshares Inc. ,Financial,Regional - Southeast Banks
+BBT,BB&T Corporation Common ,Financial,Regional - Mid-Atlantic Banks
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+FNWB,First Northwest Bancorp,Financial,Savings & Loans
+RY,Royal Bank Of Canada Common Sto ,Financial,Money Center Banks
+ERUS,iShares MSCI Russia Capped Index Fund ETF,Global Equity ETF,
+UAM,Universal American Corporation  ,Healthcare,Health Care Plans
+CORT,Corcept Therapeutics Incorporat ,Healthcare,Biotechnology
+AST,Asterias Biotherapeutics Inc.,Healthcare,Biotechnology
+HW, Headwaters Incorporated Common  ,Industrial Goods,General Building Materials
+AER,Aercap Holdings N.V. Ordinary S ,Industrial Goods,Aerospace/Defense - Major Diversified
+CWST,Casella Waste Systems Inc. ,Industrial Goods,Waste Management
+TTC,Toro Company (The) Common ,Industrial Goods,Small Tools & Accessories
+AIR,AAR Corp. Common ,Industrial Goods,Aerospace/Defense Products & Services
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+MKSI,MKS Instruments Inc. ,Industrial Goods,Diversified Machinery
+DXJF,WisdomTree Japan Hedged Financials ,N/A,N/A
+DRR, Market Vectors Double Short Eur ,N/A,N/A
+DNI, Dividend and Income Fund Common ,N/A,N/A
+SAIA,Saia Inc. ,Services,Trucking
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+RDI,Reading International Inc ,Services,Movie Production Theaters
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+CDZI,Cadiz Inc. ,Services,Business Services
+PIR,Pier 1 Imports Inc. Common Sto ,Services,Home Furnishing Stores
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+FLY,Fly Leasing Limited ,Services,Rental & Leasing Services
+WEN,Wendy's Company (The) ,Services,Restaurants
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+CASS,Cass Information Systems Inc ,Services,Business Services
+JBLU,JetBlue Airways Corporation ,Services,Regional Airlines
+AEIS,Advanced Energy Industries Inc ,Technology,Diversified Electronics
+DGI,DigitalGlobe Inc Common ,Technology,Information & Delivery Services
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+SLAB,Silicon Laboratories Inc. ,Technology,Semiconductor - Specialized
+CDW,CDW Corporation ,Technology,Information Technology Services
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+ASUR,Asure Software Inc ,Technology,Business Software & Services
+PDFS,PDF Solutions Inc. ,Technology,Technical & System Software
+CVT,Cvent Inc. ,Technology,Application Software
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+LOCK, LifeLock  Inc. Common ,Technology,Application Software
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+AMBR,Amber Road Inc. ,Technology,Application Software
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,
+EUFX,ProShares Short Euro,US Equity Income ETF,
+MGEE,MGE Energy Inc. ,Utilities,Diversified Utilities

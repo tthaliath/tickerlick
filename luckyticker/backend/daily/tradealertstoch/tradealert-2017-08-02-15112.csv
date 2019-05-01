@@ -1,0 +1,84 @@
+Buy,AJG,Arthur J. Gallagher & Co. Commo ,13.1628
+Buy,AKAM,Akamai Technologies Inc. ,18.277
+Buy,ALL,Allstate Corporation (The) Comm ,10.3047
+Buy,AMAT,Applied Materials Inc. ,16.8564
+Buy,AN,AutoNation Inc. Common ,5.42983
+Buy,AVGO,Avago Technologies Limited ,17.7336
+Buy,BIIB,Biogen Idec Inc. ,6.94482
+Buy,BMY,Bristol-Myers Squibb Company Co ,10.1097
+Buy,CERN,Cerner Corporation ,13.8253
+Buy,CF,CF Industries Holdings Inc. Co ,16.2061
+Buy,DOV,Dover Corporation Common ,14.9651
+Buy,ECL,Ecolab Inc. Common ,12.5689
+Buy,IT,Gartner Inc. Common ,8.86214
+Buy,ITW,Illinois Tool Works Inc. Common ,8.84311
+Buy,LB,L.B. Foster Company ,8.90475
+Buy,LEG,Leggett & Platt Incorporated C ,10.9087
+Buy,LNC,Lincoln National Corporation Co ,8.23031
+Buy,MAR,Marriot International Common St ,19.7686
+Buy,MCHP,Microchip Technology Incorporat ,11.7333
+Buy,MCK,McKesson Corporation Common Sto ,1.9349
+Buy,MLM,Martin Marietta Materials Inc. ,9.46385
+Buy,HON, Honeywell International Inc. Co ,14.9132
+Buy,HSIC, Henry Schein  Inc. ,7.58404
+Buy,MPC, Marathon Petroleum Corporation  ,11.8085
+Buy,MSI, Motorola Solutions  Inc. Common ,8.55993
+Buy,AAL,American Airlines Group Inc. ,15.7911
+Buy,MNK,Mallinckrodt plc ,8.10938
+Buy,ZTS,Zoetis Inc. ,15.064
+Buy,NAVI,Navient Corporation ,9.39062
+Buy,ANTM,Anthem Inc. Common,19.9281
+Buy,QRVO,Qorvo Inc.,8.21729
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,9.91655
+Buy,WLTW,Willis Towers Watson Public Limited Company,12.9785
+Buy,CSRA,CSRA Inc.,7.40786
+Sell,AEE,Ameren Corporation Common ,92.5241
+Sell,AEP,American Electric Power Company ,87.3837
+Sell,AIV,Apartment Investment and Manage ,94.4708
+Sell,AME,AMETEK Inc. ,91.8369
+Sell,AMT,American Tower Corporation (REI ,94.1734
+Sell,AON,Aon plc Class A Ordinary Shares ,80.6513
+Sell,APA,Apache Corporation Common ,82.0584
+Sell,AVB,AvalonBay Communities Inc. Com ,90.9568
+Sell,AVY,Avery Dennison Corporation Comm ,96.744
+Sell,BDX,Becton Dickinson and Company C ,84.4121
+Sell,BEN,Franklin Resources Inc. Common ,93.211
+Sell,BK,Bank of New York Mellon Corpora ,86.904
+Sell,BWA,BorgWarner Inc. Common ,94.6576
+Sell,CMS,CMS Energy Corporation Common S ,93.9393
+Sell,CNC,Centene Corporation Common Stoc ,85.242
+Sell,CNP,CenterPoint Energy Inc (Holdin ,81.758
+Sell,COH,Coach Inc. Common ,89.1976
+Sell,DIS,Walt Disney Company (The) Commo ,87.6875
+Sell,DISCA,Discovery Communications Inc ,90.5675
+Sell,DISCK,Discovery Communications Inc ,88.9631
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,89.2399
+Sell,DTE,DTE Energy Company Common ,82.7142
+Sell,DUK,Duke Energy Corporation (Holdin ,96.1279
+Sell,EBAY,eBay Inc. ,85.1739
+Sell,EIX,Edison International Common Sto ,97.696
+Sell,EOG,EOG Resources Inc. Common Stoc ,80.1278
+Sell,EQIX,Equinix Inc. ,87.2827
+Sell,IRM,Iron Mountain Incorporated (Del ,86.3248
+Sell,KORS,Michael Kors Holdings Limited O ,86.1753
+Sell,L,Loews Corporation Common ,95.248
+Sell,MA,Mastercard Incorporated Common  ,95.6996
+Sell,MAA,Mid-America Apartment Communiti ,86.4419
+Sell,MAC,Macerich Company (The) Common S ,87.5442
+Sell,MAT,Mattel Inc. ,95.6873
+Sell,MCO,Moody's Corporation Common Stoc ,85.62
+Sell,PFG,Principal Financial Group Inc C ,91.6036
+Sell,HCP, HCP  Inc. Common ,91.6188
+Sell,HOG, Harley-Davidson  Inc. Common St ,81.1602
+Sell,HRB, H&R Block  Inc. Common ,98.4124
+Sell,HST, Host Hotels & Resorts  Inc. Com ,88.3947
+Sell,HSY, The Hershey Company Common Stoc ,89.9989
+Sell,ILMN, Illumina  Inc. ,89.5681
+Sell,MDLZ, Mondelez International  Inc. ,95.8215
+Sell,MNST, Monster Beverage Corporation ,88.3157
+Sell,ABBV,AbbVie Inc. ,95.8408
+Sell,FOX,Twenty-First Century Fox Inc. ,95.9131
+Sell,FOXA,Twenty-First Century Fox Inc. ,97.2664
+Sell,ALLE,Allegion plc Ordinary Shares ,82.827
+Sell,CFG,Citizens Financial Group Inc.,91.2036
+Sell,SPGI,S&P Global  Inc.,93.3334

@@ -1,0 +1,135 @@
+Buy,AET,Aetna Inc. Common ,13.1626
+Buy,AGN,Allergan Inc. Common ,8.58428
+Buy,AIZ,Assurant Inc. Common ,3.70408
+Buy,AMAT,Applied Materials Inc. ,13.2617
+Buy,AME,AMETEK Inc. ,4.77137
+Buy,AMP,Ameriprise Financial Inc. Comm ,18.521
+Buy,AN,AutoNation Inc. Common ,9.41236
+Buy,APD,Air Products and Chemicals Inc ,8.4525
+Buy,ARE,Alexandria Real Estate Equities ,11.1111
+Buy,AVY,Avery Dennison Corporation Comm ,9.90229
+Buy,AYI,Acuity Brands Inc (Holding Comp ,2.69858
+Buy,AZO,AutoZone Inc. Common ,18.6237
+Buy,CINF,Cincinnati Financial Corporatio ,13.9729
+Buy,CL,Colgate-Palmolive Company Commo ,9.28695
+Buy,CMA,Comerica Incorporated Common St ,9.64804
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,3.80822
+Buy,CMI,Cummins Inc. Common ,14.2339
+Buy,COF,Capital One Financial Corporati ,5.02754
+Buy,COG,Cabot Oil & Gas Corporation Com ,11.4632
+Buy,DAL,Delta Air Lines Inc. (New) Comm ,16.1825
+Buy,DD,E.I. du Pont de Nemours and Com ,2.29406
+Buy,DFS,Discover Financial Services Com ,18.8886
+Buy,DG,Dollar General Corporation Comm ,12.0385
+Buy,DHI,D.R. Horton Inc. Common ,13.8894
+Buy,DLTR,Dollar Tree Inc. ,13.6058
+Buy,DOW,Dow Chemical Company (The) Comm ,7.50889
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,6.43305
+Buy,DVN,Devon Energy Corporation Common ,16.9937
+Buy,EFX,Equifax Inc. Common ,14.1568
+Buy,EQR,Equity Residential Common Share ,12.4996
+Buy,GM,General Motors Company Common S ,3.85003
+Buy,GS,Goldman Sachs Group Inc. (The) ,7.73093
+Buy,IP,International Paper Company Com ,2.22265
+Buy,IPG,Interpublic Group of Companies ,3.52942
+Buy,IR,Ingersoll-Rand plc (Ireland) ,15.5102
+Buy,MCHP,Microchip Technology Incorporat ,14.5608
+Buy,MRO,Marathon Oil Corporation Common ,18.6743
+Buy,MS,Morgan Stanley Common ,1.48126
+Buy,MTB,M&T Bank Corporation Common Sto ,13.8742
+Buy,MU,Micron Technology Inc. ,18.2262
+Buy,MUR,Murphy Oil Corporation Common S ,8.98127
+Buy,NKE,Nike Inc. Common ,12.41
+Buy,NTRS,Northern Trust Corporation ,9.72333
+Buy,OKE,ONEOK Inc. Common ,17.8881
+Buy,OMC,Omnicom Group Inc. Common ,5.88342
+Buy,ORLY,O'Reilly Automotive Inc. ,4.64316
+Buy,PBCT,People's United Financial Inc. ,4.55541
+Buy,PDCO,Patterson Companies Inc. ,6.50801
+Buy,PEG,Public Service Enterprise Group ,11.9955
+Buy,PFG,Principal Financial Group Inc C ,10.2933
+Buy,REG,Regency Centers Corporation Com ,16.0519
+Buy,RF,Regions Financial Corporation C ,7.40756
+Buy,RHI,Robert Half International Inc.  ,4.09417
+Buy,RIG,Transocean Ltd (Switzerland) Co ,10.8997
+Buy,RL,Ralph Lauren Corporation Common ,7.74775
+Buy,ROK,Rockwell Automation Inc. Commo ,3.58553
+Buy,SEE,Sealed Air Corporation Common S ,1.8515
+Buy,SIG,Signet Jewelers Limited Common  ,13.3922
+Buy,SPG,Simon Property Group Inc. Comm ,1.51547
+Buy,FBHS, Fortune Brands Home & Security  ,4.13618
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,15.8655
+Buy,HBAN, Huntington Bancshares Incorpora ,10.6086
+Buy,HIG, Hartford Financial Services Gro ,12.7278
+Buy,HOG, Harley-Davidson  Inc. Common St ,2.46906
+Buy,STT, State Street Corporation Common ,1.3065
+Buy,NAVI,Navient Corporation ,1.62056
+Buy,WBA,Walgreens Boots Alliance Inc.,14.3167
+Buy,WRK,WestRock Company,7.51613
+Buy,SPGI,S&P Global  Inc.,14.902
+Buy,DXC,DXC Technology Company,5.92721
+Buy,UAA,Under Armour  Inc. Class A,8.35996
+Sell,AEE,Ameren Corporation Common ,93.6512
+Sell,AEP,American Electric Power Company ,98.8886
+Sell,ALB,Albemarle Corporation Common St ,92.2948
+Sell,AMD,Advanced Micro Devices Inc. Co ,88.6217
+Sell,AMT,American Tower Corporation (REI ,91.7592
+Sell,APC,Anadarko Petroleum Corporation  ,92.1865
+Sell,APH,Amphenol Corporation Common Sto ,94.014
+Sell,AVGO,Avago Technologies Limited ,85.7909
+Sell,AWK,American Water Works Company I ,91.8543
+Sell,CF,CF Industries Holdings Inc. Co ,88.2714
+Sell,CHTR,Charter Communications Inc. ,90.0194
+Sell,CI,Cigna Corporation Common ,83.9942
+Sell,CLX,Clorox Company (The) Common Sto ,93.7035
+Sell,CMCSA,Comcast Corporation ,95.8521
+Sell,CNP,CenterPoint Energy Inc (Holdin ,93.1631
+Sell,D,Dominion Resources Inc. Common ,92.7237
+Sell,DHR,Danaher Corporation Common Stoc ,98.447
+Sell,DISCA,Discovery Communications Inc ,94.1269
+Sell,DISCK,Discovery Communications Inc ,96.3844
+Sell,DLR,Digital Realty Trust Inc. Comm ,94.3389
+Sell,ECL,Ecolab Inc. Common ,87.8763
+Sell,ED,Consolidated Edison Inc. Commo ,90.1242
+Sell,EQIX,Equinix Inc. ,80.7647
+Sell,GIS,General Mills Inc. Common Stoc ,84.6299
+Sell,GPN,Global Payments Inc. Common Sto ,97.7779
+Sell,GPS,Gap Inc. (The) Common ,94.9416
+Sell,INCY,Incyte Corporation ,87.9816
+Sell,INTC,Intel Corporation ,86.7005
+Sell,MCK,McKesson Corporation Common Sto ,82.2228
+Sell,MDT,Medtronic Inc. Common ,82.9059
+Sell,MKC,McCormick & Company Incorporat ,84.0506
+Sell,MSFT,Microsoft Corporation ,92.333
+Sell,NEE,NextEra Energy Inc. Common Sto ,90.5649
+Sell,NOC,Northrop Grumman Corporation Co ,95.3614
+Sell,NVDA,NVIDIA Corporation ,93.3422
+Sell,NWS,News Corporation ,90.7407
+Sell,OXY,Occidental Petroleum Corporatio ,92.7723
+Sell,PAYX,Paychex Inc. ,95.6554
+Sell,PCG,Pacific Gas & Electric Co. Comm ,80.0031
+Sell,PCLN,priceline.com Incorporated ,82.0263
+Sell,PEP,Pepsico Inc. Common ,86.281
+Sell,PG,Procter & Gamble Company (The)  ,94.2106
+Sell,RHT,Red Hat Inc. Common ,96.1313
+Sell,RSG,Republic Services Inc. Common  ,89.6838
+Sell,RTN,Raytheon Company Common ,82.0636
+Sell,SCG,SCANA Corporation Common ,93.1614
+Sell,SCHW,Charles Schwab Corporation (The ,88.8917
+Sell,EA, Electronic Arts Inc. ,85.5435
+Sell,HAL, Halliburton Company Common Stoc ,80.0922
+Sell,HAS, Hasbro  Inc. ,95.11
+Sell,HCA, HCA Holdings  Inc. Common ,84.8446
+Sell,HCN, Health Care REIT  Inc. Common S ,88.8872
+Sell,HCP, HCP  Inc. Common ,85.4573
+Sell,HOLX, Hologic  Inc. ,88.8893
+Sell,HON, Honeywell International Inc. Co ,91.2381
+Sell,LLY, Eli Lilly and Company Common St ,92.2346
+Sell,MDLZ, Mondelez International  Inc. ,93.1711
+Sell,MSI, Motorola Solutions  Inc. Common ,85.9261
+Sell,TRIP, TripAdvisor  Inc. ,87.9469
+Sell,ABBV,AbbVie Inc. ,89.6684
+Sell,ANTM,Anthem Inc. Common,86.8004
+Sell,KHC,The Kraft Heinz Company,84.009
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,83.1477
+Sell,CSRA,CSRA Inc.,87.038

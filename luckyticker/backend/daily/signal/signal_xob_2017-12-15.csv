@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPUU,Direxion Daily S&P 500 Bull 2X  ,,
+SVRA,Savara  Inc.,,
+PSDO,Presidio  Inc.,,
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+SIEB, Siebert Financial Corp. ,Financial,Investment Brokerage - Regional
+TCFC,The Community Financial Corp. ,Financial,Regional - Pacific Banks
+LMRK,Landmark Infrastructure Partner,Financial,Property Management
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PRAH,PRA Health Sciences Inc.,Healthcare,Medical Laboratories & Research
+BGC,General Cable Corporation Commo ,Industrial Goods,Industrial Electrical Equipment
+BH,Biglari Holdings Inc. ,Services,Restaurants
+MELI,MercadoLibre Inc. ,Services,Business Services
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software

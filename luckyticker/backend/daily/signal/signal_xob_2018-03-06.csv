@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TUSK,Mammoth Energy Services  Inc.,,
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+ZG,Zillow Group  Inc.,Financial,Property Management
+SRDX,SurModics Inc. ,Healthcare,Diagnostic Substances
+VCEL,Vericel Corporation,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+LOXO,Loxo Oncology Inc.,Healthcare,Biotechnology
+CLSD,Clearside BioMedical  Inc.,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+SBPH,Spring Bank Pharmaceuticals  Inc.,N/A,N/A
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+CTMX,CytomX Therapeutics  Inc.,N/A,N/A
+DIN,DineEquity Inc Common ,Services,Restaurants
+APEI,American Public Education Inc. ,Services,Business Services
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+BBSI,Barrett Business Services Inc. ,Services,Staffing & Outsourcing Services
+Z, Zillow  Inc. ,Services,Business Services
+KEYS,Keysight Technologies Inc. Comm,Technology,Scientific & Technical Instruments
+PRFT,Perficient Inc. ,Technology,Business Software & Services
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+PFPT, Proofpoint  Inc. ,Technology,Application Software
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services

@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SRI,Stoneridge Inc. Common ,Consumer Goods,Auto Parts
+TREE,Tree.com Inc. ,Financial,Mortgage Investment
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+ZG,Zillow Group  Inc.,Financial,Property Management
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+AMOT,Allied Motion Technologies Inc ,Industrial Goods,Industrial Electrical Equipment
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+CTRN,Citi Trends Inc. ,Services,Apparel Stores
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment

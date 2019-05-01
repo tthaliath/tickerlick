@@ -1,0 +1,108 @@
+Buy,ALXN,Alexion Pharmaceuticals Inc. ,2.3352
+Buy,APC,Anadarko Petroleum Corporation  ,14.8519
+Buy,APH,Amphenol Corporation Common Sto ,11.112
+Buy,AYI,Acuity Brands Inc (Holding Comp ,17.7233
+Buy,AZO,AutoZone Inc. Common ,10.584
+Buy,BIIB,Biogen Idec Inc. ,5.4787
+Buy,BXP,Boston Properties Inc. Common  ,14.9448
+Buy,CAG,ConAgra Foods Inc. Common Stoc ,5.55603
+Buy,CCL,Carnival Corporation Common Sto ,17.0365
+Buy,CHK,Chesapeake Energy Corporation C ,11.1111
+Buy,CI,Cigna Corporation Common ,8.87598
+Buy,COO,Cooper Companies Inc. (The) Co ,6.57996
+Buy,COP,ConocoPhillips Common ,9.54988
+Buy,CTXS,Citrix Systems Inc. ,15.3452
+Buy,CVS,CVS Caremark Corporation Common ,3.4872
+Buy,CVX,Chevron Corporation Common Stoc ,16.3183
+Buy,CXO,Concho Resources Inc. Common St ,11.333
+Buy,DGX,Quest Diagnostics Incorporated  ,8.69591
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,8.26163
+Buy,DVN,Devon Energy Corporation Common ,10.2879
+Buy,EOG,EOG Resources Inc. Common Stoc ,14.0101
+Buy,EQIX,Equinix Inc. ,12.4994
+Buy,EQR,Equity Residential Common Share ,4.16746
+Buy,MHK,Mohawk Industries Inc. Common  ,14.8144
+Buy,MLM,Martin Marietta Materials Inc. ,14.0208
+Buy,ROST,Ross Stores Inc. ,8.37003
+Buy,RRC,Range Resources Corporation Com ,16.7391
+Buy,RTN,Raytheon Company Common ,3.33299
+Buy,SBUX,Starbucks Corporation ,6.45346
+Buy,SCHW,Charles Schwab Corporation (The ,16.7144
+Buy,SLG,SL Green Realty Corporation Com ,1.7097
+Buy,WM,Waste Management Inc. Common S ,7.57724
+Buy,WY,Weyerhaeuser Company Common Sto ,3.1753
+Buy,XLNX,Xilinx Inc. ,11.8819
+Buy,XRX,Xerox Corporation Common ,15.5872
+Buy,YUM,Yum! Brands Inc. ,16.5135
+Buy,HAS, Hasbro  Inc. ,9.66968
+Buy,HCA, HCA Holdings  Inc. Common ,11.0662
+Buy,HCN, Health Care REIT  Inc. Common S ,6.71706
+Buy,HD, Home Depot  Inc. (The) Common S ,7.37157
+Buy,HES, Hess Corporation Common ,17.5923
+Buy,HOG, Harley-Davidson  Inc. Common St ,9.16146
+Buy,TRIP, TripAdvisor  Inc. ,19.4207
+Buy,ABBV,AbbVie Inc. ,10.668
+Buy,ANTM,Anthem Inc. Common,15.6815
+Buy,KHC,The Kraft Heinz Company,15.7658
+Buy,INFO,IHS Markit Ltd.,15.1305
+Buy,ARNC,Arconic Inc.,4.40898
+Buy,UAA,Under Armour  Inc. Class A,19.1249
+Sell,ALL,Allstate Corporation (The) Comm ,82.2209
+Sell,AME,AMETEK Inc. ,82.0266
+Sell,AON,Aon plc Class A Ordinary Shares ,80.1478
+Sell,APD,Air Products and Chemicals Inc ,90.277
+Sell,ARE,Alexandria Real Estate Equities ,92.0638
+Sell,ATVI,Activision Blizzard Inc ,88.3843
+Sell,AVGO,Avago Technologies Limited ,90.3226
+Sell,AXP,American Express Company Common ,85.6711
+Sell,BDX,Becton Dickinson and Company C ,94.9114
+Sell,BLL,Ball Corporation Common ,85.5534
+Sell,BSX,Boston Scientific Corporation C ,90.0125
+Sell,BWA,BorgWarner Inc. Common ,89.2592
+Sell,C,Citigroup Inc. Common ,95.9603
+Sell,CBG,CBRE Group Inc Common ,95.7687
+Sell,CBS,CBS Corporation Class B Common  ,89.71
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,89.0334
+Sell,CHTR,Charter Communications Inc. ,90.2488
+Sell,CMCSA,Comcast Corporation ,81.7036
+Sell,CMS,CMS Energy Corporation Common S ,86.1116
+Sell,COF,Capital One Financial Corporati ,85.7139
+Sell,COH,Coach Inc. Common ,91.7876
+Sell,CRM,Salesforce.com Inc Common ,91.3039
+Sell,CSCO,Cisco Systems Inc. ,81.746
+Sell,CSX,CSX Corporation Common ,91.2806
+Sell,CTAS,Cintas Corporation ,85.0297
+Sell,CTSH,Cognizant Technology Solutions  ,88.8163
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,88.4338
+Sell,DFS,Discover Financial Services Com ,80.9531
+Sell,DG,Dollar General Corporation Comm ,89.6751
+Sell,DIS,Walt Disney Company (The) Commo ,94.9624
+Sell,DOV,Dover Corporation Common ,85.0384
+Sell,ECL,Ecolab Inc. Common ,92.3623
+Sell,ED,Consolidated Edison Inc. Commo ,86.6674
+Sell,EFX,Equifax Inc. Common ,89.5077
+Sell,PG,Procter & Gamble Company (The)  ,97.9115
+Sell,RJF,Raymond James Financial Inc. C ,93.65
+Sell,ROP,Roper Industries Inc. Common S ,87.988
+Sell,SEE,Sealed Air Corporation Common S ,95.2389
+Sell,SHW,Sherwin-Williams Company (The)  ,89.8542
+Sell,SJM,J.M. Smucker Company (The) New  ,90.4759
+Sell,SNI,Scripps Networks Interactive I ,92.9853
+Sell,SNPS,Synopsys Inc. ,82.2525
+Sell,XEL,Xcel Energy Inc. Common ,92.6588
+Sell,DLPH, Delphi Automotive plc Ordinary  ,98.3362
+Sell,EA, Electronic Arts Inc. ,85.5245
+Sell,FB, Facebook  Inc. ,90.1905
+Sell,FBHS, Fortune Brands Home & Security  ,88.442
+Sell,HRB, H&R Block  Inc. Common ,81.8364
+Sell,PSX, Phillips 66 Common ,81.0872
+Sell,STT, State Street Corporation Common ,94.8299
+Sell,SPY,SPDR S&P 500 ETF,81.6451
+Sell,AAL,American Airlines Group Inc. ,91.5695
+Sell,QRVO,Qorvo Inc.,98.0832
+Sell,PYPL,PayPal Holdings  Inc.,84.1426
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,81.3356
+Sell,CSRA,CSRA Inc.,90.4741
+Sell,SPGI,S&P Global  Inc.,93.6985
+Sell,FTV,Fortive Corporation,89.2132
+Sell,DXC,DXC Technology Company,86.4289

@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AIMT,Aimmune Therapeutics,,
+WABC,Westamerica Bancorporation ,Financial,Regional - Pacific Banks
+BWINB,Baldwin & Lyons Inc. ,Financial,Property & Casualty Insurance
+BK,Bank of New York Mellon Corpora ,Financial,Asset Management
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+HLS, HealthSouth Corporation Common  ,Healthcare,Specialized Health Services
+INO,Inovio Pharmaceuticals Inc. Co ,Healthcare,Biotechnology
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+RBA,Ritchie Bros. Auctioneers Incor ,Services,Business Services
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+EXLS,ExlService Holdings Inc. ,Services,Business Services
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+HSTM, HealthStream  Inc. ,Technology,Internet Information Providers
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+NMRX,Numerex Corp. ,Technology,Communication Equipment

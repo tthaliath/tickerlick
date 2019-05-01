@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KRA,Kraton Performance Polymers In ,Basic Materials,Specialty Chemicals
+MTRN, Materion Corporation ,Basic Materials,Industrial Metals & Minerals
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+CMD,ProShares UltraShort DJ-UBS Commodity ETF,Commodity Based ETF,
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+SAFT,Safety Insurance Group Inc. ,Financial,Property & Casualty Insurance
+BMA,Banco Macro S.A.  ADR (represen ,Financial,Foreign Regional Banks
+CIO,City Office Reit Inc. ,Financial,REIT - Office
+FILL,iShares MSCI Global Energy Producers Fund ETF,Global Equity ETF,
+IXC,iShares S&P Global Energy Index Fund ETF,Global Equity ETF,
+LHCG,LHC Group ,Healthcare,Home Health Care
+SPPI,Spectrum Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+CMCO,Columbus McKinnon Corporation ,Industrial Goods,Farm & Construction Machinery
+MTW,Manitowoc Company Inc. (The) C ,Industrial Goods,Farm & Construction Machinery
+HEES, H&E Equipment Services  Inc. ,Industrial Goods,Industrial Equipment & Components
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+UFI,Unifi Inc. New Common ,Industrial Goods,Textile Industrial
+NVMI,Nova Measuring Instruments Ltd. ,Industrial Goods,Diversified Machinery
+SP,SP Plus Corporation ,N/A,N/A
+PARR,Par Petroleum Corporation.  Com,N/A,N/A
+SAMG,Silvercrest Asset Management Group Inc. ,N/A,N/A
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+LSTR,Landstar System Inc. ,Services,Trucking
+MGRC,McGrath RentCorp ,Services,Rental & Leasing Services
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+TRN,Trinity Industries Inc. Common ,Services,Railroads
+RLH,Red Lions Hotels Corporation Co ,Services,Lodging
+NSP, Insperity  Inc. Common ,Services,Business Services
+FORR,Forrester Research Inc. ,Services,Research Services
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+CAMP,CalAmp Corp. ,Technology,Communication Equipment
+GRPN,Groupon Inc. ,Technology,Internet Information Providers
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+EXA, Exa Corporation ,Technology,Application Software
+CDW,CDW Corporation ,Technology,Information Technology Services
+TTGT,TechTarget Inc. ,Technology,Internet Information Providers
+AGYS,Agilysys Inc. ,Technology,Application Software

@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+MKC,McCormick & Company Incorporat ,Consumer Goods,Processed & Packaged Goods
+GOV,Government Properties Income Tr ,Financial,REIT - Office
+EVF, Eaton Vance Senior Income Trust ,Financial,Closed-End Fund - Debt
+HEDJ,WisdomTree International Hedged Equity Fund ETF,Global Equity ETF,
+EPHE,iShares A79MSCI Philippines Investable Market Index Fund (EPHE) ETF,Global Equity ETF,
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+DXR,Daxor Corporation Common ,Healthcare,Medical Instruments & Supplies
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+FNGN,Financial Engines Inc. ,Services,Business Services
+IGLD, Internet Gold Golden Lines Ltd. ,Technology,Diversified Communication Services
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+BCOM, B Communications Ltd. ,Technology,Diversified Communication Services
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities

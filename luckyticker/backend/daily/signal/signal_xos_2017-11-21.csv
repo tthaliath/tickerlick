@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CHAD,Direxion Daily CSI 300 China A,,
+BSWN,UBS AG VelocityShares VIX Tail,,
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+TVPT,Travelport Worldwide Limited Co,Consumer Goods,Recreational Goods Other
+NAVG,The Navigators Group Inc. ,Financial,Property & Casualty Insurance
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+PEO, Petroleum Resources Corporation ,Financial,Closed-End Fund - Equity
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+CHIM,Global X China Materials ETF,Global Equity ETF,
+CYTK,Cytokinetics Incorporated ,Healthcare,Biotechnology
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+EPZM,Epizyme Inc. ,Healthcare,Biotechnology
+SNY,Sanofi American Depositary Shar ,Healthcare,Drug Manufacturers - Major
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+CPTA,Capitala Finance Corp. ,N/A,N/A
+NASH,LocalShares Nashville Area ETF ,N/A,N/A
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+MNE, Blackrock Muni New York Interme ,N/A,N/A
+APLP,Archrock Partners  L.P.,N/A,N/A
+SRCLP,Stericycle  Inc.,N/A,N/A
+KNOP,KNOT Offshore Partners LP ,Services,Shipping
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+PCMI,PCM Inc. ,Services,Specialty Retail
+PINC,Premier Inc. ,Technology,Healthcare Information Services
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+IMMR, Immersion Corporation ,Technology,Computer Peripherals

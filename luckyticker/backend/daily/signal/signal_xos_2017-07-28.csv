@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+CROC,ProShares UltraShort Australian Dollar,Commodity Based ETF,
+QLD,ProShares Ultra QQQ ETF,Commodity Based ETF,
+URTY,ProShares UltraPro Russell2000 ETF,Commodity Based ETF,
+ROM,ProShares Ultra Technology ETF,Commodity Based ETF,
+UWM,ProShares Ultra Russell2000 ETF,Commodity Based ETF,
+MMM,3M Company Common ,Conglomerates,Conglomerates
+FSB,Franklin Financial Network,Financial,Money Center Banks
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+AMED,Amedisys Inc ,Healthcare,Home Health Care
+AAON,AAON Inc. ,Industrial Goods,General Building Materials
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+CPLA,Capella Education Company ,Services,Education & Training Services
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+HA, Hawaiian Holdings  Inc. ,Services,Regional Airlines
+ECHO,Echo Global Logistics Inc. ,Services,Trucking
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+ASGN,On Assignment Inc. ,Services,Staffing & Outsourcing Services
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PTXP,PennTex Midstream Partners  LP,Basic Materials,Oil & Gas Pipelines
+SORL,SORL Auto Parts Inc. ,Consumer Goods,Auto Manufacturers - Major
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+IRY,SPDR S&P International Health Care Sector ETF,Global Equity ETF,
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+GLYC,GlycoMimetics Inc. ,N/A,N/A
+PNTR, Pointer Telocation Ltd. ,Services,Security & Protection Services
+LL,Lumber Liquidators Holdings In ,Services,Home Improvement Stores
+RRGB,Red Robin Gourmet Burgers Inc. ,Services,Restaurants
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+TRT,Trio-Tech International Common  ,Technology,Semiconductor Equipment & Materials
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment

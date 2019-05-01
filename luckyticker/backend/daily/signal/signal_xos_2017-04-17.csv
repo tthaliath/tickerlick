@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TAPR,Barclays PLC ,,
+TOFR,,,
+OCIP,OCI Partners LP ,Basic Materials,Chemicals - Major Diversified
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+AXL,American Axle & Manufacturing H ,Consumer Goods,Auto Parts
+ANGO,AngioDynamics Inc. ,Healthcare,Medical Instruments & Supplies
+ACOR,Acorda Therapeutics Inc. ,Healthcare,Biotechnology
+TXMD,TherapeuticsMD Inc. ,Healthcare,Drug Manufacturers - Major
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment

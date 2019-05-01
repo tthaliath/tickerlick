@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+AHH,N/A ,Financial,REIT - Diversified
+MAIN,Main Street Capital Corporation ,Financial,Diversified Investments
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+EXR,Extra Space Storage Inc Common  ,Financial,REIT - Industrial
+OUT,OUTFRONT Media Inc. Common Stoc,Financial,Property Management
+STAG, Stag Industrial  Inc. Common St ,Financial,REIT - Industrial
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+OGS,ONE Gas  Inc. Common Stock ,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+HBANP, Huntington Bancshares Incorpora ,N/A,N/A
+JRVR,James River Group Holdings Ltd,N/A,N/A
+BKHU,Black Hills Corporation,N/A,N/A
+BKS,Barnes & Noble Inc. Common Sto ,Services,Specialty Retail Other
+IMAX, Imax Corporation Common ,Services,Entertainment - Diversified
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+EXPR,Express Inc. Common ,Services,Apparel Stores
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+CBB,Cincinnati Bell Inc. Common Sto ,Technology,Telecom Services - Domestic
+PBP,PowerShares S&P 500 BuyWrite Portfolio ETF,US Equity ETF,
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities

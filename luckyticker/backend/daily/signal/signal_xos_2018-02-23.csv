@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NUAG,NuShares Enhanced Yield US Aggr,,
+CLNS,Colony NorthStar  Inc.,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+VCSH,Vanguard Short-Term Corporate Bond ETF,Fixed Income ETF,
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+CVV,CVD Equipment Corporation ,Industrial Goods,Diversified Machinery
+PCQ, PIMCO California Municipal Inco ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+KBR,KBR Inc. Common ,Services,Technical Services
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+NRCIB,National Research Corp. ,Services,Research Services
+SGMA,SigmaTron International Inc. ,Technology,Printed Circuit Boards
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities

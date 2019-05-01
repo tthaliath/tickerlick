@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EC,Ecopetrol S.A. American Deposit ,Basic Materials,Major Integrated Oil & Gas
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+MPC, Marathon Petroleum Corporation  ,Basic Materials,Oil & Gas Refining & Marketing
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+ALL,Allstate Corporation (The) Comm ,Financial,Property & Casualty Insurance
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+AEGN, Aegion Corp ,Industrial Goods,Heavy Construction
+TDY,Teledyne Technologies Incorpora ,Industrial Goods,Aerospace/Defense Products & Services
+CAA,CalAtlantic Group  Inc.,N/A,N/A
+DYNC,Dynegy Inc. 7.00% Tangible Equi ,N/A,N/A
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+NOVT,Novanta Inc.,N/A,N/A
+CHH,Choice Hotels International In ,Services,Lodging
+VRSK,Verisk Analytics Inc. ,Services,Business Services
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+TSM,Taiwan Semiconductor Manufactur ,Technology,Semiconductor - Integrated Circuits
+ON,ON Semiconductor Corp.,Technology,Semiconductor - Broad Line
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+TDC,Teradata Corporation Common Sto ,Technology,Diversified Computer Systems
+ULTI,The Ultimate Software Group In ,Technology,Internet Software & Services
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+CRM,Salesforce.com Inc Common ,Technology,Application Software
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities

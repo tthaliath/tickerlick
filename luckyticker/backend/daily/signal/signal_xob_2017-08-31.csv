@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KEMP,KraneShares FTSE Emerging Marke,,
+MEOH,Methanex Corporation ,Basic Materials,Specialty Chemicals
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+OC,Owens Corning Inc Common ,Industrial Goods,General Building Materials
+UGA, United States Gasoline Fund LP ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+ABEO,Abeona Therapeutics Inc. ,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+LSTR,Landstar System Inc. ,Services,Trucking
+MXPT,MaxPoint Interactive Inc. Comm,Technology,Application Software

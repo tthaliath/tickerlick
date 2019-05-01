@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+CAJ,Canon Inc. American Depositary ,Consumer Goods,Photographic Equipment & Supplies
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+FSB,Franklin Financial Network,Financial,Money Center Banks
+UTF, Cohen & Steers Infrastructure F ,Financial,Closed-End Fund - Equity
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+PYPL,PayPal Holdings  Inc.,Financial,Credit Services
+HBCP, Home Bancorp  Inc. ,Financial,Savings & Loans
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+HRC, Hill-Rom Holdings Inc Common St ,Healthcare,Medical Instruments & Supplies
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+TECH,Techne Corporation ,Healthcare,Medical Appliances & Equipment
+MNTA,Momenta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+LMAT,LeMaitre Vascular Inc. ,Healthcare,Medical Instruments & Supplies
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+GGG,Graco Inc. Common ,Industrial Goods,Diversified Machinery
+PGP, Pimco Global ,N/A,N/A
+CHGG,Chegg Inc. ,Services,Education & Training Services
+RCL,Royal Caribbean Cruises Ltd. Co ,Services,Resorts & Casinos
+TXRH,Texas Roadhouse Inc. ,Services,Restaurants
+WINA,Winmark Corporation ,Services,Specialty Retail Other
+CSGP,CoStar Group Inc. ,Services,Business Services
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+PCLN,priceline.com Incorporated ,Services,General Entertainment
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+ASR,Grupo Aeroportuario del Sureste ,Services,Air Services Other
+CZR, Caesars Entertainment Corporati ,Services,Resorts & Casinos
+FB, Facebook  Inc. ,Technology,Internet Information Providers
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+XHS,SPDR S&P Health Care Services ETF,US Equity ETF,
+IHF,iShares Dow Jones U.S. Health Care Providers Index Fund ETF,US Equity ETF,
+PCYO,Pure Cycle Corporation ,Utilities,Water Utilities

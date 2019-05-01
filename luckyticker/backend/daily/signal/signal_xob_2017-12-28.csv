@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SBOW,SilverBow Resorces  Inc.,,
+PSDO,Presidio  Inc.,,
+OILU,ProShares UltraPro 3x Crude Oil,,
+VLO,Valero Energy Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+OXY,Occidental Petroleum Corporatio ,Basic Materials,Major Integrated Oil & Gas
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+HFC, HollyFrontier Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+CVX,Chevron Corporation Common Stoc ,Basic Materials,Major Integrated Oil & Gas
+PBSK, Poage Bankshares  Inc. ,Conglomerates,Conglomerates
+MLHR,Herman Miller Inc. ,Consumer Goods,Business Equipment
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+RXDX,Ignyta Inc. ,Healthcare,Biotechnology
+ESRX,Express Scripts Holding Company ,Healthcare,Health Care Plans
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+ARCH,Arch Coal  Inc.,N/A,N/A
+BMCH,BMC Stock Holdings  Inc.,N/A,N/A
+TPB,Turning Point Brands  Inc.,N/A,N/A
+UGAZ, VelocityShares 3X Long Natural  ,N/A,N/A
+JJU, iPath DJ-UBS Aluminum Subindex  ,N/A,N/A
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+XPO,XPO Logistics Inc. ,Services,Trucking
+TCCO,Technical Communications Corpor ,Technology,Communication Equipment
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+OTEX,Open Text Corporation ,Technology,Application Software

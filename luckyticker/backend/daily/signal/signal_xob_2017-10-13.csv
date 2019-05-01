@@ -1,0 +1,60 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VTVT,vTv Therapeutics Inc.,,
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+IPAC,iShares Core MSCI Pacific ETF ,,
+SHE,SPDR Series Trust SPDR SSGA Gen,,
+HEWY,iShares Currency Hedged MSCI So,,
+ICHR,Ichor Holdings - Ordinary Share,,
+CATH,Global X S&P 500 Catholic Value,,
+PTLC,Pacer Trendpilot 750 ETF,,
+TBLU,Managed Portfolio Series Tortoi,,
+KOP,Koppers Holdings Inc. Koppers H ,Basic Materials,Specialty Chemicals
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles
+MOD,Modine Manufacturing Company Co ,Consumer Goods,Auto Parts
+RFP, Resolute Forest Products Inc. C ,Consumer Goods,Paper & Paper Products
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+BRKL,Brookline Bancorp Inc. ,Financial,Savings & Loans
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+VRTS,Virtus Investment Partners Inc ,Financial,Asset Management
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+SEIC,SEI Investments Company ,Financial,Asset Management
+TCBK,TriCo Bancshares ,Financial,Regional - Pacific Banks
+IX, Orix Corp Ads Common ,Financial,Credit Services
+IXN,iShares S&P Global Technology Index Fund ETF,Global Equity ETF,
+VPL,Vanguard Pacific ETF,Global Equity ETF,
+IOO,iShares S&P Global 100 Index Fund ETF,Global Equity ETF,
+SCJ,iShares MSCI Japan Sm Cap ETF,Global Equity ETF,
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+ANIP,ANI Pharmaceuticals Inc. ,Healthcare,Biotechnology
+Q,Quintiles Transnational Holdings Inc. ,Healthcare,Medical Laboratories & Research
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+THR, Thermon Group Holdings  Inc. Co ,Industrial Goods,Diversified Machinery
+BWXT,BWX Technologies  Inc.,Industrial Goods,Aerospace/Defense Products & Services
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+FV,First Trust Dorsey Wright Focus 5 ETF ,N/A,N/A
+LIVN,LivaNova PLC,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+SITE,SiteOne Landscape Supply  Inc.,N/A,N/A
+FIGY,Barclays ETN+ FI Enhanced Glb Hi Yld ETN ,N/A,N/A
+ASIX,AdvanSix Inc.,N/A,N/A
+JP,Jupai Holdings Limited,N/A,N/A
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+DLBL,iPath US Treasury Long Bond Bull ETN ,N/A,N/A
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+PRGS,Progress Software Corporation ,Technology,Application Software
+TIER,TIER REIT  Inc,Technology,Information Technology Services
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+DSPG,DSP Group Inc. ,Technology,Communication Equipment
+HURC, Hurco Companies  Inc. ,Technology,Scientific & Technical Instruments
+NTP,Nam Tai Property Inc. ,Technology,Diversified Electronics
+BMI,Badger Meter Inc. Common ,Technology,Scientific & Technical Instruments
+OSIS,OSI Systems Inc. ,Technology,Semiconductor Equipment & Materials
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+TSM,Taiwan Semiconductor Manufactur ,Technology,Semiconductor - Integrated Circuits
+PFI,PowerShares Dynamic Financial ETF,US Equity ETF,
+FXR,First Trust Industrials AlphaDEX ETF,US Equity ETF,
+FAD,First Trust Multi CG AlphaDEX ETF,US Equity ETF,

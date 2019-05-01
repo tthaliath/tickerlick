@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AMRS,Amyris Inc. ,Healthcare,Biotechnology
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+MCRN,Milacron Holdings Corp.,Industrial Goods,Diversified Machinery
+BL,BlackLine  Inc.,N/A,N/A
+XTNT,Xtant Medical Holdings  Inc.,N/A,N/A
+WBAI,500.com Limited ,Services,Gaming Activities
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+LPSN,LivePerson Inc. ,Services,Business Services
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+FIVN,Five9 Inc. ,Technology,Application Software
+MANT,ManTech International Corporati ,Technology,Security Software & Services
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services

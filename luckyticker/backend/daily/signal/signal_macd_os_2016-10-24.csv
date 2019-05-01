@@ -1,0 +1,153 @@
+ticker,name,sector,industry
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+ILMN, Illumina  Inc. ,Healthcare,Biotechnology
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+MAS,Masco Corporation Common ,Industrial Goods,General Building Materials
+YUM,Yum! Brands Inc. ,Services,Restaurants
+ECL,Ecolab Inc. Common ,Consumer Goods,Cleaning Products
+KMX,CarMax Inc ,Services,Auto Dealerships
+MKC,McCormick & Company Incorporat ,Consumer Goods,Processed & Packaged Goods
+PNR,Pentair Inc. Common ,Industrial Goods,Industrial Equipment & Components
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+DNB,Dun & Bradstreet Corporation (T ,Technology,Information & Delivery Services
+SYMC,Symantec Corporation ,Technology,Security Software & Services
+VAL,Valspar Corporation (The) Commo ,Basic Materials,Specialty Chemicals
+GLBZ,Glen Burnie Bancorp ,Financial,Regional - Mid-Atlantic Banks
+MGRC,McGrath RentCorp ,Services,Rental & Leasing Services
+HUBS,HubSpot Inc. Common,Technology,Application Software
+GEQ, Guggenheim Equal Weight Enhance ,N/A,N/A
+TR,Tootsie Roll Industries Inc. C ,Consumer Goods,Confectioners
+NIE, AGIC Equity & Convertible Incom ,N/A,N/A
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+RWV,REVENUESHARES NAVELLIER OVERALL A-100 FUND ETF,US Equity ETF,
+IROQ, IF Bancorp  Inc. ,Financial,Savings & Loans
+CTS,CTS Corporation Common ,Technology,Diversified Electronics
+SCD, LMP Capital and Income Fund Inc ,N/A,N/A
+BRCD,Brocade Communications Systems ,Technology,Data Storage Devices
+RST,Rosetta Stone Rosetta Stone In ,Technology,Multimedia & Graphics Software
+ARKG,ARK Genomic Revolution Multi-Sex,,
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+SMTC,Semtech Corporation ,Technology,Semiconductor - Integrated Circuits
+FYC,First Trust Small Cap Growth AlphaDEX ETF,US Equity ETF,
+OPK,OPKO Health Inc. Common ,Healthcare,Medical Appliances & Equipment
+FIVN,Five9 Inc. ,Technology,Application Software
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+MUSA,Metals USA Holdings Corp. Commo ,Basic Materials,Steel & Iron
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+GTN, Gray Communications Systems  In ,Services,Broadcasting - TV
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+XHB,SPDR S&P Homebuilders ETF,US Equity ETF,
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+TRI,Thomson Reuters Corp Ordinary S ,Technology,Information & Delivery Services
+GUID, Guidance Software  Inc. ,Technology,Application Software
+VTWG,Vanguard Russell 2000 Growth ETF,US Equity ETF,
+XSW,SPDR S&P Software & Services ETF,US Equity ETF,
+SXCL,Steel Excel Inc.,Basic Materials,Oil & Gas Equipment & Services
+BCOM, B Communications Ltd. ,Technology,Diversified Communication Services
+SLY,SPDR S&P 600 Small Cap ETF (SLY) ETF,US Equity ETF,
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+TRU,Torch Energy Royalty Trust Comm ,Basic Materials,Oil & Gas Equipment & Services
+MMS,Maximus Inc. Common ,Services,Business Services
+HI, Hillenbrand Inc Common ,Industrial Goods,Diversified Machinery
+CHW, Calamos Global Dynamic Income F ,N/A,N/A
+CLACU,Capitol Acquisition Corp. II,N/A,N/A
+LBIO,LION BIOTECHNOLOGIES,Healthcare,Biotechnology
+JP,Jupai Holdings Limited,N/A,N/A
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+RJZ, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+ASNA, Ascena Retail Group  Inc. ,Services,Apparel Stores
+ZTR, Zweig Total Return Fund  Inc. ( ,Financial,Closed-End Fund - Debt
+MRTX,Mirati Therapeutics Inc. ,N/A,N/A
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+IXYS,IXYS Corporation ,Technology,Semiconductor - Specialized
+MCV,Medley Capital Corporation 6.12 ,N/A,N/A
+AV,Aviva plc Unsponsored ADR (UK) ,Financial,Life Insurance
+BKT, BlackRock Income Trust Inc. (Th ,Financial,Closed-End Fund - Debt
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+CTSO,CYTOSORBENTS COR,Healthcare,Medical Laboratories & Research
+AWR,American States Water Company C ,Utilities,Water Utilities
+RLGY, Realogy Holdings Corp. Common S ,Financial,Property Management
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+CALL,magicJack VocalTec Ltd ,Technology,Telecom Services - Domestic
+CY,Cypress Semiconductor Corporati ,Technology,Semiconductor - Broad Line
+IWO,iShares Russell 2000 Growth ETF,US Equity ETF,
+OC,Owens Corning Inc Common ,Industrial Goods,General Building Materials
+MNTX,Manitex International Inc. ,Industrial Goods,Diversified Machinery
+CAMP,CalAmp Corp. ,Technology,Communication Equipment
+ARW,Arrow Electronics Inc. Common  ,Services,Electronics Wholesale
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+FBHS, Fortune Brands Home & Security  ,Consumer Goods,Home Furnishings & Fixtures
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+ATLO,Ames National Corporation ,Financial,Regional - Northeast Banks
+MELI,MercadoLibre Inc. ,Services,Business Services
+PSCT,PowerShares S&P SmallCap Info Tech ETF,US Equity ETF,
+CLMS,Calamos Asset Management Inc. ,Financial,Asset Management
+TY, Tri Continental Corporation Com ,N/A,N/A
+USAK,USA Truck Inc. ,Services,Trucking
+LLSP,Direxion Daily S&P 500 Bull 1.2,,
+SPPP,Sprott Physical Platinum and Pa ,N/A,N/A
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+EXA, Exa Corporation ,Technology,Application Software
+GYC, Corporate Asset Backed Corp CAB ,N/A,N/A
+RPAI, Retail Properties of America  I ,Financial,REIT - Diversified
+IGI, Western Asset Investment Grade  ,N/A,N/A
+NOBL,ProShares SandP 500 Aristocrats ETF ,N/A,N/A
+JKK,iShares Morningstar Small Growth Index Fund ETF,US Equity ETF,
+RATE, Bankrate  Inc. Common ,Technology,Internet Information Providers
+KXI,iShares S&P Global Consumer Staples Sector Index Fund ETF,Global Equity ETF,
+RXN, Rexnord Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+OMCL,Omnicell Inc. ,Technology,Computer Based Systems
+ROL,Rollins Inc. Common ,Services,Business Services
+EXPR,Express Inc. Common ,Services,Apparel Stores
+RPD,Rapid7  Inc.,Technology,Application Software
+CHGG,Chegg Inc. ,Services,Education & Training Services
+EMD, Western Asset Emerging Markets  ,N/A,N/A
+NEU,NewMarket Corp Common ,Basic Materials,Specialty Chemicals
+DV,DeVry Inc. Common ,Services,Education & Training Services
+CHY, Calamos Convertible and High In ,N/A,N/A
+CGO, Calamos Global Total Return Fun ,N/A,N/A
+IPAR,Inter Parfums Inc. ,Consumer Goods,Personal Products
+SOCL,Global X Social Media Index ETF,Global Equity ETF,
+TUBE,TubeMogul Inc.,Technology,Application Software
+MXWL,Maxwell Technologies Inc. ,Technology,Diversified Electronics
+FSCFL,Fifth Street Finance Corp. ,N/A,N/A
+BFO, Blackrock Florida Municipal 202 ,Financial,Closed-End Fund - Debt
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+KNX,Knight Transportation Inc. Com ,Services,Trucking
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+AEGN, Aegion Corp ,Industrial Goods,Heavy Construction
+MHE, Massachusetts Health and Educat ,Financial,Closed-End Fund - Debt
+CXE, MFS High Income Municipal Trust ,N/A,N/A
+ABM,ABM Industries Incorporated Com ,Services,Business Services
+FPT, Federated Premier Intermediate  ,N/A,N/A
+ROGS,Lattice Global Small Cap Strate,N/A,N/A
+FEYE,FireEye Inc. ,Technology,Application Software
+DEO,Diageo plc Common ,Consumer Goods,Beverages - Wineries & Distillers
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+GAB, Gabelli Equity Trust  Inc. (The ,Financial,Closed-End Fund - Equity
+CMPR,Cimpress N.V,Services,Business Services
+HQL, H&Q Life Sciences Investors Com ,Financial,Closed-End Fund - Equity
+ZEN,Zendesk Inc. Common,Technology,Application Software
+CRCM,Care.com Inc. ,Technology,Internet Information Providers
+EVGN,Evogene Ltd. ,Healthcare,Biotechnology
+KELYA,Kelly Services Inc. ,Services,Staffing & Outsourcing Services
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+PGTI,PGT Inc. ,Industrial Goods,General Building Materials
+RVT, Royce Value Trust  Inc. Common  ,Financial,Closed-End Fund - Equity
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+ALOG,Analogic Corporation ,Technology,Scientific & Technical Instruments
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments
+FYX,First Trust Small Cap Core AlphaDEX ETF,US Equity ETF,
+EGIF,Eagle Growth and Income Opportunities Fund,N/A,N/A
+FNFV,FNFV Group of Fidelity National,N/A,N/A
+DWAQ,PowerShares DWA NASDAQ Momentum Port ,N/A,N/A
+TSRI,TSR Inc. ,Technology,Business Software & Services
+GZT, Gazit-Globe Ltd. Ordinary Share ,Financial,Real Estate Development
+WWE,World Wrestling Entertainment  ,Services,Entertainment - Diversified

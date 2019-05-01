@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BZQ,ProShares UltraShort MSCI Brazil ETF,Commodity Based ETF,
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+GMTB,Columbia Core Bond Strategy ETF,Fixed Income ETF,
+SRG,Seritage Growth Properties,N/A,N/A
+DSW,DSW Inc. Common ,Services,Apparel Stores
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,

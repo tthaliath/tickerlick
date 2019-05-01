@@ -1,0 +1,103 @@
+Buy,AVB,AvalonBay Communities Inc. Com ,10.991
+Buy,AZO,AutoZone Inc. Common ,2.69342
+Buy,BA,Boeing Company (The) Common Sto ,18.1398
+Buy,BBY,Best Buy Co. Inc. Common ,16.6658
+Buy,BHGE,Baker Hughes Incorporated Commo ,17.4205
+Buy,BWA,BorgWarner Inc. Common ,16.9136
+Buy,CAH,Cardinal Health Inc. Common St ,13.5728
+Buy,CAT,Caterpillar Inc. Common ,3.84716
+Buy,CCI,Crown Castle International Corp ,16.5975
+Buy,CELG,Celgene Corporation ,18.5191
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,15.6898
+Buy,EOG,EOG Resources Inc. Common Stoc ,6.0097
+Buy,EQIX,Equinix Inc. ,17.812
+Buy,EXR,Extra Space Storage Inc Common  ,9.09872
+Buy,FAST,Fastenal Company ,16.1712
+Buy,FLS,Flowserve Corporation Common St ,6.8643
+Buy,GLW,Corning Incorporated Common Sto ,8.91283
+Buy,INCY,Incyte Corporation ,7.16669
+Buy,IRM,Iron Mountain Incorporated (Del ,1.38869
+Buy,IT,Gartner Inc. Common ,18.6747
+Buy,IVZ,Invesco Plc New Common ,9.25949
+Buy,MCK,McKesson Corporation Common Sto ,10.6026
+Buy,MTD,Mettler-Toledo International I ,4.44395
+Buy,NBL,Noble Energy Inc. Common ,17.0368
+Buy,NEM,Newmont Mining Corporation (Hol ,14.8162
+Buy,NTRS,Northern Trust Corporation ,12.6033
+Buy,NWSA,News Corporation ,9.25955
+Buy,OMC,Omnicom Group Inc. Common ,15.0994
+Buy,ORLY,O'Reilly Automotive Inc. ,13.9634
+Buy,PDCO,Patterson Companies Inc. ,12.7932
+Buy,ROK,Rockwell Automation Inc. Commo ,11.3583
+Buy,SBUX,Starbucks Corporation ,13.2496
+Buy,SCHW,Charles Schwab Corporation (The ,18.91
+Buy,SIG,Signet Jewelers Limited Common  ,11.2572
+Buy,SNPS,Synopsys Inc. ,12.9638
+Buy,HON, Honeywell International Inc. Co ,11.3276
+Sell,AMZN,Amazon.com Inc. ,97.8025
+Sell,AWK,American Water Works Company I ,91.0509
+Sell,AXP,American Express Company Common ,91.5208
+Sell,BBT,BB&T Corporation Common ,83.3684
+Sell,BCR,C.R. Bard Inc. Common ,88.9476
+Sell,BEN,Franklin Resources Inc. Common ,87.1785
+Sell,BLL,Ball Corporation Common ,89.9986
+Sell,CA,CA Inc. ,85.1801
+Sell,CAG,ConAgra Foods Inc. Common Stoc ,88.891
+Sell,CB,Chubb Corporation (The) Common  ,81.7656
+Sell,CBG,CBRE Group Inc Common ,86.1963
+Sell,CBOE,CBOE Holdings Inc. ,91.0484
+Sell,CBS,CBS Corporation Class B Common  ,90.6857
+Sell,CCL,Carnival Corporation Common Sto ,80.7973
+Sell,CF,CF Industries Holdings Inc. Co ,90.2285
+Sell,CHD,Church & Dwight Company Inc. C ,83.1339
+Sell,CMCSA,Comcast Corporation ,90.1953
+Sell,CME,CME Group Inc. ,92.3449
+Sell,CMS,CMS Energy Corporation Common S ,96.2963
+Sell,CNP,CenterPoint Energy Inc (Holdin ,95.238
+Sell,COH,Coach Inc. Common ,87.6531
+Sell,ETR,Entergy Corporation Common Stoc ,94.4434
+Sell,EXPE,Expedia Inc. ,93.1685
+Sell,FDX,FedEx Corporation Common ,82.0459
+Sell,FMC,FMC Corporation Common ,87.7511
+Sell,GIS,General Mills Inc. Common Stoc ,96.7174
+Sell,GM,General Motors Company Common S ,88.8889
+Sell,GOOG,Alphabet Inc.,98.3896
+Sell,GPN,Global Payments Inc. Common Sto ,89.3208
+Sell,GRMN,Garmin Ltd. ,92.279
+Sell,GT,Goodyear Tire & Rubber Company  ,94.7176
+Sell,INTC,Intel Corporation ,97.928
+Sell,INTU,Intuit Inc. ,85.6357
+Sell,MA,Mastercard Incorporated Common  ,93.8988
+Sell,MAC,Macerich Company (The) Common S ,82.6237
+Sell,MAT,Mattel Inc. ,86.1351
+Sell,MCO,Moody's Corporation Common Stoc ,98.2453
+Sell,MET,MetLife Inc. Common ,90.349
+Sell,MHK,Mohawk Industries Inc. Common  ,97.2863
+Sell,MLM,Martin Marietta Materials Inc. ,98.0673
+Sell,NDAQ,The NASDAQ OMX Group Inc. ,90.2496
+Sell,NEE,NextEra Energy Inc. Common Sto ,88.2366
+Sell,NFLX,Netflix Inc. ,91.9218
+Sell,NKE,Nike Inc. Common ,97.539
+Sell,NWL,Newell Rubbermaid Inc. Common S ,97.5961
+Sell,ORCL,Oracle Corporation ,94.9077
+Sell,PBCT,People's United Financial Inc. ,83.6642
+Sell,PCG,Pacific Gas & Electric Co. Comm ,93.2813
+Sell,PEP,Pepsico Inc. Common ,91.7735
+Sell,ROST,Ross Stores Inc. ,90.0958
+Sell,RSG,Republic Services Inc. Common  ,92.5935
+Sell,SCG,SCANA Corporation Common ,98.7661
+Sell,SJM,J.M. Smucker Company (The) New  ,82.0358
+Sell,SNA,Snap-On Incorporated Common Sto ,84.535
+Sell,SNI,Scripps Networks Interactive I ,81.2805
+Sell,SPY,SPDR S&P 500 ETF,84.537
+Sell,AAL,American Airlines Group Inc. ,82.8287
+Sell,FOXA,Twenty-First Century Fox Inc. ,90.9762
+Sell,GOOGL,Alphabet Inc.,94.0199
+Sell,SYF,Synchrony Financial Common Stoc,96.4285
+Sell,WBA,Walgreens Boots Alliance Inc.,91.3121
+Sell,PYPL,PayPal Holdings  Inc.,96.2712
+Sell,WRK,WestRock Company,87.7127
+Sell,WLTW,Willis Towers Watson Public Limited Company,96.859
+Sell,SPGI,S&P Global  Inc.,81.5215
+Sell,INFO,IHS Markit Ltd.,95.0626
+Sell,UAA,Under Armour  Inc. Class A,83.4918

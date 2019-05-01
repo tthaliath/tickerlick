@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+BCBP,BCB Bancorp Inc. (NJ) ,Financial,Regional - Northeast Banks
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+FMI,Foundation Medicine Inc. ,Healthcare,Medical Laboratories & Research
+TEDU,Tarena International Inc. ,Services,Education & Training Services
+HBP,Huttig Building Products Inc. ,Services,Building Materials Wholesale
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+TSL,Trina Solar Limited Sponsored A ,Technology,Semiconductor - Specialized
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+ELON,Echelon Corporation ,Technology,Networking & Communication Devices
+NVEC,NVE Corporation ,Technology,Semiconductor - Specialized

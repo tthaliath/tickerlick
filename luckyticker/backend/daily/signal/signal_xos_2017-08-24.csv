@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+ETH,Ethan Allen Interiors Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+SOHO,Sotherly Hotels Inc. ,Financial,REIT - Hotel/Motel
+INN, Summit Hotel Properties  Inc. C ,Financial,Real Estate Development
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+ALKS,Alkermes plc ,Healthcare,Drug Delivery
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+MDT,Medtronic Inc. Common ,Healthcare,Medical Appliances & Equipment
+TOL,Toll Brothers Inc. Common ,Industrial Goods,Residential Construction
+TNC,Tennant Company Common ,Industrial Goods,Diversified Machinery
+NDSN,Nordson Corporation ,Industrial Goods,Diversified Machinery
+APOG,Apogee Enterprises Inc. ,Industrial Goods,General Building Materials
+WATT,Energous Corporation ,N/A,N/A
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+KR,Kroger Company (The) Common Sto ,Services,Grocery Stores
+SKYW,SkyWest Inc. ,Services,Regional Airlines
+OMC,Omnicom Group Inc. Common ,Services,Advertising Agencies

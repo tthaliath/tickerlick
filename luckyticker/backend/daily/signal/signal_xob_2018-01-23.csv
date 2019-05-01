@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ALFI,ETF Series Solutions Trust ETF,,
+CNDF,iShares Edge MSCI Multifactor C,,
+CNCR,Loncar Cancer Immunotherapy ETF,,
+OEW,Guggenheim ETF Trust ETF,,
+BIVV,Bioverativ Inc.,,
+AGT,iShares MSCI Argentina and Glob,,
+SNP,China Petroleum & Chemical Corp ,Basic Materials,Major Integrated Oil & Gas
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+CACC,Credit Acceptance Corporation ,Financial,Credit Services
+PIO,PowerShares Global Water Portfolio ETF,Global Equity ETF,
+ARGT,Global X FTSE Argentina 20 ETF,Global Equity ETF,
+JUNO,JUNO THERAPEUTICS INC.,Healthcare,Biotechnology
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+ADMS,Adamas Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+BGNE,BeiGene  Ltd.,N/A,N/A
+CRSP,CRISPR Therapeutics AG,N/A,N/A
+RMR,The RMR Group Inc.,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+ASML,ASML Holding N.V. ,NULL,NULL
+LOGI,Logitech International S.A. ,NULL,NULL
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+DG,Dollar General Corporation Comm ,Services,Discount Variety Stores
+ARMK,ARAMARK Holdings Corporation ,Services,Specialty Eateries
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+WYN,Wyndham Worldwide Corp Common   ,Services,Lodging
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+CMPR,Cimpress N.V,Services,Business Services
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+BBY,Best Buy Co. Inc. Common ,Services,Electronics Stores
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+ATHM,Autohome Inc. ,Technology,Internet Information Providers
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+FBT,First Trust Amex Biotech Index Fund ETF,US Equity ETF,

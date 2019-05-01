@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ECL,Ecolab Inc. Common ,Consumer Goods,Cleaning Products
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+BLK,BlackRock Inc,Financial,Asset Management
+SYK,Stryker Corporation Common Stoc ,Healthcare,Medical Appliances & Equipment
+SUPN, Supernus Pharmaceuticals  Inc. ,Healthcare,Drugs - Generic
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+SBUX,Starbucks Corporation ,Services,Specialty Eateries
+ZNH,China Southern Airlines Company ,Services,Major Airlines
+MTN,Vail Resorts Inc. Common ,Services,Resorts & Casinos
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+CABO,Cable ONE  Inc.,Technology,Diversified Communication Services
+BNFT,Benefitfocus Inc. ,Technology,Application Software
+NOW,ServiceNow Inc. Common ,Technology,Information Technology Services
+VDC,Vanguard Consumer Staples ETF - DNQ ETF,US Equity ETF,
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,
+VOOG,Vanguard S&P 500 Growth ETF,US Equity ETF,
+IYK,iShares Dow Jones U.S. Consumer Goods Index Fund ETF,US Equity ETF,
+IDA, IDACORP  Inc. Common ,Utilities,Electric Utilities
+SRE,Sempra Energy Common ,Utilities,Gas Utilities

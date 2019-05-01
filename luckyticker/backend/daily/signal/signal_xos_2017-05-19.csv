@@ -1,0 +1,54 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TESO,Tesco Corporation ,Basic Materials,Oil & Gas Equipment & Services
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+CCLP,CSI Compressco LP,Basic Materials,Oil & Gas Equipment & Services
+ROCK,Gibraltar Industries Inc. ,Basic Materials,Steel & Iron
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+BMS,Bemis Company Inc. Common Stoc ,Consumer Goods,Packaging & Containers
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+HOG, Harley-Davidson  Inc. Common St ,Consumer Goods,Recreational Vehicles
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+UFAB,Unique Fabricating  Inc.,Consumer Goods,Auto Parts
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+CCBG,Capital City Bank Group ,Financial,Regional - Mid-Atlantic Banks
+HAFC, Hanmi Financial Corporation ,Financial,Regional - Pacific Banks
+PPBI,Pacific Premier Bancorp Inc ,Financial,Regional - Pacific Banks
+NNN,National Retail Properties Comm ,Financial,REIT - Diversified
+UBA,Urstadt Biddle Properties Inc.  ,Financial,REIT - Retail
+NICK,Nicholas Financial Inc. ,Financial,Credit Services
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+OFG,Oriental Financial Group Inc.  ,Financial,Money Center Banks
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+AF,Astoria Financial Corporation C ,Financial,Savings & Loans
+NUTR,Nutraceutical International Cor ,Healthcare,Drug Related Products
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+IRIX,IRIDEX Corporation ,Healthcare,Medical Appliances & Equipment
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+TWIN,Twin Disc Incorporated ,Industrial Goods,Diversified Machinery
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+LBTYK,Liberty Global Inc. ,NULL,NULL
+ETM,Entercom Communications Corpora ,Services,Broadcasting - Radio
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+CHS,Chico's FAS Inc. Common ,Services,Apparel Stores
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+IMAX, Imax Corporation Common ,Services,Entertainment - Diversified
+BOJA,Bojangles  Inc.,Services,Restaurants
+PBPB,Potbelly Corporation ,Services,Specialty Eateries
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+SCVL,Shoe Carnival Inc. ,Services,Apparel Stores
+AEO,American Eagle Outfitters Inc. ,Services,Apparel Stores
+FRAN, Francesca's Holdings Corporatio ,Services,Specialty Retail  Other
+LBTYA,Liberty Global Inc. ,Services,CATV Systems
+PIR,Pier 1 Imports Inc. Common Sto ,Services,Home Furnishing Stores
+DSW,DSW Inc. Common ,Services,Apparel Stores
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+FL,Footlocker Inc. ,Services,Apparel Stores
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers

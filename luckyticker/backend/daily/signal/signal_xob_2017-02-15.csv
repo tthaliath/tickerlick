@@ -1,0 +1,67 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKQ,ARK Industrial Innovation ETF ,,
+IBLN,Direxion iBillionaire Index ETF ,,
+TRU,Torch Energy Royalty Trust Comm ,Basic Materials,Oil & Gas Equipment & Services
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+UPRO,ProShares UltraPro S&P500 ETF,Commodity Based ETF,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+PBSK, Poage Bankshares  Inc. ,Conglomerates,Conglomerates
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+FRBA,First Bank ,Financial,Regional - Mid-Atlantic Banks
+CET, Central Securities Corporation  ,Financial,Closed-End Fund - Equity
+RVT, Royce Value Trust  Inc. Common  ,Financial,Closed-End Fund - Equity
+FIG,Fortress Investment Group LLC C ,Financial,Asset Management
+GLQ, Clough Global Equity Fund Cloug ,Financial,Closed-End Fund - Foreign
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+ESXB,Community Bankers Trust Corporation ,Financial,Diversified Investments
+EMF, Templeton Emerging Markets Fund ,Financial,Closed-End Fund - Foreign
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+GXC,SPDR S&P China ETF,Global Equity ETF,
+BKF,iShares MSCI BRIC Index Fund ETF,Global Equity ETF,
+CHIQ,Global X China Consumer ETF,Global Equity ETF,
+EMIF,iShares S&P Emerging Markets Infrastructure Index Fund ETF,Global Equity ETF,
+FEM,First Trust Emerging Markets AlphaDEX ETF,Global Equity ETF,
+MCHI,iShares MSCI China ETF,Global Equity ETF,
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+UHS,Universal Health Services Inc. ,Healthcare,Hospitals
+TTPH,Tetraphase Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+CYNO,Cynosure Inc. ,Healthcare,Medical Appliances & Equipment
+ICPT, Intercept Pharmaceuticals  Inc. ,Healthcare,Drug Manufacturers - Major
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+AME,AMETEK Inc. ,Industrial Goods,Industrial Electrical Equipment
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+TWN, Taiwan Fund  Inc. (The) Common  ,N/A,N/A
+QSR,Restaurant Brands International,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+AKAO,Achaogen  Inc. ,N/A,N/A
+HSPX,Horizons SandP 500 Covered Call ETF ,N/A,N/A
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+SPXL, Direxion Daily S&P 500 Bull 3X  ,N/A,N/A
+CIGI,Colliers International Group Inc.,N/A,N/A
+RLGT, Radiant Logistics  Inc. Common  ,Services,Air Delivery & Freight Services
+NSP, Insperity  Inc. Common ,Services,Business Services
+PCLN,priceline.com Incorporated ,Services,General Entertainment
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services
+BCO,Brinks Company (The) Common Sto ,Services,Security & Protection Services
+WYN,Wyndham Worldwide Corp Common   ,Services,Lodging
+TTMI,TTM Technologies Inc. ,Technology,Printed Circuit Boards
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits
+FTNT,Fortinet Inc. ,Technology,Application Software
+PRCP,Perceptron Inc. ,Technology,Scientific & Technical Instruments
+PLXS,Plexus Corp. ,Technology,Printed Circuit Boards
+ATEN,A10 Networks Inc. ,Technology,Communication Equipment
+CTRL,Control4 Corporation ,Technology,Diversified Electronics
+ENTG,Entegris Inc. ,Technology,Semiconductor Equipment & Materials
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+MTK,SPDR Morgan Stanley Technology ETF,US Equity ETF,
+SKYY,First Trust ISE Cloud Computing Index Fund ETF,US Equity ETF,
+VHT,Vanguard Health Care ETF - DNQ ETF,US Equity ETF,
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,
+XLG,Guggenheim Russell Top 50® ETF,US Equity ETF,
+IYH,iShares Dow Jones U.S. Health Care Index Fund ETF,US Equity ETF,
+CZA,Guggenheim Mid-Cap Core ETF,US Equity ETF,
+RYH,Guggenheim S&P Equal Weight Health Care ETF,US Equity ETF,
+IGN,iShares Goldman Sachs Network Index Fund ETF,US Equity ETF,
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,

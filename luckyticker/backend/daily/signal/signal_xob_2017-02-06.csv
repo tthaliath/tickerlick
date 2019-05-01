@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CTNN,iPath Pure Beta Cotton ETN ,,
+TSE,Trinseo S.A. Ordinary Shares,Basic Materials,Synthetics
+ALL,Allstate Corporation (The) Comm ,Financial,Property & Casualty Insurance
+ALLY,Ally Financial Inc. ,Financial,Mortgage Investment
+TSBK, Timberland Bancorp  Inc. ,Financial,Savings & Loans
+PFSI,PennyMac Financial Services Inc. ,Financial,Mortgage Investment
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+INB, Cohen & Steers Global Income Bu ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+CSC,Computer Sciences Corporation C ,Technology,Information Technology Services
+FTNT,Fortinet Inc. ,Technology,Application Software
+BRKS,Brooks Automation Inc. ,Technology,Semiconductor Equipment & Materials
+AMD,Advanced Micro Devices Inc. Co ,Technology,Semiconductor - Broad Line
+KLIC,Kulicke and Soffa Industries I ,Technology,Semiconductor Equipment & Materials
+MSCI,MSCI Inc Common ,Technology,Application Software
+DATA,Tableau Software Inc. ,Technology,Application Software

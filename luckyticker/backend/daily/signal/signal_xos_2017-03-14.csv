@@ -1,0 +1,100 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BSJL,Guggenheim BulletShares 2021 Hi ,,
+TESO,Tesco Corporation ,Basic Materials,Oil & Gas Equipment & Services
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+BHI,Baker Hughes Incorporated Commo ,Basic Materials,Oil & Gas Equipment & Services
+DWSN,Dawson Geophysical Company ,Basic Materials,Oil & Gas Equipment & Services
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+UNT,Unit Corporation Common ,Basic Materials,Oil & Gas Drilling & Exploration
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+TG,Tredegar Corporation Common Sto ,Conglomerates,Conglomerates
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+MTEX,Mannatech Incorporated ,Consumer Goods,Personal Products
+ICON, Iconix Brand Group  Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+MHE, Massachusetts Health and Educat ,Financial,Closed-End Fund - Debt
+MQT, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+NAC, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+BFZ, BlackRock California Municipal  ,Financial,Closed-End Fund - Debt
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+AWF, Alliancebernstein Global High I ,Financial,Closed-End Fund - Debt
+EVO, Eaton Vance Ohio Municipal Inco ,Financial,Closed-End Fund - Debt
+PWOD,Penns Woods Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+EVM, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+EVP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+BHV, BlackRock Virginia Municipal Bo ,Financial,Closed-End Fund - Debt
+JHI, John Hancock Investors Trust Co ,Financial,Closed-End Fund - Debt
+RNP, Cohen & Steers Reit and Preferr ,Financial,Closed-End Fund - Equity
+KRC,Kilroy Realty Corporation Commo ,Financial,REIT - Office
+NMY, Nuveen Maryland Premium Income  ,Financial,Closed-End Fund - Debt
+ARE,Alexandria Real Estate Equities ,Financial,REIT - Office
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+AFSI,AmTrust Financial Services Inc ,Financial,Property & Casualty Insurance
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+BOTJ, Bank of the James Financial Gro ,Financial,Regional - Mid-Atlantic Banks
+SMMF,Summit Financial Group Inc. ,Financial,Regional - Mid-Atlantic Banks
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+BFK, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+RWO,SPDR Dow Jones Global Real Estate ETF,Global Equity ETF,
+DXR,Daxor Corporation Common ,Healthcare,Medical Instruments & Supplies
+PATK,Patrick Industries Inc. ,Industrial Goods,Lumber Wood Production
+CFI,Culp Inc. Common ,Industrial Goods,Textile Industrial
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+MLI,Mueller Industries Inc. Common ,Industrial Goods,Metal Fabrication
+CVU,CPI Aerostructures Inc. Common ,Industrial Goods,Aerospace/Defense Products & Services
+MUC, Blackrock MuniHoldings Californ ,N/A,N/A
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+VBF, Invesco Van Kampen Bond Fund Co ,N/A,N/A
+BSJK,Guggenheim BulletShares 2020 HY C Bd ETF ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+BSE, Blackrock New York Municipal In ,N/A,N/A
+BFY, BlackRock New York Municipal In ,N/A,N/A
+GSC, Goldman Sachs Connect S&P Enhan ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+USL, United States 12 Month Oil ,N/A,N/A
+MPA, Blackrock MuniYield Pennsylvani ,N/A,N/A
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+NRO, Neuberger Berman Real Estate Se ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+IQI, Invesco Quality Municipal Incom ,N/A,N/A
+NEV, Nuveen Enhanced Municipal Value ,N/A,N/A
+VKQ, Invesco Van Kampen Municipal Tr ,N/A,N/A
+DEA,Easterly Government Properties,N/A,N/A
+BNO, United States Brent Oil Fund  L ,N/A,N/A
+DMB,Dreyfus Municipal Bond Infrastr ,N/A,N/A
+OIL, Barclays Bank Plc iPath Exchang ,N/A,N/A
+HNW, Pioneer Diversified High Income ,N/A,N/A
+IVH,Ivy High Income Opportunities F ,N/A,N/A
+FEN, First Trust Energy Income and G ,N/A,N/A
+DBC, PowerShares DB Commodity Index  ,N/A,N/A
+MHI, Pioneer Municipal High Income T ,N/A,N/A
+WDTI, WisdomTree Managed Futures Stra ,N/A,N/A
+USO, United States Oil Fund ,N/A,N/A
+NBW, Neuberger Berman California Int ,N/A,N/A
+SNR,New Senior Investment Group Inc,N/A,N/A
+MIY, Blackrock MuniYield Michigan Qu ,N/A,N/A
+MUE, Blackrock MuniHoldings Quality  ,N/A,N/A
+DJP, iPath Dow Jones UBS Commodity I ,N/A,N/A
+ALGT,Allegiant Travel Company ,Services,Regional Airlines
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+GWR, Genesee & Wyoming Inc. Class A  ,Services,Railroads
+AAL,American Airlines Group Inc. ,Services,Major Airlines
+MGRC,McGrath RentCorp ,Services,Rental & Leasing Services
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+TA,TravelCenters of America LLC Co ,Services,Specialty Retail Other
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+TIER,TIER REIT  Inc,Technology,Information Technology Services
+KTCC,Key Tronic Corporation ,Technology,Computer Peripherals

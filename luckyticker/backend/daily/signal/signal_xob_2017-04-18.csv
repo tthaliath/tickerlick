@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+UTF, Cohen & Steers Infrastructure F ,Financial,Closed-End Fund - Equity
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+NYH, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+NVET,Nexvet Biopharma Public Limited Company,Healthcare,Biotechnology
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+AXON,Axovant Sciences Ltd.,Healthcare,Biotechnology
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+DMO, Western Asset Mortgage Defined  ,N/A,N/A
+UBC, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+SCOR,comScore Inc. ,Services,Business Services
+GNCMA,General Communication Inc. ,Technology,Long Distance Carriers
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems

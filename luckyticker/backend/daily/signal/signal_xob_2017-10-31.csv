@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QVM,Arrow QVM Equity Factor ETF,,
+HACV,iShares Edge MSCI Min Vol Globa,,
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+IBKR, Interactive Brokers Group  Inc. ,Financial,Investment Brokerage - National
+OPY,Oppenheimer Holdings Inc. Clas ,Financial,Investment Brokerage - Regional
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+EXAS,Exact Sciences Corporation ,Healthcare,Biotechnology
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+PHM,PulteGroup Inc. Common ,Industrial Goods,Residential Construction
+EME,EMCOR Group Inc. Common ,Industrial Goods,General Contractors
+TOL,Toll Brothers Inc. Common ,Industrial Goods,Residential Construction
+FIX,Comfort Systems USA Inc. Commo ,Industrial Goods,General Contractors
+CAA,CalAtlantic Group  Inc.,N/A,N/A
+PEN,Penumbra  Inc.,N/A,N/A
+WLH,William Lyon Homes ,N/A,N/A
+DYNC,Dynegy Inc. 7.00% Tangible Equi ,N/A,N/A
+DRR, Market Vectors Double Short Eur ,N/A,N/A
+AGR,Avangrid  Inc.,N/A,N/A
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+KEX,Kirby Corporation Common ,Services,Shipping
+IDTI, Integrated Device Technology  I ,Technology,Semiconductor - Broad Line
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+GTT,GTT Communications Inc. ,Technology,Diversified Communication Services
+JKHY,Jack Henry & Associates Inc. ,Technology,Business Software & Services
+DAIO,Data I/O Corporation ,Technology,Diversified Electronics
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,

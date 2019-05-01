@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VBND,Vident Core U.S. Bond Fund ,,
+AXJV,iShares MSCI Asia ex Japan Mini ,,
+PSE,Pioneer Southwest Energy Partne ,Basic Materials,Oil & Gas Drilling & Exploration
+BLH, Blackrock New York Municipal 20 ,Financial,Closed-End Fund - Debt
+APB, Asia Pacific Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+DRW,WisdomTree Global ex-U.S. Real Estate Fund ETF,Global Equity ETF,
+HAO,Guggenheim China Small Cap ETF,Global Equity ETF,
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+EMDD,EGShares Emerg Mkts Domestic Demand ETF,Global Equity ETF,
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+NINI,iPath Pure Beta Nickel ETN ,N/A,N/A
+GYEN,AdvisorShares Gartman Gold/Yen ETF ,N/A,N/A
+RRF, WisdomTree Global Real Return F ,N/A,N/A
+CN, ,N/A,N/A

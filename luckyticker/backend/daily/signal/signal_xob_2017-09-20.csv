@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DIVC,Citigroup Inc. C-Tracks ETN Mil ,,
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+BAK,Braskem SA ADR ,Basic Materials,Chemicals - Major Diversified
+UBR,ProShares Ultra MSCI Brazil ETF,Commodity Based ETF,
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+SAFM,Sanderson Farms Inc. ,Consumer Goods,Food - Major Diversified
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+FBNK, First Connecticut Bancorp  Inc. ,Financial,Money Center Banks
+QDEL,Quidel Corporation ,Healthcare,Diagnostic Substances
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+OA,Orbital ATK Inc. Common,Industrial Goods,Aerospace/Defense Products & Services
+LECO,Lincoln Electric Holdings Inc. ,Industrial Goods,Small Tools & Accessories
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+HXL, Hexcel Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+FELE,Franklin Electric Co. Inc. ,Industrial Goods,Industrial Electrical Equipment
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+ALG,Alamo Group Inc. Common ,Industrial Goods,Farm & Construction Machinery
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+BOBE,Bob Evans Farms Inc. ,Services,Restaurants
+UNP,Union Pacific Corporation Commo ,Services,Railroads
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+SSNI,Silver Spring Networks Inc. ,Technology,Computer Based Systems
+IGT, International Game Technology C ,Technology,Multimedia & Graphics Software
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+IPGP,IPG Photonics Corporation ,Technology,Semiconductor - Integrated Circuits
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,
+XAR,SPDR S&P Aerospace & Defense ETF,US Equity ETF,

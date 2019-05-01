@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PY,Principal Shareholder Yield Ind,,
+CNSF,iShares Edge MSCI Multifactor C,,
+FLQL,Franklin LibertyQ U.S. Equity E,,
+ONEY,SPDR Russell 1000 Yield Focus E,,
+ARGX,argenx SE - American Depositary,,
+HAUD,iShares Currency Hedged MSCI Au,,
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+HMG,HMG/Courtland Properties Inc. ,Financial,REIT - Retail
+SIEB, Siebert Financial Corp. ,Financial,Investment Brokerage - Regional
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ARDM,Aradigm Corporation,Healthcare,Drug Delivery
+NEWT,Newtek Business Services Inc. ,Services,Business Services
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+MELI,MercadoLibre Inc. ,Services,Business Services
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services

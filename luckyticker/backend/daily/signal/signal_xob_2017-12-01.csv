@@ -1,0 +1,48 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPYB,SPDR S&P 500 Buyback ETF,,
+DS,Drive Shack Inc.,,
+JHMS,John Hancock Multifactor Consum,,
+ACSI,American Customer Satisfaction,,
+WBIY,WBI Power Factor High Dividend,,
+ARGX,argenx SE - American Depositary,,
+UMDD,ProShares UltraPro MidCap400 ETF,Commodity Based ETF,
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+UYG,ProShares Ultra Financials ETF,Commodity Based ETF,
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+OPB,Opus Bank ,Financial,Money Center Banks
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+DFS,Discover Financial Services Com ,Financial,Credit Services
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+IBTX,Independent Bank Group Inc. ,Financial,Regional - Southeast Banks
+UNM,Unum Group Common ,Financial,Accident & Health Insurance
+HOME, Home Federal Bancorp  Inc. ,Financial,Savings & Loans
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+BLK,BlackRock Inc,Financial,Asset Management
+ETFC,E*TRADE Financial Corporation ,Financial,Investment Brokerage - National
+CHE,Chemed Corp ,Healthcare,Home Health Care
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+USG,USG Corporation Common ,Industrial Goods,General Building Materials
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+FAS, Direxion Financial Bull 3X Shar ,N/A,N/A
+LRGF,iShares FactorSelect MSCI USA,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+EQLT,ALPS Workplace Equality ETF ,N/A,N/A
+NWSA,News Corporation ,Services,Entertainment - Diversified
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+TLYS, Tilly's  Inc. Common ,Services,Apparel Stores
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+KORS,Michael Kors Holdings Limited O ,Services,Apparel Stores
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+FAB,First Trust Multi Cap Value AlphaDEX Fund ETF,US Equity ETF,
+SDY,SPDR S&P Dividend ETF,US Equity ETF,
+MDYV,SPDR S&P 400 Mid Cap Value ETF (MDYV) ETF,US Equity ETF,
+JKI,iShares Morningstar Mid Value Index Fund ETF,US Equity ETF,
+IJJ,iShares S&P MidCap 400 Value Index Fund ETF,US Equity ETF,
+IAI,iShares Dow Jones U.S. Broker-Dealers Index Fund ETF,US Equity ETF,

@@ -1,0 +1,41 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+FTK,Flotek Industries Inc. Common  ,Basic Materials,Specialty Chemicals
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+VRTV,Veritiv Corporation Common Stoc,Consumer Goods,Packaging & Containers
+THRM, Gentherm Inc ,Consumer Goods,Auto Parts
+SCL,Stepan Company Common ,Consumer Goods,Cleaning Products
+JCI,Johnson Controls Inc. Common S ,Consumer Goods,Auto Parts
+ATR,AptarGroup Inc. Common ,Consumer Goods,Packaging & Containers
+FSB,Franklin Financial Network,Financial,Money Center Banks
+NHC,National HealthCare Corporation ,Healthcare,Long-Term Care Facilities
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+LPNT,LifePoint Hospitals Inc. ,Healthcare,Hospitals
+GHDX,Genomic Health Inc. ,Healthcare,Medical Laboratories & Research
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+BSX,Boston Scientific Corporation C ,Healthcare,Medical Appliances & Equipment
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+MBCN,Middlefield Banc Corp.,N/A,N/A
+CECO,Career Education Corporation ,Services,Education & Training Services
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+FUN,Cedar Fair L.P. Common ,Services,General Entertainment
+ALGT,Allegiant Travel Company ,Services,Regional Airlines
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+DL,China Distance Education Holdin ,Services,Education & Training Services
+FRGI, Fiesta Restaurant Group  Inc. ,Services,Restaurants
+PCMI,PCM Inc. ,Services,Specialty Retail
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+CLS,Celestica Inc. Common ,Technology,Printed Circuit Boards
+RPD,Rapid7  Inc.,Technology,Application Software
+MSTR,MicroStrategy Incorporated ,Technology,Business Software & Services
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+SONS,Sonus Networks Inc. ,Technology,Communication Equipment

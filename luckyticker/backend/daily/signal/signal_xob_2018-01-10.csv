@@ -1,0 +1,101 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FLGE,Credit Suisse FI Large Cap Grow ,,
+IUSV,iShares Core U.S. Vaue ETF ,,
+SPUU,Direxion Daily S&P 500 Bull 2X  ,,
+FBGX,UBS AG FI Enhanced Large Cap Gr ,,
+SPYX,SPDR S&P 500 Fossil Fuel Reserv,,
+FINX,Global X FinTech ETF,,
+DBES,Deutsche X-trackers MSCI EAFE S,,
+FVAL,Fidelity Value Factor ETF,,
+XRLV,PowerShares S&P 500 ex-Rate Sen,,
+IPAY,PureFunds ISE Mobile Payments E,,
+GDVD,Principal Active Global Dividen,,
+ERM,EquityCompass Risk Manager ETF,,
+GSJY,Goldman Sachs ActiveBeta Japan,,
+TIG,TiGenix - American Depositary S,,
+FDRR,Fidelity Dividend ETF for Risin,,
+JPXN,iShares JPX-Nikkei 400 ETF,,
+DUSL,Direxion Daily Industrials Bull,,
+FQAL,Fidelity Quality Factor ETF,,
+QGTA,IQ Leaders GTAA Tracker ETF,,
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+PXD,Pioneer Natural Resources Compa ,Basic Materials,Independent Oil & Gas
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+UCC,ProShares Ultra Consumer Services ETF,Commodity Based ETF,
+UXI,ProShares Ultra Industrials ETF,Commodity Based ETF,
+SSO,ProShares Ultra S&P500 ETF,Commodity Based ETF,
+UPRO,ProShares UltraPro S&P500 ETF,Commodity Based ETF,
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+VUZI,VUZIX CORP CMN STK,Consumer Goods,Electronic Equipment
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+MZA, Blackrock MuniYield Arizona Fun ,Financial,Closed-End Fund - Debt
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+UIHC,United Insurance Holdings Corp. ,Financial,Property & Casualty Insurance
+BK,Bank of New York Mellon Corpora ,Financial,Asset Management
+NMR,Nomura Holdings Inc ADR America ,Financial,Investment Brokerage - National
+STT, State Street Corporation Common ,Financial,Regional - Northeast Banks
+NRT,North European Oil Royality Tru ,Financial,Diversified Investments
+IX, Orix Corp Ads Common ,Financial,Credit Services
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+MOAT,Market Vectors Morningstar Wide Moat ETF,Global Equity ETF,
+EWJ,iShares MSCI Japan Index Fund ETF,Global Equity ETF,
+FJP,First Trust Japan AlphaDEX ETF,Global Equity ETF,
+GLMD,Galmed Pharmaceuticals Ltd. ,Healthcare,Biotechnology
+ABAX,ABAXIS Inc. ,Healthcare,Diagnostic Substances
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+ATI,Allegheny Technologies Incorpor ,Industrial Goods,Metal Fabrication
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+KEN,Kenon Holdings Ltd.,N/A,N/A
+CAPE, Barclays ETN Schiller CAPE ,N/A,N/A
+FNDB,Schwab Fundamental US Broad Market ETF ,N/A,N/A
+FNDX,Schwab Fundamental US Large Company ETF ,N/A,N/A
+NXEO,Nexeo Solutions  Inc.,N/A,N/A
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+FIDU,Fidelity MSCI Industrials Index ETF ,N/A,N/A
+XIV, VelocityShares Daily Inverse VI ,N/A,N/A
+FDIS,Fidelity MSCI Consumer Discretionary ETF ,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+JD,JD.com Inc.,Technology,Internet Information Providers
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+AZPN,Aspen Technology Inc. ,Technology,Business Software & Services
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+PWB,PowerShares Dynamic LargeCap Growth ETF,US Equity ETF,
+XLG,Guggenheim Russell Top 50® ETF,US Equity ETF,
+DSI,iShares KLD 400 Social Index Fund ETF,US Equity ETF,
+IWY,iShares Russell Top 200 Growth Index Fund ETF,US Equity ETF,
+IVE,iShares S&P 500 Value Index Fund ETF,US Equity ETF,
+SCHB,Schwab U.S. Broad Market ETF,US Equity ETF,
+VCR,Vanguard Consumer Discretion ETF - DNQ ETF,US Equity ETF,
+VONE,Vanguard Russell 1000 ETF,US Equity ETF,
+IYJ,iShares Dow Jones U.S. Industrial Sector Index Fund ETF,US Equity ETF,
+XLI,SPDR Industrial Select Sector Fund ETF,US Equity ETF,
+RGI,Guggenheim S&P Equal Weight Industrials ETF,US Equity ETF,
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,
+IWL,iShares Russell Top 200 Index Fund ETF,US Equity ETF,
+SCHX,Schwab U.S. Large-Cap ETF,US Equity ETF,
+VV,Vanguard Large-Cap ETF,US Equity ETF,
+VTHR,Vanguard Russell 3000 ETF,US Equity ETF,
+VIS,Vanguard Industrials ETF - DNQ ETF,US Equity ETF,
+IYT,iShares Dow Jones Transportation Average Index Fund ETF,US Equity ETF,
+IWB,iShares Russell 1000 ETF,US Equity ETF,
+OEF,iShares S&P 100 Index Fund ETF,US Equity ETF,
+PRF,Powershares FTSE RAFI US 1000 Portfolio ETF,US Equity ETF,
+SCHG,Schwab U.S. Large-Cap Growth ETF,US Equity ETF,
+MGC,Vanguard Mega Cap 300 ETF,US Equity ETF,
+VTI,Vanguard Total Stock Market ETF,US Equity ETF,
+ADRA,PowerShares BLDRS Asia 50 ADR Index Fund ETF,US Equity ETF,
+TILT,FlexShares Morningstar U.S. Market Factor Tilt Index Fund ETF,US Equity ETF,
+IYC,iShares Dow Jones U.S. Consumer Index Fund ETF,US Equity ETF,
+IWV,iShares Russell 3000 ETF,US Equity ETF,
+IVV,iShares S&P 500 Index Fund ETF,US Equity ETF,
+SPHQ,PowerShares S&P 500 High Quality Portfolio ETF,US Equity ETF,
+SPY,SPDR S&P 500 ETF,US Equity ETF,
+MGK,Vanguard Mega Cap 300 Growth ETF,US Equity ETF,

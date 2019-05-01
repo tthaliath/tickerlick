@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BHGE,Baker Hughes Incorporated Commo ,Basic Materials,Oil & Gas Equipment & Services
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+URE,ProShares Ultra Real Estate ETF,Commodity Based ETF,
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+PCRX, Pacira Pharmaceuticals  Inc. ,Healthcare,Drug Manufacturers - Major
+NTRA,Natera  Inc.,Healthcare,Medical Laboratories & Research
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+SGA,Saga Communications Inc. New C ,Services,Broadcasting - Radio
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+RHI,Robert Half International Inc.  ,Services,Staffing & Outsourcing Services
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads
+LOPE,Grand Canyon Education Inc. ,Services,Education & Training Services
+ASGN,On Assignment Inc. ,Services,Staffing & Outsourcing Services
+UNP,Union Pacific Corporation Commo ,Services,Railroads
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services

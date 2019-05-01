@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+DECK,Deckers Outdoor Corporation ,Consumer Goods,Textile - Apparel Footwear & Accessories
+TFSL,TFS Financial Corporation ,Financial,Regional - Midwest Banks
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+WETF, WisdomTree Investments  Inc. ,N/A,N/A
+PAYX,Paychex Inc. ,Services,Staffing & Outsourcing Services
+BH,Biglari Holdings Inc. ,Services,Restaurants
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+BCOV,Brightcove Inc. ,Technology,Application Software
+BT,BT Group plc Common ,Technology,Telecom Services - Foreign
+EGOV,NIC Inc. ,Technology,Application Software
+BBOX,Black Box Corporation ,Technology,Networking & Communication Devices
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+DGII,Digi International Inc. ,Technology,Networking & Communication Devices
+CSGS,CSG Systems International Inc. ,Technology,Business Software & Services
+AGYS,Agilysys Inc. ,Technology,Application Software

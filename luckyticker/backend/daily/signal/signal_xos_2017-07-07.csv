@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAJ,Canon Inc. American Depositary ,Consumer Goods,Photographic Equipment & Supplies
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+DOC,Physicians Realty Trust ,Financial,REIT - Healthcare Facilities
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+VWOB,Vanguard Emerg Mkts Govt Bd Idx ETF ,N/A,N/A
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+AGNCB,American Capital Agency Corp.,N/A,N/A
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+DL,China Distance Education Holdin ,Services,Education & Training Services
+SIMO,Silicon Motion Technology Corpo ,Technology,Diversified Electronics
+IPDN,Professional Diversity Network LLC ,Technology,Internet Information Providers
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities

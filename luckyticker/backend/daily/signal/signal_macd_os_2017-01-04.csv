@@ -1,0 +1,236 @@
+ticker,name,sector,industry
+MDT,Medtronic Inc. Common ,Healthcare,Medical Appliances & Equipment
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+SYMC,Symantec Corporation ,Technology,Security Software & Services
+TJX,TJX Companies Inc. (The) Commo ,Services,Department Stores
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+YHOO,Yahoo! Inc. ,Technology,Internet Information Providers
+EOG,EOG Resources Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+FL,Footlocker Inc. ,Services,Apparel Stores
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores
+PKI,PerkinElmer Inc. Common ,Healthcare,Medical Instruments & Supplies
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+DG,Dollar General Corporation Comm ,Services,Discount Variety Stores
+DVN,Devon Energy Corporation Common ,Basic Materials,Independent Oil & Gas
+FB, Facebook  Inc. ,Technology,Internet Information Providers
+JEC,Jacobs Engineering Group Inc. C ,Services,Technical Services
+KSS,Kohl's Corporation Common ,Services,Department Stores
+LKQ, LKQ Corporation ,Services,Auto Parts Wholesale
+XRAY,DENTSPLY International Inc. ,Healthcare,Medical Instruments & Supplies
+AMG,Affiliated Managers Group Inc. ,Financial,Asset Management
+EXPE,Expedia Inc. ,Services,Lodging
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+PHM,PulteGroup Inc. Common ,Industrial Goods,Residential Construction
+PXD,Pioneer Natural Resources Compa ,Basic Materials,Independent Oil & Gas
+RHT,Red Hat Inc. Common ,Technology,Application Software
+SEE,Sealed Air Corporation Common S ,Consumer Goods,Packaging & Containers
+SWK,Stanley Black & Decker Inc. Co ,Industrial Goods,Machine Tools & Accessories
+TIF,Tiffany & Co. Common ,Services,Jewelry Stores
+WY,Weyerhaeuser Company Common Sto ,Financial,REIT - Industrial
+MCO,Moody's Corporation Common Stoc ,Services,Business Services
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+GM,General Motors Company Common S ,Consumer Goods,Auto Manufacturers - Major
+GRMN,Garmin Ltd. ,Technology,Scientific & Technical Instruments
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+IAF, Aberdeen Australia Equity Fund  ,N/A,N/A
+IPAC,iShares Core MSCI Pacific ETF ,,
+ISG,ING Group N.V. Perpetual Dent  ,NULL,NULL
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,US Equity ETF,
+JKK,iShares Morningstar Small Growth Index Fund ETF,US Equity ETF,
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+KMT,Kennametal Inc. Common ,Industrial Goods,Machine Tools & Accessories
+LFL,Lan Airlines S.A. ,Services,Regional Airlines
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+MT,Arcelor Mittal NY Registry Shar ,Basic Materials,Steel & Iron
+NIE, AGIC Equity & Convertible Incom ,N/A,N/A
+PDI, PIMCO Dynamic Income Fund Commo ,N/A,N/A
+PHO,PowerShares Water Resource Port ETF,US Equity ETF,
+PXSG,PowerShares Fundamental Pure Small Growth Portfolio ETF,US Equity ETF,
+RBC,Regal Beloit Corporation Common ,Industrial Goods,Industrial Electrical Equipment
+RNG,RingCentral Inc. ,Technology,Application Software
+SCVL,Shoe Carnival Inc. ,Services,Apparel Stores
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+SLYV,SPDR S&P 600 Small Cap Value ETF (SLYV) ETF,US Equity ETF,
+SSD,Simpson Manufacturing Company  ,Industrial Goods,Small Tools & Accessories
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+VAW,Vanguard Materials ETF - DNQ ETF,US Equity ETF,
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+XHB,SPDR S&P Homebuilders ETF,US Equity ETF,
+XON,Intrexon Corporation ,Healthcare,Biotechnology
+XTL,SPDR S&P Telecom ETF,US Equity ETF,
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+AR,Antero Resources Corporation ,Basic Materials,Oil & Gas Drilling & Exploration
+CHSCP, CHS Inc ,N/A,N/A
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+EMCR, EGShares Emerging Markets CORE  ,N/A,N/A
+BDC,Belden Inc Common ,Industrial Goods,Industrial Electrical Equipment
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+BPK, Blackrock Municipal 2018 Term T ,Financial,Closed-End Fund - Debt
+IBN, ICICI Bank Limited Common ,Financial,Foreign Regional Banks
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+CM,Canadian Imperial Bank of Comme ,Financial,Money Center Banks
+CPER,United States Copper ,N/A,N/A
+CUT,Guggenheim Timber ETF,Global Equity ETF,
+DEST,Destination Maternity Corporati ,Services,Apparel Stores
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+EXD, Eaton Vance Tax-Advantaged Bond ,N/A,N/A
+FAD,First Trust Multi CG AlphaDEX ETF,US Equity ETF,
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+FXD,First Trust Cons. Discret. AlphaDEX ETF,US Equity ETF,
+GEF,Greif Inc. Class A Common ,Consumer Goods,Packaging & Containers
+GME,Gamestop Corporation Common Sto ,Services,Electronics Stores
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+HLX, Helix Energy Solutions Group  I ,Basic Materials,Oil & Gas Equipment & Services
+IBKR, Interactive Brokers Group  Inc. ,Financial,Investment Brokerage - National
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,
+IX, Orix Corp Ads Common ,Financial,Credit Services
+JPGE,JPMorgan Diversified Return Glo ,,
+KNOW, Direxion All Cap Insider Sentim ,N/A,N/A
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+MGA,Magna International Inc. Commo ,Consumer Goods,Auto Parts
+NE,Noble Corporation  New Common S ,Basic Materials,Oil & Gas Drilling & Exploration
+NMBL,Nimble Storage Inc. ,Technology,Data Storage Devices
+OTIC,Otonomy Inc.,N/A,N/A
+PDP,PowerShares DWA Technical Leaders Portfolio ETF,US Equity ETF,
+PYZ,PowerShares Dynamic Basic Materials ETF,US Equity ETF,
+RCD,Guggenheim S&P Equal Weight Consumer Discretionary ETF,US Equity ETF,
+RTRX,Retrophin Inc. ,Healthcare,Drug Manufacturers - Major
+SDY,SPDR S&P Dividend ETF,US Equity ETF,
+SHAK,Shake Shack Inc. Class A Commo,Services,Specialty Eateries
+SNP,China Petroleum & Chemical Corp ,Basic Materials,Major Integrated Oil & Gas
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+TZOO,Travelzoo Inc. ,Technology,Internet Information Providers
+WWE,World Wrestling Entertainment  ,Services,Entertainment - Diversified
+XLB,SPDR Materials Select Sector Fund ETF,US Equity ETF,
+XPO,XPO Logistics Inc. ,Services,Trucking
+ZIOP,ZIOPHARM Oncology Inc ,Healthcare,Biotechnology
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BME, Blackrock Health Sciences Trust ,Financial,Closed-End Fund - Equity
+ARCB,ArcBest Corporation ,N/A,N/A
+CHT,Chunghwa Telecom Co Ltd America ,Technology,Telecom Services - Domestic
+ENZL,iShares MSCI New Zealand Investable Market Index Fund (ENZL) ETF,Global Equity ETF,
+BLH, Blackrock New York Municipal 20 ,Financial,Closed-End Fund - Debt
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+BVSN,BroadVision Inc. ,Technology,Internet Software & Services
+IPN,SPDR S&P International Industrial Sector ETF,Global Equity ETF,
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+CNQ,Canadian Natural Resources Limi ,Basic Materials,Independent Oil & Gas
+CR,Crane Company Common ,Industrial Goods,Diversified Machinery
+CZA,Guggenheim Mid-Cap Core ETF,US Equity ETF,
+EOS, Eaton Vance Enhance Equity Inco ,Financial,Closed-End Fund - Equity
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+EXI,iShares S&P Global Industrials Sector Index Fund ETF,Global Equity ETF,
+FLM,First Trust ISE Global Engineering and Construction Index Fund ETF,Global Equity ETF,
+FVL,First Trust Value Line 100 Fund ETF,US Equity ETF,
+FXZ,First Trust Materials AlphaDEX Fund ETF,US Equity ETF,
+GIL,Gildan Activewear Inc. Class A ,Consumer Goods,Textile - Apparel Clothing
+GMTB,Columbia Core Bond Strategy ETF,Fixed Income ETF,
+GWR, Genesee & Wyoming Inc. Class A  ,Services,Railroads
+GYEN,AdvisorShares Gartman Gold/Yen ETF ,N/A,N/A
+HSNI, HSN  Inc. ,Services,Specialty Retail  Other
+IBLN,Direxion iBillionaire Index ETF ,,
+IRMD,iRadimed Corporation,Healthcare,Medical Appliances & Equipment
+ITT,ITT Corporation Common ,Industrial Goods,Diversified Machinery
+JPMV,iShares MSCI Japan Minimum Vola ,,
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+NFO,Guggenheim Insider Sentiment ETF,US Equity ETF,
+NMRX,Numerex Corp. ,Technology,Communication Equipment
+PBE,PowerShares Dynamic Biotech &Genome ETF,US Equity ETF,
+PEGI,Pattern Energy Group Inc. ,Utilities,Diversified Utilities
+PNQI,PowerShares Nasdaq Internet Portfolio ETF,US Equity ETF,
+QCAN,SPDR MSCI Canada Quality Mix ET ,,
+RETL, Direxion Daily Retail Bull 3X S ,N/A,N/A
+RYJ,Guggenheim Raymond James SB-1 Equity ETF,US Equity ETF,
+SEB,Seaboard Corporation Common Sto ,Consumer Goods,Meat Products
+SLX,Market Vectors Steel Index ETF Fund ETF,US Equity ETF,
+SPLK, Splunk Inc. ,Technology,Application Software
+STN,Stantec Inc Common ,Services,Technical Services
+TAN,Guggenheim Solar ETF,Global Equity ETF,
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+URTH,iShares MSCI World ETF,Global Equity ETF,
+WAC,Walter Investment Management Co ,Financial,Asset Management
+WWW,Wolverine World Wide Inc. Comm ,Consumer Goods,Textile - Apparel Footwear & Accessories
+XLRN,Acceleron Pharma Inc. ,Healthcare,Biotechnology
+ACAT,Arctic Cat Inc. ,Consumer Goods,Recreational Vehicles
+ADXS,Advaxis Inc. ,Healthcare,Biotechnology
+BMS,Bemis Company Inc. Common Stoc ,Consumer Goods,Packaging & Containers
+ARKG,ARK Genomic Revolution Multi-Sex,,
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+AWP, Alpine Global Premier Propertie ,N/A,N/A
+FKO,First Trust South Korea AlphaDEX ETF,Global Equity ETF,
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+JOF, Japan Smaller Capitalization Fu ,Financial,Closed-End Fund - Foreign
+CHIE,Global X China Energy ETF,Global Equity ETF,
+SCHF,Schwab International Equity ETF,Global Equity ETF,
+COPX,Global X Copper Miners ETF,Global Equity ETF,
+CRI,Carter's Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+DGI,DigitalGlobe Inc Common ,Technology,Information & Delivery Services
+DWAT,Arrow DWA Tactical ETF ,,
+ERH, Wells Fargo Advantage Utilities ,N/A,N/A
+EWJ,iShares MSCI Japan Index Fund ETF,Global Equity ETF,
+FMAT,Fidelity MSCI Materials Index ETF ,N/A,N/A
+FXB, Rydex CurrencyShares British Po ,N/A,N/A
+FYC,First Trust Small Cap Growth AlphaDEX ETF,US Equity ETF,
+GJR, Synthetic Fixed-Income Securiti ,N/A,N/A
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund ETF,Global Equity ETF,
+HALO, Halozyme Therapeutics  Inc. ,Healthcare,Biotechnology
+HZO, MarineMax  Inc. Common ,Services,Specialty Retail  Other
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,
+IROQ, IF Bancorp  Inc. ,Financial,Savings & Loans
+IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,US Equity ETF,
+JJC, iPath Dow Jones UBS Copper Tota ,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+KKR,KKR & Co. L.P. Common Units Rep ,Financial,Asset Management
+LM,Legg Mason Inc. Common ,Financial,Asset Management
+LXRX,Lexicon Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MRTN,Marten Transport Ltd. ,Services,Trucking
+NIB, iPath DJ-UBS Cocoa Subindex Tot ,N/A,N/A
+NTN,NTN Buzztime Inc. Common ,Services,Broadcasting - TV
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+SAEX,SAExploration Holdings Inc. ,Conglomerates,Conglomerates
+SLY,SPDR S&P 600 Small Cap ETF (SLY) ETF,US Equity ETF,
+SPWR, SunPower Corporation ,Technology,Semiconductor - Specialized
+TWOK,SPDR Russell 2000 ETF ,N/A,N/A
+UYM,ProShares Ultra Basic Materials ETF,Commodity Based ETF,
+WBMD,WebMD Health Corp ,Technology,Healthcare Information Services
+XME,SPDR S&P Metals and Mining ETF,US Equity ETF,
+XSW,SPDR S&P Software & Services ETF,US Equity ETF,
+ACM,Aecom Technology Corporation Co ,Services,Technical Services
+ASHR,db X-trackers Harvest China ETF ,N/A,N/A
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+CASC,Cascadian Therapeutics, Inc.,Industrial Goods,Farm & Construction Machinery
+ATI,Allegheny Technologies Incorpor ,Industrial Goods,Metal Fabrication
+EFC,Ellington Financial LLC Common  ,Financial,Mortgage Investment
+AXJV,iShares MSCI Asia ex Japan Mini ,,
+FNI,First Trust ISE Chindia ETF,US Equity ETF,
+BNS,Bank Nova Scotia Halifax Pfd 3  ,Financial,Money Center Banks
+GWX,SPDR S&P International Small Cap ETF,Global Equity ETF,
+CBT,Cabot Corporation Common ,Basic Materials,Specialty Chemicals
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+CPE,Callon Petroleum Company Common ,Basic Materials,Independent Oil & Gas
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+DDS,Dillard's Inc. Common ,Services,Department Stores
+ECA,Encana Corporation ,Basic Materials,Major Integrated Oil & Gas
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+EWS,iShares MSCI Singapore Index Fund ETF,Global Equity ETF,
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+FIW,First Trust ISE Water Index Fund ETF,US Equity ETF,
+FNK,First Trust Mid Cap Value AlphaDEX ETF,US Equity ETF,
+FXCM,FXCM Inc. Class A Common ,Financial,Investment Brokerage - National
+GDOT,Green Dot Corporation Class A C ,Services,Business Services

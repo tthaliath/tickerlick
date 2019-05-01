@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEXEA,Liberty Expedia Holdings  Inc.,,
+NEU,NewMarket Corp Common ,Basic Materials,Specialty Chemicals
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+NUM, Nuveen Michigan Quality Income  ,Financial,Closed-End Fund - Debt
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+CIB,BanColombia S.A. Common ,Financial,Foreign Regional Banks
+CINF,Cincinnati Financial Corporatio ,Financial,Property & Casualty Insurance
+EIV, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+MTGE, American Capital Mortgage Inves ,Financial,REIT - Diversified
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+GSK,GlaxoSmithKline PLC Common Stoc ,Healthcare,Drug Manufacturers - Major
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+ARR, ARMOUR Residential REIT  Inc. ,N/A,N/A
+ACSF,American Capital Senior Floatin ,N/A,N/A
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+VPV, Invesco Van Kampen Pennsylvania ,N/A,N/A
+VKQ, Invesco Van Kampen Municipal Tr ,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+EOT, Eaton Vance Municipal Income Tr ,N/A,N/A
+MSGN,MSG Networks Inc.,N/A,N/A
+WBAI,500.com Limited ,Services,Gaming Activities
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+NVGS,Navigator Holdings Ltd. ,Services,Shipping
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+CLS,Celestica Inc. Common ,Technology,Printed Circuit Boards
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,

@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DXJH,WisdomTree Japan Hedged Health,,
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+NMIH,NMI Holdings Inc. ,Financial,Surety & Title Insurance
+IBKR, Interactive Brokers Group  Inc. ,Financial,Investment Brokerage - National
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+OPY,Oppenheimer Holdings Inc. Clas ,Financial,Investment Brokerage - Regional
+COF,Capital One Financial Corporati ,Financial,Credit Services
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+EME,EMCOR Group Inc. Common ,Industrial Goods,General Contractors
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+PHM,PulteGroup Inc. Common ,Industrial Goods,Residential Construction
+TOL,Toll Brothers Inc. Common ,Industrial Goods,Residential Construction
+CAA,CalAtlantic Group  Inc.,N/A,N/A
+DYNC,Dynegy Inc. 7.00% Tangible Equi ,N/A,N/A
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+MSFT,Microsoft Corporation ,Technology,Application Software
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+XNET,Xunlei Limited,Technology,Application Software
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities

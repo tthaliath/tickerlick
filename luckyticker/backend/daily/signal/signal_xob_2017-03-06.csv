@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SYE,SPDR MFS Systematic Core Equity ,,
+QWLD,SPDR MSCI World Quality Mix ETF ,,
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+IXJ,iShares S&P Global Healthcare Index Fund ETF,Global Equity ETF,
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+CBPX,Continental Building Products Inc. ,Industrial Goods,General Building Materials
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+GHC,Graham Holdings ,N/A,N/A
+DOD, Deutsche Bank AG ELEMENTS Dogs  ,N/A,N/A
+GPRK,GeoPark Limited ,N/A,N/A
+PNTR, Pointer Telocation Ltd. ,Services,Security & Protection Services
+TSL,Trina Solar Limited Sponsored A ,Technology,Semiconductor - Specialized
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+VRTU,Virtusa Corporation ,Technology,Information Technology Services
+XLG,Guggenheim Russell Top 50® ETF,US Equity ETF,
+JKD,iShares Morningstar Large Core Index Fund ETF,US Equity ETF,
+CNP,CenterPoint Energy Inc (Holdin ,Utilities,Diversified Utilities

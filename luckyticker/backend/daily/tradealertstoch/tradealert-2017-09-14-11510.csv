@@ -1,0 +1,38 @@
+Buy,AXP,American Express Company Common ,19.8841
+Buy,COF,Capital One Financial Corporati ,17.5437
+Buy,COP,ConocoPhillips Common ,17.8401
+Buy,COST,Costco Wholesale Corporation ,19.498
+Buy,DD,E.I. du Pont de Nemours and Com ,2.27269
+Buy,DIS,Walt Disney Company (The) Commo ,5.14159
+Buy,MET,MetLife Inc. Common ,3.65425
+Buy,PEP,Pepsico Inc. Common ,13.5259
+Buy,SLB,Schlumberger N.V. Common ,14.2022
+Buy,T,AT&T Inc. ,13.2265
+Buy,TWX,Time Warner Inc. New Common Sto ,4.55577
+Buy,BRK-B,Berkshire Hathaway Inc.,14.5824
+Buy,HAL, Halliburton Company Common Stoc ,19.463
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,5.01431
+Buy,MDLZ, Mondelez International  Inc. ,13.2411
+Buy,GOOGL,Alphabet Inc.,19.984
+Buy,KHC,The Kraft Heinz Company,3.64625
+Buy,SNAP,Snap Inc.,3.01898
+Buy,VIX,VOLATILITY S&P 500,15.3255
+Sell,BA,Boeing Company (The) Common Sto ,81.6364
+Sell,BMY,Bristol-Myers Squibb Company Co ,98.1995
+Sell,DHR,Danaher Corporation Common Stoc ,85.7835
+Sell,DUK,Duke Energy Corporation (Holdin ,89.0701
+Sell,JNJ,Johnson & Johnson Common ,98.6308
+Sell,LMT,Lockheed Martin Corporation Com ,84.5298
+Sell,LOW,Lowe's Companies Inc. Common S ,94.2167
+Sell,MMM,3M Company Common ,94.9403
+Sell,MON,Monsanto Company Common ,87.7778
+Sell,MRK,Merck & Company Inc. Common St ,98.4286
+Sell,NVDA,NVIDIA Corporation ,83.9496
+Sell,PFE,Pfizer Inc. Common ,92.4604
+Sell,QCOM,QUALCOMM Incorporated ,83.2126
+Sell,SBUX,Starbucks Corporation ,87.765
+Sell,SO,Southern Company (The) Common S ,95.2927
+Sell,SPG,Simon Property Group Inc. Comm ,91.8395
+Sell,BLK,BlackRock Inc,83.1339
+Sell,GLD, SPDR Gold Trust ,88.8893
+Sell,ABBV,AbbVie Inc. ,84.6085

@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AXTA,Axalta Coating Systems Ltd. Com,Basic Materials,Specialty Chemicals
+DNOW,NOW Inc. Common,Basic Materials,Oil & Gas Equipment & Services
+PXD,Pioneer Natural Resources Compa ,Basic Materials,Independent Oil & Gas
+SMP,Standard Motor Products Inc. C ,Consumer Goods,Auto Parts
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+EIS,iShares MSCI Israel Capped Investable Market Index Fund ETF,Global Equity ETF,
+NHC,National HealthCare Corporation ,Healthcare,Long-Term Care Facilities
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+PRGO,Perrigo Company ,Healthcare,Drug Related Products
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+INSM,Insmed Inc. ,Healthcare,Biotechnology
+MSA,Mine Safety Appliances Company  ,Healthcare,Medical Appliances & Equipment
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+PGEM,Ply Gem Holdings Inc ,Industrial Goods,General Building Materials
+LYTS,LSI Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+ISRA,Market Vectors Israel ETF ,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+PDCO,Patterson Companies Inc. ,Services,Medical Equipment Wholesale
+GEO,Geo Group Inc (The) Common Stoc ,Services,Security & Protection Services
+BH,Biglari Holdings Inc. ,Services,Restaurants
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads
+DM,Dolan Company (The) Common Stoc ,Services,Publishing - Periodicals
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+CAH,Cardinal Health Inc. Common St ,Services,Drugs Wholesale
+CPLA,Capella Education Company ,Services,Education & Training Services
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+CYBR,CyberArk Software Ltd.,Technology,Business Software & Services
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+ULTI,The Ultimate Software Group In ,Technology,Internet Software & Services
+JCOM,j2 Global Inc. ,Technology,Internet Software & Services
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,

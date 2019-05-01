@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UTSL,Direxion Daily Utilities Bull 3,,
+MFCB,MFC Bancorp Ltd.,Basic Materials,Industrial Metals & Minerals
+CCK,Crown Holdings Inc. ,Consumer Goods,Packaging & Containers
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+NLR,Market Vectors-Nuclear Energy ETF,Global Equity ETF,
+FPRX,Five Prime Therapeutics Inc. ,Healthcare,Biotechnology
+FUTY,Fidelity MSCI Utilities Index ETF ,N/A,N/A
+PYS, Merrill Lynch Depositor Inc PPl ,N/A,N/A
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+ARRS,Arris Group Inc ,Technology,Communication Equipment
+SHEN,Shenandoah Telecommunications C ,Technology,Telecom Services - Domestic
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+PUI,PowerShares Dynamic Utilities ETF,US Equity ETF,
+NJR,NewJersey Resources Corporation ,Utilities,Gas Utilities
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+NFG,National Fuel Gas Company Commo ,Utilities,Gas Utilities
+UTL,UNITIL Corporation Common ,Utilities,Diversified Utilities
+NWN,Northwest Natural Gas Company C ,Utilities,Gas Utilities
+AEE,Ameren Corporation Common ,Utilities,Diversified Utilities

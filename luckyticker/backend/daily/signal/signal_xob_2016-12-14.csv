@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PCBC, Pacific Capital Bancorp ,Financial,Regional - Pacific Banks
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+CART,Carolina Trust Bank ,Financial,Regional - Mid-Atlantic Banks
+BKJ,Bancorp of New Jersey Inc Comm ,Financial,Savings & Loans
+TATT, TAT Technologies Ltd. ,Industrial Goods,Aerospace/Defense Products & Services
+GFN,General Finance Corporation ,Services,Rental & Leasing Services
+ERS,Empire Resources Inc. ,Services,Basic Materials Wholesale
+NSR,Neustar Inc. Neustar Inc. Cla ,Technology,Diversified Communication Services

@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DFIN,Donnelley Financial Solutions ,,
+DWT,VelocityShares 3x Inverse Crude,,
+OILD,ProShares UltraPro 3x Short Cru,,
+WTID,UBS ETRACS - ProShares Daily 3x,,
+CETXP,Cemtrex Inc. - Series 1 Preferr,,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+WNC,Wabash National Corporation Com ,Consumer Goods,Trucks & Other Vehicles
+BSMX, Grupo Financiero Santander Mexi ,Financial,Foreign Regional Banks
+TSBK, Timberland Bancorp  Inc. ,Financial,Savings & Loans
+CIB,BanColombia S.A. Common ,Financial,Foreign Regional Banks
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+OAK, Oaktree Capital Group  LLC Clas ,Financial,Asset Management
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+NVRO,Nevro Corp. Common,Healthcare,Medical Appliances & Equipment
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+SRCLP,Stericycle  Inc.,N/A,N/A
+JBN, Select Asset Inc. Select Asset  ,N/A,N/A
+SOXS, Direxion Daily Semiconductor Be ,N/A,N/A
+AIRG,Airgain  Inc.,N/A,N/A
+LOCO,El Pollo Loco Holdings Inc.,Services,Restaurants
+RAIL,Freightcar America Inc. ,Services,Railroads
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+CACI,CACI International Inc. Class  ,Services,Technical Services
+TWX,Time Warner Inc. New Common Sto ,Services,Entertainment - Diversified
+CATM,Cardtronics Inc. ,Services,Business Services
+MGI,Moneygram International Inc. N ,Services,Business Services
+CCRN,Cross Country Healthcare Inc. ,Services,Staffing & Outsourcing Services
+TSQ,Townsquare Media Inc. Class A ,Services,Broadcasting - Radio
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+CVG,Convergys Corporation Common St ,Technology,Business Software & Services
+TDS,Telephone and Data Systems Inc ,Technology,Wireless Communications
+TZOO,Travelzoo Inc. ,Technology,Internet Information Providers
+VZ,Verizon Communications Inc. Com ,Technology,Telecom Services - Domestic

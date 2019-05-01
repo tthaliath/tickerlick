@@ -1,0 +1,49 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKQ,ARK Industrial Innovation ETF ,,
+TRU,Torch Energy Royalty Trust Comm ,Basic Materials,Oil & Gas Equipment & Services
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+UPRO,ProShares UltraPro S&P500 ETF,Commodity Based ETF,
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+NECB,Northeast Community Bancorp Inc. ,Financial,Savings & Loans
+SOHO,Sotherly Hotels Inc. ,Financial,REIT - Hotel/Motel
+EFX,Equifax Inc. Common ,Financial,Credit Services
+FRBA,First Bank ,Financial,Regional - Mid-Atlantic Banks
+BOE, Blackrock Global Blackrock Glob ,Financial,Closed-End Fund - Foreign
+AMH,American Homes 4 Rent ,Financial,REIT - Residential
+ESXB,Community Bankers Trust Corporation ,Financial,Diversified Investments
+CBG,CBRE Group Inc Common ,Financial,Property Management
+INDY,iShares S&P India Nifty 50 Index Fund ETF,Global Equity ETF,
+BKF,iShares MSCI BRIC Index Fund ETF,Global Equity ETF,
+CHIX,Global X China Financials ETF,Global Equity ETF,
+AIQ,Alliance HealthCare Services I ,Healthcare,Medical Laboratories & Research
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+ZLTQ, ZELTIQ Aesthetics  Inc. ,Healthcare,Medical Appliances & Equipment
+CYNO,Cynosure Inc. ,Healthcare,Medical Appliances & Equipment
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+BWEN,Broadwind Energy Inc. ,Industrial Goods,Diversified Machinery
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+FSV,FirstService Corporation,N/A,N/A
+AKAO,Achaogen  Inc. ,N/A,N/A
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+QSR,Restaurant Brands International,N/A,N/A
+BGB, Blackstone / GSO Strategic Cred ,N/A,N/A
+TWN, Taiwan Fund  Inc. (The) Common  ,N/A,N/A
+TY, Tri Continental Corporation Com ,N/A,N/A
+SLMBP,SLM Corporation ,N/A,N/A
+SPXL, Direxion Daily S&P 500 Bull 3X  ,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+NSP, Insperity  Inc. Common ,Services,Business Services
+AYR,Aircastle Limited Common ,Services,Rental & Leasing Services
+EEFT,Euronet Worldwide Inc. ,Services,Business Services
+IDCC, InterDigital  Inc. ,Technology,Wireless Communications
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+CRCM,Care.com Inc. ,Technology,Internet Information Providers
+CTRL,Control4 Corporation ,Technology,Diversified Electronics
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,

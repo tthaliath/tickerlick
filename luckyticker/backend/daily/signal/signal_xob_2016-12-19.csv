@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MTEX,Mannatech Incorporated ,Consumer Goods,Personal Products
+SIFI,SI Financial Group Inc. ,Financial,Savings & Loans
+CNH,CNH Global N.V. Common ,Industrial Goods,Farm & Construction Machinery
+DGICA,Donegal Group Inc. ,NULL,NULL
+PIR,Pier 1 Imports Inc. Common Sto ,Services,Home Furnishing Stores
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services

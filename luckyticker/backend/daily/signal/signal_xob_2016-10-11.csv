@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+GTWN,Georgetown Bancorp Inc. ,Financial,Savings & Loans
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+IOT,Income Opportunity Realty Trust ,Financial,Real Estate Development
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+ICUI, ICU Medical  Inc. ,Healthcare,Medical Instruments & Supplies
+BPFHW,Boston Private Financial Holdings Inc. ,N/A,N/A
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+ARIS,ARI Network Services Inc. ,Technology,Application Software

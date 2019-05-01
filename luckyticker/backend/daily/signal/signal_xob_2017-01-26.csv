@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+COR,CoreSite Realty Corporation Com ,Financial,REIT - Office
+MTR,Mesa Royalty Trust Common ,Financial,Diversified Investments
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+DLR,Digital Realty Trust Inc. Comm ,Financial,REIT - Office
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+SCM,Stellus Capital Investment Corporation ,N/A,N/A
+LBRDA,Liberty Broadband Corporation,N/A,N/A
+NCLH,Norwegian Cruise Line Holdings Ltd. ,N/A,N/A
+CHTR,Charter Communications Inc. ,Services,CATV Systems
+URI,United Rentals Inc. Common Sto ,Services,Rental & Leasing Services
+LBRDK,Liberty Broadband Corporation,Services,Broadcasting - TV
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+TXN,Texas Instruments Incorporated ,Technology,Semiconductor - Broad Line
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+MLNX,Mellanox Technologies Ltd. ,Technology,Semiconductor - Broad Line
+RCI,Rogers Communication Inc. Comm ,Technology,Wireless Communications

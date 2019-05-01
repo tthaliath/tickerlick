@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RCM,R1 RCM Inc.,,
+SSBI,Summit State Bank ,Financial,Regional - Pacific Banks
+ECYT, Endocyte  Inc. ,Healthcare,Biotechnology
+XNCR,Xencor Inc. ,Healthcare,Biotechnology
+MESO,Mesoblast Limited,N/A,N/A
+BCTF,Bancorp 34  Inc.,N/A,N/A
+TLND,Talend SA,N/A,N/A
+DIN,DineEquity Inc Common ,Services,Restaurants
+COUP,Coupons.com Incorporated ,Technology,Internet Software & Services
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services

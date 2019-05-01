@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JPT,Nuveen Preferred and Income 202,,
+IFIX,Deutsche X-trackers Barclays In,,
+LCII,LCI Industries,,
+XIVH,UBS AG VelocityShares VIX Short,,
+NAIL,Direxion Daily Homebuilders & S,,
+CVX,Chevron Corporation Common Stoc ,Basic Materials,Major Integrated Oil & Gas
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+UMDD,ProShares UltraPro MidCap400 ETF,Commodity Based ETF,
+URTY,ProShares UltraPro Russell2000 ETF,Commodity Based ETF,
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+CLX,Clorox Company (The) Common Sto ,Consumer Goods,Housewares & Accessories
+DEO,Diageo plc Common ,Consumer Goods,Beverages - Wineries & Distillers
+ABR,Arbor Realty Trust Common ,Financial,REIT - Diversified
+EVO, Eaton Vance Ohio Municipal Inco ,Financial,Closed-End Fund - Debt
+MCY,Mercury General Corporation Com ,Financial,Property & Casualty Insurance
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+NWLI,National Western Life Insurance ,Financial,Life Insurance
+FNF,Fidelity National Financial In ,Financial,Surety & Title Insurance
+CMF,iShares S&P Cali Muni Bond ETF,Fixed Income ETF,
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CCF,Chase Corporation Common ,Industrial Goods,Industrial Equipment & Components
+VMI,Valmont Industries Inc. Common ,Industrial Goods,Metal Fabrication
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+IBP,Installed Building Products Inc. ,Industrial Goods,General Building Materials
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+EXD, Eaton Vance Tax-Advantaged Bond ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+VZA,Verizon Communications Inc. 5.9 ,N/A,N/A
+PI,Impinj  Inc.,N/A,N/A
+MHNC,Maiden Holdings North America   ,N/A,N/A
+TYD, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+POWI,Power Integrations Inc. ,Technology,Semiconductor - Integrated Circuits
+AAPL,Apple Inc. ,Technology,Personal Computers
+IJJ,iShares S&P MidCap 400 Value Index Fund ETF,US Equity ETF,
+MDY,SPDR S&P MidCap 400 ETF,US Equity ETF,

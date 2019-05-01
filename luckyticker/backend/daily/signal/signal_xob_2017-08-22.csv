@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+STS,Supreme Industries Inc. Common ,Consumer Goods,Trucks & Other Vehicles
+GTS, Triple-S Management Corporation ,Financial,Accident & Health Insurance
+FOIL,iPath Pure Beta Aluminum ETN ,N/A,N/A
+ITRN,Ituran Location and Control Ltd ,NULL,NULL
+BABA,Alibaba Group Holding Limited A,Services,Specialty Retail Other
+APPF,AppFolio  Inc.,Technology,Application Software
+NTL, Nortel Inversora SA  ADR Common ,Technology,Telecom Services - Foreign
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

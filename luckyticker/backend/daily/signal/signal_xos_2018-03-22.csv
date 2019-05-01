@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TELL,Tellurian Inc.,,
+REVG,REV Group  Inc.,,
+AMJL,Credit Suisse X-Links Monthly P,,
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+ENLK,EnLink Midstream Partners LP ,Basic Materials,Independent Oil & Gas
+UGP,Ultrapar Participacoes S.A. (Ne ,Basic Materials,Oil & Gas Refining & Marketing
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+SMG,Scotts Miracle-Gro Company (The ,Basic Materials,Agricultural Chemicals
+VLP,Valero Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+AFL,AFLAC Incorporated Common ,Financial,Accident & Health Insurance
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+TCRD,THL Credit Inc. ,Financial,Asset Management
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+BFK, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+EXP,Eagle Materials Inc Common Stoc ,Industrial Goods,Cement
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+MUE, Blackrock MuniHoldings Quality  ,N/A,N/A
+CTR, ClearBridge Energy MLP Total Re ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+YMLI,Yorkville High Income Infras MLP ETF ,N/A,N/A
+DCUD,Dominion Resources  Inc. 2016 S ,N/A,N/A
+DMF, Dreyfus Municipal Income  Inc.  ,N/A,N/A
+VGM, Invesco Van Kampen Trust for In ,N/A,N/A
+FEI,First Trust MLP and Energy Inco ,N/A,N/A
+ZMLP,Direxion Zacks MLP High Income Shares ,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+BFY, BlackRock New York Municipal In ,N/A,N/A
+DVHL,UBS E-TRACS Mthly Pay 2x Divs Hi Inc ETN ,N/A,N/A
+FPL,First Trust New Opportunities M ,N/A,N/A
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+MUC, Blackrock MuniHoldings Californ ,N/A,N/A
+JMLP,Nuveen All Cap Energy MLP Oppor ,N/A,N/A
+CVS,CVS Caremark Corporation Common ,Services,Drug Stores
+MGI,Moneygram International Inc. N ,Services,Business Services
+DM,Dolan Company (The) Common Stoc ,Services,Publishing - Periodicals
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+TRUE,TrueCar Inc.,Technology,Internet Service Providers
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities

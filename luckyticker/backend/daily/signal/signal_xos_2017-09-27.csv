@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+XRM,Xerium Technologies Inc. New C ,Consumer Goods,Paper & Paper Products
+DPS,Dr Pepper Snapple Group Inc Dr ,Consumer Goods,Beverages - Soft Drinks
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+SUI,Sun Communities Inc. Common St ,Financial,REIT - Residential
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+AIV,Apartment Investment and Manage ,Financial,REIT - Residential
+INDY,iShares S&P India Nifty 50 Index Fund ETF,Global Equity ETF,
+INDA,iShares MSCI India Index ETF,Global Equity ETF,
+EPI,WisdomTree India Earnings Fund ETF,Global Equity ETF,
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+INDL, Direxion Daily India Bull 3x Sh ,N/A,N/A
+HSIC, Henry Schein  Inc. ,Services,Medical Equipment Wholesale
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities
+HNP, Huaneng Power Intl Common ,Utilities,Electric Utilities
+PNW,Pinnacle West Capital Corporati ,Utilities,Electric Utilities

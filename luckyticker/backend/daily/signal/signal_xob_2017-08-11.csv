@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+STS,Supreme Industries Inc. Common ,Consumer Goods,Trucks & Other Vehicles
+GTS, Triple-S Management Corporation ,Financial,Accident & Health Insurance
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+LMT,Lockheed Martin Corporation Com ,Industrial Goods,Aerospace/Defense Products & Services
+RTN,Raytheon Company Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+BWXT,BWX Technologies  Inc.,Industrial Goods,Aerospace/Defense Products & Services
+CDI,CDI Corporation Common ,Services,Staffing & Outsourcing Services
+TDW,Tidewater Inc. Common ,Services,Shipping
+VNTV, Vantiv  Inc. Class A Common Sto ,Services,Business Services
+WTW,Weight Watchers International I ,Services,Personal Services
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+MED,MEDIFAST INC Common ,Services,Specialty Retail Other
+ATHM,Autohome Inc. ,Technology,Internet Information Providers
+PAR, PAR Technology Corporation Comm ,Technology,Application Software
+TCCO,Technical Communications Corpor ,Technology,Communication Equipment
+CHL,China Mobile Limited Common Sto ,Technology,Wireless Communications
+MRCY,Mercury Computer Systems ,Technology,Computer Peripherals
+LDR,Landauer Inc. Common ,Technology,Scientific & Technical Instruments
+VG,Vonage Holdings Corp. Common St ,Technology,Diversified Communication Services

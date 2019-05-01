@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+AFCB,Athens Bancshares Corporation ,Financial,Regional - Southeast Banks
+USBI,United Security Bancshares Inc ,Financial,Regional - Southeast Banks
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ARDM,Aradigm Corporation,Healthcare,Drug Delivery
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+TBRA,Tobira Therapeutics  Inc.,Healthcare,Biotechnology
+PRQR,ProQR Therapeutics N.V.,Healthcare,Biotechnology
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+GLPG,Galapagos NV ,N/A,N/A
+ISLE,Isle of Capri Casinos Inc. ,Services,Resorts & Casinos
+MMYT,MakeMyTrip Limited ,Services,General Entertainment
+CZR, Caesars Entertainment Corporati ,Services,Resorts & Casinos
+AHC,A.H. Belo Corporation Common St ,Services,Publishing - Newspapers
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices

@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NAIL,Direxion Daily Homebuilders & S,,
+ZBIO,ProShares UltraPro Short NASDAQ,,
+FLQS,Franklin LibertyQ U.S. Small Ca,,
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+ALSN, Allison Transmission Holdings   ,Consumer Goods,Auto Parts
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+BAC,Bank of America Corporation Com ,Financial,Regional - Mid-Atlantic Banks
+DXJ,WisdomTree Japan Total Dividend Fund ETF,Global Equity ETF,
+CR,Crane Company Common ,Industrial Goods,Diversified Machinery
+EMR,Emerson Electric Company Common ,Industrial Goods,Industrial Equipment & Components
+FLIR,FLIR Systems Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+TLRD,Tailored Brands  Inc.,N/A,N/A
+DVMT,Dell Technologies Inc.,N/A,N/A
+AGR,Avangrid  Inc.,N/A,N/A
+UHAL,Amerco ,Services,Rental & Leasing Services
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+OSTK,Overstock.com Inc. ,Services,Catalog & Mail Order Houses
+CSWI,CSW Industrials  Inc.,Technology,Application Software
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+TXN,Texas Instruments Incorporated ,Technology,Semiconductor - Broad Line
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+PTC,PTC Inc. ,Technology,Technical & System Software
+MSFT,Microsoft Corporation ,Technology,Application Software
+GRMN,Garmin Ltd. ,Technology,Scientific & Technical Instruments
+XNET,Xunlei Limited,Technology,Application Software
+INTU,Intuit Inc. ,Technology,Application Software
+RYT,Guggenheim S&P Equal Weight Technology ETF,US Equity ETF,
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,

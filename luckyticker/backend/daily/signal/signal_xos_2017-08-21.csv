@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+HES, Hess Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+GPRE,Green Plains Renewable Energy  ,Basic Materials,Specialty Chemicals
+MTX,Minerals Technologies Inc. Comm ,Basic Materials,Synthetics
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+TS,Tenaris S.A. American Depositar ,Basic Materials,Oil & Gas Equipment & Services
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+CAL,Caleres  Inc.,Consumer Goods,Textile - Apparel Footwear & Accessories
+SMP,Standard Motor Products Inc. C ,Consumer Goods,Auto Parts
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+JCAP,Jernigan Capital  Inc.,Financial,REIT - Industrial
+NGHC,National General Holdings Corp. ,Financial,Property & Casualty Insurance
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+DY,Dycom Industries Inc. Common S ,Industrial Goods,Heavy Construction
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+APOG,Apogee Enterprises Inc. ,Industrial Goods,General Building Materials
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+ACSF,American Capital Senior Floatin ,N/A,N/A
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+MNI,McClatchy Company (The) Common  ,Services,Publishing - Newspapers
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+FINL,The Finish Line Inc. ,Services,Specialty Retail Other
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+RGC,Regal Entertainment Group Class ,Services,Movie Production Theaters
+CDZI,Cadiz Inc. ,Services,Business Services
+GLP,Global Partners LP Global Partn ,Services,Basic Materials Wholesale
+NAP,Navios Maritime Midstream Partn,Services,Shipping
+MCS,Marcus Corporation (The) Common ,Services,Resorts & Casinos
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+VIPS, Vipshop Holdings Limited Americ ,Technology,Internet Service Providers

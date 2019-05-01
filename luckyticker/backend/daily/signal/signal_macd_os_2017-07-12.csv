@@ -1,0 +1,143 @@
+ticker,name,sector,industry
+WY,Weyerhaeuser Company Common Sto ,Financial,REIT - Industrial
+AWK,American Water Works Company I ,Utilities,Water Utilities
+CNP,CenterPoint Energy Inc (Holdin ,Utilities,Diversified Utilities
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+PNW,Pinnacle West Capital Corporati ,Utilities,Electric Utilities
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities
+XEL,Xcel Energy Inc. Common ,Utilities,Electric Utilities
+AEE,Ameren Corporation Common ,Utilities,Diversified Utilities
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities
+DUK,Duke Energy Corporation (Holdin ,Utilities,Electric Utilities
+MDLZ, Mondelez International  Inc. ,Consumer Goods,Confectioners
+WEC,Wisconsin Energy Corporation Co ,Utilities,Electric Utilities
+ED,Consolidated Edison Inc. Commo ,Utilities,Electric Utilities
+EXC,Exelon Corporation Common ,Utilities,Diversified Utilities
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+MKC,McCormick & Company Incorporat ,Consumer Goods,Processed & Packaged Goods
+CSCO,Cisco Systems Inc. ,Technology,Networking & Communication Devices
+INTU,Intuit Inc. ,Technology,Application Software
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+SJNK,SPDR BarCap ST High Yield Bond ETF,Fixed Income ETF,
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+VGR,Vector Group Ltd. Common ,Consumer Goods,Cigarettes
+VVC,Vectren Corporation Common Stoc ,Utilities,Diversified Utilities
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+RENN,Renren Inc. American Depositary ,Technology,Internet Information Providers
+ACWV,iShares MSCI All Country World Minimum Volatility Index Fund ETF,Global Equity ETF,
+AHH,N/A ,Financial,REIT - Diversified
+AOA, iShares S&P Aggressive Allocati ,N/A,N/A
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities
+CCA, MFS California Municipal Fund C ,N/A,N/A
+CXW,Corrections Corporation of Amer ,Services,Management Services
+DTF, DTF Tax-Free Income  Inc. Commo ,Financial,Closed-End Fund - Debt
+EARN,N/A ,Financial,REIT - Diversified
+EMCB,WisdomTree Emer Mkts Corporate Bond ETF,Fixed Income ETF,
+EWJ,iShares MSCI Japan Index Fund ETF,Global Equity ETF,
+FBND,Fidelity Total Bond ETF ,,
+FUTY,Fidelity MSCI Utilities Index ETF ,N/A,N/A
+GII,SPDR FTSE/Macquarie Global Infrastructure 100 ETF,Global Equity ETF,
+HEWG,iShares Currency Hedged MSCI Ge ,,
+IDU,iShares Dow Jones U.S. Utilities Index Fund ETF,US Equity ETF,
+IPE,SPDR Barclays Capital TIPS ETF,Fixed Income ETF,
+IXP,iShares S&P Global Telecommunications Index Fund ETF,Global Equity ETF,
+JXI,iShares S&P Global Utilities Sector Index Fund ETF,Global Equity ETF,
+LXP,Lexington Realty Trust Common S ,Financial,REIT - Diversified
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+MNOV,MediciNova Inc. ,Healthcare,Biotechnology
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+RPXC, RPX Corporation ,Services,Business Services
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+VIPS, Vipshop Holdings Limited Americ ,Technology,Internet Service Providers
+WBII,WBI Tactical Income Shares ,,
+CKX,CKX Lands Inc. Common ,Basic Materials,Independent Oil & Gas
+WIT,Wipro Limited Common ,Technology,Information Technology Services
+AI,Arlington Asset Investment Corp ,Financial,Investment Brokerage - Regional
+AOR, iShares S&P Growth Allocation ,N/A,N/A
+BH,Biglari Holdings Inc. ,Services,Restaurants
+BOND,PIMCO Total Return Exchange-Traded Fund,Fixed Income ETF,
+CHA,China Telecom Corp Ltd ADS ,Technology,Telecom Services - Foreign
+EBND,SPDR Barclays Capital Emerging Markets Local Bond ETF,Fixed Income ETF,
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+EWM,iShares MSCI Malaysia Index Fund ETF,Global Equity ETF,
+FCOR,Fidelity Corporate Bond ETF ,,
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+GNL,Global Net Lease  Inc.,N/A,N/A
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+JE, Just Energy Group  Inc. Ordinar ,Utilities,Diversified Utilities
+KEMP,KraneShares FTSE Emerging Marke,,
+MANH,Manhattan Associates Inc. ,Technology,Application Software
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+NJR,NewJersey Resources Corporation ,Utilities,Gas Utilities
+NYMT,New York Mortgage Trust Inc. ,Financial,REIT - Residential
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+RYN,Rayonier Inc. REIT Common ,Conglomerates,Conglomerates
+RYU,Guggenheim S&P Equal Weight Utilities ETF,US Equity ETF,
+SCJ,iShares MSCI Japan Sm Cap ETF,Global Equity ETF,
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+TIPX,SPDR Barclays 1-10 Year TIPS ETF ,N/A,N/A
+VBND,Vident Core U.S. Bond Fund ,,
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+EAT,Brinker International Inc. Com ,Services,Restaurants
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+AIB,Apollo Investment Corporation 6 ,N/A,N/A
+ARR, ARMOUR Residential REIT  Inc. ,N/A,N/A
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+BSJH,Guggenheim BulletShares 2017 HY C Bd ETF,Fixed Income ETF,
+CLFD,Clearfield Inc. ,Technology,Communication Equipment
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+DIN,DineEquity Inc Common ,Services,Restaurants
+DXPS,WisdomTree United Kingdom Hedged Equity ,N/A,N/A
+EOI, Eaton Vance Enhance Equity Inco ,Financial,Closed-End Fund - Equity
+FPI,Farmland Partners Inc. ,Financial,Real Estate Development
+GAF,SPDR S&P Emerging Middle East & Africa ETF,Global Equity ETF,
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+JJP, iPath DJ-UBS Precious Metals Su ,N/A,N/A
+MBG,SPDR Barclays Capital Mortgage Backed Bond ETF,Fixed Income ETF,
+NBB, Nuveen Build America Bond Fund  ,N/A,N/A
+NMT, Nuveen Massachusetts Premium In ,N/A,N/A
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,
+SABR,Sabre Corporation ,Technology,Information Technology Services
+SHAK,Shake Shack Inc. Class A Commo,Services,Specialty Eateries
+TAYD,Taylor Devices Inc. ,Industrial Goods,Diversified Machinery
+TOUR,Tuniu Corporation,Consumer Goods,Recreational Goods Other
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+VPU,Vanguard Utilities ETF - DNQ ETF,US Equity ETF,
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Fixed Income ETF,
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+ELON,Echelon Corporation ,Technology,Networking & Communication Devices
+AGRO, Adecoagro S.A. Common Shares ,Consumer Goods,Farm Products
+ALTS,ProShares Morningstar Alternati ,,
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+CMBS,iShares Barclays CMBS Bond ETF,Fixed Income ETF,
+DRW,WisdomTree Global ex-U.S. Real Estate Fund ETF,Global Equity ETF,
+E,ENI S.p.A. Common ,Basic Materials,Major Integrated Oil & Gas
+ELD,WisdomTree Emerging Markets Local Debt Fund ETF,Fixed Income ETF,
+EUO,ProShares UltraShort Euro ETF,Commodity Based ETF,
+EZA,iShares MSCI South Africa Index Fund ETF,Global Equity ETF,
+FT, Franklin Universal Trust Common ,N/A,N/A
+GBF,iShares Barclays Government/Credit Bond Fund ETF,Fixed Income ETF,
+HE, Hawaiian Electric Industries  I ,Utilities,Electric Utilities
+HRTX,Heron Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+IUSB,iShares Core Total USD Bond Mar ,,
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+MBSD,FlexShares Disciplined Duration ,,
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+NBD, Nuveen Build America Bond Oppor ,N/A,N/A
+NRO, Neuberger Berman Real Estate Se ,N/A,N/A
+PBJ,PowerShares Dynamic Food & Beverage ETF,US Equity ETF,
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Fixed Income ETF,

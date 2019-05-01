@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+SMK,ProShares UltraShort MSCI Mexico Investable Market ETF,Commodity Based ETF,
+YXI,ProShares Short FTSE China 25 ETF,Commodity Based ETF,
+EEV,ProShares UltraShort MSCI Emerging Markets ETF,Commodity Based ETF,
+FXP,ProShares UltraShort FTSE China 25 ETF,Commodity Based ETF,
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+EUM,ProShares Short MSCI Emerging Markets ETF,Commodity Based ETF,
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+CVR,Chicago Rivet & Machine Co. Com ,Industrial Goods,Machine Tools & Accessories
+YANG, Direxion Daily China Bear 3x Sh ,N/A,N/A
+EDZ, Direxion Emerging Markets Bear  ,N/A,N/A
+KEF, Korea Equity Fund  Inc. Common  ,N/A,N/A
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+BGFV,Big 5 Sporting Goods Corporatio ,Services,Sporting Goods Stores
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+WR,Westar Energy Inc. Common Stoc ,Utilities,Diversified Utilities

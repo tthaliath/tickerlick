@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IBMI,iShares iBonds Sep 2020 AMT-Fre ,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+FGP,Ferrellgas Partners L.P. Commo ,Basic Materials,Oil & Gas Refining & Marketing
+OKS,ONEOK Partners L.P. Common Sto ,Basic Materials,Oil & Gas Pipelines
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+POST, Post Holdings  Inc. Common Stoc ,Consumer Goods,Food - Major Diversified
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+IBA, Industrias Bachoco  S.A.B. de C ,Consumer Goods,Meat Products
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+ALCO,Alico Inc. ,Consumer Goods,Farm Products
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+FBHS, Fortune Brands Home & Security  ,Consumer Goods,Home Furnishings & Fixtures
+CLDT,Chatham Lodging Trust (REIT) Co ,Financial,REIT - Hotel/Motel
+OPY,Oppenheimer Holdings Inc. Clas ,Financial,Investment Brokerage - Regional
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+BHK, Blackrock Core Bond Trust Black ,Financial,Closed-End Fund - Debt
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+CMF,iShares S&P Cali Muni Bond ETF,Fixed Income ETF,
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+LXU,LSB Industries Inc. Common Sto ,Industrial Goods,General Building Materials
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+SMMT,Summit Therapeutics plc,N/A,N/A
+JGBT,PowerShares DB 3x Japan Gov Bond ETN ,N/A,N/A
+APEI,American Public Education Inc. ,Services,Business Services
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+CORE,Core-Mark Holding Company Inc. ,Services,Grocery Stores
+QVCA,Liberty Interactive Corporation,Services,Catalog & Mail Order Houses
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+PAC,Grupo Aeroportuario Del Pacific ,Services,Air Services Other
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale
+SCTY,SolarCity Corporation ,Technology,Semiconductor - Specialized
+MGIC,Magic Software Enterprises Ltd. ,Technology,Application Software
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments
+EVX,Market Vectors Environment Index ETF Fund ETF,US Equity ETF,

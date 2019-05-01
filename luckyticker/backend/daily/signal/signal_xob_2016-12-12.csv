@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SXCL,Steel Excel Inc.,Basic Materials,Oil & Gas Equipment & Services
+DKL,Delek Logistics Partners LP ,Basic Materials,Independent Oil & Gas
+PACD, Pacific Drilling S.A. Common Sh ,Basic Materials,Oil & Gas Drilling & Exploration
+BTE,Baytex Energy Corp ,Basic Materials,Independent Oil & Gas
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+RDN,Radian Group Inc. Common ,Financial,Property & Casualty Insurance
+OVBC,Ohio Valley Banc Corp. ,Financial,Regional - Midwest Banks
+RSXJ,Market Vectors Russia Small-Cap ETF,Global Equity ETF,
+GUR,SPDR S&P Emerging Europe ETF,Global Equity ETF,
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+TSQ,Townsquare Media Inc. Class A ,Services,Broadcasting - Radio
+ERS,Empire Resources Inc. ,Services,Basic Materials Wholesale
+RICK,Rick's Cabaret International I ,Services,Restaurants
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+INVN, InvenSense  Inc. Common ,Technology,Semiconductor - Integrated Circuits
+DGAS,Delta Natural Gas Company Inc. ,Utilities,Gas Utilities

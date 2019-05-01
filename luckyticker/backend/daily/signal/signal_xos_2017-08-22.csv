@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+TOUR,Tuniu Corporation,Consumer Goods,Recreational Goods Other
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+DBD,Diebold Incorporated Common St ,Consumer Goods,Business Equipment
+STC,Stewart Information Services Co ,Financial,Property & Casualty Insurance
+GLAD,Gladstone Capital Corporation ,Financial,Asset Management
+NATR,Nature's Sunshine Products Inc ,Healthcare,Drug Related Products
+XRAY,DENTSPLY International Inc. ,Healthcare,Medical Instruments & Supplies
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+SIF,SIFCO Industries Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+MCRN,Milacron Holdings Corp.,Industrial Goods,Diversified Machinery
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+CPTA,Capitala Finance Corp. ,N/A,N/A
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+DISCK,Discovery Communications Inc ,NULL,NULL
+UAL,United Continental Holdings ,Services,Major Airlines
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+SKYW,SkyWest Inc. ,Services,Regional Airlines
+MCS,Marcus Corporation (The) Common ,Services,Resorts & Casinos
+NAP,Navios Maritime Midstream Partn,Services,Shipping
+ASGN,On Assignment Inc. ,Services,Staffing & Outsourcing Services
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+FL,Footlocker Inc. ,Services,Apparel Stores
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+CAH,Cardinal Health Inc. Common St ,Services,Drugs Wholesale
+PDCO,Patterson Companies Inc. ,Services,Medical Equipment Wholesale
+FINL,The Finish Line Inc. ,Services,Specialty Retail Other
+CLRO,ClearOne Communications Inc. ,Technology,Communication Equipment
+PLT,Plantronics Inc. Common ,Technology,Processing Systems & Products
+SABR,Sabre Corporation ,Technology,Information Technology Services
+INFN,Infinera Corporation ,Technology,Communication Equipment
+KN,Knowles Corporation ,Technology,Communication Equipment
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services

@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+NFX,Newfield Exploration Company Co ,Basic Materials,Independent Oil & Gas
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+CRZO,Carrizo Oil & Gas Inc. ,Basic Materials,Independent Oil & Gas
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+TEP,Tallgrass Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+CCLP,CSI Compressco LP,Basic Materials,Oil & Gas Equipment & Services
+PDCE,Pioneer Drilling Company Common ,Basic Materials,Oil & Gas Drilling & Exploration
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+WPX, WPX Energy  Inc. Common ,Basic Materials,Independent Oil & Gas
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+EPZM,Epizyme Inc. ,Healthcare,Biotechnology
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+MHNB, Maiden Holdings North America   ,N/A,N/A
+HBK, Hamilton Bancorp  Inc. ,N/A,N/A
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+HABT,The Habit Restaurants Inc.,Services,Restaurants
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+TESS,TESSCO Technologies Incorporate ,Services,Electronics Wholesale
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+USDP,USD Partners LP Common Units re,Services,Railroads
+PXI,PowerShares Dynamic Energy ETF,US Equity ETF,

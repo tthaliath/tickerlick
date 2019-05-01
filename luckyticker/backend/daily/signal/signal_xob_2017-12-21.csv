@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PSDO,Presidio  Inc.,,
+SVRA,Savara  Inc.,,
+OIS,Oil States International Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+COP,ConocoPhillips Common ,Basic Materials,Major Integrated Oil & Gas
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+VOYA,ING U.S. Inc. ,Financial,Asset Management
+UBFO, United Security Bancshares ,Financial,Regional - Pacific Banks
+DGRW,WisdomTree US Dividend Growth ,N/A,N/A
+USAT,USA Technologies Inc. ,Services,Business Services
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services
+MANH,Manhattan Associates Inc. ,Technology,Application Software
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments

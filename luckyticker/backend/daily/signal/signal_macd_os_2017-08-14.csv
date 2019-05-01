@@ -1,0 +1,164 @@
+ticker,name,sector,industry
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+RHI,Robert Half International Inc.  ,Services,Staffing & Outsourcing Services
+F,Ford Motor Company Common ,Consumer Goods,Auto Manufacturers - Major
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+LUV,Southwest Airlines Company Comm ,Services,Regional Airlines
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+PNR,Pentair Inc. Common ,Industrial Goods,Industrial Equipment & Components
+KLAC,KLA-Tencor Corporation ,Technology,Semiconductor Equipment & Materials
+AMAT,Applied Materials Inc. ,Technology,Semiconductor Equipment & Materials
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+UAL,United Continental Holdings ,Services,Major Airlines
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+DAL,Delta Air Lines Inc. (New) Comm ,Services,Major Airlines
+CL,Colgate-Palmolive Company Commo ,Consumer Goods,Personal Products
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+IPG,Interpublic Group of Companies ,Services,Advertising Agencies
+GLW,Corning Incorporated Common Sto ,Technology,Diversified Electronics
+SHW,Sherwin-Williams Company (The)  ,Industrial Goods,General Building Materials
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+STX,Seagate Technology. ,Technology,Data Storage Devices
+FFIV,F5 Networks Inc. ,Technology,Application Software
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+PX,Praxair Inc. Common ,Basic Materials,Synthetics
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+WDC,Western Digital Corporation ,Technology,Data Storage Devices
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+BSX,Boston Scientific Corporation C ,Healthcare,Medical Appliances & Equipment
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+TISI,Team Inc. Common ,Services,Business Services
+CASH,Meta Financial Group Inc. ,Financial,Savings & Loans
+TTPH,Tetraphase Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+ASGN,On Assignment Inc. ,Services,Staffing & Outsourcing Services
+FSB,Franklin Financial Network,Financial,Money Center Banks
+KWR,Quaker Chemical Corporation Com ,Basic Materials,Specialty Chemicals
+TESS,TESSCO Technologies Incorporate ,Services,Electronics Wholesale
+USAK,USA Truck Inc. ,Services,Trucking
+MTGEP,American Capital Mortgage Inves,N/A,N/A
+GMED, Globus Medical  Inc. Class A Co ,Healthcare,Medical Appliances & Equipment
+ERIC,Ericsson ,NULL,NULL
+NP,Neenah Paper Inc. Common ,Consumer Goods,Paper & Paper Products
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+FMNB, Farmers National Banc Corp. ,Financial,Regional - Midwest Banks
+PSCH,PowerShares S&P SmallCap Health Care Portfolio ETF,US Equity ETF,
+AGII,Argo Group International Holdin ,Financial,Property & Casualty Insurance
+BRC,Brady Corporation Common ,Services,Technical Services
+ATR,AptarGroup Inc. Common ,Consumer Goods,Packaging & Containers
+ANFI, Amira Nature Foods Ltd Ordinary ,N/A,N/A
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+GPRK,GeoPark Limited ,N/A,N/A
+CP,Canadian Pacific Railway Limite ,Services,Railroads
+USG,USG Corporation Common ,Industrial Goods,General Building Materials
+TVE, Tennessee Valley Authority ,N/A,N/A
+AOS,A.O. Smith Corporation Common S ,Industrial Goods,Industrial Electrical Equipment
+HEWG,iShares Currency Hedged MSCI Ge ,,
+MRVL,Marvell Technology Group Ltd. ,Technology,Semiconductor - Integrated Circuits
+EIO, Eaton Vance Ohio Municipal Bond ,Financial,Closed-End Fund - Debt
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems
+ROCK,Gibraltar Industries Inc. ,Basic Materials,Steel & Iron
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+THRM, Gentherm Inc ,Consumer Goods,Auto Parts
+PLT,Plantronics Inc. Common ,Technology,Processing Systems & Products
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+TUP,Tupperware Brands Corporation C ,Consumer Goods,Packaging & Containers
+SCL,Stepan Company Common ,Consumer Goods,Cleaning Products
+BMS,Bemis Company Inc. Common Stoc ,Consumer Goods,Packaging & Containers
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+MBCN,Middlefield Banc Corp.,N/A,N/A
+MERC,Mercer International Inc. ,Consumer Goods,Paper & Paper Products
+NWFL,Norwood Financial Corp. ,Financial,Regional - Northeast Banks
+CFNB,California First National Banco ,Financial,Regional - Pacific Banks
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+BRKR,Bruker Corporation ,Technology,Scientific & Technical Instruments
+FTNT,Fortinet Inc. ,Technology,Application Software
+REZ,iShares FTSE NAREIT Residential Index Fund ETF,US Equity ETF,
+FPI,Farmland Partners Inc. ,Financial,Real Estate Development
+LMNR,Limoneira Co ,Consumer Goods,Farm Products
+IHI,iShares Dow Jones U.S. Medical Devices Index Fund ETF,US Equity ETF,
+SBBX,Sussex Bancorp ,Financial,Regional - Northeast Banks
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+DAIO,Data I/O Corporation ,Technology,Diversified Electronics
+FMS,Fresenius Medical Care AG Commo ,NULL,NULL
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+BFO, Blackrock Florida Municipal 202 ,Financial,Closed-End Fund - Debt
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+NANO,Nanometrics Incorporated ,Technology,Scientific & Technical Instruments
+WINA,Winmark Corporation ,Services,Specialty Retail Other
+HSII, Heidrick & Struggles Internatio ,Services,Staffing & Outsourcing Services
+WDFC,WD-40 Company ,Basic Materials,Specialty Chemicals
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+PRK,Park National Corporation Commo ,Financial,Regional - Midwest Banks
+BANF,BancFirst Corporation ,Financial,Regional - Southwest  Banks
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+WAGE, WageWorks  Inc. Common ,Services,Management Services
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+PDFS,PDF Solutions Inc. ,Technology,Technical & System Software
+FELE,Franklin Electric Co. Inc. ,Industrial Goods,Industrial Electrical Equipment
+POWI,Power Integrations Inc. ,Technology,Semiconductor - Integrated Circuits
+ACIW,ACI Worldwide Inc. ,Technology,Technical & System Software
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+UMBF,UMB Financial Corporation ,Financial,Regional - Southwest  Banks
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+EIGI,Endurance International Group Holdings Inc. ,Technology,Application Software
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+AUPH,Aurinia Pharmaceuticals Inc,N/A,N/A
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+ARGT,Global X FTSE Argentina 20 ETF,Global Equity ETF,
+CR,Crane Company Common ,Industrial Goods,Diversified Machinery
+PLAY,Dave &amp; Busters EntertainmentInc ,N/A,N/A
+SXT,Sensient Technologies Corporati ,Basic Materials,Specialty Chemicals
+CQP,Cheniere Energy Partners LP Ch ,Basic Materials,Oil & Gas Pipelines
+WSFSL, WSFS Financial Corporation ,N/A,N/A
+APOG,Apogee Enterprises Inc. ,Industrial Goods,General Building Materials
+LANC,Lancaster Colony Corporation ,Consumer Goods,Food - Major Diversified
+SSWN,Seaspan Corporation 6.375% Note ,N/A,N/A
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+BBW,Build-A-Bear Workshop Inc. Com ,Services,Toy & Hobby Stores
+IDCC, InterDigital  Inc. ,Technology,Wireless Communications
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+XRM,Xerium Technologies Inc. New C ,Consumer Goods,Paper & Paper Products
+REIS,Reis Inc ,Services,Business Services
+IVAC,Intevac Inc. ,Technology,Diversified Electronics
+BLX,Banco Latinoamericano de Comerc ,Financial,Foreign Money Center Banks
+SCHL,Scholastic Corporation ,Services,Publishing - Books
+ASTE,Astec Industries Inc. ,Industrial Goods,Farm & Construction Machinery
+HNI, HNI Corp Common ,Consumer Goods,Business Equipment
+FNLC,First Bancorp Inc (ME) ,Financial,Regional - Northeast Banks
+KRC,Kilroy Realty Corporation Commo ,Financial,REIT - Office
+DSPG,DSP Group Inc. ,Technology,Communication Equipment
+BOCH,Bank of Commerce Holdings (CA) ,Financial,Regional - Pacific Banks
+SYBT,S.Y. Bancorp Inc. ,Financial,Regional - Southeast Banks
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+SPSC,SPS Commerce Inc. ,Services,Business Services
+KIN,Kindred Biosciences Inc. ,Healthcare,Biotechnology
+ABDC,Alcentra Capital Corp.,N/A,N/A
+VLRS,Controladora Vuela Compa ,Services,Major Airlines
+RUTH,Ruth's Hospitality Group Inc. ,Services,Restaurants
+TILE,Interface Inc. ,Industrial Goods,Textile Industrial
+HDS,HD Supply Holdings Inc. ,Services,Industrial Equipment Wholesale
+POL,PolyOne Corporation Common Stoc ,Basic Materials,Specialty Chemicals
+RESI,Altisource Residential Corporation ,Financial,REIT - Residential
+AXL,American Axle & Manufacturing H ,Consumer Goods,Auto Parts
+PBHC,Pathfinder Bancorp Inc. ,Financial,Savings & Loans
+OFED,Oconee Federal Financial Corp.,Financial,Savings & Loans
+MZOR,Mazor Robotics Ltd. ,N/A,N/A
+AGRO, Adecoagro S.A. Common Shares ,Consumer Goods,Farm Products
+VZA,Verizon Communications Inc. 5.9 ,N/A,N/A

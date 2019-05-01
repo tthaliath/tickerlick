@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMDD,ProShares UltraPro Short MidCap400 ETF,Commodity Based ETF,
+SIJ,ProShares UltraShort Industrials ETF,Commodity Based ETF,
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+MYY,ProShares Short MidCap400 ETF,Commodity Based ETF,
+QIWI,Qiwi plc ,Financial,Credit Services
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+ADES,ADA-ES Inc. ,Industrial Goods,Pollution & Treatment Controls
+MIDZ, Direxion Mid Cap Bear 3X Shares ,N/A,N/A
+MOMO,Momo Inc.,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+PHI,Philippine Long Distance Teleph ,Technology,Telecom Services - Foreign
+OSIS,OSI Systems Inc. ,Technology,Semiconductor Equipment & Materials

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VAL,Valspar Corporation (The) Commo ,Basic Materials,Specialty Chemicals
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+PLD,ProLogis Inc. Common ,Financial,REIT - Industrial
+EGP,EastGroup Properties Inc. Comm ,Financial,REIT - Industrial
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+TRNO,Terreno Realty Corporation Comm ,Financial,REIT - Industrial
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+VRTX,Vertex Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+AIQ,Alliance HealthCare Services I ,Healthcare,Medical Laboratories & Research
+IFN, India Fund  Inc. (The) Common S ,N/A,N/A
+WFM, Whole Foods Market  Inc. ,Services,Grocery Stores
+JOBS,51job Inc. ,Services,Staffing & Outsourcing Services
+DSX,Diana Shipping inc. common stoc ,Services,Shipping
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services

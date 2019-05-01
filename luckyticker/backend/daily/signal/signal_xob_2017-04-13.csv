@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RIC,Richmont Mines Inc. Common Sto ,Basic Materials,Gold
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+VBFC,Village Bank and Trust Financia ,Financial,Regional - Mid-Atlantic Banks
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+AXON,Axovant Sciences Ltd.,Healthcare,Biotechnology
+AIQ,Alliance HealthCare Services I ,Healthcare,Medical Laboratories & Research
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+FEO, First Trust/Aberdeen Emerging O ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+SCOR,comScore Inc. ,Services,Business Services
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+OOMA,Ooma  Inc.,Technology,Diversified Communication Services

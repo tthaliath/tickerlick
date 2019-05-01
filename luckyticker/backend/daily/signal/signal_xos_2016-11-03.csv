@@ -1,0 +1,89 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HIPS,Master Income ETF,,
+VNOM,Viper Energy Partners LP,Basic Materials,Independent Oil & Gas
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+OMN,OMNOVA Solutions Inc. Common St ,Basic Materials,Specialty Chemicals
+LNG,Cheniere Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+JAKK,JAKKS Pacific Inc. ,Consumer Goods,Toys & Games
+WBC,Wabco Holdings Inc. Common Stoc ,Consumer Goods,Auto Parts
+XRM,Xerium Technologies Inc. New C ,Consumer Goods,Paper & Paper Products
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+RLGY, Realogy Holdings Corp. Common S ,Financial,Property Management
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+ALLY,Ally Financial Inc. ,Financial,Mortgage Investment
+GZT, Gazit-Globe Ltd. Ordinary Share ,Financial,Real Estate Development
+CSAL,Communications Sales & Leasing  Inc.,Financial,REIT - Industrial
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+GOV,Government Properties Income Tr ,Financial,REIT - Office
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+FNBC,First NBC Bank Holding Company,Financial,Foreign Regional Banks
+RLI,RLI Corp. Common ,Financial,Property & Casualty Insurance
+FDUS, Fidus Investment Corporation ,Financial,Asset Management
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail
+IXJ,iShares S&P Global Healthcare Index Fund ETF,Global Equity ETF,
+FAUS,First Trust Australia AlphaDEX ETF,Global Equity ETF,
+EXAC,Exactech Inc. ,Healthcare,Medical Appliances & Equipment
+SNN,Smith & Nephew SNATS Inc. Comm ,Healthcare,Medical Appliances & Equipment
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+CEMP, Cempra  Inc. ,Healthcare,Biotechnology
+LFVN, Lifevantage Corporation ,Healthcare,Drug Related Products
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+QDEL,Quidel Corporation ,Healthcare,Diagnostic Substances
+ADPT,Adeptus Health Inc. Common Stoc,Healthcare,Hospitals
+ICPT, Intercept Pharmaceuticals  Inc. ,Healthcare,Drug Manufacturers - Major
+HWAY, Healthways  Inc. ,Healthcare,Specialized Health Services
+PODD,Insulet Corporation ,Healthcare,Medical Instruments & Supplies
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+DPLO,Diplomat Pharmacy Inc. Common,Healthcare,Drugs - Generic
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+JAZZ, Jazz Pharmaceuticals plc ,Healthcare,Biotechnology
+XENT,Intersect ENT Inc.,Healthcare,Medical Appliances & Equipment
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+MHK,Mohawk Industries Inc. Common  ,Industrial Goods,Textile Industrial
+NBO, Neuberger Berman New York Inter ,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+TGR, iShares S&P Target Date Retirem ,N/A,N/A
+TRIL,,N/A,N/A
+HYLS,First Trust High Yield Long/Short ETF ,N/A,N/A
+DNI, Dividend and Income Fund Common ,N/A,N/A
+MLPC,C-Tracks Bsd on Perf of M/H MLP Fdmt ETN ,N/A,N/A
+VZA,Verizon Communications Inc. 5.9 ,N/A,N/A
+AFGE,American Financial Group Inc.,N/A,N/A
+IRT,Independence Realty Trust  Inc. ,N/A,N/A
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+MGR, Affiliated Managers Group  Inc. ,N/A,N/A
+DGICA,Donegal Group Inc. ,NULL,NULL
+PHIIK,PHI Inc. ,NULL,NULL
+WCC,WESCO International Inc. Commo ,Services,Industrial Equipment Wholesale
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+DTV,DIRECTV ,Services,CATV Systems
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+ASC,Ardmore Shipping Corporation ,Services,Shipping
+HMHC,HMH Holdings (Delaware) Inc. ,Services,Education & Training Services
+PMC,Pharmerica Corporation Common S ,Services,Drug Stores
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+CMRE,Costamare Inc. Common ,Services,Shipping
+RDI,Reading International Inc ,Services,Movie Production Theaters
+W,Wayfair Inc. Class A Common Sto,Services,Catalog & Mail Order Houses
+SCI,Service Corporation Internation ,Services,Personal Services
+VDSI,VASCO Data Security Internation ,Technology,Security Software & Services
+INFN,Infinera Corporation ,Technology,Communication Equipment
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+GOGO,Gogo Inc. ,Technology,Diversified Communication Services
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+BSFT,BroadSoft Inc. ,Technology,Application Software
+IMOS,ChipMOS TECHNOLOGIES (Bermuda)  ,Technology,Semiconductor Equipment & Materials
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+RTH,Market Vectors Retail ETF,US Equity ETF,
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities

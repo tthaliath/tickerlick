@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FMCI,Forum Merger Corporation,,
+DEZU,iShares Adaptive Currency Hedge,,
+SBBC,Scorpio Tankers Inc. 8.25 Seni,,
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+CONE,Cyrusone Inc. ,Financial,REIT - Diversified
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+AMRK,A-Mark Precious Metals Inc. ,Financial,Investment Brokerage - National
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+VBF, Invesco Van Kampen Bond Fund Co ,N/A,N/A
+RFTA,RAIT Financial Trust 7.125% Sen,N/A,N/A
+NRCIA,National Research Corp. ,N/A,N/A
+CLCT,Collectors Universe Inc. ,Services,Business Services
+NRCIB,National Research Corp. ,Services,Research Services
+EQIX,Equinix Inc. ,Technology,Telecom Services - Domestic

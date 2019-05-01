@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKW,ARK Web x.0 ETF,,
+IIPR,Innovative Industrial Propertie,,
+FLQL,Franklin LibertyQ U.S. Equity E,,
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+BCH,Banco De Chile Banco De Chile A ,Financial,Foreign Regional Banks
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BETR,Amplify Snack Brands,N/A,N/A
+GLOG, GasLog Ltd. Common Shares ,Services,Shipping
+MELI,MercadoLibre Inc. ,Services,Business Services
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+NTGR,NETGEAR Inc. ,Technology,Communication Equipment
+GTT,GTT Communications Inc. ,Technology,Diversified Communication Services
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments

@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HNI, HNI Corp Common ,Consumer Goods,Business Equipment
+FNBC,First NBC Bank Holding Company,Financial,Foreign Regional Banks
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+TARO, Taro Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+AGTC,Applied Genetic Technologies Corporation ,Healthcare,Biotechnology
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+NDLS,Noodles & Company ,Services,Restaurants
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+MCK,McKesson Corporation Common Sto ,Services,Drugs Wholesale
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+BBW,Build-A-Bear Workshop Inc. Com ,Services,Toy & Hobby Stores
+PSO,Pearson Plc Common ,Services,Publishing - Books
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+RYF,Guggenheim S&P Equal Weight Financial ETF,US Equity ETF,
+XLF,SPDR Financial Select Sector Fund ETF,US Equity ETF,

@@ -1,0 +1,106 @@
+Buy,APC,Anadarko Petroleum Corporation  ,12.5543
+Buy,AVY,Avery Dennison Corporation Comm ,9.52346
+Buy,AYI,Acuity Brands Inc (Holding Comp ,2.54393
+Buy,AZO,AutoZone Inc. Common ,5.52079
+Buy,CHTR,Charter Communications Inc. ,14.8144
+Buy,CL,Colgate-Palmolive Company Commo ,19.6307
+Buy,CLX,Clorox Company (The) Common Sto ,3.0303
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,16.5126
+Buy,COG,Cabot Oil & Gas Corporation Com ,12.5354
+Buy,DVN,Devon Energy Corporation Common ,10.8081
+Buy,EBAY,eBay Inc. ,16.7944
+Buy,ED,Consolidated Edison Inc. Commo ,17.4377
+Buy,EL,Estee Lauder Companies Inc. (T ,13.4255
+Buy,EOG,EOG Resources Inc. Common Stoc ,15.2391
+Buy,EQT,EQT Corporation Common ,6.14641
+Buy,FAST,Fastenal Company ,13.4971
+Buy,FFIV,F5 Networks Inc. ,12.7909
+Buy,FLIR,FLIR Systems Inc. ,11.3589
+Buy,GIS,General Mills Inc. Common Stoc ,16.0342
+Buy,GRMN,Garmin Ltd. ,7.80647
+Buy,INTC,Intel Corporation ,12.4203
+Buy,IPG,Interpublic Group of Companies ,16.7989
+Buy,IRM,Iron Mountain Incorporated (Del ,19.445
+Buy,NWL,Newell Rubbermaid Inc. Common S ,8.89092
+Buy,NWSA,News Corporation ,16.6673
+Buy,ORLY,O'Reilly Automotive Inc. ,14.1334
+Buy,PAYX,Paychex Inc. ,11.3757
+Buy,PCG,Pacific Gas & Electric Co. Comm ,19.3137
+Buy,PDCO,Patterson Companies Inc. ,10.4454
+Buy,PEP,Pepsico Inc. Common ,7.37025
+Buy,PG,Procter & Gamble Company (The)  ,12.7384
+Buy,PXD,Pioneer Natural Resources Compa ,6.0849
+Buy,RHT,Red Hat Inc. Common ,15.7913
+Buy,RIG,Transocean Ltd (Switzerland) Co ,17.4996
+Buy,RL,Ralph Lauren Corporation Common ,9.69515
+Buy,ROST,Ross Stores Inc. ,16.4334
+Buy,RRC,Range Resources Corporation Com ,1.34759
+Buy,SBUX,Starbucks Corporation ,9.9771
+Buy,SEE,Sealed Air Corporation Common S ,10.4053
+Buy,SPG,Simon Property Group Inc. Comm ,3.73371
+Buy,HRB, H&R Block  Inc. Common ,1.23436
+Buy,HSIC, Henry Schein  Inc. ,18.3379
+Buy,HSY, The Hershey Company Common Stoc ,2.77831
+Buy,IFF, Internationa Flavors & Fragranc ,4.51806
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,16.6672
+Buy,MDLZ, Mondelez International  Inc. ,17.8327
+Buy,MNST, Monster Beverage Corporation ,1.38537
+Buy,MPC, Marathon Petroleum Corporation  ,19.5138
+Buy,VIAB, Viacom Inc. ,3.264
+Buy,SPY,SPDR S&P 500 ETF,13.5612
+Buy,ABBV,AbbVie Inc. ,16.0935
+Buy,COTY,Coty Inc. ,5.74702
+Buy,EVHC,Envision Healthcare Holdings Inc. ,8.97673
+Buy,FOXA,Twenty-First Century Fox Inc. ,6.41036
+Buy,MNK,Mallinckrodt plc ,6.71608
+Buy,ZTS,Zoetis Inc. ,7.56858
+Buy,WBA,Walgreens Boots Alliance Inc.,16.8318
+Buy,KHC,The Kraft Heinz Company,8.57043
+Buy,INFO,IHS Markit Ltd.,16.5169
+Buy,ARNC,Arconic Inc.,3.74507
+Sell,APD,Air Products and Chemicals Inc ,80.405
+Sell,AVB,AvalonBay Communities Inc. Com ,89.5367
+Sell,AVGO,Avago Technologies Limited ,84.2747
+Sell,AXP,American Express Company Common ,87.3004
+Sell,CCI,Crown Castle International Corp ,88.8897
+Sell,CI,Cigna Corporation Common ,85.8117
+Sell,CMA,Comerica Incorporated Common St ,96.0315
+Sell,CMI,Cummins Inc. Common ,86.8911
+Sell,CNP,CenterPoint Energy Inc (Holdin ,95.8336
+Sell,COF,Capital One Financial Corporati ,96.9623
+Sell,EQIX,Equinix Inc. ,88.7862
+Sell,EQR,Equity Residential Common Share ,96.8247
+Sell,FL,Footlocker Inc. ,88.6181
+Sell,FMC,FMC Corporation Common ,91.6674
+Sell,GILD,Gilead Sciences Inc. ,91.6525
+Sell,GM,General Motors Company Common S ,84.4446
+Sell,GS,Goldman Sachs Group Inc. (The) ,84.6412
+Sell,GT,Goodyear Tire & Rubber Company  ,88.6096
+Sell,IR,Ingersoll-Rand plc (Ireland) ,97.8643
+Sell,IT,Gartner Inc. Common ,88.2332
+Sell,MLM,Martin Marietta Materials Inc. ,84.7977
+Sell,NTRS,Northern Trust Corporation ,85.4264
+Sell,NUE,Nucor Corporation Common ,87.169
+Sell,PX,Praxair Inc. Common ,91.2017
+Sell,R,Ryder System Inc. Common ,93.387
+Sell,REGN,Regeneron Pharmaceuticals Inc. ,85.6662
+Sell,RF,Regions Financial Corporation C ,81.1291
+Sell,RJF,Raymond James Financial Inc. C ,93.7553
+Sell,ROK,Rockwell Automation Inc. Commo ,95.5313
+Sell,RTN,Raytheon Company Common ,93.3521
+Sell,HON, Honeywell International Inc. Co ,84.5609
+Sell,HRS, Harris Corporation Common ,92.3049
+Sell,HST, Host Hotels & Resorts  Inc. Com ,93.3332
+Sell,ICE, IntercontinentalExchange  Inc.  ,90.081
+Sell,ILMN, Illumina  Inc. ,84.8096
+Sell,LLY, Eli Lilly and Company Common St ,88.8895
+Sell,MSI, Motorola Solutions  Inc. Common ,81.2512
+Sell,STT, State Street Corporation Common ,94.3362
+Sell,AAL,American Airlines Group Inc. ,93.9862
+Sell,ALLE,Allegion plc Ordinary Shares ,98.1341
+Sell,NAVI,Navient Corporation ,95
+Sell,CFG,Citizens Financial Group Inc.,94.222
+Sell,SYF,Synchrony Financial Common Stoc,88.5965
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,92.8103
+Sell,FTV,Fortive Corporation,87.0582
+Sell,DXC,DXC Technology Company,94.6576

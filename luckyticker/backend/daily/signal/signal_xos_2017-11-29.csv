@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WDRW,Direxion Daily Regional Banks B,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+BZM, BlackRock Maryland Municipal Bo ,Financial,Closed-End Fund - Debt
+UFPI,Universal Forest Products Inc. ,Industrial Goods,General Building Materials
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+MIDZ, Direxion Mid Cap Bear 3X Shares ,N/A,N/A
+HTHT, China Lodging Group  Limited ,Services,Lodging
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+CNI,Canadian National Railway Compa ,Services,Railroads

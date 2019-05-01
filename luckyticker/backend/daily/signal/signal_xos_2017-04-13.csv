@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RPM,RPM International Inc. Common S ,Basic Materials,Specialty Chemicals
+BAP,Credicorp Ltd. Common ,Financial,Money Center Banks
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+TSEM,Tower Semiconductor Ltd. ,Technology,Semiconductor - Integrated Circuits
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits
+LORL,Loral Space and Communications ,Technology,Communication Equipment
+NFG,National Fuel Gas Company Commo ,Utilities,Gas Utilities

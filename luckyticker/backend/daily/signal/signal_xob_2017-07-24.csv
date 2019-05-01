@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TLP,Transmontaigne Partners L.P. Tr ,Basic Materials,Oil & Gas Pipelines
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+MGPI,MGP Ingredients Inc. ,Consumer Goods,Processed & Packaged Goods
+AON,Aon plc Class A Ordinary Shares ,Financial,Insurance Brokers
+AGRX,Agile Therapeutics Inc.,Healthcare,Drugs - Generic
+NDRM,NeuroDerm Ltd.,Healthcare,Biotechnology
+RARE,Ultragenyx Pharmaceutical Inc. ,Healthcare,Biotechnology
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+VRTX,Vertex Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+MCRB,Seres Therapeutics  Inc.,Healthcare,Biotechnology
+HOLI, Hollysys Automation Technologie ,Industrial Goods,Industrial Electrical Equipment
+RGT,Royce Global Value Trust  Inc.  ,N/A,N/A
+AGA, DB Agriculture Short ETN DB Agr ,N/A,N/A
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+MCO,Moody's Corporation Common Stoc ,Services,Business Services
+NTRI,NutriSystem Inc ,Services,Consumer Services
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+BMI,Badger Meter Inc. Common ,Technology,Scientific & Technical Instruments
+HQCL,Hanwha Q CELLS Co. Ltd,Technology,Semiconductor - Specialized
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+YY,YY Inc. ,Technology,Internet Information Providers
+BIDU,Baidu Inc. ,Technology,Internet Information Providers
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities

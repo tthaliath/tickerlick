@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JPMV,iShares MSCI Japan Minimum Vola ,,
+SORL,SORL Auto Parts Inc. ,Consumer Goods,Auto Manufacturers - Major
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CORI,Corium International Inc. ,Healthcare,Biotechnology
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+GLYC,GlycoMimetics Inc. ,N/A,N/A
+VOD,Vodafone Group Plc ,NULL,NULL
+NCIT,NCI Inc. ,Technology,Information Technology Services
+JD,JD.com Inc.,Technology,Internet Information Providers
+SINA,Sina Corporation ,Technology,Internet Software & Services
+WB,Weibo Corporation ,Technology,Internet Information Providers

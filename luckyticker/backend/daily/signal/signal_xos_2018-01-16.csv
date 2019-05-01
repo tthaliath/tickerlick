@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+REML,Credit Suisse AG Credit Suisse,,
+RPAI, Retail Properties of America  I ,Financial,REIT - Diversified
+AIZ,Assurant Inc. Common ,Financial,Accident & Health Insurance
+DVAX,Dynavax Technologies Corporatio ,Healthcare,Biotechnology
+TSRO, TESARO  Inc. ,Healthcare,Biotechnology
+BKHU,Black Hills Corporation,N/A,N/A
+PGD,iPath Asian and Gulf Currency Reval ETN ,N/A,N/A
+BDCL, 2xLeveraged Long Exchange Trade ,N/A,N/A
+SIEN,Sientra Inc.,N/A,N/A
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+DAIO,Data I/O Corporation ,Technology,Diversified Electronics

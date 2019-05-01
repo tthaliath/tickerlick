@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+YERR,Yangtze River Development Limit,,
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+MPX,Marine Products Corporation Com ,Consumer Goods,Recreational Goods Other
+FNLC,First Bancorp Inc (ME) ,Financial,Regional - Northeast Banks
+MYF, Blackrock MuniYield Investment  ,Financial,Closed-End Fund - Debt
+MFV, MFS Special Value Trust Common  ,Financial,Closed-End Fund - Debt
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+EFC,Ellington Financial LLC Common  ,Financial,Mortgage Investment
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+NXTM,NxStage Medical Inc. ,Healthcare,Medical Appliances & Equipment
+KFYP,KraneShares CSI China Five Year Plan ETF ,N/A,N/A
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+PEX,ProShares Global Listed Private Eq ETF ,N/A,N/A
+HIFR,InfraREIT Inc. Common,N/A,N/A
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized

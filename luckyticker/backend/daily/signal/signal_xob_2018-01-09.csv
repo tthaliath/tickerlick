@@ -1,0 +1,86 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XT,iShares Exponential Technologie,,
+CRBN,iShares MSCI ACWI Low Carbon Ta ,,
+IPOS,Renaissance Capital Greenwich F,,
+IPAY,PureFunds ISE Mobile Payments E,,
+IVLU,iShares Edge MSCI Intl Value Fa,,
+FIHD,UBS AG UBS AG FI Enhanced Globa,,
+CIL,VictoryShares International Vol,,
+DEEF,Deutsche X-trackers FTSE Develo,,
+TIG,TiGenix - American Depositary S,,
+DDWM,WisdomTree Dynamic Currency Hed,,
+JHMD,John Hancock Exchange-Traded Fu,,
+GSIE,Goldman Sachs ActiveBeta Intern,,
+EFAX,SPDR MSCI EAFE Fossil Fuel Rese,,
+GENY,Principal Millennials Index ETF,,
+GDVD,Principal Active Global Dividen,,
+RFDI,First Trust RiverFront Dynamic,,
+FTXR,First Trust Nasdaq Transportati,,
+GVIP,Goldman Sachs Hedge Industry VI,,
+IDMO,PowerShares S&P International D,,
+LYB,LyondellBasell Industries NV Or ,Basic Materials,Specialty Chemicals
+NRP,Natural Resources Partners LP ,Basic Materials,Industrial Metals & Minerals
+VLO,Valero Energy Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+PX,Praxair Inc. Common ,Basic Materials,Synthetics
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+LAZ,Lazard LTD. Lazard LTD. Class  ,Financial,Asset Management
+NRT,North European Oil Royality Tru ,Financial,Diversified Investments
+TROW,T. Rowe Price Group Inc. ,Financial,Asset Management
+UIHC,United Insurance Holdings Corp. ,Financial,Property & Casualty Insurance
+MZA, Blackrock MuniYield Arizona Fun ,Financial,Closed-End Fund - Debt
+EWJ,iShares MSCI Japan Index Fund ETF,Global Equity ETF,
+VT,Vanguard Total World Stock ETF,Global Equity ETF,
+SMIN,iShares MSCI India Small Cap ETF,Global Equity ETF,
+EWK,iShares MSCI Belgium Index Fund ETF,Global Equity ETF,
+PXF,PowerShares FTSE RAFI Developed Markets ex-U.S. Portfolio ETF,Global Equity ETF,
+ARGT,Global X FTSE Argentina 20 ETF,Global Equity ETF,
+EXI,iShares S&P Global Industrials Sector Index Fund ETF,Global Equity ETF,
+DIM,WisdomTree International MidCap Dividend Fund ETF,Global Equity ETF,
+ACIM,SPDR MSCI ACWI IMI ETF,Global Equity ETF,
+PDN,PowerShares FTSE RAFI Developed Markets ex-U.S. Small-Mid Portfolio ETF,Global Equity ETF,
+ACWX,iShares MSCI ACWI ex US Index Fund ETF,Global Equity ETF,
+EEB,Guggenheim BRIC ETF,Global Equity ETF,
+PGJ,PowerShares Golden Dragon Halter USX China Portfolio ETF,Global Equity ETF,
+VEA,Vanguard Europe Pacific ETF,Global Equity ETF,
+SCZ,iShares MSCI EAFE Small Cap ETF,Global Equity ETF,
+ACWI,iShares MSCI ACWI (All Country World Index) Index Fund ETF,Global Equity ETF,
+TLTD,FlexShares Mstar Dev Mk ex-US Fct Tl Idx ETF,Global Equity ETF,
+MOO,Market Vectors-Agribusiness ETF,Global Equity ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+BAX,Baxter International Inc. Commo ,Healthcare,Medical Instruments & Supplies
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+PKI,PerkinElmer Inc. Common ,Healthcare,Medical Instruments & Supplies
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+TECH,Techne Corporation ,Healthcare,Biotechnology
+CHE,Chemed Corp ,Healthcare,Home Health Care
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+EMR,Emerson Electric Company Common ,Industrial Goods,Industrial Equipment & Components
+QQQE, Direxion NASDAQ-100 Equal Weigh ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+FNDF,Schwab Fundamental Intl Lg Co ETF ,N/A,N/A
+IXUS,iShares Core MSCI Total Intl Stk ,N/A,N/A
+IEFA,iShares Core MSCI EAFE ,N/A,N/A
+BBRC, EGShares Beyond BRICs ETF ,N/A,N/A
+IEUS,iShares Developed Small Cap ex,N/A,N/A
+KEN,Kenon Holdings Ltd.,N/A,N/A
+TTOO,T2 Biosystems Inc.,N/A,N/A
+ACWF,iShares FactorSelect MSCI Global,N/A,N/A
+INTF,iShares FactorSelect MSCI International,N/A,N/A
+OMF,OneMain Holdings  Inc.,N/A,N/A
+UNG, United States Natural Gas Fund  ,N/A,N/A
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+CHT,Chunghwa Telecom Co Ltd America ,Technology,Telecom Services - Domestic
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+TXN,Texas Instruments Incorporated ,Technology,Semiconductor - Broad Line
+ADRD,PowerShares BLDRS Developed Markets 100 ADR Index Fund ETF,US Equity ETF,
+QQEW,First Trust NASDAQ-100 Equal Weighted IndexSMFund ETF,US Equity ETF,
+SPHB,PowerShares S&P 500 High Beta ETF,US Equity ETF,

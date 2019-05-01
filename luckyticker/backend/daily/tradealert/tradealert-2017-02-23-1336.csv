@@ -1,0 +1,103 @@
+Buy,APA,Apache Corporation Common ,11.9707
+Buy,MDLZ, Mondelez International  Inc. ,17.9199
+Sell,NEE,NextEra Energy Inc. Common Sto ,70.1813
+Sell,STZ,Constellation Brands Inc. Comm ,70.3088
+Sell,JPM,JP Morgan Chase & Co. Common St ,70.5233
+Sell,UNP,Union Pacific Corporation Commo ,70.609
+Sell,EXPD,Expeditors International of Was ,70.7246
+Sell,ITW,Illinois Tool Works Inc. Common ,70.7833
+Sell,ECL,Ecolab Inc. Common ,70.8169
+Sell,PNW,Pinnacle West Capital Corporati ,70.8395
+Sell,NTRS,Northern Trust Corporation ,70.8396
+Sell,FE,FirstEnergy Corporation Common  ,70.8947
+Sell,PKI,PerkinElmer Inc. Common ,71.0467
+Sell,BLK,BlackRock Inc,71.1509
+Sell,COL,Rockwell Collins Inc. Common S ,71.2913
+Sell,MYL,Mylan Inc. ,71.3616
+Sell,LNT,Alliant Energy Corporation Comm ,71.8032
+Sell,AEE,Ameren Corporation Common ,72.0375
+Sell,WMB,Williams Companies Inc. (The)  ,72.0931
+Sell,KMB,Kimberly-Clark Corporation Comm ,72.5784
+Sell,AMZN,Amazon.com Inc. ,72.6378
+Sell,VRSK,Verisk Analytics Inc. ,72.9578
+Sell,TROW,T. Rowe Price Group Inc. ,73.2766
+Sell,CBG,CBRE Group Inc Common ,73.3443
+Sell,PFG,Principal Financial Group Inc C ,73.4273
+Sell,SPY,SPDR S&P 500 ETF,73.6425
+Sell,CBS,CBS Corporation Class B Common  ,73.671
+Sell,CMI,Cummins Inc. Common ,73.8253
+Sell,EXR,Extra Space Storage Inc Common  ,74.2552
+Sell,NFX,Newfield Exploration Company Co ,74.3934
+Sell,ETR,Entergy Corporation Common Stoc ,74.6179
+Sell,LLY, Eli Lilly and Company Common St ,74.6631
+Sell,MAT,Mattel Inc. ,75.0547
+Sell,MKC,McCormick & Company Incorporat ,75.3103
+Sell,KSU,Kansas City Southern Common Sto ,75.5299
+Sell,VIAB, Viacom Inc. ,75.5576
+Sell,DOV,Dover Corporation Common ,75.7611
+Sell,COTY,Coty Inc. ,76.7063
+Sell,MHK,Mohawk Industries Inc. Common  ,76.8482
+Sell,KLAC,KLA-Tencor Corporation ,76.8575
+Sell,FBHS, Fortune Brands Home & Security  ,77.0156
+Sell,UAL,United Continental Holdings ,77.0814
+Sell,UNM,Unum Group Common ,77.2732
+Sell,GT,Goodyear Tire & Rubber Company  ,77.2817
+Sell,ES,EnergySolutions Inc Common Stoc ,77.3943
+Sell,ADS,Alliance Data Systems Corporati ,77.6021
+Sell,QRVO,Qorvo Inc.,77.7264
+Sell,SRE,Sempra Energy Common ,78.0743
+Sell,MTD,Mettler-Toledo International I ,78.1934
+Sell,LUK,Leucadia National Corporation C ,78.2428
+Sell,CTAS,Cintas Corporation ,78.2677
+Sell,EMN,Eastman Chemical Company Common ,78.4774
+Sell,DHR,Danaher Corporation Common Stoc ,78.5026
+Sell,PG,Procter & Gamble Company (The)  ,78.5049
+Sell,TDG,Transdigm Group Incorporated Tr ,78.8363
+Sell,PSX, Phillips 66 Common ,79.1541
+Sell,MRK,Merck & Company Inc. Common St ,79.436
+Sell,HCP, HCP  Inc. Common ,79.5213
+Sell,MA,Mastercard Incorporated Common  ,80.0369
+Sell,RAI,Reynolds American Inc Common St ,80.0622
+Sell,MO,Altria Group Inc. ,80.2356
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,80.3976
+Sell,JNPR,Juniper Networks Inc. Common S ,80.4395
+Sell,UDR,UDR Inc. Common ,80.7479
+Sell,CINF,Cincinnati Financial Corporatio ,80.8271
+Sell,EQR,Equity Residential Common Share ,80.9736
+Sell,BMY,Bristol-Myers Squibb Company Co ,81.2376
+Sell,BAX,Baxter International Inc. Commo ,81.4059
+Sell,TMK,Torchmark Corporation Common St ,81.454
+Sell,LUV,Southwest Airlines Company Comm ,81.5382
+Sell,FAST,Fastenal Company ,81.6785
+Sell,MDT,Medtronic Inc. Common ,82.0032
+Sell,BDX,Becton Dickinson and Company C ,82.2953
+Sell,AVY,Avery Dennison Corporation Comm ,82.5772
+Sell,JEC,Jacobs Engineering Group Inc. C ,82.5998
+Sell,AMT,American Tower Corporation (REI ,82.6992
+Sell,TMO,Thermo Fisher Scientific Inc Co ,82.8687
+Sell,PM,Philip Morris International Inc ,83.1481
+Sell,ABBV,AbbVie Inc. ,83.3072
+Sell,TSS,Total System Services Inc. Com ,83.4933
+Sell,XL,XL Group plc ,83.7055
+Sell,WM,Waste Management Inc. Common S ,84.072
+Sell,VFC,V.F. Corporation Common ,84.3159
+Sell,AMG,Affiliated Managers Group Inc. ,84.7263
+Sell,VNO,Vornado Realty Trust Common Sto ,84.8031
+Sell,AVB,AvalonBay Communities Inc. Com ,85.9689
+Sell,CHD,Church & Dwight Company Inc. C ,85.9908
+Sell,NI,NiSource Inc Common ,86.3991
+Sell,MAA,Mid-America Apartment Communiti ,87.0602
+Sell,RSG,Republic Services Inc. Common  ,87.2344
+Sell,SNA,Snap-On Incorporated Common Sto ,87.4836
+Sell,DISCK,Discovery Communications Inc ,87.5761
+Sell,ORCL,Oracle Corporation ,87.7632
+Sell,PLD,ProLogis Inc. Common ,88.1188
+Sell,MPC, Marathon Petroleum Corporation  ,88.3681
+Sell,ROP,Roper Industries Inc. Common S ,88.5898
+Sell,PSA,Public Storage Common ,88.8067
+Sell,AAL,American Airlines Group Inc. ,89.4112
+Sell,MAS,Masco Corporation Common ,89.5675
+Sell,BA,Boeing Company (The) Common Sto ,90.7383
+Sell,BXP,Boston Properties Inc. Common  ,90.7814
+Sell,GLD, SPDR Gold Trust ,92.0921
+Sell,CL,Colgate-Palmolive Company Commo ,92.6471

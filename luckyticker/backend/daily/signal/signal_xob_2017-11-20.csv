@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARCM,Arrow Reserve Capital Managemen,,
+JJSF,J & J Snack Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+CBG,CBRE Group Inc Common ,Financial,Property Management
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+MHK,Mohawk Industries Inc. Common  ,Industrial Goods,Textile Industrial
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+RMR,The RMR Group Inc.,N/A,N/A
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+CAVM,Cavium Inc. ,Technology,Semiconductor - Broad Line
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+MARK, Remark Media  Inc. ,Technology,Internet Information Providers
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+NTAP,NetApp Inc. ,Technology,Data Storage Devices

@@ -1,0 +1,118 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DGRO,iShares Core Dividend Growth ET ,,
+SPUU,Direxion Daily S&P 500 Bull 2X  ,,
+CFA,Compass EMP U.S. 500 Volatility ,,
+WBIL,WBI Large Cap Tactical Select S ,,
+IUSV,iShares Core U.S. Vaue ETF ,,
+CFO,Compass EMP U.S. 500 Enhanced V ,,
+CATH,Global X S&P 500 Catholic Value,,
+JHML,John Hancock Multifactor Large,,
+JHMS,John Hancock Multifactor Consum,,
+DHVW,Diamond Hill Valuation-Weighted,,
+QUS,SPDR MSCI USA StrategicFactors,,
+FDRR,Fidelity Dividend ETF for Risin,,
+DEUS,Deutsche X-trackers Russell 100,,
+OPD,Guggenheim Large Cap Optimized,,
+FDLO,Fidelity Low Volatility Factor,,
+SPYX,SPDR S&P 500 Fossil Fuel Reserv,,
+FQAL,Fidelity Quality Factor ETF,,
+EQWM,PowerShares Russell Midcap Equa,,
+FVAL,Fidelity Value Factor ETF,,
+XRLV,PowerShares S&P 500 ex-Rate Sen,,
+GSLC,Goldman Sachs ActiveBeta U.S. L,,
+FDVV,Fidelity Core Dividend ETF,,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+CSM,ProShares Credit Suisse 130/30 ETF,Commodity Based ETF,
+UYG,ProShares Ultra Financials ETF,Commodity Based ETF,
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+SON,Sonoco Products Company Common  ,Consumer Goods,Paper & Paper Products
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+POOL,Pool Corporation ,Consumer Goods,Sporting Goods
+COLM,Columbia Sportswear Company ,Consumer Goods,Textile - Apparel Clothing
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+DPS,Dr Pepper Snapple Group Inc Dr ,Consumer Goods,Beverages - Soft Drinks
+FRBA,First Bank ,Financial,Regional - Mid-Atlantic Banks
+AFL,AFLAC Incorporated Common ,Financial,Accident & Health Insurance
+HTBK, Heritage Commerce Corp ,Financial,Regional - Pacific Banks
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+FII,Federated Investors Inc. Commo ,Financial,Asset Management
+JPM,JP Morgan Chase & Co. Common St ,Financial,Money Center Banks
+AMTD,TD Ameritrade Holding Corporati ,Financial,Investment Brokerage - National
+IBTX,Independent Bank Group Inc. ,Financial,Regional - Southeast Banks
+BLK,BlackRock Inc,Financial,Asset Management
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+ETFC,E*TRADE Financial Corporation ,Financial,Investment Brokerage - National
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+DFS,Discover Financial Services Com ,Financial,Credit Services
+IXG,iShares S&P Global Financial Index Fund ETF,Global Equity ETF,
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+BGC,General Cable Corporation Commo ,Industrial Goods,Industrial Electrical Equipment
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+MAS,Masco Corporation Common ,Industrial Goods,General Building Materials
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+FAST,Fastenal Company ,Industrial Goods,General Building Materials
+MTW,Manitowoc Company Inc. (The) C ,Industrial Goods,Farm & Construction Machinery
+DIAX,Nuveen Dow 30SM Dynamic Overwri,N/A,N/A
+NOBL,ProShares SandP 500 Aristocrats ETF ,N/A,N/A
+ROUS,Lattice U.S. Equity Strategy ET,N/A,N/A
+TRNC,tronc  Inc.,N/A,N/A
+DGRW,WisdomTree US Dividend Growth ,N/A,N/A
+VLUE,iShares MSCI USA Value Factor ,N/A,N/A
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+FNDB,Schwab Fundamental US Broad Market ETF ,N/A,N/A
+QUAL,iShares MSCI USA Quality Factor ,N/A,N/A
+FNDX,Schwab Fundamental US Large Company ETF ,N/A,N/A
+EQLT,ALPS Workplace Equality ETF ,N/A,N/A
+LGLV,SPDR Russell 1000 Low Volatility ETF ,N/A,N/A
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+NYNY,Empire Resorts Inc. ,Services,Resorts & Casinos
+VRSK,Verisk Analytics Inc. ,Services,Business Services
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+BYD,Boyd Gaming Corporation Common  ,Services,Resorts & Casinos
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+FDX,FedEx Corporation Common ,Services,Air Delivery & Freight Services
+GWR, Genesee & Wyoming Inc. Class A  ,Services,Railroads
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+UNP,Union Pacific Corporation Commo ,Services,Railroads
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+KSU,Kansas City Southern Common Sto ,Services,Railroads
+INAP,Internap Network Services Corpo ,Technology,Internet Software & Services
+VZ,Verizon Communications Inc. Com ,Technology,Telecom Services - Domestic
+MGV,Vanguard Mega Cap 300 Value ETF,US Equity ETF,
+DTD,WisdomTree Total Dividend Fund ETF,US Equity ETF,
+FDL,First Trust Morningstar ETF,US Equity ETF,
+VOOV,Vanguard S&P 500 Value ETF,US Equity ETF,
+JKI,iShares Morningstar Mid Value Index Fund ETF,US Equity ETF,
+PEY,PowerShares Dividend Achievers ETF,US Equity ETF,
+DTN,WisdomTree Dividend Top 100 Fund ETF,US Equity ETF,
+PRF,Powershares FTSE RAFI US 1000 Portfolio ETF,US Equity ETF,
+SCHD,Schwab U.S. Dividend Equity ETF,US Equity ETF,
+VONV,Vanguard Russell 1000 Value ETF,US Equity ETF,
+FAB,First Trust Multi Cap Value AlphaDEX Fund ETF,US Equity ETF,
+FTA,First Trust Large Cap Value Opportunities AlphaDEX Fund ETF,US Equity ETF,
+EUSA,iShares MSCI USA Index Fund ETF,US Equity ETF,
+RWK,REVENUESHARES MID CAP FUND ETF,US Equity ETF,
+EZY,WisdomTree Low P/E Fund ETF,US Equity ETF,
+EQL,ALPS Equal Sector Weight ETF,US Equity ETF,
+SCHV,Schwab U.S. Large-Cap Value ETF,US Equity ETF,
+VTV,Vanguard Value ETF,US Equity ETF,
+DEF,Guggenheim Defensive Equity ETF,US Equity ETF,
+RPV,Guggenheim S&P 500 Pure Value ETF,US Equity ETF,
+IWS,iShares Russell Midcap Value Index ETF,US Equity ETF,
+MDYV,SPDR S&P 400 Mid Cap Value ETF (MDYV) ETF,US Equity ETF,
+IWD,iShares Russell 1000 Value ETF,US Equity ETF,
+VYM,Vanguard High Dividend Yield ETF,US Equity ETF,
+DLN,WisdomTree LargeCap Dividend Fund ETF,US Equity ETF,
+FXO,First Trust Financials AlphaDEX ETF,US Equity ETF,
+IVE,iShares S&P 500 Value Index Fund ETF,US Equity ETF,
+RSP,Guggenheim S&P Equal Weight ETF,US Equity ETF,
+IJJ,iShares S&P MidCap 400 Value Index Fund ETF,US Equity ETF,
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,US Equity ETF,

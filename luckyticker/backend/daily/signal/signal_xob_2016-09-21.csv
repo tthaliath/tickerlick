@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JCAP,Jernigan Capital  Inc.,Financial,REIT - Industrial
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PRAH,PRA Health Sciences Inc.,Healthcare,Medical Laboratories & Research
+AERI,Aerie Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+GLPG,Galapagos NV ,N/A,N/A
+ABEO,Abeona Therapeutics Inc. ,N/A,N/A
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+DTSI,DTS Inc. ,Technology,Application Software
+PTH,PowerShares Dynamic Heathcare ETF,US Equity ETF,

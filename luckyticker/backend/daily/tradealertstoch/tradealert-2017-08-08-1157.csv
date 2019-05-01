@@ -1,0 +1,137 @@
+Buy,APA,Apache Corporation Common ,1.63142
+Buy,APC,Anadarko Petroleum Corporation  ,5.55563
+Buy,APD,Air Products and Chemicals Inc ,19.6305
+Buy,ATVI,Activision Blizzard Inc ,6.68931
+Buy,AZO,AutoZone Inc. Common ,3.83525
+Buy,BBY,Best Buy Co. Inc. Common ,12.332
+Buy,BEN,Franklin Resources Inc. Common ,16.4449
+Buy,BIIB,Biogen Idec Inc. ,17.7446
+Buy,BLL,Ball Corporation Common ,5.60252
+Buy,BMY,Bristol-Myers Squibb Company Co ,13.0561
+Buy,CHD,Church & Dwight Company Inc. C ,9.1977
+Buy,CHK,Chesapeake Energy Corporation C ,15.7407
+Buy,CLX,Clorox Company (The) Common Sto ,7.66328
+Buy,CMCSA,Comcast Corporation ,19.7023
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,1.97721
+Buy,COG,Cabot Oil & Gas Corporation Com ,13.22
+Buy,COH,Coach Inc. Common ,10.0718
+Buy,DD,E.I. du Pont de Nemours and Com ,8.63951
+Buy,DHR,Danaher Corporation Common Stoc ,10.9799
+Buy,DOW,Dow Chemical Company (The) Comm ,10.7846
+Buy,DRI,Darden Restaurants Inc. Common ,14.6286
+Buy,DVA,DaVita Inc. Common ,12.6733
+Buy,DVN,Devon Energy Corporation Common ,13.0477
+Buy,ECL,Ecolab Inc. Common ,19.5648
+Buy,EOG,EOG Resources Inc. Common Stoc ,15.2061
+Buy,KIM,Kimco Realty Corporation Common ,14.5305
+Buy,KMX,CarMax Inc ,6.29073
+Buy,MAT,Mattel Inc. ,3.2971
+Buy,MCD,McDonald's Corporation Common S ,8.63173
+Buy,MLM,Martin Marietta Materials Inc. ,4.29921
+Buy,NOV,National Oilwell Varco Inc. Co ,9.45324
+Buy,NVDA,NVIDIA Corporation ,14.58
+Buy,ORLY,O'Reilly Automotive Inc. ,1.85199
+Buy,OXY,Occidental Petroleum Corporatio ,5.6905
+Buy,PKI,PerkinElmer Inc. Common ,5.45785
+Buy,PPG,PPG Industries Inc. Common Sto ,11.5297
+Buy,PSA,Public Storage Common ,10.6593
+Buy,RF,Regions Financial Corporation C ,15.8734
+Buy,RHT,Red Hat Inc. Common ,9.35908
+Buy,RIG,Transocean Ltd (Switzerland) Co ,9.5522
+Buy,ROK,Rockwell Automation Inc. Commo ,4.57124
+Buy,SBUX,Starbucks Corporation ,6.37179
+Buy,SCG,SCANA Corporation Common ,2.3059
+Buy,SHW,Sherwin-Williams Company (The)  ,8.86262
+Buy,SLB,Schlumberger N.V. Common ,18.3159
+Buy,SPG,Simon Property Group Inc. Comm ,17.0388
+Buy,FBHS, Fortune Brands Home & Security  ,5.42881
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,7.88702
+Buy,HBI, Hanesbrands Inc. Common ,17.4606
+Buy,HCN, Health Care REIT  Inc. Common S ,7.23051
+Buy,HCP, HCP  Inc. Common ,9.91962
+Buy,HES, Hess Corporation Common ,2.87556
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,12.1962
+Buy,PSX, Phillips 66 Common ,15.2779
+Buy,VIAB, Viacom Inc. ,14.7436
+Buy,FOXA,Twenty-First Century Fox Inc. ,18.0094
+Buy,INFO,IHS Markit Ltd.,1.75452
+Sell,AME,AMETEK Inc. ,98.7186
+Sell,AMGN,Amgen Inc. ,83.8179
+Sell,AMT,American Tower Corporation (REI ,85.3736
+Sell,APH,Amphenol Corporation Common Sto ,91.6506
+Sell,ARE,Alexandria Real Estate Equities ,90.6667
+Sell,AXP,American Express Company Common ,97.7777
+Sell,BWA,BorgWarner Inc. Common ,84.8709
+Sell,C,Citigroup Inc. Common ,84.7785
+Sell,CA,CA Inc. ,81.1454
+Sell,CAH,Cardinal Health Inc. Common St ,82.9086
+Sell,CBS,CBS Corporation Class B Common  ,87.6365
+Sell,CF,CF Industries Holdings Inc. Co ,93.4054
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,89.4957
+Sell,CHTR,Charter Communications Inc. ,88.1452
+Sell,CI,Cigna Corporation Common ,98.5771
+Sell,CMI,Cummins Inc. Common ,80.2273
+Sell,CNP,CenterPoint Energy Inc (Holdin ,97.6496
+Sell,COF,Capital One Financial Corporati ,87.1516
+Sell,CTL,CenturyLink Inc. Common ,84.6568
+Sell,CTSH,Cognizant Technology Solutions  ,82.9034
+Sell,D,Dominion Resources Inc. Common ,90.9023
+Sell,DG,Dollar General Corporation Comm ,95.2584
+Sell,DLTR,Dollar Tree Inc. ,81.7816
+Sell,DTE,DTE Energy Company Common ,87.6686
+Sell,DUK,Duke Energy Corporation (Holdin ,86.5195
+Sell,EL,Estee Lauder Companies Inc. (T ,80.4024
+Sell,EMR,Emerson Electric Company Common ,88.3841
+Sell,JPM,JP Morgan Chase & Co. Common St ,96.5074
+Sell,KEY,KeyCorp Common ,83.0349
+Sell,KR,Kroger Company (The) Common Sto ,83.5576
+Sell,KSS,Kohl's Corporation Common ,94.8873
+Sell,LEN,Lennar Corporation Class A Comm ,93.2367
+Sell,LMT,Lockheed Martin Corporation Com ,93.1165
+Sell,LNT,Alliant Energy Corporation Comm ,86.7751
+Sell,LUV,Southwest Airlines Company Comm ,84.6034
+Sell,LVLT,Level 3 Communications Inc. Co ,89.7434
+Sell,LYB,LyondellBasell Industries NV Or ,81.6309
+Sell,M,Macy's Inc Common ,85.923
+Sell,MCHP,Microchip Technology Incorporat ,85.1486
+Sell,MCK,McKesson Corporation Common Sto ,86.9675
+Sell,MCO,Moody's Corporation Common Stoc ,89.5429
+Sell,MET,MetLife Inc. Common ,81.1211
+Sell,NOC,Northrop Grumman Corporation Co ,84.8002
+Sell,NUE,Nucor Corporation Common ,91.5457
+Sell,PCAR,PACCAR Inc. ,89.1001
+Sell,PCG,Pacific Gas & Electric Co. Comm ,94.5184
+Sell,PEG,Public Service Enterprise Group ,81.656
+Sell,PFG,Principal Financial Group Inc C ,98.6935
+Sell,PG,Procter & Gamble Company (The)  ,85.3372
+Sell,PNC,PNC Financial Services Group I ,90.6
+Sell,PNW,Pinnacle West Capital Corporati ,93.2463
+Sell,PPL,PP&L Corporation Common ,85.6972
+Sell,PRU,Prudential Financial Inc. Comm ,81.4364
+Sell,QCOM,QUALCOMM Incorporated ,90.4177
+Sell,R,Ryder System Inc. Common ,93.059
+Sell,RCL,Royal Caribbean Cruises Ltd. Co ,93.2292
+Sell,RHI,Robert Half International Inc.  ,97.3855
+Sell,SCHW,Charles Schwab Corporation (The ,97.0541
+Sell,FITB, Fifth Third Bancorp ,85.8089
+Sell,HAS, Hasbro  Inc. ,83.35
+Sell,HCA, HCA Holdings  Inc. Common ,92.7278
+Sell,HIG, Hartford Financial Services Gro ,98.3823
+Sell,HON, Honeywell International Inc. Co ,84.5498
+Sell,HPQ, Hewlett-Packard Company Common  ,91.1462
+Sell,HRB, H&R Block  Inc. Common ,97.2222
+Sell,HUM, Humana Inc. Common ,95.8421
+Sell,IDXX, IDEXX Laboratories  Inc. ,97.6427
+Sell,IFF, Internationa Flavors & Fragranc ,80.7161
+Sell,MDLZ, Mondelez International  Inc. ,91.518
+Sell,XYL, Xylem Inc. Common ,83.0557
+Sell,SPY,SPDR S&P 500 ETF,95.3009
+Sell,AAL,American Airlines Group Inc. ,89.5443
+Sell,ABBV,AbbVie Inc. ,97.3334
+Sell,ALLE,Allegion plc Ordinary Shares ,88.449
+Sell,ANTM,Anthem Inc. Common,80.6341
+Sell,CFG,Citizens Financial Group Inc.,80.3695
+Sell,SYF,Synchrony Financial Common Stoc,95.0087
+Sell,KHC,The Kraft Heinz Company,86.4793
+Sell,HPE,Hewlett Packard Enterprise Company,81.1101
+Sell,UAA,Under Armour  Inc. Class A,89.9538

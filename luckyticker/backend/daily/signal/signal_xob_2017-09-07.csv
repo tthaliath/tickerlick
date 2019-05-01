@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OUNZ,Merk Gold Trust ETV ,,
+CNXT,Market Vectors ChinaAMC SME-ChN ,,
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+NAV,Navistar International Corporat ,Consumer Goods,Trucks & Other Vehicles
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+REMX,Market Vectors Rare Earth/Strategic Metals ETF,Global Equity ETF,
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+GLTR, ETFS Physical Precious Metal Ba ,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+IAU, ishares Gold Trust ,N/A,N/A
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+PHYS, Sprott Physical Gold Trust ETV ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+KBR,KBR Inc. Common ,Services,Technical Services
+EXPO,Exponent Inc. ,Services,Management Services
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software

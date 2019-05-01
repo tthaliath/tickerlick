@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+MMM,3M Company Common ,Conglomerates,Conglomerates
+BRID,Bridgford Foods Corp. ,Consumer Goods,Meat Products
+XNY,China Xiniya Fashion Limited Am ,Consumer Goods,Textile - Apparel Clothing
+SLF,Sun Life Financial Inc. Common  ,Financial,Life Insurance
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+BLK,BlackRock Inc,Financial,Asset Management
+WAFD, Washington Federal  Inc. ,Financial,Savings & Loans
+GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund ETF,Global Equity ETF,
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+NGE,Global X Nigeria Index ETF ,N/A,N/A
+NOVT,Novanta Inc.,N/A,N/A
+JBHT,J.B. Hunt Transport Services I ,Services,Trucking
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+PRGS,Progress Software Corporation ,Technology,Application Software
+JD,JD.com Inc.,Technology,Internet Information Providers

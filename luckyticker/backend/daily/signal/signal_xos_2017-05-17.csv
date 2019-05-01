@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+COLM,Columbia Sportswear Company ,Consumer Goods,Textile - Apparel Clothing
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+SSB,South State Corporation,Financial,Regional - Mid-Atlantic Banks
+GCAP,GAIN Capital Holdings Inc. Com ,Financial,Investment Brokerage - National
+AGII,Argo Group International Holdin ,Financial,Property & Casualty Insurance
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+EVR,Evercore Partners Inc Class A C ,Financial,Asset Management
+ARDX,Ardelyx Inc.,Healthcare,Biotechnology
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+CAR,Avis Budget Group Inc. ,Services,Rental & Leasing Services
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+AEO,American Eagle Outfitters Inc. ,Services,Apparel Stores
+LE,Lands' End Inc. ,Services,Catalog & Mail Order Houses
+CALL,magicJack VocalTec Ltd ,Technology,Telecom Services - Domestic
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers

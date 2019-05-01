@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WYDE,ProShares CDS Short North Ameri ,,
+EVIX,VelocityShares 1x Long VSTOXX F,,
+VMAX,REX VolMAXX Long VIX Weekly Fut,,
+JYN,BARCLAYS BANK PLC iPath JPY/USD,,
+MINI,Mobile Mini Inc. ,Consumer Goods,Packaging & Containers
+ZFGN,Zafgen Inc.,Healthcare,Biotechnology
+HHS, Harte-Hanks  Inc. Common ,Services,Marketing Services
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses

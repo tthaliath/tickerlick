@@ -1,0 +1,128 @@
+Buy,APA,Apache Corporation Common ,17.198
+Buy,APH,Amphenol Corporation Common Sto ,13.8872
+Buy,AYI,Acuity Brands Inc (Holding Comp ,6.59932
+Buy,CBS,CBS Corporation Class B Common  ,13.2071
+Buy,CHD,Church & Dwight Company Inc. C ,17.7818
+Buy,CL,Colgate-Palmolive Company Commo ,15.413
+Buy,CRM,Salesforce.com Inc Common ,19.0142
+Buy,CTL,CenturyLink Inc. Common ,16.2914
+Buy,DD,E.I. du Pont de Nemours and Com ,7.11716
+Buy,DFS,Discover Financial Services Com ,11.1101
+Buy,DHI,D.R. Horton Inc. Common ,10.566
+Buy,DHR,Danaher Corporation Common Stoc ,4.1664
+Buy,DOW,Dow Chemical Company (The) Comm ,9.67504
+Buy,DTE,DTE Energy Company Common ,10.4171
+Buy,DVN,Devon Energy Corporation Common ,12.3459
+Buy,ETR,Entergy Corporation Common Stoc ,15.5566
+Buy,EW,Edwards Lifesciences Corporatio ,10.4023
+Buy,EXR,Extra Space Storage Inc Common  ,3.70276
+Buy,FLR,Fluor Corporation Common ,3.56137
+Buy,GD,General Dynamics Corporation Co ,18.5423
+Buy,GILD,Gilead Sciences Inc. ,1.27021
+Buy,GIS,General Mills Inc. Common Stoc ,14.2852
+Buy,GPC,Genuine Parts Company Common St ,15.0829
+Buy,INCY,Incyte Corporation ,17.7522
+Buy,LLL,L-3 Communications Holdings In ,11.8067
+Buy,LMT,Lockheed Martin Corporation Com ,8.88403
+Buy,LUK,Leucadia National Corporation C ,2.46895
+Buy,LUV,Southwest Airlines Company Comm ,7.81331
+Buy,LVLT,Level 3 Communications Inc. Co ,15.316
+Buy,M,Macy's Inc Common ,14.2297
+Buy,MAS,Masco Corporation Common ,4.07464
+Buy,MAT,Mattel Inc. ,5.10627
+Buy,MCK,McKesson Corporation Common Sto ,15.587
+Buy,MDT,Medtronic Inc. Common ,13.3332
+Buy,MMM,3M Company Common ,7.35813
+Buy,MTB,M&T Bank Corporation Common Sto ,10.5929
+Buy,MYL,Mylan Inc. ,12.6388
+Buy,NOC,Northrop Grumman Corporation Co ,4.365
+Buy,ORCL,Oracle Corporation ,3.17439
+Buy,PDCO,Patterson Companies Inc. ,7.69291
+Buy,PFE,Pfizer Inc. Common ,18.9461
+Buy,RTN,Raytheon Company Common ,16.9106
+Buy,SCHW,Charles Schwab Corporation (The ,6.83836
+Buy,EA, Electronic Arts Inc. ,7.74359
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,18.7381
+Buy,HCN, Health Care REIT  Inc. Common S ,8.71697
+Buy,HCP, HCP  Inc. Common ,15.5552
+Buy,HON, Honeywell International Inc. Co ,5.04976
+Buy,NLSN, Nielsen Holdings N.V. Common St ,18.1833
+Buy,EVHC,Envision Healthcare Holdings Inc. ,19.4444
+Buy,NAVI,Navient Corporation ,6.99302
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,15.3156
+Buy,CSRA,CSRA Inc.,2.70347
+Buy,SPGI,S&P Global  Inc.,18.2566
+Buy,UAA,Under Armour  Inc. Class A,2.33925
+Sell,AET,Aetna Inc. Common ,83.4272
+Sell,AGN,Allergan Inc. Common ,86.4093
+Sell,AIV,Apartment Investment and Manage ,93.5562
+Sell,AJG,Arthur J. Gallagher & Co. Commo ,96.2955
+Sell,AKAM,Akamai Technologies Inc. ,80.4744
+Sell,ALB,Albemarle Corporation Common St ,87.2032
+Sell,ALK,Alaska Air Group Inc. Common S ,81.046
+Sell,AMD,Advanced Micro Devices Inc. Co ,87.2627
+Sell,AN,AutoNation Inc. Common ,92.2302
+Sell,CAT,Caterpillar Inc. Common ,95.0039
+Sell,CBOE,CBOE Holdings Inc. ,82.7048
+Sell,CCI,Crown Castle International Corp ,82.8117
+Sell,CCL,Carnival Corporation Common Sto ,81.8929
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,90.4387
+Sell,CI,Cigna Corporation Common ,84.0957
+Sell,CMCSA,Comcast Corporation ,88.3004
+Sell,CME,CME Group Inc. ,91.7239
+Sell,COG,Cabot Oil & Gas Corporation Com ,88.6871
+Sell,CSX,CSX Corporation Common ,97.4132
+Sell,CTAS,Cintas Corporation ,85.9712
+Sell,CTSH,Cognizant Technology Solutions  ,85.0038
+Sell,CTXS,Citrix Systems Inc. ,86.6287
+Sell,CVX,Chevron Corporation Common Stoc ,83.2067
+Sell,CXO,Concho Resources Inc. Common St ,92.5063
+Sell,DG,Dollar General Corporation Comm ,96.0822
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,97.6019
+Sell,DRI,Darden Restaurants Inc. Common ,98.0489
+Sell,EBAY,eBay Inc. ,97.0241
+Sell,ECL,Ecolab Inc. Common ,80.815
+Sell,EQT,EQT Corporation Common ,93.1918
+Sell,ESS,Essex Property Trust Inc. Comm ,82.6835
+Sell,EXPD,Expeditors International of Was ,87.6671
+Sell,EXPE,Expedia Inc. ,95.4585
+Sell,FFIV,F5 Networks Inc. ,94.8716
+Sell,INTC,Intel Corporation ,95.4644
+Sell,INTU,Intuit Inc. ,97.9215
+Sell,IRM,Iron Mountain Incorporated (Del ,84.3564
+Sell,LOW,Lowe's Companies Inc. Common S ,96.8174
+Sell,LRCX,Lam Research Corporation ,81.8921
+Sell,MAA,Mid-America Apartment Communiti ,98.6112
+Sell,MAR,Marriot International Common St ,90.0301
+Sell,MCD,McDonald's Corporation Common S ,94.8896
+Sell,MCHP,Microchip Technology Incorporat ,89.4199
+Sell,MMC,Marsh & McLennan Companies Inc ,90.7384
+Sell,MO,Altria Group Inc. ,87.9088
+Sell,MRK,Merck & Company Inc. Common St ,93.002
+Sell,MRO,Marathon Oil Corporation Common ,88.5188
+Sell,NI,NiSource Inc Common ,94.3391
+Sell,NSC,Norfolk Southern Corporation Co ,82.1531
+Sell,NVDA,NVIDIA Corporation ,94.5127
+Sell,OXY,Occidental Petroleum Corporatio ,84.7494
+Sell,PCLN,priceline.com Incorporated ,96.1611
+Sell,PFG,Principal Financial Group Inc C ,85.859
+Sell,SBUX,Starbucks Corporation ,84.2971
+Sell,SHW,Sherwin-Williams Company (The)  ,95.4103
+Sell,SJM,J.M. Smucker Company (The) New  ,92.7927
+Sell,SLG,SL Green Realty Corporation Com ,84.0912
+Sell,HAL, Halliburton Company Common Stoc ,80.8081
+Sell,HBI, Hanesbrands Inc. Common ,90.4727
+Sell,HD, Home Depot  Inc. (The) Common S ,97.2347
+Sell,HES, Hess Corporation Common ,81.2871
+Sell,HOG, Harley-Davidson  Inc. Common St ,94.9069
+Sell,HP, Helmerich & Payne  Inc. Common  ,91.9189
+Sell,HRB, H&R Block  Inc. Common ,96.1288
+Sell,MSI, Motorola Solutions  Inc. Common ,86.3865
+Sell,PSX, Phillips 66 Common ,85.5901
+Sell,XYL, Xylem Inc. Common ,91.9412
+Sell,MNK,Mallinckrodt plc ,82.5464
+Sell,ZTS,Zoetis Inc. ,82.4292
+Sell,ALLE,Allegion plc Ordinary Shares ,90.535
+Sell,QRVO,Qorvo Inc.,97.218
+Sell,KHC,The Kraft Heinz Company,94.5932
+Sell,DXC,DXC Technology Company,85.8132

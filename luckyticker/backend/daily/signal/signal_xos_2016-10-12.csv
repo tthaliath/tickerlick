@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IFF, Internationa Flavors & Fragranc ,Basic Materials,Specialty Chemicals
+PPG,PPG Industries Inc. Common Sto ,Basic Materials,Specialty Chemicals
+CNS,Cohn & Steers Inc Common ,Financial,Asset Management
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+LBIO,LION BIOTECHNOLOGIES,Healthcare,Biotechnology
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+CI,Cigna Corporation Common ,Healthcare,Health Care Plans
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+N,Netsuite Inc Common ,Technology,Business Software & Services
+XLNX,Xilinx Inc. ,Technology,Semiconductor - Specialized
+DSPG,DSP Group Inc. ,Technology,Communication Equipment
+FTNT,Fortinet Inc. ,Technology,Application Software

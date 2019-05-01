@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PES, Pioneer Energy Services Corp. C ,Basic Materials,Oil & Gas Drilling & Exploration
+RES,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+NBR,Nabors Industries Ltd. ,Basic Materials,Oil & Gas Drilling & Exploration
+WEBK, Wellesley Bancorp  Inc. ,Financial,Regional - Northeast Banks
+PVTB,PrivateBancorp Inc. ,Financial,Regional - Midwest Banks
+PFBX,Peoples Financial Corporation ,Financial,Regional - Northeast Banks
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+CLC,CLARCOR Inc. Common ,Industrial Goods,Diversified Machinery
+CIVBP,Civista Bancshares  Inc.,N/A,N/A
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+TAL,TAL International Group Inc. C ,Services,Rental & Leasing Services
+DLHC, DLH Holdings Corp. ,Services,Staffing & Outsourcing Services

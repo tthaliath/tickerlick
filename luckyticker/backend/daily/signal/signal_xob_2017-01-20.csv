@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SXCL,Steel Excel Inc.,Basic Materials,Oil & Gas Equipment & Services
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+OVLY,Oak Valley Bancorp (CA) ,Financial,Regional - Pacific Banks
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+FWP,Forward Pharma A/S,Healthcare,Biotechnology
+SCAI,Surgical Care Affiliates  Inc. ,N/A,N/A
+ASML,ASML Holding N.V. ,NULL,NULL
+SBLK,Star Bulk Carriers Corp. ,Services,Shipping
+WOOF,VCA Antech Inc. ,Services,Personal Services
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+TK,Teekay Corporation Common ,Services,Shipping
+CLRO,ClearOne Communications Inc. ,Technology,Communication Equipment
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+GILT,Gilat Satellite Networks Ltd. ,Technology,Communication Equipment

@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+USD,ProShares Ultra Semiconductors ETF,Commodity Based ETF,
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+SNAK,Inventure Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+FNLC,First Bancorp Inc (ME) ,Financial,Regional - Northeast Banks
+CINF,Cincinnati Financial Corporatio ,Financial,Property & Casualty Insurance
+OXFD,Oxford Immunotec Global PLC ,Healthcare,Diagnostic Substances
+NTRA,Natera  Inc.,Healthcare,Medical Laboratories & Research
+PRGO,Perrigo Company ,Healthcare,Drug Related Products
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores
+LB,L.B. Foster Company ,Services,Basic Materials Wholesale
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV

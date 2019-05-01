@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VRTS,Virtus Investment Partners Inc ,Financial,Asset Management
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment
+XLRN,Acceleron Pharma Inc. ,Healthcare,Biotechnology
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+AERI,Aerie Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+GLPG,Galapagos NV ,N/A,N/A
+TYNS,Direxion Daily 7-10 Yr Treasury Bear 1X ,N/A,N/A
+NSAT,Norsat International Inc. (NEW),N/A,N/A
+ISLE,Isle of Capri Casinos Inc. ,Services,Resorts & Casinos
+BGFV,Big 5 Sporting Goods Corporatio ,Services,Sporting Goods Stores
+CZR, Caesars Entertainment Corporati ,Services,Resorts & Casinos
+DTSI,DTS Inc. ,Technology,Application Software
+DLB,Dolby Laboratories Common ,Technology,Diversified Electronics
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+TSRA,Tessera Technologies Inc. ,Technology,Semiconductor Equipment & Materials
+RHT,Red Hat Inc. Common ,Technology,Application Software
+PTH,PowerShares Dynamic Heathcare ETF,US Equity ETF,

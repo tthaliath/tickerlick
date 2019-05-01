@@ -1,0 +1,39 @@
+Buy,AMGN,Amgen Inc. ,14.2888
+Buy,AMZN,Amazon.com Inc. ,4.65578
+Buy,BA,Boeing Company (The) Common Sto ,16.1301
+Buy,BIIB,Biogen Idec Inc. ,19.0525
+Buy,BK,Bank of New York Mellon Corpora ,12.5024
+Buy,CAT,Caterpillar Inc. Common ,5.00496
+Buy,CMCSA,Comcast Corporation ,16.6582
+Buy,COF,Capital One Financial Corporati ,14.2888
+Buy,EMR,Emerson Electric Company Common ,9.99466
+Buy,EXC,Exelon Corporation Common ,18.5189
+Buy,GE,General Electric Company Common ,16.6698
+Buy,INTC,Intel Corporation ,4.68731
+Buy,LMT,Lockheed Martin Corporation Com ,10.2582
+Buy,MA,Mastercard Incorporated Common  ,10.0092
+Buy,MDT,Medtronic Inc. Common ,19.9908
+Buy,MET,MetLife Inc. Common ,14.2888
+Buy,MMM,3M Company Common ,5.00458
+Buy,MON,Monsanto Company Common ,14.2888
+Buy,MS,Morgan Stanley Common ,7.14441
+Buy,PM,Philip Morris International Inc ,9.95807
+Buy,QCOM,QUALCOMM Incorporated ,14.7929
+Buy,SBUX,Starbucks Corporation ,18.1817
+Buy,TWX,Time Warner Inc. New Common Sto ,1.99908
+Buy,XOM,Exxon Mobil Corporation Common  ,12.5785
+Buy,GLD, SPDR Gold Trust ,15.3824
+Buy,HAL, Halliburton Company Common Stoc ,19.9545
+Buy,HON, Honeywell International Inc. Co ,16.6709
+Buy,IBM, International Business Machines ,14.2795
+Buy,LLY, Eli Lilly and Company Common St ,12.5024
+Buy,PYPL,PayPal Holdings  Inc.,16.6645
+Sell,COP,ConocoPhillips Common ,84.6154
+Sell,CSCO,Cisco Systems Inc. ,92.0631
+Sell,DD,E.I. du Pont de Nemours and Com ,92.8569
+Sell,KO,Coca-Cola Company (The) Common  ,84.6149
+Sell,LOW,Lowe's Companies Inc. Common S ,88.2075
+Sell,NKE,Nike Inc. Common ,82.8281
+Sell,SO,Southern Company (The) Common S ,84.0909
+Sell,HD, Home Depot  Inc. (The) Common S ,84.7452
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,80.8822

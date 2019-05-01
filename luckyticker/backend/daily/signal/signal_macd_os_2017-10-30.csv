@@ -1,0 +1,105 @@
+ticker,name,sector,industry
+BHGE,Baker Hughes Incorporated Commo ,Basic Materials,Oil & Gas Equipment & Services
+DISH,DISH Network Corporation ,Services,CATV Systems
+APA,Apache Corporation Common ,Basic Materials,Independent Oil & Gas
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+HAL, Halliburton Company Common Stoc ,Basic Materials,Oil & Gas Equipment & Services
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+YCL,ProShares Ultra Yen ETF,Commodity Based ETF,
+IBDM,iShares iBonds Dec 2021 Term Co,,
+SKOR,FlexShares Credit-Scored US Cor ,,
+JMF, Nuveen Energy MLP Total Return  ,N/A,N/A
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+AMH,American Homes 4 Rent ,Financial,REIT - Residential
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+IMGN, ImmunoGen  Inc. ,Healthcare,Biotechnology
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+MYJ, Blackrock MuniYield New Jersey  ,Financial,Closed-End Fund - Debt
+VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income ETF,
+TOLZ,ProShares DJ Brookfield Glbl Infras ETF ,N/A,N/A
+EVY, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+CMCT,CIM Commerical Trust Corp. ,Financial,REIT - Industrial
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+IBDN,iShares iBonds Dec 2022 Term Co,,
+MLPY, Morgan Stanley Cushing MLP High ,N/A,N/A
+NUSA,NuShares Enhanced Yield 1-5 Yea,,
+BOFIL,Schnell Voyager 3 SICAV ,N/A,N/A
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+RMCF,Rocky Mountain Chocolate Factor ,Consumer Goods,Confectioners
+KERX,Keryx Biopharmaceuticals Inc. ,Healthcare,Biotechnology
+SHPG, Shire plc ,N/A,N/A
+MMYT,MakeMyTrip Limited ,Services,General Entertainment
+GHY,Prudential Global Short Duratio ,N/A,N/A
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+BOND,PIMCO Total Return Exchange-Traded Fund,Fixed Income ETF,
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+MQT, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+MBG,SPDR Barclays Capital Mortgage Backed Bond ETF,Fixed Income ETF,
+SNDX,Syndax Pharmaceuticals  Inc.,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+HABT,The Habit Restaurants Inc.,Services,Restaurants
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+AMJL,Credit Suisse X-Links Monthly P,,
+ENFR,ALPS Alerian Energy Infrastructure ETF ,N/A,N/A
+VNDA,Vanda Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+FIXD,First Trust TCW Opportunistic F,,
+SOHOB,Sotherly Hotels Inc.,N/A,N/A
+DTF, DTF Tax-Free Income  Inc. Commo ,Financial,Closed-End Fund - Debt
+MLPZ,UBS AG ETRACS ETRACS 2xMonthly,,
+SPN,Superior Energy Services Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+PIRS,Pieris Pharmaceuticals  Inc.,Healthcare,Biotechnology
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ENY,Guggenheim Canadian Energy Income ETF,Global Equity ETF,
+AAV,Advantage Oil & Gas Ltd  Ordina ,Basic Materials,Oil & Gas Drilling & Exploration
+IEZ,iShares Dow Jones U.S. Oil Equipment & Services Index Fund ETF,US Equity ETF,
+NEO,Neogenomics Inc. ,Healthcare,Medical Laboratories & Research
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+EDV,Vanguard Extended Duration Treasury ETF,Fixed Income ETF,
+UNT,Unit Corporation Common ,Basic Materials,Oil & Gas Drilling & Exploration
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+DSE,Duff &amp; Phelps Select Energy MLP,N/A,N/A
+MLPQ,UBS AG ETRACS 2xMonthly Leverag,,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+MLPI, UBS AG ETN ,N/A,N/A
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+SNP,China Petroleum & Chemical Corp ,Basic Materials,Major Integrated Oil & Gas
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+BGNE,BeiGene  Ltd.,N/A,N/A
+IAG, Iamgold Corporation Ordinary Sh ,Basic Materials,Gold
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+FLXN,Flexion Therapeutics Inc. ,Healthcare,Drug Manufacturers - Major
+CPLA,Capella Education Company ,Services,Education & Training Services
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+ACY,AeroCentury Corp. Common ,Services,Rental & Leasing Services
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+PBA, Pembina Pipeline Corp. Ordinary ,Basic Materials,Oil & Gas Pipelines
+GAINO,Gladstone Investment Corporatio,N/A,N/A
+OLD,The Long-Term Care ETF,,
+OIH,Market Vectors Oil Services ETF,US Equity ETF,
+SRUNU,Silver Run Acquisition Corporat,,
+SFHY,WisdomTree Fundamental U.S. Sho,,
+BKEP, Blueknight Energy Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+PXJ,PowerShares Dynamic Oil Services ETF,US Equity ETF,
+MBB,iShares Barclays MBS Fixed-Rate Bond ETF,Fixed Income ETF,
+PCI,PIMCO Dynamic Credit Income Fun ,N/A,N/A
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,US Equity ETF,
+IBDP,iShares iBonds Dec 2024 Term Co,,
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines

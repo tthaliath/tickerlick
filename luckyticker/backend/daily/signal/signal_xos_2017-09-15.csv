@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RXD,ProShares UltraShort Health Care ETF,Commodity Based ETF,
+CZWI,Citizens Community Bancorp Inc ,Financial,Regional - Midwest Banks
+EFX,Equifax Inc. Common ,Financial,Credit Services
+FWP,Forward Pharma A/S,Healthcare,Biotechnology
+TCPC, TCP Capital Corp. ,N/A,N/A
+SLRC, Solar Capital Ltd. ,N/A,N/A
+ALOT,Astro-Med Inc. ,Technology,Computer Peripherals
+RDWR,Radware Ltd. ,Technology,Information Technology Services
+UPLD,Upland Software Inc.,Technology,Application Software
+SMCI,Super Micro Computer Inc. ,Technology,Networking & Communication Devices
+ABY,Abengoa Yield plc,Utilities,Electric Utilities

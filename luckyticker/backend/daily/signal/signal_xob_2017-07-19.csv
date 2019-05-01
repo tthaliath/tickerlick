@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+MGPI,MGP Ingredients Inc. ,Consumer Goods,Processed & Packaged Goods
+ATR,AptarGroup Inc. Common ,Consumer Goods,Packaging & Containers
+CHN, China Fund  Inc. (The) Common S ,Financial,Closed-End Fund - Foreign
+BX,The Blackstone Group L.P. Commo ,Financial,Asset Management
+WDR,Waddell & Reed Financial Inc.  ,Financial,Asset Management
+CQQQ,Guggenheim China Technology ETF,Global Equity ETF,
+PTLA,Portola Pharmaceuticals Inc. ,Healthcare,Biotechnology
+TDG,Transdigm Group Incorporated Tr ,Industrial Goods,Aerospace/Defense Products & Services
+LFUS,Littelfuse Inc. ,Industrial Goods,Industrial Electrical Equipment
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+MXE, Mexico Equity and Income Fund   ,N/A,N/A
+IID, ING International High Dividend ,N/A,N/A
+SRG,Seritage Growth Properties,N/A,N/A
+ASML,ASML Holding N.V. ,NULL,NULL
+OMAB,Grupo Aeroportuario del Centro  ,NULL,NULL
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+NTRI,NutriSystem Inc ,Services,Consumer Services
+CONN,Conn's Inc. ,Services,Electronics Stores
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+PCYG,Park City Group Inc. Common St ,Technology,Business Software & Services
+NATI,National Instruments Corporatio ,Technology,Technical & System Software
+EPAY,Bottomline Technologies Inc. ,Technology,Business Software & Services
+ITRI,Itron Inc. ,Technology,Scientific & Technical Instruments

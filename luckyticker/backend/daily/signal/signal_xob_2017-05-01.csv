@@ -1,0 +1,63 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QGBR,SPDR MSCI United Kingdom Qualit ,,
+ARKQ,ARK Industrial Innovation ETF ,,
+POL,PolyOne Corporation Common Stoc ,Basic Materials,Specialty Chemicals
+KMG, KMG Chemicals  Inc. Common Stoc ,Basic Materials,Specialty Chemicals
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+TQQQ,ProShares UltraPro QQQ ETF,Commodity Based ETF,
+QLD,ProShares Ultra QQQ ETF,Commodity Based ETF,
+ROM,ProShares Ultra Technology ETF,Commodity Based ETF,
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+SAFM,Sanderson Farms Inc. ,Consumer Goods,Food - Major Diversified
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+CAJ,Canon Inc. American Depositary ,Consumer Goods,Photographic Equipment & Supplies
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+MSF, Morgan Stanley Emerging Markets ,Financial,Closed-End Fund - Foreign
+GLQ, Clough Global Equity Fund Cloug ,Financial,Closed-End Fund - Foreign
+UTF, Cohen & Steers Infrastructure F ,Financial,Closed-End Fund - Equity
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+CG, The Carlyle Group L.P. ,Financial,Asset Management
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+JFC, JF China Region  Fund  Inc. Com ,Financial,Closed-End Fund - Foreign
+LGI, Lazard Global Total Return and  ,Financial,Closed-End Fund - Foreign
+FSZ,First Trust Switzerland AlphaDEX ETF,Global Equity ETF,
+CHE,Chemed Corp ,Healthcare,Home Health Care
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+EXAS,Exact Sciences Corporation ,Healthcare,Biotechnology
+BSX,Boston Scientific Corporation C ,Healthcare,Medical Appliances & Equipment
+STE,STERIS Corporation Common ,Healthcare,Medical Appliances & Equipment
+B,Barnes Group Inc. Common ,Industrial Goods,Industrial Equipment & Components
+NNBR,NN Inc. ,Industrial Goods,Machine Tools & Accessories
+GGG,Graco Inc. Common ,Industrial Goods,Diversified Machinery
+IR,Ingersoll-Rand plc (Ireland) ,Industrial Goods,Diversified Machinery
+MKSI,MKS Instruments Inc. ,Industrial Goods,Diversified Machinery
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+GOF, Guggenheim Strategic Opportunit ,N/A,N/A
+FIBG,Credit Suisse FI Enhanced Big Cap Gr ETN ,N/A,N/A
+GGZ,Gabelli Global Small and Mid Ca,N/A,N/A
+RCL,Royal Caribbean Cruises Ltd. Co ,Services,Resorts & Casinos
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+CBZ,CBIZ Inc. Common ,Services,Business Services
+PCLN,priceline.com Incorporated ,Services,General Entertainment
+FRPH,FRP Holdings Inc.,Services,Trucking
+CSGP,CoStar Group Inc. ,Services,Business Services
+TAL,TAL International Group Inc. C ,Services,Rental & Leasing Services
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+BRKS,Brooks Automation Inc. ,Technology,Semiconductor Equipment & Materials
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+KLIC,Kulicke and Soffa Industries I ,Technology,Semiconductor Equipment & Materials
+TRMB,Trimble Navigation Limited ,Technology,Scientific & Technical Instruments
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services
+JCOM,j2 Global Inc. ,Technology,Internet Software & Services
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+AVNW,Aviat Networks Inc. ,Technology,Communication Equipment
+KYO,Kyocera Corporation Common Stoc ,Technology,Diversified Electronics
+TRUE,TrueCar Inc.,Technology,Internet Service Providers
+NOW,ServiceNow Inc. Common ,Technology,Information Technology Services
+FB, Facebook  Inc. ,Technology,Internet Information Providers
+PSJ,PowerShares Dynamic Software ETF,US Equity ETF,
+XHE,SPDR S&P Healthcare Equipment ETF,US Equity ETF,
+PNQI,PowerShares Nasdaq Internet Portfolio ETF,US Equity ETF,

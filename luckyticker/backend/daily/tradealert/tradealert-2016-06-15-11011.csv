@@ -1,0 +1,58 @@
+Buy,RF,Regions Financial Corporation C ,15.7934
+Buy,BAC,Bank of America Corporation Com ,17.0127
+Buy,URBN,Urban Outfitters Inc. ,17.3633
+Buy,CMA,Comerica Incorporated Common St ,20.715
+Buy,HBAN, Huntington Bancshares Incorpora ,22.0216
+Buy,STI,SunTrust Banks Inc. Common Sto ,22.2713
+Buy,PRU,Prudential Financial Inc. Comm ,22.8186
+Buy,KEY,KeyCorp Common ,23.2252
+Buy,WFC,Wells Fargo & Company Common St ,23.2526
+Buy,LNC,Lincoln National Corporation Co ,23.7858
+Buy,JPM,JP Morgan Chase & Co. Common St ,24.5201
+Buy,PNC,PNC Financial Services Group I ,25.226
+Buy,IVZ,Invesco Plc New Common ,25.61
+Buy,PFG,Principal Financial Group Inc C ,27.5186
+Buy,STT, State Street Corporation Common ,27.6706
+Buy,MET,MetLife Inc. Common ,29.0205
+Buy,C,Citigroup Inc. Common ,29.3435
+Sell,GAS,AGL Resources Inc. Common Stoc ,70.2575
+Sell,DOV,Dover Corporation Common ,70.7269
+Sell,VTR,Ventas Inc. Common ,71.5565
+Sell,CAT,Caterpillar Inc. Common ,71.746
+Sell,IRM,Iron Mountain Incorporated (Del ,71.807
+Sell,PG,Procter & Gamble Company (The)  ,71.8213
+Sell,XEL,Xcel Energy Inc. Common ,71.9399
+Sell,ES,EnergySolutions Inc Common Stoc ,72.2117
+Sell,ETR,Entergy Corporation Common Stoc ,72.358
+Sell,EW,Edwards Lifesciences Corporatio ,72.7419
+Sell,DTE,DTE Energy Company Common ,72.7903
+Sell,CAG,ConAgra Foods Inc. Common Stoc ,72.9852
+Sell,SCG,SCANA Corporation Common ,73.3318
+Sell,CPB,Campbell Soup Company Common St ,73.6794
+Sell,ED,Consolidated Edison Inc. Commo ,73.8097
+Sell,PLD,ProLogis Inc. Common ,74.0333
+Sell,HP, Helmerich & Payne  Inc. Common  ,74.1856
+Sell,HRL, Hormel Foods Corporation Common ,74.5783
+Sell,CMS,CMS Energy Corporation Common S ,74.6927
+Sell,DUK,Duke Energy Corporation (Holdin ,75.4144
+Sell,O,Realty Income Corporation Commo ,75.7014
+Sell,COG,Cabot Oil & Gas Corporation Com ,75.9929
+Sell,EIX,Edison International Common Sto ,76.1929
+Sell,AEE,Ameren Corporation Common ,76.5365
+Sell,MKC,McCormick & Company Incorporat ,76.8442
+Sell,VZ,Verizon Communications Inc. Com ,77.1566
+Sell,NEM,Newmont Mining Corporation (Hol ,77.1802
+Sell,D,Dominion Resources Inc. Common ,78.0971
+Sell,WEC,Wisconsin Energy Corporation Co ,78.286
+Sell,AEP,American Electric Power Company ,78.3699
+Sell,K,Kellogg Company Common ,79.782
+Sell,KO,Coca-Cola Company (The) Common  ,80.3856
+Sell,MO,Altria Group Inc. ,81.4447
+Sell,GIS,General Mills Inc. Common Stoc ,82.0051
+Sell,HCN, Health Care REIT  Inc. Common S ,82.3747
+Sell,CCI,Crown Castle International Corp ,82.9473
+Sell,RAI,Reynolds American Inc Common St ,83.8404
+Sell,PM,Philip Morris International Inc ,84.0982
+Sell,KMB,Kimberly-Clark Corporation Comm ,84.1141
+Sell,PEP,Pepsico Inc. Common ,85.6875
+Sell,AMT,American Tower Corporation (REI ,86.1397

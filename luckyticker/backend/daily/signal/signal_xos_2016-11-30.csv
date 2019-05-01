@@ -1,0 +1,4 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FTSD,Franklin Short Duration U.S. Go ,,
+PRB,Market Vectors Pre-Refunded Municipal Index ETF,Fixed Income ETF,
+HTF, Horizon Technology Finance Corp ,N/A,N/A

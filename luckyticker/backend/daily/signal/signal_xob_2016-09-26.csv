@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EPM,Evolution Petroleum Corporation ,Basic Materials,Independent Oil & Gas
+USBI,United Security Bancshares Inc ,Financial,Regional - Southeast Banks
+CLCD,CoLucid Pharmaceuticals  Inc.,Healthcare,Biotechnology
+ATEC,Alphatec Holdings Inc. ,Healthcare,Medical Instruments & Supplies
+PRQR,ProQR Therapeutics N.V.,Healthcare,Biotechnology
+ARDM,Aradigm Corporation,Healthcare,Drug Delivery
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+SMMT,Summit Therapeutics plc,N/A,N/A
+UBM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+ITRN,Ituran Location and Control Ltd ,NULL,NULL
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities

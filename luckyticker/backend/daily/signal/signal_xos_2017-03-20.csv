@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CELP,Cypress Energy Partners L.P. ,Basic Materials,Oil & Gas Equipment & Services
+MNRO,Monro Muffler Brake Inc. ,Consumer Goods,Auto Parts
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+AGO,Assured Guaranty Ltd. Common St ,Financial,Surety & Title Insurance
+MDLY,Medley Management Inc. Class A,N/A,N/A
+ONG,iPath Pure Beta Energy ETN ,N/A,N/A
+CHKE,Cherokee Inc. ,Services,Apparel Stores
+RUBI,the Rubicon Project Inc. ,Technology,Application Software
+SSNI,Silver Spring Networks Inc. ,Technology,Computer Based Systems

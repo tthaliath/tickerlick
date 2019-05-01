@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+ESTE, Earthstone Energy  Inc. Common  ,Basic Materials,Independent Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+HFBL,Home Federal Bancorp Inc. of Louisiana ,Financial,Savings & Loans
+CBFV,CB Financial Services Inc.,Financial,Regional - Northeast Banks
+DGICB, Donegal Group  Inc. ,Financial,Property & Casualty Insurance
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+UAG,UBS E-TRACS CMCI Agriculture TR ETN ,N/A,N/A
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+BPFHW,Boston Private Financial Holdings Inc. ,N/A,N/A
+MDLY,Medley Management Inc. Class A,N/A,N/A
+SWNC,Southwestern Energy Company Dep,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+JMBA,Jamba Inc. ,Services,Restaurants
+EXPR,Express Inc. Common ,Services,Apparel Stores
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores

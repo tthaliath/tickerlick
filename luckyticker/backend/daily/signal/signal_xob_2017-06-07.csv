@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+UN,Unilever NV Common ,Consumer Goods,Processed & Packaged Goods
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+EL,Estee Lauder Companies Inc. (T ,Consumer Goods,Personal Products
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+CVGW,Calavo Growers Inc. ,Consumer Goods,Farm Products
+UL,Unilever PLC Common ,Consumer Goods,Food - Major Diversified
+ICE, IntercontinentalExchange  Inc.  ,Financial,Diversified Investments
+FOR, Forestar Group Inc Common ,Financial,Real Estate Development
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+IPK,SPDR S&P International Technology Sector ETF,Global Equity ETF,
+SCJ,iShares MSCI Japan Sm Cap ETF,Global Equity ETF,
+EFAV,iShares MSCI EAFE Minimum Volatility Index Fund ETF,Global Equity ETF,
+UNH,UnitedHealth Group Incorporated ,Healthcare,Health Care Plans
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+EEI,Ecology and Environment Inc. ,Industrial Goods,Waste Management
+FGL,Fidelity and Guaranty Life Common ,N/A,N/A
+CCZ,Comcast Holdings ZONES,N/A,N/A
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+PLAY,Dave &amp; Busters EntertainmentInc ,N/A,N/A
+NGE,Global X Nigeria Index ETF ,N/A,N/A
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A
+GDL, GDL Fund  The Common Shares of  ,N/A,N/A
+ALRM,Alarm.com Holdings  Inc. ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+MA,Mastercard Incorporated Common  ,Services,Business Services
+ARMK,ARAMARK Holdings Corporation ,Services,Specialty Eateries
+EXTR,Extreme Networks Inc. ,Technology,Networking & Communication Devices
+BLKB,Blackbaud Inc. ,Technology,Business Software & Services
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+LPL,LG Display Co Ltd AMERICAN DEP ,Technology,Diversified Electronics
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+VHC,VirnetX Holding Corp Common Sto ,Technology,Internet Software & Services
+HQY,HealthEquity Inc.,Technology,Healthcare Information Services
+PAYC,Paycom Software Inc. ,Technology,Application Software

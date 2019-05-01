@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QESP,SPDR MSCI Spain Quality Mix ETF ,,
+FIZZ,National Beverage Corp. ,Consumer Goods,Beverages - Soft Drinks
+SBY,Silver Bay Realty Trust Corp. ,Financial,REIT - Residential
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+FMI,Foundation Medicine Inc. ,Healthcare,Medical Laboratories & Research
+INCY,Incyte Corporation ,Healthcare,Biotechnology
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+AUPH,Aurinia Pharmaceuticals Inc,N/A,N/A
+GLPG,Galapagos NV ,N/A,N/A
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+NTRI,NutriSystem Inc ,Services,Consumer Services
+TSL,Trina Solar Limited Sponsored A ,Technology,Semiconductor - Specialized
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+ATVI,Activision Blizzard Inc ,Technology,Multimedia & Graphics Software
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics

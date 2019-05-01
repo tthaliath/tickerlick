@@ -1,0 +1,60 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IBMI,iShares iBonds Sep 2020 AMT-Fre ,,
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+FGP,Ferrellgas Partners L.P. Commo ,Basic Materials,Oil & Gas Refining & Marketing
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+IBA, Industrias Bachoco  S.A.B. de C ,Consumer Goods,Meat Products
+FBHS, Fortune Brands Home & Security  ,Consumer Goods,Home Furnishings & Fixtures
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+LEG,Leggett & Platt Incorporated C ,Consumer Goods,Home Furnishings & Fixtures
+GIL,Gildan Activewear Inc. Class A ,Consumer Goods,Textile - Apparel Clothing
+INGR, Ingredion Incorporated Common S ,Consumer Goods,Processed & Packaged Goods
+NUM, Nuveen Michigan Quality Income  ,Financial,Closed-End Fund - Debt
+MAB, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+ORI,Old Republic International Corp ,Financial,Surety & Title Insurance
+GAB, Gabelli Equity Trust  Inc. (The ,Financial,Closed-End Fund - Equity
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+RPT,Ramco-Gershenson Properties Tru ,Financial,REIT - Retail
+WPG,Washington Prime Group Inc. Com,Financial,Property Management
+MUB,iShares S&P National Municipal Bond Fund ETF,Fixed Income ETF,
+MLPA,Global X MLP ETF,Global Equity ETF,
+URA,Global X Uranium ETF,Global Equity ETF,
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+TRS,TriMas Corporation ,Industrial Goods,Industrial Equipment & Components
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+UFPI,Universal Forest Products Inc. ,Industrial Goods,General Building Materials
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+HPI, John Hancock Preferred Income F ,N/A,N/A
+JGBT,PowerShares DB 3x Japan Gov Bond ETN ,N/A,N/A
+RZA, Reinsurance Group of America  I ,N/A,N/A
+CHCT,Community Healthcare Trust Incorporated,N/A,N/A
+NOBL,ProShares SandP 500 Aristocrats ETF ,N/A,N/A
+MCR, MFS Charter Income Trust Common ,N/A,N/A
+VBF, Invesco Van Kampen Bond Fund Co ,N/A,N/A
+GRX, The Gabelli Healthcare & Wellne ,N/A,N/A
+NBB, Nuveen Build America Bond Fund  ,N/A,N/A
+WEA, Western Asset Bond Fund Share o ,N/A,N/A
+KFYP,KraneShares CSI China Five Year Plan ETF ,N/A,N/A
+OMAB,Grupo Aeroportuario del Centro  ,NULL,NULL
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+APOL,Apollo Group Inc. ,Services,Education & Training Services
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+QVCA,Liberty Interactive Corporation,Services,Catalog & Mail Order Houses
+PAC,Grupo Aeroportuario Del Pacific ,Services,Air Services Other
+SYKE,Sykes Enterprises Incorporated ,Technology,Information Technology Services
+JASO,JA Solar Holdings Co. Ltd. ,Technology,Semiconductor - Specialized
+NAME,Rightside Group Ltd.,Technology,Internet Information Providers
+CTSH,Cognizant Technology Solutions  ,Technology,Business Software & Services
+JCS,Communications Systems Inc. ,Technology,Communication Equipment
+PKB,PowerShares Dynamic Build & Construction ETF,US Equity ETF,

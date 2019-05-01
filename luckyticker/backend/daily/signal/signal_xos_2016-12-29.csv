@@ -1,0 +1,7 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BLH, Blackrock New York Municipal 20 ,Financial,Closed-End Fund - Debt
+CHIE,Global X China Energy ETF,Global Equity ETF,
+CHSCP, CHS Inc ,N/A,N/A
+IFN, India Fund  Inc. (The) Common S ,N/A,N/A
+JJN, iPath Dow Jones UBS Nickel Subi ,N/A,N/A
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems

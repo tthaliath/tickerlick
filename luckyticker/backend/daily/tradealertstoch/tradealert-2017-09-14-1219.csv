@@ -1,0 +1,39 @@
+Buy,ABT,Abbott Laboratories Common Stoc ,3.14648
+Buy,AMZN,Amazon.com Inc. ,16.2503
+Buy,AXP,American Express Company Common ,7.20732
+Buy,CMCSA,Comcast Corporation ,5.20123
+Buy,COF,Capital One Financial Corporati ,16.7094
+Buy,COP,ConocoPhillips Common ,10.8231
+Buy,COST,Costco Wholesale Corporation ,16.0257
+Buy,GOOG,Alphabet Inc.,1.2418
+Buy,JPM,JP Morgan Chase & Co. Common St ,12.0739
+Buy,KO,Coca-Cola Company (The) Common  ,17.9855
+Buy,MS,Morgan Stanley Common ,19.2593
+Buy,OXY,Occidental Petroleum Corporatio ,7.17049
+Buy,PEP,Pepsico Inc. Common ,12.5492
+Buy,PM,Philip Morris International Inc ,16.88
+Buy,TWX,Time Warner Inc. New Common Sto ,12.2218
+Buy,XOM,Exxon Mobil Corporation Common  ,4.73568
+Buy,BRK-B,Berkshire Hathaway Inc.,14.5824
+Buy,HON, Honeywell International Inc. Co ,11.0493
+Buy,VIX,VOLATILITY S&P 500,15.3255
+Sell,BMY,Bristol-Myers Squibb Company Co ,96.5944
+Sell,C,Citigroup Inc. Common ,91.8268
+Sell,CAT,Caterpillar Inc. Common ,97.516
+Sell,CL,Colgate-Palmolive Company Commo ,94.6761
+Sell,EMR,Emerson Electric Company Common ,97.0515
+Sell,EXC,Exelon Corporation Common ,91.8027
+Sell,GM,General Motors Company Common S ,90.784
+Sell,INTC,Intel Corporation ,81.0303
+Sell,JNJ,Johnson & Johnson Common ,86.4237
+Sell,LOW,Lowe's Companies Inc. Common S ,95.899
+Sell,MMM,3M Company Common ,93.6658
+Sell,MRK,Merck & Company Inc. Common St ,94.4444
+Sell,NEE,NextEra Energy Inc. Common Sto ,98.7217
+Sell,NKE,Nike Inc. Common ,96.9782
+Sell,PFE,Pfizer Inc. Common ,94.7495
+Sell,QCOM,QUALCOMM Incorporated ,91.6338
+Sell,SO,Southern Company (The) Common S ,98.1704
+Sell,SPG,Simon Property Group Inc. Comm ,91.3374
+Sell,TGT,Target Corporation Common ,94.2163
+Sell,BLK,BlackRock Inc,89.9039

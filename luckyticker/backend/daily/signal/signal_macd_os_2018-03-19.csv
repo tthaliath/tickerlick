@@ -1,0 +1,34 @@
+ticker,name,sector,industry
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+NXQ, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+NPV, Nuveen Virginia Premium Income  ,Financial,Closed-End Fund - Debt
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+BBGI,Beasley Broadcast Group Inc. ,Services,Broadcasting - Radio
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+FFC, Flaherty & Crumrine /Claymore P ,Financial,Closed-End Fund - Debt
+WDRW,Direxion Daily Regional Banks B,,
+NNC, Nuveen North Carolina Premium I ,Financial,Closed-End Fund - Debt
+NXN, Nuveen New York Select Tax-Free ,Financial,Closed-End Fund - Debt
+PFK, Prudential Financial Inflation- ,N/A,N/A
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+IAG, Iamgold Corporation Ordinary Sh ,Basic Materials,Gold
+HYIH,Deutsche X-trackers High Yield,,
+SA,Seabridge Gold Inc. Ordinary S ,Basic Materials,Gold
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+PNI, Pimco New York Municipal Income ,N/A,N/A
+CYAD,Celyad SA,N/A,N/A
+VNLA,Janus Short Duration Income ETF,,
+NEN,New England Realty Associates L ,Financial,Property Management
+NEAR,iShares Short Maturity Bond ,N/A,N/A
+HRG, Harbinger Group Inc Common Stoc ,Conglomerates,Conglomerates
+FLOT,iShares Floating Rate Note ETF,Fixed Income ETF,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+DGICA,Donegal Group Inc. ,NULL,NULL
+BNED,Barnes & Noble Education  Inc.,Services,Specialty Retail  Other
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+MHF, Western Asset Municipal High In ,N/A,N/A
+BKE,Buckle Inc. (The) Common ,Services,Apparel Stores
+IRCP,IRSA Propiedades Comerciales S.A.,N/A,N/A
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,

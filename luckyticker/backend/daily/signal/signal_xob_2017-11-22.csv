@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AYX,Alteryx  Inc. Class A,,
+PUMP,ProPetro Holding Corp.,,
+HFC, HollyFrontier Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+MANU, Manchester United Ltd. Class A  ,Consumer Goods,Recreational Goods  Other
+COLM,Columbia Sportswear Company ,Consumer Goods,Textile - Apparel Clothing
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+SWJ, Stanley Black & Decker  Inc. 5. ,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+AINC,Ashford Inc. Common,N/A,N/A
+CEA,China Eastern Airlines Corporat ,Services,Major Airlines
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+NEWM,New Media Investment Group Inc. ,Services,Publishing - Newspapers
+FL,Footlocker Inc. ,Services,Apparel Stores
+ZNH,China Southern Airlines Company ,Services,Major Airlines
+UEPS,Net 1 UEPS Technologies Inc. ,Services,Business Services
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+EIGI,Endurance International Group Holdings Inc. ,Technology,Application Software
+TRT,Trio-Tech International Common  ,Technology,Semiconductor Equipment & Materials
+MRVL,Marvell Technology Group Ltd. ,Technology,Semiconductor - Integrated Circuits
+MARK, Remark Media  Inc. ,Technology,Internet Information Providers
+YY,YY Inc. ,Technology,Internet Information Providers
+XNET,Xunlei Limited,Technology,Application Software
+CAVM,Cavium Inc. ,Technology,Semiconductor - Broad Line
+MLNX,Mellanox Technologies Ltd. ,Technology,Semiconductor - Broad Line

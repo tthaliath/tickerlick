@@ -1,0 +1,45 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPXE,ProShares S&P 500 Ex-Energy ETF,,
+ARGX,argenx SE - American Depositary,,
+XSHQ,PowerShares S&P SmallCap Qualit,,
+GLF,GulfMark Offshore Inc. New Com ,Basic Materials,Oil & Gas Equipment & Services
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+UMDD,ProShares UltraPro MidCap400 ETF,Commodity Based ETF,
+MMM,3M Company Common ,Conglomerates,Conglomerates
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+BLK,BlackRock Inc,Financial,Asset Management
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+UNH,UnitedHealth Group Incorporated ,Healthcare,Health Care Plans
+USNA,USANA Health Sciences Inc. Com ,Healthcare,Drug Related Products
+ILMN, Illumina  Inc. ,Healthcare,Biotechnology
+IEX, IDEX Corporation Common ,Industrial Goods,Diversified Machinery
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+ITW,Illinois Tool Works Inc. Common ,Industrial Goods,Diversified Machinery
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+SNA,Snap-On Incorporated Common Sto ,Industrial Goods,Small Tools & Accessories
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+ETHO,Etho Climate Leadership U.S. ET ,N/A,N/A
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+LIVN,LivaNova PLC,N/A,N/A
+LOV,Spark Networks Inc. Common Sto ,Services,Consumer Services
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+GWR, Genesee & Wyoming Inc. Class A  ,Services,Railroads
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+UNP,Union Pacific Corporation Commo ,Services,Railroads
+CHH,Choice Hotels International In ,Services,Lodging
+FFIV,F5 Networks Inc. ,Technology,Application Software
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+CUDA,Barracuda Networks Inc. ,Technology,Communication Equipment
+DCM,NTT DOCOMO Inc American Deposi ,Technology,Telecom Services - Foreign
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,
+MDY,SPDR S&P MidCap 400 ETF,US Equity ETF,
+IHF,iShares Dow Jones U.S. Health Care Providers Index Fund ETF,US Equity ETF,

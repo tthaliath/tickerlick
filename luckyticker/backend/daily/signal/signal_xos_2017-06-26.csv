@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CTNN,iPath Pure Beta Cotton ETN ,,
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+CRZO,Carrizo Oil & Gas Inc. ,Basic Materials,Independent Oil & Gas
+OAS,Oasis Petroleum Inc. Common Sto ,Basic Materials,Independent Oil & Gas
+LPI, Laredo Petroleum Holdings  Inc. ,Basic Materials,Independent Oil & Gas
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+TICC,TICC Capital Corp. ,Financial,Asset Management
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+FCT, First Trust Senior Floating Rat ,N/A,N/A
+JSD, Nuveen Short Duration Credit Op ,N/A,N/A
+BGB, Blackstone / GSO Strategic Cred ,N/A,N/A
+GCC, GreenHaven Continuous Commodity ,N/A,N/A
+JRO, Nuveen Floating Rate Income Opp ,N/A,N/A
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+SGA,Saga Communications Inc. New C ,Services,Broadcasting - Radio
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+WIT,Wipro Limited Common ,Technology,Information Technology Services
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+SWX,Southwest Gas Corporation Commo ,Utilities,Gas Utilities

@@ -1,0 +1,95 @@
+Buy,CERN,Cerner Corporation ,12.2114
+Buy,CI,Cigna Corporation Common ,1.89109
+Buy,ISRG,Intuitive Surgical Inc. ,14.2638
+Buy,MCO,Moody's Corporation Common Stoc ,17.0958
+Buy,NDAQ,The NASDAQ OMX Group Inc. ,15.7878
+Buy,PFG,Principal Financial Group Inc C ,15.1982
+Buy,SCHW,Charles Schwab Corporation (The ,12.3395
+Buy,SNA,Snap-On Incorporated Common Sto ,17.9503
+Buy,SNI,Scripps Networks Interactive I ,18.1634
+Buy,YUM,Yum! Brands Inc. ,12.5007
+Buy,FB, Facebook  Inc. ,10.1299
+Buy,FITB, Fifth Third Bancorp ,11.7495
+Buy,HBAN, Huntington Bancshares Incorpora ,13.5031
+Buy,HIG, Hartford Financial Services Gro ,17.2836
+Buy,HON, Honeywell International Inc. Co ,14.2303
+Buy,ZTS,Zoetis Inc. ,11.7646
+Buy,WBA,Walgreens Boots Alliance Inc.,15.4251
+Buy,FTV,Fortive Corporation,9.01261
+Sell,AMG,Affiliated Managers Group Inc. ,85.4795
+Sell,AN,AutoNation Inc. Common ,91.8085
+Sell,AON,Aon plc Class A Ordinary Shares ,87.3389
+Sell,APA,Apache Corporation Common ,85.8047
+Sell,APC,Anadarko Petroleum Corporation  ,86.157
+Sell,APH,Amphenol Corporation Common Sto ,94.091
+Sell,AVGO,Avago Technologies Limited ,83.4298
+Sell,AWK,American Water Works Company I ,83.3687
+Sell,AYI,Acuity Brands Inc (Holding Comp ,97.9232
+Sell,AZO,AutoZone Inc. Common ,92.3664
+Sell,CF,CF Industries Holdings Inc. Co ,86.728
+Sell,CHK,Chesapeake Energy Corporation C ,90.7882
+Sell,CINF,Cincinnati Financial Corporatio ,85.0518
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,84.1826
+Sell,CMI,Cummins Inc. Common ,96.0127
+Sell,COH,Coach Inc. Common ,97.1466
+Sell,EMN,Eastman Chemical Company Common ,87.8597
+Sell,EMR,Emerson Electric Company Common ,97.9524
+Sell,INTU,Intuit Inc. ,90.2529
+Sell,ITW,Illinois Tool Works Inc. Common ,91.9895
+Sell,MAT,Mattel Inc. ,85.1852
+Sell,MHK,Mohawk Industries Inc. Common  ,84.9462
+Sell,MLM,Martin Marietta Materials Inc. ,97.2281
+Sell,MU,Micron Technology Inc. ,85.9317
+Sell,MYL,Mylan Inc. ,81.3049
+Sell,NEM,Newmont Mining Corporation (Hol ,89.8147
+Sell,NKE,Nike Inc. Common ,96.4205
+Sell,NOC,Northrop Grumman Corporation Co ,85.7376
+Sell,NTAP,NetApp Inc. ,83.663
+Sell,NWL,Newell Rubbermaid Inc. Common S ,89.8821
+Sell,PAYX,Paychex Inc. ,97.5499
+Sell,PCAR,PACCAR Inc. ,93.9708
+Sell,PCG,Pacific Gas & Electric Co. Comm ,94.4457
+Sell,PDCO,Patterson Companies Inc. ,96.8895
+Sell,PEG,Public Service Enterprise Group ,84.1259
+Sell,PH,Parker-Hannifin Corporation Com ,84.8065
+Sell,PHM,PulteGroup Inc. Common ,91.2168
+Sell,PLD,ProLogis Inc. Common ,89.1521
+Sell,PSA,Public Storage Common ,80.2182
+Sell,PVH,PVH Corp. Common ,88.8461
+Sell,PXD,Pioneer Natural Resources Compa ,82.1922
+Sell,QCOM,QUALCOMM Incorporated ,80.836
+Sell,R,Ryder System Inc. Common ,98.4158
+Sell,RAI,Reynolds American Inc Common St ,86.8315
+Sell,RCL,Royal Caribbean Cruises Ltd. Co ,93.3614
+Sell,REG,Regency Centers Corporation Com ,97.9163
+Sell,RIG,Transocean Ltd (Switzerland) Co ,93.103
+Sell,ROK,Rockwell Automation Inc. Commo ,83.9758
+Sell,RTN,Raytheon Company Common ,95.339
+Sell,SBUX,Starbucks Corporation ,86.1086
+Sell,SCG,SCANA Corporation Common ,91.7891
+Sell,SEE,Sealed Air Corporation Common S ,90.688
+Sell,SLB,Schlumberger N.V. Common ,84.7307
+Sell,SO,Southern Company (The) Common S ,86.8958
+Sell,WMT,Wal-Mart Stores Inc. Common St ,87.6069
+Sell,WY,Weyerhaeuser Company Common Sto ,96.666
+Sell,XOM,Exxon Mobil Corporation Common  ,90.3695
+Sell,XRX,Xerox Corporation Common ,90
+Sell,EA, Electronic Arts Inc. ,94.2288
+Sell,ETN, Eaton Corporation Common ,86.4405
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,87.2746
+Sell,HAL, Halliburton Company Common Stoc ,80.952
+Sell,HAS, Hasbro  Inc. ,88.7027
+Sell,HBI, Hanesbrands Inc. Common ,90.2775
+Sell,HES, Hess Corporation Common ,90.9585
+Sell,HPQ, Hewlett-Packard Company Common  ,85.8315
+Sell,HRB, H&R Block  Inc. Common ,81.7
+Sell,AAL,American Airlines Group Inc. ,91.2367
+Sell,SYF,Synchrony Financial Common Stoc,86.7348
+Sell,PYPL,PayPal Holdings  Inc.,82.8905
+Sell,WRK,WestRock Company,80.3107
+Sell,HPE,Hewlett Packard Enterprise Company,93.9447
+Sell,WLTW,Willis Towers Watson Public Limited Company,83.2631
+Sell,CSRA,CSRA Inc.,90.0926
+Sell,INFO,IHS Markit Ltd.,96.3454
+Sell,ARNC,Arconic Inc.,83.2829
+Sell,DXC,DXC Technology Company,80.8208

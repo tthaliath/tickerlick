@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JILL,J.Jill  Inc.,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+FNF,Fidelity National Financial In ,Financial,Surety & Title Insurance
+ADRO,Aduro BioTech  Inc.,Healthcare,Biotechnology
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+ESRX,Express Scripts Holding Company ,Healthcare,Health Care Plans
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+SBNB,Scorpio Tankers Inc. 7.50% Seni,N/A,N/A
+NVCR,NovoCure Limited,N/A,N/A
+CCRC,China Customer Relations Centers  Inc.,N/A,N/A
+DISCK,Discovery Communications Inc ,NULL,NULL
+DISCA,Discovery Communications Inc ,Services,CATV Systems
+BOJA,Bojangles  Inc.,Services,Restaurants
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+DISH,DISH Network Corporation ,Services,CATV Systems
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other

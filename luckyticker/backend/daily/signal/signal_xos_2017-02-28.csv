@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DDC,Dominion Diamond Corporation ,Basic Materials,Nonmetallic Mineral Mining
+SWN,Southwestern Energy Company Com ,Basic Materials,Independent Oil & Gas
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+FMSA,FMSA Holdings Inc. Common,Basic Materials,Industrial Metals & Minerals
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+AFH,Atlas Financial Holdings Inc. ,Financial,Property & Casualty Insurance
+BFR,BBVA Banco Frances S.A. Common  ,Financial,Foreign Regional Banks
+RBL,SPDR S&P Russia ETF,Global Equity ETF,
+ERUS,iShares MSCI Russia Capped Index Fund ETF,Global Equity ETF,
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+EME,EMCOR Group Inc. Common ,Industrial Goods,General Contractors
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+CCC,Calgon Carbon Corporation Commo ,Industrial Goods,Pollution & Treatment Controls
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+SWNC,Southwestern Energy Company Dep,N/A,N/A
+JJS, iPath DJ-UBS Softs Subindex Tot ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+KONA,Kona Grill Inc. ,Services,Restaurants
+JACK,Jack In The Box Inc. ,Services,Restaurants
+FRGI, Fiesta Restaurant Group  Inc. ,Services,Restaurants
+PHII,PHI Inc. ,Services,Air Services Other
+QADA,QAD Inc. ,Technology,Application Software
+GIB,CGI Group Inc. Common ,Technology,Internet Software & Services
+FRP, FairPoint Communications  Inc. ,Technology,Telecom Services - Domestic
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic

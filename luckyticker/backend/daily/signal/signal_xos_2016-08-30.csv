@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SGDM,Sprott Gold Miners ETF ,,
+GDXX,ProShares Ultra Gold Miners ETF,,
+FNV, Franco Nev Corp Common (Canada) ,Basic Materials,Gold
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+PSAU,PowerShares Global Gold and Precious Metals Portfolio ETF,Global Equity ETF,
+ACWV,iShares MSCI All Country World Minimum Volatility Index Fund ETF,Global Equity ETF,
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+LMT,Lockheed Martin Corporation Com ,Industrial Goods,Aerospace/Defense Products & Services
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+EXCU,Exelon Corp. Conv Unit,N/A,N/A
+WEAT, Teucrium Wheat Fund ETV ,N/A,N/A
+SCAI,Surgical Care Affiliates  Inc. ,N/A,N/A
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+TA,TravelCenters of America LLC Co ,Services,Specialty Retail Other
+GAIA,Gaiam Inc. ,Services,Catalog & Mail Order Houses
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+GDX,Market Vectors TR Gold Miners ETF,US Equity ETF,

@@ -1,0 +1,93 @@
+Buy,AWK,American Water Works Company I ,12.5004
+Buy,CI,Cigna Corporation Common ,2.37965
+Buy,CNC,Centene Corporation Common Stoc ,3.49167
+Buy,COG,Cabot Oil & Gas Corporation Com ,15.4906
+Buy,CVX,Chevron Corporation Common Stoc ,10.7507
+Buy,DAL,Delta Air Lines Inc. (New) Comm ,2.22222
+Buy,DFS,Discover Financial Services Com ,15.3781
+Buy,DOV,Dover Corporation Common ,7.7134
+Buy,DVA,DaVita Inc. Common ,12.3517
+Buy,EOG,EOG Resources Inc. Common Stoc ,10.6803
+Buy,IR,Ingersoll-Rand plc (Ireland) ,13.0492
+Buy,LUV,Southwest Airlines Company Comm ,4.74559
+Buy,MA,Mastercard Incorporated Common  ,5.90671
+Buy,MCD,McDonald's Corporation Common S ,5.39984
+Buy,MCK,McKesson Corporation Common Sto ,1.30827
+Buy,MDT,Medtronic Inc. Common ,7.40835
+Buy,MET,MetLife Inc. Common ,11.109
+Buy,NFLX,Netflix Inc. ,9.66689
+Buy,NI,NiSource Inc Common ,16.6643
+Buy,PCAR,PACCAR Inc. ,12.4451
+Buy,PDCO,Patterson Companies Inc. ,10.6105
+Buy,PFE,Pfizer Inc. Common ,12.6428
+Buy,RRC,Range Resources Corporation Com ,13.3857
+Buy,SHW,Sherwin-Williams Company (The)  ,12.0362
+Buy,HCA, HCA Holdings  Inc. Common ,5.90436
+Buy,TRIP, TripAdvisor  Inc. ,6.50201
+Buy,ABBV,AbbVie Inc. ,6.3205
+Buy,EVHC,Envision Healthcare Holdings Inc. ,3.60389
+Buy,MNK,Mallinckrodt plc ,5.12828
+Buy,GOOGL,Alphabet Inc.,7.20209
+Buy,ANTM,Anthem Inc. Common,9.24361
+Buy,SYF,Synchrony Financial Common Stoc,13.5023
+Buy,KHC,The Kraft Heinz Company,14.5635
+Buy,ARNC,Arconic Inc.,17.566
+Sell,APH,Amphenol Corporation Common Sto ,92.5935
+Sell,ARE,Alexandria Real Estate Equities ,90.6508
+Sell,AVB,AvalonBay Communities Inc. Com ,96.4228
+Sell,AVY,Avery Dennison Corporation Comm ,97.5408
+Sell,AYI,Acuity Brands Inc (Holding Comp ,98.6534
+Sell,CHTR,Charter Communications Inc. ,97.4238
+Sell,CMCSA,Comcast Corporation ,81.1264
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,82.6573
+Sell,COH,Coach Inc. Common ,89.0739
+Sell,DHI,D.R. Horton Inc. Common ,88.9886
+Sell,DIS,Walt Disney Company (The) Commo ,90.9473
+Sell,DISCK,Discovery Communications Inc ,86.8681
+Sell,DISH,DISH Network Corporation ,82.8323
+Sell,DUK,Duke Energy Corporation (Holdin ,83.8884
+Sell,ED,Consolidated Edison Inc. Commo ,84.3084
+Sell,EFX,Equifax Inc. Common ,95.0624
+Sell,EL,Estee Lauder Companies Inc. (T ,80.5391
+Sell,EQR,Equity Residential Common Share ,88.6087
+Sell,GRMN,Garmin Ltd. ,85.5624
+Sell,GS,Goldman Sachs Group Inc. (The) ,81.2497
+Sell,INCY,Incyte Corporation ,91.7395
+Sell,INTC,Intel Corporation ,86.2192
+Sell,IP,International Paper Company Com ,98.7652
+Sell,IT,Gartner Inc. Common ,83.7612
+Sell,LVLT,Level 3 Communications Inc. Co ,85.4522
+Sell,MAC,Macerich Company (The) Common S ,86.3404
+Sell,NKE,Nike Inc. Common ,94.5111
+Sell,NWSA,News Corporation ,86.6662
+Sell,O,Realty Income Corporation Commo ,89.4448
+Sell,OKE,ONEOK Inc. Common ,85.4979
+Sell,ORCL,Oracle Corporation ,90.5038
+Sell,PCG,Pacific Gas & Electric Co. Comm ,90.5715
+Sell,PFG,Principal Financial Group Inc C ,80.5548
+Sell,RF,Regions Financial Corporation C ,95.5554
+Sell,RHI,Robert Half International Inc.  ,87.3796
+Sell,RIG,Transocean Ltd (Switzerland) Co ,84.8482
+Sell,RJF,Raymond James Financial Inc. C ,98.3342
+Sell,RL,Ralph Lauren Corporation Common ,97.02
+Sell,ROST,Ross Stores Inc. ,96.931
+Sell,SCG,SCANA Corporation Common ,91.3995
+Sell,SEE,Sealed Air Corporation Common S ,83.67
+Sell,SIG,Signet Jewelers Limited Common  ,96.2955
+Sell,SNI,Scripps Networks Interactive I ,80.3499
+Sell,SPG,Simon Property Group Inc. Comm ,96.4333
+Sell,HBAN, Huntington Bancshares Incorpora ,92.5086
+Sell,HBI, Hanesbrands Inc. Common ,93.3558
+Sell,HCN, Health Care REIT  Inc. Common S ,98.4229
+Sell,HCP, HCP  Inc. Common ,86.1114
+Sell,HES, Hess Corporation Common ,80.5558
+Sell,HIG, Hartford Financial Services Gro ,95.5062
+Sell,HOG, Harley-Davidson  Inc. Common St ,87.7765
+Sell,HON, Honeywell International Inc. Co ,85.7399
+Sell,HPQ, Hewlett-Packard Company Common  ,97.601
+Sell,STT, State Street Corporation Common ,87.2234
+Sell,SPY,SPDR S&P 500 ETF,81.1972
+Sell,FOX,Twenty-First Century Fox Inc. ,87.9495
+Sell,FOXA,Twenty-First Century Fox Inc. ,84.4443
+Sell,WRK,WestRock Company,91.0719
+Sell,HPE,Hewlett Packard Enterprise Company,98.1484

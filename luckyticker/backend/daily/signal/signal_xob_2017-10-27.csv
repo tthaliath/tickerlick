@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+APD,Air Products and Chemicals Inc ,Basic Materials,Chemicals - Major Diversified
+MMM,3M Company Common ,Conglomerates,Conglomerates
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+INBK,First Internet Bancorp ,Financial,Regional - Midwest Banks
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+CHE,Chemed Corp ,Healthcare,Home Health Care
+CI,Cigna Corporation Common ,Healthcare,Health Care Plans
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+WAT,Waters Corporation Common ,Healthcare,Medical Appliances & Equipment
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+WM,Waste Management Inc. Common S ,Industrial Goods,Waste Management
+IRDMB,Iridium Communications Inc,N/A,N/A
+APTS, Preferred Apartment Communities ,N/A,N/A
+NSP, Insperity  Inc. Common ,Services,Business Services
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+NATH,Nathan's Famous Inc. ,Services,Restaurants
+ODFL,Old Dominion Freight Line Inc. ,Services,Trucking
+MSFT,Microsoft Corporation ,Technology,Application Software
+POWI,Power Integrations Inc. ,Technology,Semiconductor - Integrated Circuits
+PTC,PTC Inc. ,Technology,Technical & System Software
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+INTU,Intuit Inc. ,Technology,Application Software

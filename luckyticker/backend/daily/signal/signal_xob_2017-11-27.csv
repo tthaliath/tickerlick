@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKW,ARK Web x.0 ETF,,
+HLNE,Hamilton Lane Incorporated,,
+ALDW,Alon USA Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+DK,Delek US Holdings Inc. Common  ,Basic Materials,Oil & Gas Refining & Marketing
+PPC,Pilgrim's Pride Corporation Com ,Consumer Goods,Meat Products
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+HAE, Haemonetics Corporation Common  ,Healthcare,Medical Instruments & Supplies
+PHM,PulteGroup Inc. Common ,Industrial Goods,Residential Construction
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+OC,Owens Corning Inc Common ,Industrial Goods,General Building Materials
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+GFA,Gafisa SA Gafisa S.A. American  ,Industrial Goods,Residential Construction
+MTBCP,Medical Transcription Billing  Corp.,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+PSTG,Pure Storage  Inc.,N/A,N/A
+MODN,Model N Inc. ,N/A,N/A
+ELU,Entergy Louisiana LLC ,N/A,N/A
+CDNA,CareDx Inc.,Services,Research Services
+CPRT,Copart Inc. ,Services,Auto Dealerships
+BRS,Bristow Group Inc. Common ,Services,Air Services Other
+CPHC,Canterbury Park Holding Corpora ,Services,Gaming Activities
+NGVC, Natural Grocers by Vitamin Cott ,Services,Grocery Stores
+HLT,Hilton Worldwide Holdings Inc. ,Services,Lodging
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+CHH,Choice Hotels International In ,Services,Lodging
+NWSA,News Corporation ,Services,Entertainment - Diversified
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+EPAM, EPAM Systems  Inc. Common ,Technology,Information Technology Services
+MARK, Remark Media  Inc. ,Technology,Internet Information Providers
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+CUDA,Barracuda Networks Inc. ,Technology,Communication Equipment
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+INAP,Internap Network Services Corpo ,Technology,Internet Software & Services
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers

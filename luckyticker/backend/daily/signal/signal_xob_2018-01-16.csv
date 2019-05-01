@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FANH,Fanhua Inc. - American deposita,,
+GG,Goldcorp Incorporated Common St ,Basic Materials,Gold
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+BLK,BlackRock Inc,Financial,Asset Management
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+ABMD,ABIOMED Inc. ,Healthcare,Medical Appliances & Equipment
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+ATRA,Atara Biotherapeutics Inc.,N/A,N/A
+PRGS,Progress Software Corporation ,Technology,Application Software
+STX,Seagate Technology. ,Technology,Data Storage Devices
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments

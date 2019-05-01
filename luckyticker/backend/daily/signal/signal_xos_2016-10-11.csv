@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BTI,British American Tobacco  Indus ,Consumer Goods,Cigarettes
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+FXB, Rydex CurrencyShares British Po ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+ISCA,International Speedway Corporat ,Services,Sporting Activities
+MG,Mistras Group Inc Common ,Services,Technical Services
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+JKHY,Jack Henry & Associates Inc. ,Technology,Business Software & Services
+DNB,Dun & Bradstreet Corporation (T ,Technology,Information & Delivery Services
+N,Netsuite Inc Common ,Technology,Business Software & Services
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities

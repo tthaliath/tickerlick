@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ECA,Encana Corporation ,Basic Materials,Major Integrated Oil & Gas
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+FTI,FMC Technologies Inc. Common S ,Basic Materials,Oil & Gas Equipment & Services
+EGN,Energen Corporation Common Stoc ,Basic Materials,Independent Oil & Gas
+ETP,Energy Transfer Partners L.P.  ,Basic Materials,Oil & Gas Pipelines
+OII,Oceaneering International Inc. ,Basic Materials,Oil & Gas Equipment & Services
+RXD,ProShares UltraShort Health Care ETF,Commodity Based ETF,
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+MLHR,Herman Miller Inc. ,Consumer Goods,Business Equipment
+CRWS,Crown Crafts Inc. ,Consumer Goods,Textile - Apparel Clothing
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+IPW,SPDR S&P International Energy Sector ETF,Global Equity ETF,
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+TOWR,Tower International Inc. Commo ,Industrial Goods,Metal Fabrication
+CLH,Clean Harbors Inc. Common Stoc ,Industrial Goods,Waste Management
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+MLPJ,Global X Junior MLP ETF ,N/A,N/A
+JO, iPath DJ-UBS Coffee Subindex To ,N/A,N/A
+EDI,Stone Harbor Emerging Markets T ,N/A,N/A
+BGH,Babson Capital Global Short Dur ,N/A,N/A
+DSE,Duff &amp; Phelps Select Energy MLP,N/A,N/A
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+SGA,Saga Communications Inc. New C ,Services,Broadcasting - Radio
+BURL,Burlington Stores Inc. ,Services,Discount
+CHS,Chico's FAS Inc. Common ,Services,Apparel Stores
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+RBA,Ritchie Bros. Auctioneers Incor ,Services,Business Services
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+GSH,Guangshen Railway Company Limit ,Services,Railroads
+AMLP,ALPS Alerian MLP ETF,US Equity ETF,
+PBJ,PowerShares Dynamic Food & Beverage ETF,US Equity ETF,
+SWX,Southwest Gas Corporation Commo ,Utilities,Gas Utilities
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities

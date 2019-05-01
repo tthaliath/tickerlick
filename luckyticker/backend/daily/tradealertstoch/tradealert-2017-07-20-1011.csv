@@ -1,0 +1,137 @@
+Buy,AIV,Apartment Investment and Manage ,3.70465
+Buy,ALB,Albemarle Corporation Common St ,5.26702
+Buy,ALK,Alaska Air Group Inc. Common S ,9.98911
+Buy,AMAT,Applied Materials Inc. ,15.5422
+Buy,AME,AMETEK Inc. ,4.42943
+Buy,AMGN,Amgen Inc. ,15.8074
+Buy,AMP,Ameriprise Financial Inc. Comm ,5.36043
+Buy,ATVI,Activision Blizzard Inc ,2.90944
+Buy,AVB,AvalonBay Communities Inc. Com ,7.40699
+Buy,AVGO,Avago Technologies Limited ,7.20846
+Buy,AWK,American Water Works Company I ,3.41885
+Buy,CNC,Centene Corporation Common Stoc ,7.56548
+Buy,COH,Coach Inc. Common ,2.46872
+Buy,DISH,DISH Network Corporation ,19.3319
+Buy,DLTR,Dollar Tree Inc. ,15.9462
+Buy,DOV,Dover Corporation Common ,5.14083
+Buy,DOW,Dow Chemical Company (The) Comm ,13.499
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,11.1111
+Buy,DRI,Darden Restaurants Inc. Common ,2.77831
+Buy,DTE,DTE Energy Company Common ,4.97247
+Buy,EFX,Equifax Inc. Common ,2.69223
+Buy,EIX,Edison International Common Sto ,1.48073
+Buy,EMR,Emerson Electric Company Common ,3.19727
+Buy,EQR,Equity Residential Common Share ,16.6674
+Buy,GM,General Motors Company Common S ,13.2319
+Buy,GOOG,Alphabet Inc.,19.2822
+Buy,GPC,Genuine Parts Company Common St ,8.22067
+Buy,GPS,Gap Inc. (The) Common ,12.9609
+Buy,GRMN,Garmin Ltd. ,4.61374
+Buy,GS,Goldman Sachs Group Inc. (The) ,19.9933
+Buy,IPG,Interpublic Group of Companies ,1.85156
+Buy,IR,Ingersoll-Rand plc (Ireland) ,6.26794
+Buy,IRM,Iron Mountain Incorporated (Del ,13.3345
+Buy,ISRG,Intuitive Surgical Inc. ,8.58157
+Buy,ITW,Illinois Tool Works Inc. Common ,7.719
+Buy,IVZ,Invesco Plc New Common ,4.44461
+Buy,KIM,Kimco Realty Corporation Common ,16.791
+Buy,KMB,Kimberly-Clark Corporation Comm ,2.46882
+Buy,KR,Kroger Company (The) Common Sto ,1.58765
+Buy,LH,Laboratory Corporation of Ameri ,14.5508
+Buy,LLL,L-3 Communications Holdings In ,14.5502
+Buy,LNT,Alliant Energy Corporation Comm ,2.39865
+Buy,LUV,Southwest Airlines Company Comm ,19.7133
+Buy,MAA,Mid-America Apartment Communiti ,9.99975
+Buy,MAR,Marriot International Common St ,16.4742
+Buy,MON,Monsanto Company Common ,13.8894
+Buy,MTB,M&T Bank Corporation Common Sto ,17.755
+Buy,NDAQ,The NASDAQ OMX Group Inc. ,4.77508
+Buy,NEE,NextEra Energy Inc. Common Sto ,13.6275
+Buy,NEM,Newmont Mining Corporation (Hol ,2.5643
+Buy,NKE,Nike Inc. Common ,6.00027
+Buy,NRG,NRG Energy Inc. Common ,19.6098
+Buy,NSC,Norfolk Southern Corporation Co ,15.9345
+Buy,NTRS,Northern Trust Corporation ,10.4323
+Buy,NUE,Nucor Corporation Common ,10.4369
+Buy,NVDA,NVIDIA Corporation ,15.8164
+Buy,NWL,Newell Rubbermaid Inc. Common S ,4.84513
+Buy,PAYX,Paychex Inc. ,6.73347
+Buy,PBCT,People's United Financial Inc. ,14.8129
+Buy,WMT,Wal-Mart Stores Inc. Common St ,6.86144
+Buy,XEL,Xcel Energy Inc. Common ,8.75865
+Buy,XOM,Exxon Mobil Corporation Common  ,6.91341
+Buy,XRX,Xerox Corporation Common ,5.55573
+Buy,BLK,BlackRock Inc,18.2829
+Buy,EA, Electronic Arts Inc. ,16.5338
+Buy,FBHS, Fortune Brands Home & Security  ,7.07141
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,1.65011
+Buy,HBI, Hanesbrands Inc. Common ,3.7037
+Buy,HCA, HCA Holdings  Inc. Common ,16.204
+Buy,HCN, Health Care REIT  Inc. Common S ,3.33325
+Buy,HIG, Hartford Financial Services Gro ,18.6874
+Buy,HOLX, Hologic  Inc. ,16.9441
+Buy,HUM, Humana Inc. Common ,15.4561
+Buy,IDXX, IDEXX Laboratories  Inc. ,8.0941
+Buy,MDLZ, Mondelez International  Inc. ,1.32481
+Buy,VIAB, Viacom Inc. ,15.7656
+Buy,XYL, Xylem Inc. Common ,1.7085
+Buy,FOX,Twenty-First Century Fox Inc. ,18.0342
+Buy,NAVI,Navient Corporation ,4.48828
+Buy,PYPL,PayPal Holdings  Inc.,7.04925
+Buy,INFO,IHS Markit Ltd.,17.7768
+Buy,ARNC,Arconic Inc.,7.13305
+Sell,AET,Aetna Inc. Common ,95.7515
+Sell,AGN,Allergan Inc. Common ,93.7475
+Sell,AIG,American International Group I ,85.3184
+Sell,AKAM,Akamai Technologies Inc. ,90.1137
+Sell,ALL,Allstate Corporation (The) Comm ,83.9249
+Sell,AMD,Advanced Micro Devices Inc. Co ,87.9628
+Sell,AMT,American Tower Corporation (REI ,94.5301
+Sell,AN,AutoNation Inc. Common ,82.142
+Sell,AON,Aon plc Class A Ordinary Shares ,89.5654
+Sell,APA,Apache Corporation Common ,96.2958
+Sell,APC,Anadarko Petroleum Corporation  ,81.8808
+Sell,APH,Amphenol Corporation Common Sto ,84.965
+Sell,AXP,American Express Company Common ,82.3896
+Sell,COF,Capital One Financial Corporati ,92.3138
+Sell,COG,Cabot Oil & Gas Corporation Com ,97.2221
+Sell,DVN,Devon Energy Corporation Common ,95.3705
+Sell,EOG,EOG Resources Inc. Common Stoc ,90.3804
+Sell,GT,Goodyear Tire & Rubber Company  ,80.1802
+Sell,JNPR,Juniper Networks Inc. Common S ,98.413
+Sell,KEY,KeyCorp Common ,88.7696
+Sell,LMT,Lockheed Martin Corporation Com ,93.6386
+Sell,LOW,Lowe's Companies Inc. Common S ,86.545
+Sell,MAT,Mattel Inc. ,89.815
+Sell,MCK,McKesson Corporation Common Sto ,92.9625
+Sell,MCO,Moody's Corporation Common Stoc ,85.1849
+Sell,MET,MetLife Inc. Common ,91.4542
+Sell,MRO,Marathon Oil Corporation Common ,95.6018
+Sell,MUR,Murphy Oil Corporation Common S ,94.2914
+Sell,NFX,Newfield Exploration Company Co ,91.9751
+Sell,ORLY,O'Reilly Automotive Inc. ,93.7783
+Sell,OXY,Occidental Petroleum Corporatio ,88.0891
+Sell,PCAR,PACCAR Inc. ,86.8841
+Sell,PCLN,priceline.com Incorporated ,88.8179
+Sell,PDCO,Patterson Companies Inc. ,84.722
+Sell,WYN,Wyndham Worldwide Corp Common   ,91.8145
+Sell,XEC,Cimarex Energy Co Common ,92.4209
+Sell,XL,XL Group plc ,96.8259
+Sell,DLPH, Delphi Automotive plc Ordinary  ,85.9639
+Sell,HAL, Halliburton Company Common Stoc ,85.6618
+Sell,HBAN, Huntington Bancshares Incorpora ,85.9787
+Sell,HES, Hess Corporation Common ,88.3073
+Sell,HP, Helmerich & Payne  Inc. Common  ,86.5496
+Sell,IBM, International Business Machines ,87.3276
+Sell,ILMN, Illumina  Inc. ,93.4211
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,90.6252
+Sell,MSI, Motorola Solutions  Inc. Common ,85.9422
+Sell,NLSN, Nielsen Holdings N.V. Common St ,90.2765
+Sell,PSX, Phillips 66 Common ,85.0013
+Sell,TRIP, TripAdvisor  Inc. ,84.5468
+Sell,ABBV,AbbVie Inc. ,86.1952
+Sell,COTY,Coty Inc. ,82.2215
+Sell,MNK,Mallinckrodt plc ,84.8438
+Sell,CFG,Citizens Financial Group Inc.,97.1296
+Sell,SYF,Synchrony Financial Common Stoc,86.5743
+Sell,WBA,Walgreens Boots Alliance Inc.,81.7986

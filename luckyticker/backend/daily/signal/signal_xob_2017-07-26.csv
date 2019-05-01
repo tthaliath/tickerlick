@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+SNC,State National Companies Inc.,Financial,Property & Casualty Insurance
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+AMP,Ameriprise Financial Inc. Comm ,Financial,Asset Management
+EVR,Evercore Partners Inc Class A C ,Financial,Asset Management
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+MCRB,Seres Therapeutics  Inc.,Healthcare,Biotechnology
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+RELV,Reliv' International Inc. ,Healthcare,Biotechnology
+NDRM,NeuroDerm Ltd.,Healthcare,Biotechnology
+QURE,uniQure N.V. ,Healthcare,Biotechnology
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+TDF, Templeton Dragon Fund  Inc. Com ,N/A,N/A
+HIFR,InfraREIT Inc. Common,N/A,N/A
+BCO,Brinks Company (The) Common Sto ,Services,Security & Protection Services
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+DDS,Dillard's Inc. Common ,Services,Department Stores
+MCO,Moody's Corporation Common Stoc ,Services,Business Services
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software

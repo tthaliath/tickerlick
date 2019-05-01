@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FLRT,AdvisorShares Pacific Asset Enh,,
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+SLGN,Silgan Holdings Inc. ,Consumer Goods,Packaging & Containers
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+IOT,Income Opportunity Realty Trust ,Financial,Real Estate Development
+FWP,Forward Pharma A/S,Healthcare,Biotechnology
+FOIL,iPath Pure Beta Aluminum ETN ,N/A,N/A
+PPSI,Pioneer Power Solutions Inc. ,N/A,N/A
+GNK,Genco Shipping & Trading Limite ,Services,Shipping
+CSX,CSX Corporation Common ,Services,Railroads
+TNAV,TeleNav Inc. ,Technology,Scientific & Technical Instruments
+SWKS,Skyworks Solutions Inc. ,Technology,Semiconductor - Integrated Circuits
+CHKP,Check Point Software Technologi ,Technology,Security Software & Services

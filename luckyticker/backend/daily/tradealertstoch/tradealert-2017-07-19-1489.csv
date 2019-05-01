@@ -1,0 +1,96 @@
+Buy,ADP,Automatic Data Processing Inc. ,15.8815
+Buy,ADS,Alliance Data Systems Corporati ,9.8231
+Buy,AES,The AES Corporation Common Stoc ,10.1852
+Buy,AGN,Allergan Inc. Common ,16.7426
+Buy,AIZ,Assurant Inc. Common ,13.8912
+Buy,ALK,Alaska Air Group Inc. Common S ,2.1459
+Buy,AMP,Ameriprise Financial Inc. Comm ,8.09781
+Buy,AN,AutoNation Inc. Common ,10.6508
+Buy,APH,Amphenol Corporation Common Sto ,1.58765
+Buy,ATVI,Activision Blizzard Inc ,19.446
+Buy,CMI,Cummins Inc. Common ,16.5564
+Buy,CNC,Centene Corporation Common Stoc ,3.1753
+Buy,EMR,Emerson Electric Company Common ,1.85221
+Buy,GRMN,Garmin Ltd. ,8.88239
+Buy,GT,Goodyear Tire & Rubber Company  ,7.08543
+Buy,INTC,Intel Corporation ,9.52443
+Buy,LNC,Lincoln National Corporation Co ,1.55035
+Buy,LUK,Leucadia National Corporation C ,12.6679
+Buy,LUV,Southwest Airlines Company Comm ,4.92334
+Buy,MA,Mastercard Incorporated Common  ,8.9436
+Buy,MAA,Mid-America Apartment Communiti ,11.1118
+Buy,MAC,Macerich Company (The) Common S ,19.6579
+Buy,MCHP,Microchip Technology Incorporat ,16.8465
+Buy,MCO,Moody's Corporation Common Stoc ,12.7024
+Buy,MTB,M&T Bank Corporation Common Sto ,8.08005
+Buy,NDAQ,The NASDAQ OMX Group Inc. ,2.02062
+Buy,NTAP,NetApp Inc. ,10.476
+Buy,NTRS,Northern Trust Corporation ,13.1542
+Buy,NWSA,News Corporation ,13.9314
+Buy,O,Realty Income Corporation Commo ,11.1132
+Buy,PAYX,Paychex Inc. ,14.8666
+Buy,PFG,Principal Financial Group Inc C ,3.1753
+Buy,SHW,Sherwin-Williams Company (The)  ,8.73944
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,15.7194
+Buy,HBAN, Huntington Bancshares Incorpora ,14.2967
+Buy,HIG, Hartford Financial Services Gro ,5.55662
+Buy,HOLX, Hologic  Inc. ,2.33185
+Buy,HRB, H&R Block  Inc. Common ,10.6793
+Buy,IFF, Internationa Flavors & Fragranc ,7.30753
+Buy,MDLZ, Mondelez International  Inc. ,5.55556
+Buy,MNST, Monster Beverage Corporation ,14.5033
+Buy,MSI, Motorola Solutions  Inc. Common ,5.12846
+Buy,STT, State Street Corporation Common ,6.70087
+Buy,ABBV,AbbVie Inc. ,18.6187
+Buy,MNK,Mallinckrodt plc ,3.86474
+Buy,CFG,Citizens Financial Group Inc.,16.2749
+Buy,QRVO,Qorvo Inc.,16.7547
+Buy,PYPL,PayPal Holdings  Inc.,7.7049
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,3.92133
+Sell,AEE,Ameren Corporation Common ,83.3308
+Sell,AET,Aetna Inc. Common ,87.6541
+Sell,ALL,Allstate Corporation (The) Comm ,91.3605
+Sell,AMZN,Amazon.com Inc. ,91.2462
+Sell,AON,Aon plc Class A Ordinary Shares ,94.6274
+Sell,APA,Apache Corporation Common ,96.4697
+Sell,APC,Anadarko Petroleum Corporation  ,89.6295
+Sell,AWK,American Water Works Company I ,95.5559
+Sell,EQT,EQT Corporation Common ,93.184
+Sell,INTU,Intuit Inc. ,88.7031
+Sell,IPG,Interpublic Group of Companies ,98.6108
+Sell,IR,Ingersoll-Rand plc (Ireland) ,97.8395
+Sell,IT,Gartner Inc. Common ,82.7519
+Sell,LNT,Alliant Energy Corporation Comm ,98.4124
+Sell,LOW,Lowe's Companies Inc. Common S ,95.5137
+Sell,LYB,LyondellBasell Industries NV Or ,91.8003
+Sell,MAR,Marriot International Common St ,91.5689
+Sell,MCK,McKesson Corporation Common Sto ,84.8831
+Sell,MKC,McCormick & Company Incorporat ,90.6419
+Sell,MON,Monsanto Company Common ,96.0641
+Sell,MRO,Marathon Oil Corporation Common ,94.9536
+Sell,MYL,Mylan Inc. ,84.0035
+Sell,NEE,NextEra Energy Inc. Common Sto ,93.489
+Sell,NFX,Newfield Exploration Company Co ,86.5079
+Sell,NRG,NRG Energy Inc. Common ,90.2775
+Sell,NWL,Newell Rubbermaid Inc. Common S ,88.8884
+Sell,OKE,ONEOK Inc. Common ,98.9897
+Sell,PEG,Public Service Enterprise Group ,95.5561
+Sell,PEP,Pepsico Inc. Common ,91.4286
+Sell,PG,Procter & Gamble Company (The)  ,86.5998
+Sell,SLG,SL Green Realty Corporation Com ,93.2368
+Sell,SNI,Scripps Networks Interactive I ,80.7191
+Sell,FITB, Fifth Third Bancorp ,83.3872
+Sell,HCA, HCA Holdings  Inc. Common ,95.2867
+Sell,HES, Hess Corporation Common ,87.0986
+Sell,HOG, Harley-Davidson  Inc. Common St ,95.4094
+Sell,HP, Helmerich & Payne  Inc. Common  ,89.2503
+Sell,MPC, Marathon Petroleum Corporation  ,95.4384
+Sell,PSX, Phillips 66 Common ,87.1694
+Sell,TRIP, TripAdvisor  Inc. ,84.1032
+Sell,WFM, Whole Foods Market  Inc. ,81.4768
+Sell,COTY,Coty Inc. ,97.5313
+Sell,ZTS,Zoetis Inc. ,94.3109
+Sell,GOOGL,Alphabet Inc.,95.5447
+Sell,WLTW,Willis Towers Watson Public Limited Company,86.112
+Sell,INFO,IHS Markit Ltd.,96.1109
+Sell,ARNC,Arconic Inc.,91.1098

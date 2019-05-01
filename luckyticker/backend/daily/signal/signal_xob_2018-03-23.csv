@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WTIU,UBS ETRACS - ProShares Daily 3x,,
+OIIL,Credit Suisse X-Links WTI Crude,,
+OILU,ProShares UltraPro 3x Crude Oil,,
+MYOV,Myovant Sciences Ltd.,,
+UWT,VelocityShares 3x Long Crude Oi,,
+UCO,ProShares Ultra DJ-UBS Crude Oil ETF,Commodity Based ETF,
+UCBA,United Community Bancorp ,Financial,Savings & Loans
+ARL,American Realty Investors Inc. ,Financial,Property Management
+GERN,Geron Corporation ,Healthcare,Biotechnology
+AMRC,Ameresco Inc. Class A Common S ,Industrial Goods,Industrial Electrical Equipment
+QHC,Quorum Health Corporation,N/A,N/A

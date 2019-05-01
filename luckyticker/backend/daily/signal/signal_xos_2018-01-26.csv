@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+RES,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+SDD,ProShares UltraShort SmallCap600 ETF,Commodity Based ETF,
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+DSM, Dreyfus Strategic Municipal Bon ,Financial,Closed-End Fund - Debt
+CNS,Cohn & Steers Inc Common ,Financial,Asset Management
+FFC, Flaherty & Crumrine /Claymore P ,Financial,Closed-End Fund - Debt
+DVCR,Diversicare Healthcare Services Inc. ,Healthcare,Long-Term Care Facilities
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+DMF, Dreyfus Municipal Income  Inc.  ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+KTH, Structures Products Cp 8% CorTS ,N/A,N/A
+ACGLP,Arch Capital Group Ltd. ,N/A,N/A
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+MRCY,Mercury Computer Systems ,Technology,Computer Peripherals

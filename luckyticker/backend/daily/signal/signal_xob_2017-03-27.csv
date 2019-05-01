@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+APB, Asia Pacific Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+NEN,New England Realty Associates L ,Financial,Property Management
+FIEG,DB FI Enhanced Global High Yield ETN ,N/A,N/A
+AYA,Amaya  Inc.,N/A,N/A
+PENN,Penn National Gaming Inc. ,Services,Resorts & Casinos
+MAR,Marriot International Common St ,Services,Lodging
+BBGI,Beasley Broadcast Group Inc. ,Services,Broadcasting - Radio
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+AMT,American Tower Corporation (REI ,Technology,Diversified Communication Services
+CERN,Cerner Corporation ,Technology,Healthcare Information Services
+RDCM,Radcom Ltd. ,Technology,Computer Peripherals
+SLP,Simulations Plus Inc. ,Technology,Business Software & Services
+BIP,Brookfield Infrastructure Partn ,Utilities,Electric Utilities
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities

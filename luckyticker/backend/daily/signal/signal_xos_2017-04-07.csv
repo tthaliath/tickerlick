@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WDFC,WD-40 Company ,Basic Materials,Specialty Chemicals
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+SAM,Boston Beer Company Inc. (The) ,Consumer Goods,Beverages - Brewers
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+BOFI,BofI Holding Inc. ,Financial,Savings & Loans
+MTU,Mitsubishi UFJ Financial Group ,Financial,Money Center Banks
+SMFG,Sumitomo Mitsui Financial Group ,Financial,Foreign Regional Banks
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+ADRO,Aduro BioTech  Inc.,Healthcare,Biotechnology
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+JJA, iPath Dow Jones UBS Agriculture ,N/A,N/A
+KFI, KKR Financial Holdings LLC 7.50 ,N/A,N/A
+SOYB, Teucrium Soybean Fund ETV ,N/A,N/A
+RDI,Reading International Inc ,Services,Movie Production Theaters
+SKYW,SkyWest Inc. ,Services,Regional Airlines
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+ASFI,Asta Funding Inc. ,Services,Business Services
+RECN,Resources Connection Inc. ,Services,Management Services
+EIGI,Endurance International Group Holdings Inc. ,Technology,Application Software
+NCIT,NCI Inc. ,Technology,Information Technology Services

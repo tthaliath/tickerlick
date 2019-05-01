@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DBUK,Deutsche X-Trackers MSCI United ,,
+NWPX,Northwest Pipe Company ,Basic Materials,Steel & Iron
+OCIP,OCI Partners LP ,Basic Materials,Chemicals - Major Diversified
+NOV,National Oilwell Varco Inc. Co ,Basic Materials,Oil & Gas Equipment & Services
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+PRMW,Primo Water Corporation ,Consumer Goods,Beverages - Soft Drinks
+AFH,Atlas Financial Holdings Inc. ,Financial,Property & Casualty Insurance
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+NINI,iPath Pure Beta Nickel ETN ,N/A,N/A
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+IBM, International Business Machines ,Technology,Diversified Computer Systems

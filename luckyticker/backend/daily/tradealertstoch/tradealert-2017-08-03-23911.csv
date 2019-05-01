@@ -1,0 +1,87 @@
+Buy,AMG,Affiliated Managers Group Inc. ,18.1321
+Buy,APC,Anadarko Petroleum Corporation  ,11.8924
+Buy,COF,Capital One Financial Corporati ,1.38869
+Buy,COG,Cabot Oil & Gas Corporation Com ,5.26298
+Buy,CVX,Chevron Corporation Common Stoc ,5.49335
+Buy,DFS,Discover Financial Services Com ,1.90934
+Buy,EOG,EOG Resources Inc. Common Stoc ,15.0768
+Buy,EQT,EQT Corporation Common ,2.92557
+Buy,GS,Goldman Sachs Group Inc. (The) ,6.86161
+Buy,IRM,Iron Mountain Incorporated (Del ,5.55513
+Buy,IVZ,Invesco Plc New Common ,16.2941
+Buy,L,Loews Corporation Common ,19.4438
+Buy,LUK,Leucadia National Corporation C ,4.23212
+Buy,MJN,Mead Johnson Nutrition Company  ,13.3333
+Buy,MKC,McCormick & Company Incorporat ,17.0198
+Buy,MLM,Martin Marietta Materials Inc. ,10.3507
+Buy,OXY,Occidental Petroleum Corporatio ,6.07368
+Buy,PBCT,People's United Financial Inc. ,2.77738
+Buy,PG,Procter & Gamble Company (The)  ,15.8921
+Buy,RRC,Range Resources Corporation Com ,3.27048
+Buy,SHW,Sherwin-Williams Company (The)  ,19.1156
+Buy,SLB,Schlumberger N.V. Common ,12.2448
+Buy,FITB, Fifth Third Bancorp ,11.8124
+Buy,HAL, Halliburton Company Common Stoc ,12.6192
+Buy,HBAN, Huntington Bancshares Incorpora ,7.87047
+Buy,HES, Hess Corporation Common ,18.6589
+Buy,HP, Helmerich & Payne  Inc. Common  ,19.9175
+Buy,WLTW,Willis Towers Watson Public Limited Company,10.673
+Buy,SPGI,S&P Global  Inc.,9.82442
+Buy,FTV,Fortive Corporation,11.1101
+Buy,DXC,DXC Technology Company,12.1492
+Sell,AMP,Ameriprise Financial Inc. Comm ,95.4561
+Sell,ARE,Alexandria Real Estate Equities ,92.3216
+Sell,AVB,AvalonBay Communities Inc. Com ,85.5787
+Sell,AVGO,Avago Technologies Limited ,81.1696
+Sell,COH,Coach Inc. Common ,82.3664
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,89.1376
+Sell,DD,E.I. du Pont de Nemours and Com ,93.3303
+Sell,DG,Dollar General Corporation Comm ,86.4191
+Sell,DHR,Danaher Corporation Common Stoc ,91.5997
+Sell,DISCA,Discovery Communications Inc ,83.502
+Sell,DISCK,Discovery Communications Inc ,91.9197
+Sell,DLR,Digital Realty Trust Inc. Comm ,98.0644
+Sell,DOW,Dow Chemical Company (The) Comm ,91.8219
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,82.4065
+Sell,DRI,Darden Restaurants Inc. Common ,89.5065
+Sell,DTE,DTE Energy Company Common ,81.3789
+Sell,DUK,Duke Energy Corporation (Holdin ,92.6899
+Sell,DVA,DaVita Inc. Common ,92.4798
+Sell,EIX,Edison International Common Sto ,90.8893
+Sell,EMR,Emerson Electric Company Common ,90.3135
+Sell,EQR,Equity Residential Common Share ,96.7451
+Sell,GPS,Gap Inc. (The) Common ,88.3629
+Sell,INCY,Incyte Corporation ,89.6012
+Sell,INTC,Intel Corporation ,90.625
+Sell,ISRG,Intuitive Surgical Inc. ,90.8152
+Sell,KMX,CarMax Inc ,88.065
+Sell,KR,Kroger Company (The) Common Sto ,91.1643
+Sell,KSU,Kansas City Southern Common Sto ,85.861
+Sell,LH,Laboratory Corporation of Ameri ,93.6775
+Sell,LRCX,Lam Research Corporation ,93.1578
+Sell,LUV,Southwest Airlines Company Comm ,98.4124
+Sell,LYB,LyondellBasell Industries NV Or ,80.3913
+Sell,M,Macy's Inc Common ,89.3774
+Sell,MAA,Mid-America Apartment Communiti ,91.7495
+Sell,MAC,Macerich Company (The) Common S ,89.1412
+Sell,MAR,Marriot International Common St ,91.8217
+Sell,MCHP,Microchip Technology Incorporat ,83.4178
+Sell,MHK,Mohawk Industries Inc. Common  ,84.2684
+Sell,PCLN,priceline.com Incorporated ,97.6601
+Sell,ROP,Roper Industries Inc. Common S ,94.8769
+Sell,SEE,Sealed Air Corporation Common S ,89.4592
+Sell,SIG,Signet Jewelers Limited Common  ,96.4445
+Sell,SJM,J.M. Smucker Company (The) New  ,90.6029
+Sell,SNI,Scripps Networks Interactive I ,88.0021
+Sell,SNPS,Synopsys Inc. ,88.152
+Sell,DLPH, Delphi Automotive plc Ordinary  ,85.5976
+Sell,FBHS, Fortune Brands Home & Security  ,94.7017
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,86.3635
+Sell,HBI, Hanesbrands Inc. Common ,88.5199
+Sell,HCN, Health Care REIT  Inc. Common S ,95.6989
+Sell,HD, Home Depot  Inc. (The) Common S ,94.334
+Sell,HON, Honeywell International Inc. Co ,94.2579
+Sell,HPQ, Hewlett-Packard Company Common  ,97.4313
+Sell,HRB, H&R Block  Inc. Common ,93.5177
+Sell,HPE,Hewlett Packard Enterprise Company,85.2788
+Sell,INFO,IHS Markit Ltd.,83.1415

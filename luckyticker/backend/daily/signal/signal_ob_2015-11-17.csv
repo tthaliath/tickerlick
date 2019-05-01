@@ -1,0 +1,5 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EQU,Equal Energy Ltd. Common Shares ,Basic Materials,2015-11-17,13.75,0.152263015508652,98.3333,88.2497,0.280274,1.12109446525574
+SFD,Smithfield Foods Inc. Common S ,Consumer Goods,2015-11-17,0.58,0.036267101764679,90.7407,77.722,0.0513461,0.205384507775307
+HIS, Blackrock High Income Shares Sh ,Financial,2015-11-17,246.81,,11.1111,99.027,49.0151,196.06022644043
+SFK,ProShares UltraShort Russell1000 Growth ETF,Commodity Based ETF,2015-11-17,10.463,0.730734825134277,92.9171,81.4761,1.31153,5.24610376358032

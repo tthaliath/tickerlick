@@ -1,0 +1,77 @@
+Buy,AWK,American Water Works Company I ,1.61615
+Buy,CME,CME Group Inc. ,11.5732
+Buy,CMI,Cummins Inc. Common ,10.5959
+Buy,CNP,CenterPoint Energy Inc (Holdin ,4.44437
+Buy,D,Dominion Resources Inc. Common ,4.50219
+Buy,DE,Deere & Company Common ,5.03701
+Buy,DHI,D.R. Horton Inc. Common ,3.80893
+Buy,DHR,Danaher Corporation Common Stoc ,2.27561
+Buy,DOV,Dover Corporation Common ,5.22971
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,11.2133
+Buy,DTE,DTE Energy Company Common ,5.25914
+Buy,DVN,Devon Energy Corporation Common ,9.96159
+Buy,ECL,Ecolab Inc. Common ,5.15284
+Buy,ED,Consolidated Edison Inc. Commo ,1.98373
+Buy,EIX,Edison International Common Sto ,5.49258
+Buy,EMR,Emerson Electric Company Common ,19.6078
+Buy,ES,EnergySolutions Inc Common Stoc ,8.11494
+Buy,ESS,Essex Property Trust Inc. Comm ,9.70116
+Buy,ETR,Entergy Corporation Common Stoc ,3.24685
+Buy,EW,Edwards Lifesciences Corporatio ,11.2269
+Buy,LEN,Lennar Corporation Class A Comm ,11.0819
+Buy,LOW,Lowe's Companies Inc. Common S ,3.03016
+Buy,LUV,Southwest Airlines Company Comm ,3.49056
+Buy,MAC,Macerich Company (The) Common S ,4.44437
+Buy,MAR,Marriot International Common St ,7.85632
+Buy,MJN,Mead Johnson Nutrition Company  ,9.72222
+Buy,SHW,Sherwin-Williams Company (The)  ,6.93785
+Buy,SIG,Signet Jewelers Limited Common  ,3.30711
+Buy,SLB,Schlumberger N.V. Common ,10.6771
+Buy,SNA,Snap-On Incorporated Common Sto ,15.5562
+Buy,SO,Southern Company (The) Common S ,5.26288
+Buy,SPG,Simon Property Group Inc. Comm ,8.29889
+Buy,MNST, Monster Beverage Corporation ,6.11608
+Buy,MSI, Motorola Solutions  Inc. Common ,4.8879
+Buy,NLSN, Nielsen Holdings N.V. Common St ,18.5201
+Buy,ANTM,Anthem Inc. Common,11.3103
+Buy,WLTW,Willis Towers Watson Public Limited Company,3.12123
+Sell,AVGO,Avago Technologies Limited ,94.6386
+Sell,AVY,Avery Dennison Corporation Comm ,94.9999
+Sell,AXP,American Express Company Common ,90.1974
+Sell,CMA,Comerica Incorporated Common St ,95.7671
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,94.7724
+Sell,COF,Capital One Financial Corporati ,86.8702
+Sell,COH,Coach Inc. Common ,91.1309
+Sell,CTXS,Citrix Systems Inc. ,83.4211
+Sell,CXO,Concho Resources Inc. Common St ,91.7212
+Sell,DG,Dollar General Corporation Comm ,87.8828
+Sell,DGX,Quest Diagnostics Incorporated  ,94.0857
+Sell,DIS,Walt Disney Company (The) Commo ,82.5754
+Sell,DISH,DISH Network Corporation ,93.4917
+Sell,DLTR,Dollar Tree Inc. ,93.8598
+Sell,DRI,Darden Restaurants Inc. Common ,86.2738
+Sell,EBAY,eBay Inc. ,93.519
+Sell,EQT,EQT Corporation Common ,96.2965
+Sell,ESRX,Express Scripts Holding Company ,85.7775
+Sell,ETFC,E*TRADE Financial Corporation ,82.572
+Sell,LNC,Lincoln National Corporation Co ,90.7938
+Sell,LRCX,Lam Research Corporation ,92.3511
+Sell,LYB,LyondellBasell Industries NV Or ,80.8092
+Sell,MCHP,Microchip Technology Incorporat ,90.7895
+Sell,MKC,McCormick & Company Incorporat ,92.1646
+Sell,HPQ, Hewlett-Packard Company Common  ,89.63
+Sell,HRB, H&R Block  Inc. Common ,95.6349
+Sell,MDLZ, Mondelez International  Inc. ,80.8937
+Sell,MPC, Marathon Petroleum Corporation  ,87.7816
+Sell,STT, State Street Corporation Common ,84.824
+Sell,TRIP, TripAdvisor  Inc. ,82.9601
+Sell,WFM, Whole Foods Market  Inc. ,88.8903
+Sell,COTY,Coty Inc. ,85.3709
+Sell,FOXA,Twenty-First Century Fox Inc. ,85.0806
+Sell,ALLE,Allegion plc Ordinary Shares ,86.7701
+Sell,NAVI,Navient Corporation ,85.7139
+Sell,QRVO,Qorvo Inc.,88.7688
+Sell,PYPL,PayPal Holdings  Inc.,85.3461
+Sell,WRK,WestRock Company,84.909
+Sell,HPE,Hewlett Packard Enterprise Company,88.6116
+Sell,CSRA,CSRA Inc.,98.3379

@@ -1,0 +1,7 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+SIL,Global X Silver Miners ETF,Global Equity ETF,
+XBIT,XBiotech  Inc.,Healthcare,Biotechnology
+GOLD, Randgold Resources Limited ,N/A,N/A
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A

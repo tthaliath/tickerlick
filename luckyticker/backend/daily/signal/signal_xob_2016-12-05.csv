@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RES,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+PES, Pioneer Energy Services Corp. C ,Basic Materials,Oil & Gas Drilling & Exploration
+PVTB,PrivateBancorp Inc. ,Financial,Regional - Midwest Banks
+BRP, Brookfield Residential Properti ,Financial,Real Estate Development
+BERK,Berkshire Bancorp Inc. ,Financial,Regional - Northeast Banks
+OLBK,Old Line Bancshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+FCCO,First Community Corporation ,Financial,Regional - Southwest  Banks
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+SLCT,Select Bancorp Inc.,Financial,Regional - Mid-Atlantic Banks
+SSFN, Stewardship Financial Corp ,Financial,Regional - Northeast Banks
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A

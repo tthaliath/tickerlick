@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+SEE,Sealed Air Corporation Common S ,Consumer Goods,Packaging & Containers
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+WBKC, Wolverine Bancorp  Inc. ,Financial,Money Center Banks
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+OMED,OncoMed Pharmaceuticals Inc. ,Healthcare,Biotechnology
+DIRT,iPath Pure Beta Agriculture ETN ,N/A,N/A
+MKTAY,Makita Corp. ,NULL,NULL
+SNX,Synnex Corporation Common ,Services,Business Services
+RECN,Resources Connection Inc. ,Services,Management Services
+SEAS,SeaWorld Entertainment Inc. ,Services,Sporting Activities
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices
+CIEN,Ciena Corporation ,Technology,Communication Equipment
+EPAY,Bottomline Technologies Inc. ,Technology,Business Software & Services

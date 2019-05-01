@@ -1,0 +1,37 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QTNA,Quantenna Communications  Inc.,,
+REX,REX American Resources Corporat ,Basic Materials,Specialty Chemicals
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+CCE,Coca-Cola Enterprises Inc. Com ,Consumer Goods,Beverages - Soft Drinks
+HELE, Helen of Troy Limited ,Consumer Goods,Housewares & Accessories
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+TPX,Tempur-pedic International Inc  ,Consumer Goods,Home Furnishings & Fixtures
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+SBRA,Sabra Healthcare REIT Inc. ,Financial,REIT - Healthcare Facilities
+GXG,Global X Interbolsa FTSE Colombia 20 ETF,Global Equity ETF,
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+VCYT,Veracyte Inc. ,Healthcare,Biotechnology
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+DCO,Ducommun Incorporated Common St ,Industrial Goods,Aerospace/Defense Products & Services
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+PI,Impinj  Inc.,N/A,N/A
+TMUSP,T-Mobile US  Inc.,N/A,N/A
+FXS, Rydex CurrencyShares Swedish Kr ,N/A,N/A
+VTA, Invesco Van Kampen Dynamic Cred ,N/A,N/A
+SRCLP,Stericycle  Inc.,N/A,N/A
+VYGR,Voyager Therapeutics  Inc.,N/A,N/A
+RAIL,Freightcar America Inc. ,Services,Railroads
+CACI,CACI International Inc. Class  ,Services,Technical Services
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+PZZA,Papa John'S International Inc. ,Services,Restaurants
+AAWW,Atlas Air Worldwide Holdings ,Services,Air Services Other
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+MDSO,Medidata Solutions Inc. ,Technology,Healthcare Information Services
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities

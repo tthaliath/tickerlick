@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BREW, Craft Brew Alliance  Inc. ,Consumer Goods,Beverages - Brewers
+FRPT,Freshpet Inc.,Consumer Goods,Food - Major Diversified
+UTF, Cohen & Steers Infrastructure F ,Financial,Closed-End Fund - Equity
+WRLD,World Acceptance Corporation ,Financial,Credit Services
+LHCG,LHC Group ,Healthcare,Home Health Care
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+PRXL,PAREXEL International Corporati ,Healthcare,Medical Laboratories & Research
+OSIR,Osiris Therapeutics Inc. ,Healthcare,Biotechnology
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+PGTI,PGT Inc. ,Industrial Goods,General Building Materials
+TATT, TAT Technologies Ltd. ,Industrial Goods,Aerospace/Defense Products & Services
+ARCO, Arcos Dorados Holdings Inc. Cla ,N/A,N/A
+PCTY,Paylocity Holding Corporation ,N/A,N/A
+CYAD,Celyad SA,N/A,N/A
+PFL, PIMCO Income Strategy Fund Shar ,N/A,N/A
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+MELI,MercadoLibre Inc. ,Services,Business Services
+TRCO,Tribune Media Company Class A C,Services,Publishing - Newspapers
+RAIL,Freightcar America Inc. ,Services,Railroads
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+AAPL,Apple Inc. ,Technology,Personal Computers
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+DDD,3D Systems Corporation Common S ,Technology,Application Software
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+CVLT,CommVault Systems Inc. ,Technology,Application Software
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+VRNS,Varonis Systems Inc. ,Technology,Technical & System Software
+CTSH,Cognizant Technology Solutions  ,Technology,Business Software & Services

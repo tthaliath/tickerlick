@@ -1,0 +1,90 @@
+ticker,name,sector,industry
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+NOV,National Oilwell Varco Inc. Co ,Basic Materials,Oil & Gas Equipment & Services
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+VRSK,Verisk Analytics Inc. ,Services,Business Services
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+JCI,Johnson Controls Inc. Common S ,Consumer Goods,Auto Parts
+RHI,Robert Half International Inc.  ,Services,Staffing & Outsourcing Services
+MNI,McClatchy Company (The) Common  ,Services,Publishing - Newspapers
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+SGEN,Seattle Genetics Inc. ,Healthcare,Biotechnology
+CBPO,China Biologic Products Inc. ,Healthcare,Biotechnology
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+MNA, IQ Merger Arbitrage ETF ,N/A,N/A
+NBR,Nabors Industries Ltd. ,Basic Materials,Oil & Gas Drilling & Exploration
+HBHC, Hancock Holding Company ,Financial,Regional - Southeast Banks
+GAIA,Gaiam Inc. ,Services,Catalog & Mail Order Houses
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+HMLP,Hoegh LNG Partners LP Common Un,N/A,N/A
+XRM,Xerium Technologies Inc. New C ,Consumer Goods,Paper & Paper Products
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+TRCB,Two River Bancorp ,Financial,Regional - Northeast Banks
+OPK,OPKO Health Inc. Common ,Healthcare,Biotechnology
+MOFG,MidWestOne Financial Group Inc ,Financial,Regional - Southwest  Banks
+ESSA,ESSA Bancorp Inc. ,Financial,Savings & Loans
+TS,Tenaris S.A. American Depositar ,Basic Materials,Oil & Gas Equipment & Services
+NHTC,NATURAL HEALTH TREND,Consumer Goods,Personal Products
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+MTX,Minerals Technologies Inc. Comm ,Basic Materials,Synthetics
+ACSF,American Capital Senior Floatin ,N/A,N/A
+RGR,Sturm Ruger & Company Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+QIWI,Qiwi plc ,Financial,Credit Services
+CASS,Cass Information Systems Inc ,Services,Business Services
+GLNG,Golar LNG Limited ,Services,Shipping
+AAV,Advantage Oil & Gas Ltd  Ordina ,Basic Materials,Oil & Gas Drilling & Exploration
+EIGI,Endurance International Group Holdings Inc. ,Technology,Application Software
+NMS,Nuveen Minnesota Municipal Inco,N/A,N/A
+FCCY,1st Constitution Bancorp (NJ) ,Financial,Regional - Northeast Banks
+IGHG,ProShares Investment Grd-Intr Rt Hdgd ,N/A,N/A
+PGC,Peapack-Gladstone Financial Cor ,Financial,Regional - Northeast Banks
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+NGHC,National General Holdings Corp. ,Financial,Property & Casualty Insurance
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+SMP,Standard Motor Products Inc. C ,Consumer Goods,Auto Parts
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+MELI,MercadoLibre Inc. ,Services,Business Services
+ALTS,ProShares Morningstar Alternati ,,
+CHFN,Charter Financial Corp. ,Financial,Regional - Mid-Atlantic Banks
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+BSET,Bassett Furniture Industries I ,Consumer Goods,Home Furnishings & Fixtures
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+FDEF,First Defiance Financial Corp. ,Financial,Savings & Loans
+DTF, DTF Tax-Free Income  Inc. Commo ,Financial,Closed-End Fund - Debt
+EVO, Eaton Vance Ohio Municipal Inco ,Financial,Closed-End Fund - Debt
+BKEP, Blueknight Energy Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+TIVO,TiVo Inc. ,Services,CATV Systems
+CPE,Callon Petroleum Company Common ,Basic Materials,Independent Oil & Gas
+BSF,Bear State Financial Inc.,Financial,Savings & Loans
+CAC,Camden National Corporation ,Financial,Regional - Northeast Banks
+PRTY,Party City Holdco Inc.,Services,Specialty Retail  Other
+MSTR,MicroStrategy Incorporated ,Technology,Business Software & Services
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+HYIH,Deutsche X-trackers High Yield,,
+AMKR,Amkor Technology Inc. ,Technology,Semiconductor - Integrated Circuits
+HCLP, Hi-Crush Partners LP Common Uni ,Basic Materials,Industrial Metals & Minerals
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+UNVR,Univar Inc.,Basic Materials,Chemicals - Major Diversified
+TSE,Trinseo S.A. Ordinary Shares,Basic Materials,Synthetics
+SPIL,Siliconware Precision Industrie ,NULL,NULL
+HPT, Hospitality Properites Trust Co ,Financial,REIT - Retail
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+SMBC, Southern Missouri Bancorp  Inc. ,Financial,Savings & Loans
+USG,USG Corporation Common ,Industrial Goods,General Building Materials
+RALS,ProShares RAFI® Long/Short ETF,Commodity Based ETF,
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals

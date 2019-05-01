@@ -1,0 +1,99 @@
+Buy,ALXN,Alexion Pharmaceuticals Inc. ,4.06685
+Buy,AMD,Advanced Micro Devices Inc. Co ,7.81201
+Buy,AMG,Affiliated Managers Group Inc. ,3.47532
+Buy,AMP,Ameriprise Financial Inc. Comm ,16.2113
+Buy,AMZN,Amazon.com Inc. ,19.7847
+Buy,APH,Amphenol Corporation Common Sto ,12.1206
+Buy,ATVI,Activision Blizzard Inc ,19.4778
+Buy,AYI,Acuity Brands Inc (Holding Comp ,1.57699
+Buy,BSX,Boston Scientific Corporation C ,6.06187
+Buy,C,Citigroup Inc. Common ,9.37479
+Buy,CA,CA Inc. ,18.7164
+Buy,CAH,Cardinal Health Inc. Common St ,6.91068
+Buy,CBG,CBRE Group Inc Common ,9.25892
+Buy,CBS,CBS Corporation Class B Common  ,10.8538
+Buy,CCL,Carnival Corporation Common Sto ,9.71228
+Buy,CELG,Celgene Corporation ,13.0005
+Buy,CF,CF Industries Holdings Inc. Co ,8.16993
+Buy,CI,Cigna Corporation Common ,6.29607
+Buy,CNP,CenterPoint Energy Inc (Holdin ,16.2391
+Buy,COF,Capital One Financial Corporati ,11.2323
+Buy,COG,Cabot Oil & Gas Corporation Com ,7.9896
+Buy,DIS,Walt Disney Company (The) Commo ,10.2026
+Buy,DISCA,Discovery Communications Inc ,8.77186
+Buy,DISCK,Discovery Communications Inc ,5.55556
+Buy,DOV,Dover Corporation Common ,4.00619
+Buy,DRI,Darden Restaurants Inc. Common ,10.8026
+Buy,DVN,Devon Energy Corporation Common ,16.1165
+Buy,EBAY,eBay Inc. ,15.5718
+Buy,EIX,Edison International Common Sto ,15.3817
+Buy,EQT,EQT Corporation Common ,14.6722
+Buy,IRM,Iron Mountain Incorporated (Del ,4.76294
+Buy,IT,Gartner Inc. Common ,11.7941
+Buy,IVZ,Invesco Plc New Common ,8.0821
+Buy,NFLX,Netflix Inc. ,19.4196
+Buy,NFX,Newfield Exploration Company Co ,14.462
+Buy,NRG,NRG Energy Inc. Common ,2.09868
+Buy,NSC,Norfolk Southern Corporation Co ,19.0781
+Buy,NTAP,NetApp Inc. ,17.8851
+Buy,NUE,Nucor Corporation Common ,16.9583
+Buy,NWSA,News Corporation ,8.33347
+Buy,OMC,Omnicom Group Inc. Common ,16.0488
+Buy,ORCL,Oracle Corporation ,5.74069
+Buy,OXY,Occidental Petroleum Corporatio ,17.8668
+Buy,PFG,Principal Financial Group Inc C ,6.17132
+Buy,PX,Praxair Inc. Common ,19.4441
+Buy,REGN,Regeneron Pharmaceuticals Inc. ,8.21268
+Buy,RF,Regions Financial Corporation C ,14.2421
+Buy,RHT,Red Hat Inc. Common ,12.9033
+Buy,RJF,Raymond James Financial Inc. C ,12.7572
+Buy,ROK,Rockwell Automation Inc. Commo ,10.3886
+Buy,RSG,Republic Services Inc. Common  ,3.49
+Buy,SCHW,Charles Schwab Corporation (The ,9.66339
+Buy,SIG,Signet Jewelers Limited Common  ,10.6705
+Buy,SJM,J.M. Smucker Company (The) New  ,15.6089
+Buy,SLG,SL Green Realty Corporation Com ,11.4054
+Buy,SNPS,Synopsys Inc. ,15.75
+Buy,HAL, Halliburton Company Common Stoc ,17.3812
+Buy,HCA, HCA Holdings  Inc. Common ,15.9136
+Buy,HCN, Health Care REIT  Inc. Common S ,9.80562
+Buy,HCP, HCP  Inc. Common ,9.18387
+Buy,HES, Hess Corporation Common ,19.9953
+Buy,HOLX, Hologic  Inc. ,11.0115
+Buy,VIAB, Viacom Inc. ,16.2972
+Buy,XYL, Xylem Inc. Common ,3.57222
+Buy,SPY,SPDR S&P 500 ETF,17.6724
+Buy,AAL,American Airlines Group Inc. ,12.4034
+Buy,ABBV,AbbVie Inc. ,14.5381
+Buy,MNK,Mallinckrodt plc ,6.83771
+Buy,NAVI,Navient Corporation ,13.0346
+Buy,ANTM,Anthem Inc. Common,13.9681
+Buy,CFG,Citizens Financial Group Inc.,10.5821
+Buy,SYF,Synchrony Financial Common Stoc,9.62874
+Buy,WBA,Walgreens Boots Alliance Inc.,15.2453
+Buy,KHC,The Kraft Heinz Company,16.6673
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,14.7622
+Buy,HPE,Hewlett Packard Enterprise Company,17.7028
+Buy,ARNC,Arconic Inc.,16.9703
+Sell,ALL,Allstate Corporation (The) Comm ,81.3245
+Sell,AVB,AvalonBay Communities Inc. Com ,91.5705
+Sell,CBOE,CBOE Holdings Inc. ,96.0785
+Sell,CCI,Crown Castle International Corp ,93.8527
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,85.59
+Sell,CHTR,Charter Communications Inc. ,89.091
+Sell,CLX,Clorox Company (The) Common Sto ,81.5881
+Sell,CMI,Cummins Inc. Common ,84.3016
+Sell,COH,Coach Inc. Common ,94.0494
+Sell,DLTR,Dollar Tree Inc. ,90.7912
+Sell,O,Realty Income Corporation Commo ,96.2965
+Sell,ORLY,O'Reilly Automotive Inc. ,86.4228
+Sell,PDCO,Patterson Companies Inc. ,83.1635
+Sell,RL,Ralph Lauren Corporation Common ,89.3392
+Sell,ROST,Ross Stores Inc. ,89.2631
+Sell,SNA,Snap-On Incorporated Common Sto ,88.225
+Sell,SPG,Simon Property Group Inc. Comm ,80.1586
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,92.7895
+Sell,EVHC,Envision Healthcare Holdings Inc. ,83.2871
+Sell,ZTS,Zoetis Inc. ,80.9518
+Sell,FTV,Fortive Corporation,89.9958
+Sell,UAA,Under Armour  Inc. Class A,87.1164

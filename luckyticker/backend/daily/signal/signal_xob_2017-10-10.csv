@@ -1,0 +1,61 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBIA,WBI SMID Tactical Growth Shares ,,
+CNDF,iShares Edge MSCI Multifactor C,,
+SCAP,AdvisorShares Cornerstone Small,,
+DUSL,Direxion Daily Industrials Bull,,
+MVV,ProShares Ultra MidCap400 ETF,Commodity Based ETF,
+UXI,ProShares Ultra Industrials ETF,Commodity Based ETF,
+ROG,Rogers Corporation Common ,Consumer Goods,Rubber & Plastics
+THO,Thor Industries Inc. Common St ,Consumer Goods,Recreational Vehicles
+OME,Omega Protein Corporation Commo ,Consumer Goods,Processed & Packaged Goods
+KNDI,Kandi Technolgies Corp. ,Consumer Goods,Auto Manufacturers - Major
+MERC,Mercer International Inc. ,Consumer Goods,Paper & Paper Products
+AMG,Affiliated Managers Group Inc. ,Financial,Asset Management
+LPLA,LPL Financial Holdings Inc. ,Financial,Investment Brokerage - National
+MLVF,Malvern Federal Bancorp Inc. ,Financial,Savings & Loans
+NOAH,Noah Holdings Ltd. American Dep ,Financial,Asset Management
+FBNC,First Bancorp ,Financial,Regional - Mid-Atlantic Banks
+CARZ,First Trust NASDAQ Global Auto ETF,Global Equity ETF,
+MRTX,Mirati Therapeutics Inc. ,Healthcare,Biotechnology
+ROK,Rockwell Automation Inc. Commo ,Industrial Goods,Industrial Electrical Equipment
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+PNR,Pentair Inc. Common ,Industrial Goods,Industrial Equipment & Components
+HXL, Hexcel Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+NOC,Northrop Grumman Corporation Co ,Industrial Goods,Aerospace/Defense - Major Diversified
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+NHF, NexPoint Credit Strategies Fund ,N/A,N/A
+DVMT,Dell Technologies Inc.,N/A,N/A
+MRUS,Merus B.V.,N/A,N/A
+MIDU, Direxion Mid Cap Bull 3X Shares ,N/A,N/A
+ULH,Universal Logistics Holdings  Inc.,N/A,N/A
+JP,Jupai Holdings Limited,N/A,N/A
+SP,SP Plus Corporation ,N/A,N/A
+VQT, Barclays ETN S&P VEQTOR ETN ,N/A,N/A
+SGF, Singapore Fund  Inc. (The) Comm ,N/A,N/A
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+DL,China Distance Education Holdin ,Services,Education & Training Services
+KELYA,Kelly Services Inc. ,Services,Staffing & Outsourcing Services
+CRAI,CRA InternationalInc. ,Services,Management Services
+VSH,Vishay Intertechnology Inc. Co ,Technology,Semiconductor - Broad Line
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+VHC,VirnetX Holding Corp Common Sto ,Technology,Internet Software & Services
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+BIDU,Baidu Inc. ,Technology,Internet Information Providers
+EPAY,Bottomline Technologies Inc. ,Technology,Business Software & Services
+MRIN,Marin Software Incorporated ,Technology,Application Software
+COUP,Coupons.com Incorporated ,Technology,Internet Software & Services
+CREE,Cree Inc. ,Technology,Semiconductor Equipment & Materials
+EXA, Exa Corporation ,Technology,Application Software
+RHT,Red Hat Inc. Common ,Technology,Application Software
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+ACTA,Actua Corporation,Technology,Application Software
+PHO,PowerShares Water Resource Port ETF,US Equity ETF,
+SPHB,PowerShares S&P 500 High Beta ETF,US Equity ETF,
+FXR,First Trust Industrials AlphaDEX ETF,US Equity ETF,
+PKB,PowerShares Dynamic Build & Construction ETF,US Equity ETF,
+WMCR,Claymore Wilshire Micro-Cap ETF,US Equity ETF,
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,
+RGI,Guggenheim S&P Equal Weight Industrials ETF,US Equity ETF,
+IVOO,Vanguard S&P Mid-Cap 400 ETF,US Equity ETF,

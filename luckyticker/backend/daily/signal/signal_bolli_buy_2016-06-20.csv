@@ -1,0 +1,5 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+CBPO,China Biologic Products Inc. ,2016-06-20,105.81,,,39.4731,10.3553,0.1422867515066998
+HCI,HCI Group Inc. ,2016-06-20,27.79,,,37.8769,3.22067,0.19144079452613494
+IRDMB,Iridium Communications Inc,2016-06-20,290.33,,,34.6894,0,0.11901751379933377
+XNET,Xunlei Limited,2016-06-20,5.29,,,38.7279,14.8163,0.21958216423979365

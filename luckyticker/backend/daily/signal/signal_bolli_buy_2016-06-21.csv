@@ -1,0 +1,4 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+LBTYB, Liberty Global  Inc. ,2016-06-21,31.41,,,26.2079,0,0.18109087260773782
+USCR, U S Concrete  Inc. ,2016-06-21,57.54,,,39.8257,19.537,0.12178156125137474
+SSNI,Silver Spring Networks Inc. ,2016-06-21,11.66,,,39.5099,3.79032,0.1603434165107286

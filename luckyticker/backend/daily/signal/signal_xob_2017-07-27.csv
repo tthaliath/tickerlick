@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+TPX,Tempur-pedic International Inc  ,Consumer Goods,Home Furnishings & Fixtures
+TREE,Tree.com Inc. ,Financial,Mortgage Investment
+FAF,First American Corporation (New ,Financial,Property & Casualty Insurance
+EVR,Evercore Partners Inc Class A C ,Financial,Asset Management
+ASPS,Altisource Portfolio Solutions  ,Financial,Mortgage Investment
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+LBRDA,Liberty Broadband Corporation,N/A,N/A
+HIFR,InfraREIT Inc. Common,N/A,N/A
+BCO,Brinks Company (The) Common Sto ,Services,Security & Protection Services
+AMCX, AMC Networks Inc. ,Services,CATV Systems
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+DDS,Dillard's Inc. Common ,Services,Department Stores
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PAH,Platform Specialty Products Corporation ,Basic Materials,Specialty Chemicals
+NG,Novagold Resources Inc New Ordi ,Basic Materials,Gold
+TCI,Transcontinental Realty Investo ,Financial,REIT - Retail
+WD,Walker & Dunlop Inc Common Sto ,Financial,Property Management
+TICC,TICC Capital Corp. ,Financial,Asset Management
+MC,Moelis ,Financial,Asset Management
+GLQ, Clough Global Equity Fund Cloug ,Financial,Closed-End Fund - Foreign
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+ESPR,Esperion Therapeutics Inc. ,Healthcare,Biotechnology
+TSRO, TESARO  Inc. ,Healthcare,Biotechnology
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+ADES,ADA-ES Inc. ,Industrial Goods,Pollution & Treatment Controls
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+MBUU,Malibu Boats  Inc. ,N/A,N/A
+EVT, Eaton Vance Tax Advantaged Divi ,N/A,N/A
+BPFHP,Boston Private Financial Holdings Inc. ,N/A,N/A
+PAAS,Pan American Silver Corp. ,NULL,NULL
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+CDW,CDW Corporation ,Technology,Information Technology Services

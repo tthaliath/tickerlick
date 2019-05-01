@@ -1,0 +1,294 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBIF,WBI Large Cap Tactical Value Sh ,,
+WBIL,WBI Large Cap Tactical Select S ,,
+QVM,Arrow QVM Equity Factor ETF,,
+WBIA,WBI SMID Tactical Growth Shares ,,
+SMDV,ProShares Russell 2000 Dividend,,
+TAPR,Barclays PLC ,,
+CSF,Compass EMP U.S. Discovery 500 ,,
+WBID,WBI SMID Tactical Select Shares ,,
+USDU,WisdomTree Bloomberg U.S. Dolla ,,
+TUSA,First Trust Total US Market AlphaDEX ETF,,
+KRO,Kronos Worldwide Inc Common Sto ,Basic Materials,Specialty Chemicals
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+TMST,Timken Steel Corporation Common,Basic Materials,Steel & Iron
+NL,NL Industries Inc. Common Stoc ,Basic Materials,Synthetics
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+CE,Celanese Corporation Celanese C ,Basic Materials,Chemicals - Major Diversified
+AKS,AK Steel Holding Corporation Co ,Basic Materials,Steel & Iron
+GSM,Globe Specialty Metals Inc. ,Basic Materials,Industrial Metals & Minerals
+UYG,ProShares Ultra Financials ETF,Commodity Based ETF,
+SAA,ProShares Ultra SmallCap600 ETF,Commodity Based ETF,
+PST,ProShares UltraShort 7-10 Year Treasury ETF,Commodity Based ETF,
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+TBX,ProShares Short 7-10 Year Treasury ETF,Commodity Based ETF,
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+VC, Visteon Corporation Common Stoc ,Consumer Goods,Auto Parts
+ICON, Iconix Brand Group  Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+MTOR, Meritor  Inc. Common ,Consumer Goods,Auto Parts
+ACCO, Acco Brands Corporation Common  ,Consumer Goods,Office Supplies
+HAR, Harman International Industries ,Consumer Goods,Electronic Equipment
+SENEA,Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+GEF,Greif Inc. Class A Common ,Consumer Goods,Packaging & Containers
+GBCI,Glacier Bancorp Inc. ,Financial,Regional - Pacific Banks
+ISBC,Investors Bancorp Inc. ,Financial,Savings & Loans
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+ONB,Old National Bancorp Capital Tr ,Financial,Regional - Midwest Banks
+PFS,Provident Financial Services I ,Financial,Savings & Loans
+SLF,Sun Life Financial Inc. Common  ,Financial,Life Insurance
+TCBK,TriCo Bancshares ,Financial,Regional - Pacific Banks
+UCBI,United Community Banks Inc. ,Financial,Regional - Mid-Atlantic Banks
+WABC,Westamerica Bancorporation ,Financial,Regional - Pacific Banks
+HBHC, Hancock Holding Company ,Financial,Regional - Southeast Banks
+WAFD, Washington Federal  Inc. ,Financial,Savings & Loans
+BHLB,Berkshire Hills Bancorp Inc. ,Financial,Savings & Loans
+INDB,Independent Bank Corp. ,Financial,Regional - Northeast Banks
+UBNK,United Financial Bancorp Inc. ,Financial,Savings & Loans
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+FITB, Fifth Third Bancorp ,Financial,Regional - Midwest Banks
+SYF,Synchrony Financial Common Stoc,Financial,Credit Services
+BWFG,Bankwell Financial Group Inc.,Financial,Regional - Northeast Banks
+BCS,Barclays PLC Common ,Financial,Foreign Money Center Banks
+C,Citigroup Inc. Common ,Financial,Money Center Banks
+BSF,Bear State Financial Inc.,Financial,Savings & Loans
+FCF,First Commonwealth Financial Co ,Financial,Regional - Northeast Banks
+KRNY,Kearny Financial ,Financial,Savings & Loans
+MS,Morgan Stanley Common ,Financial,Investment Brokerage - National
+CCNE,CNB Financial Corporation ,Financial,Regional - Northeast Banks
+PRI,Primerica Inc. Common ,Financial,Life Insurance
+CHFC, Chemical Financial Corporation ,Financial,Regional - Midwest Banks
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+GWB,Great Western Bancorp Inc. Com,Financial,Money Center Banks
+BAC,Bank of America Corporation Com ,Financial,Regional - Mid-Atlantic Banks
+CBSH,Commerce Bancshares Inc. ,Financial,Regional - Southwest  Banks
+DFS,Discover Financial Services Com ,Financial,Credit Services
+EWBC,East West Bancorp Inc. ,Financial,Regional - Pacific Banks
+FIBK,First Interstate BancSystem In ,Financial,Regional - Pacific Banks
+GBLI,Global Indemnity plc ,Financial,Property & Casualty Insurance
+ITG,Investment Technology Group In ,Financial,Investment Brokerage - Regional
+MBRG,Middleburg Financial Corporatio ,Financial,Regional - Mid-Atlantic Banks
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+PNC,PNC Financial Services Group I ,Financial,Money Center Banks
+RJF,Raymond James Financial Inc. C ,Financial,Investment Brokerage - Regional
+SLM,SLM Corporation ,Financial,Credit Services
+TOWN,Towne Bank ,Financial,Regional - Mid-Atlantic Banks
+BKU, BankUnited  Inc. Common ,Financial,Regional - Mid-Atlantic Banks
+IBOC, International Bancshares Corpor ,Financial,Regional - Southwest  Banks
+AEL,American Equity Investment Life ,Financial,Life Insurance
+BPFH,Boston Private Financial Holdin ,Financial,Regional - Northeast Banks
+CMA,Comerica Incorporated Common St ,Financial,Regional - Midwest Banks
+OVLY,Oak Valley Bancorp (CA) ,Financial,Regional - Pacific Banks
+RNST,Renasant Corporation ,Financial,Regional - Southeast Banks
+UBSH,Union First Market Bankshares C ,Financial,Regional - Mid-Atlantic Banks
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+HBAN, Huntington Bancshares Incorpora ,Financial,Regional - Midwest Banks
+INBK,First Internet Bancorp ,Financial,Regional - Midwest Banks
+CHFN,Charter Financial Corp. ,Financial,Regional - Mid-Atlantic Banks
+BK,Bank of New York Mellon Corpora ,Financial,Asset Management
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+MSFG,MainSource Financial Group Inc ,Financial,Regional - Midwest Banks
+OPY,Oppenheimer Holdings Inc. Clas ,Financial,Investment Brokerage - Regional
+RF,Regions Financial Corporation C ,Financial,Regional - Southeast Banks
+SMMF,Summit Financial Group Inc. ,Financial,Regional - Mid-Atlantic Banks
+BMRC,Bank of Marin Bancorp ,Financial,Regional - Pacific Banks
+BUSE,First Busey Corporation ,Financial,Regional - Midwest Banks
+CBU,Community Bank System Inc. Com ,Financial,Regional - Northeast Banks
+FFBC,First Financial Bancorp. ,Financial,Regional - Midwest Banks
+FISI,Financial Institutions Inc. ,Financial,Regional - Mid-Atlantic Banks
+JPM,JP Morgan Chase & Co. Common St ,Financial,Money Center Banks
+MBWM,Mercantile Bank Corporation ,Financial,Regional - Midwest Banks
+NTRS,Northern Trust Corporation ,Financial,Regional - Midwest Banks
+OZRK,Bank of the Ozarks ,Financial,Regional - Southeast Banks
+PNFP,Pinnacle Financial Partners In ,Financial,Regional - Southeast Banks
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+SNV,Synovus Financial Corp. Common  ,Financial,Regional - Mid-Atlantic Banks
+USB,U.S. Bancorp Common ,Financial,Regional - Midwest Banks
+WSBC,WesBanco Inc. ,Financial,Regional - Mid-Atlantic Banks
+CUNB, CU Bancorp (CA) ,Financial,Regional - Pacific Banks
+HTH, Hilltop Holdings Inc. ,Financial,Property & Casualty Insurance
+CZFC,Citizens First Corporation ,Financial,Regional - Southeast Banks
+CASH,Meta Financial Group Inc. ,Financial,Savings & Loans
+CSFL,CenterState Banks Inc. ,Financial,Regional - Southeast Banks
+PACW,PacWest Bancorp ,Financial,Regional - Pacific Banks
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+UMBF,UMB Financial Corporation ,Financial,Regional - Southwest  Banks
+HBCP, Home Bancorp  Inc. ,Financial,Savings & Loans
+NRIM,Northrim BanCorp Inc ,Financial,Regional - Pacific Banks
+BMTC,Bryn Mawr Bank Corporation ,Financial,Regional - Northeast Banks
+EFSC,Enterprise Financial Services C ,Financial,Regional - Southwest  Banks
+AGII,Argo Group International Holdin ,Financial,Property & Casualty Insurance
+FRME,First Merchants Corporation ,Financial,Regional - Midwest Banks
+LKFN,Lakeland Financial Corporation ,Financial,Regional - Midwest Banks
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+PEBO,Peoples Bancorp Inc. ,Financial,Regional - Midwest Banks
+BRO,Brown & Brown Inc. Common Stoc ,Financial,Insurance Brokers
+WAL,Western Alliance Bancorporation ,Financial,Regional - Pacific Banks
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+BNCL,Beneficial Mutual Bancorp Inc. ,Financial,Regional - Northeast Banks
+BXS,BancorpSouth Inc. Common ,Financial,Regional - Southeast Banks
+CTBI,Community Trust Bancorp Inc. ,Financial,Regional - Southeast Banks
+ETFC,E*TRADE Financial Corporation ,Financial,Investment Brokerage - National
+FFIN,First Financial Bankshares Inc ,Financial,Regional - Southwest  Banks
+FMBI,First Midwest Bancorp Inc. ,Financial,Regional - Midwest Banks
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+KEY,KeyCorp Common ,Financial,Money Center Banks
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+NWBI,Northwest Bancshares Inc. ,Financial,Savings & Loans
+PBCT,People's United Financial Inc. ,Financial,Savings & Loans
+PRK,Park National Corporation Commo ,Financial,Regional - Midwest Banks
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+SYBT,S.Y. Bancorp Inc. ,Financial,Regional - Southeast Banks
+TRMK,Trustmark Corporation ,Financial,Regional - Southeast Banks
+VLY,Valley National Bancorp Common  ,Financial,Regional - Northeast Banks
+WTFC,Wintrust Financial Corporation ,Financial,Regional - Midwest Banks
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+ATLO,Ames National Corporation ,Financial,Regional - Northeast Banks
+FNB,F.N.B. Corporation Common ,Financial,Regional - Southeast Banks
+PFBC,Preferred Bank ,Financial,Regional - Pacific Banks
+CNOB,ConnectOne Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+TCB,TCF Financial Corporation Commo ,Financial,Money Center Banks
+UVSP,Univest Corporation of Pennsylv ,Financial,Regional - Northeast Banks
+YDKN,Yadkin Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+AWH,Allied World Assurance Company  ,Financial,Property & Casualty Insurance
+BOKF,BOK Financial Corporation ,Financial,Regional - Southwest  Banks
+FBP,First BanCorp. New Common ,Financial,Foreign Regional Banks
+UNM,Unum Group Common ,Financial,Accident & Health Insurance
+MFC,Manulife Financial Corporation  ,Financial,Life Insurance
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+KCLI,Kansas City Life Insurance Comp ,Financial,Life Insurance
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+ZION,Zions Bancorporation ,Financial,Regional - Pacific Banks
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+IBKC, IBERIABANK Corporation ,Financial,Regional - Southeast Banks
+VOYA,ING U.S. Inc. ,Financial,Asset Management
+BOH,Bank of Hawaii Corporation Comm ,Financial,Regional - Pacific Banks
+CATY,Cathay General Bancorp ,Financial,Regional - Pacific Banks
+CVBF,CVB Financial Corporation ,Financial,Regional - Pacific Banks
+EVR,Evercore Partners Inc Class A C ,Financial,Asset Management
+FHN,First Horizon National Corporat ,Financial,Regional - Southeast Banks
+FULT,Fulton Financial Corporation ,Financial,Regional - Northeast Banks
+HUM, Humana Inc. Common ,Healthcare,Health Care Plans
+CORT,Corcept Therapeutics Incorporat ,Healthcare,Biotechnology
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances
+ORN,Orion Marine Group Inc Common ,Industrial Goods,Heavy Construction
+HEI, Heico Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+MKSI,MKS Instruments Inc. ,Industrial Goods,Diversified Machinery
+GENC,Gencor Industries Inc. ,Industrial Goods,Farm & Construction Machinery
+TREX,Trex Company Inc. Common ,Industrial Goods,General Building Materials
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+AEGN, Aegion Corp ,Industrial Goods,Heavy Construction
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+OA,Orbital ATK Inc. Common,Industrial Goods,Aerospace/Defense Products & Services
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+ATU,Actuant Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+AIRR,First Trust RBA American Indl Rnsnc ,N/A,N/A
+FNCL,Fidelity MSCI Financials Index ETF ,N/A,N/A
+VUSE,Vident Core US Equity ,N/A,N/A
+TPVG,TriplePoint Venture Growth BDC Corp ,N/A,N/A
+BFOR,Barron's 400 ETF ,N/A,N/A
+FNDA,Schwab Fundamental US Small Company ETF ,N/A,N/A
+XSLV,PowerShares SandP SmallCap Low Volatility ,N/A,N/A
+ZIONW,Zions Bancorporation ,N/A,N/A
+LMCK,Liberty Media Corporation,N/A,N/A
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+DGRS,WisdomTree US SmallCap Dividend Growth ,N/A,N/A
+SMLV,SPDR Russell 2000 Low Volatility ETF ,N/A,N/A
+CFG,Citizens Financial Group Inc.,N/A,N/A
+BPFHW,Boston Private Financial Holdings Inc. ,N/A,N/A
+LTXB,LegacyTexas Financial Group Inc.,N/A,N/A
+DTYS, iPath US Treasury 10 Yr Bear ET ,N/A,N/A
+TYO, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+FAS, Direxion Financial Bull 3X Shar ,N/A,N/A
+FLAG,Forensic Accounting ETF ,N/A,N/A
+SYLD,Cambria Shareholder Yield ETF ,N/A,N/A
+BIF, Boulder Growth & Income Fund  I ,N/A,N/A
+NBHC, National Bank Holdings Corporat ,N/A,N/A
+RHI,Robert Half International Inc.  ,Services,Staffing & Outsourcing Services
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+SAVE, Spirit Airlines  Inc. ,Services,Major Airlines
+AAWW,Atlas Air Worldwide Holdings ,Services,Air Services Other
+AL, Air Lease Corporation Class A C ,Services,Rental & Leasing Services
+BAH,Booz Allen Hamilton Holding Cor ,Services,Management Services
+XPO,XPO Logistics Inc. ,Services,Trucking
+ODFL,Old Dominion Freight Line Inc. ,Services,Trucking
+SKYW,SkyWest Inc. ,Services,Regional Airlines
+LMCA, Liberty Media Corporation ,Services,Entertainment - Diversified
+ACM,Aecom Technology Corporation Co ,Services,Technical Services
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+CBRL,Cracker Barrel Old Country Stor ,Services,Restaurants
+KSS,Kohl's Corporation Common ,Services,Department Stores
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+CASS,Cass Information Systems Inc ,Services,Business Services
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+DIS,Walt Disney Company (The) Commo ,Services,Entertainment - Diversified
+ECHO,Echo Global Logistics Inc. ,Services,Trucking
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV
+HTLD, Heartland Express  Inc. ,Services,Trucking
+EXPR,Express Inc. Common ,Services,Apparel Stores
+RRTS,Roadrunner Transportation Syste ,Services,Air Delivery & Freight Services
+NTRI,NutriSystem Inc ,Services,Consumer Services
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+IQNT, Neutral Tandem  Inc. ,Technology,Wireless Communications
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+CDW,CDW Corporation ,Technology,Information Technology Services
+BRKS,Brooks Automation Inc. ,Technology,Semiconductor Equipment & Materials
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+LDR,Landauer Inc. Common ,Technology,Scientific & Technical Instruments
+KEYS,Keysight Technologies Inc. Comm,Technology,Scientific & Technical Instruments
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments
+FXO,First Trust Financials AlphaDEX ETF,US Equity ETF,
+FYT,First Trust Small Cap Value AlphaDEX ETF,US Equity ETF,
+IAI,iShares Dow Jones U.S. Broker-Dealers Index Fund ETF,US Equity ETF,
+JKL,iShares Morningstar Small Value Index Fund ETF,US Equity ETF,
+PKB,PowerShares Dynamic Build & Construction ETF,US Equity ETF,
+PSCM,PowerShares S&P SmallCap Materials Portfolio ETF,US Equity ETF,
+KBE,SPDR KBW Bank ETF,US Equity ETF,
+SLY,SPDR S&P 600 Small Cap ETF (SLY) ETF,US Equity ETF,
+XTN,SPDR S&P Transportation ETF,US Equity ETF,
+VIOO,Vanguard S&P Small-Cap 600 ETF,US Equity ETF,
+IWN,iShares Russell 2000 Value ETF,US Equity ETF,
+FWDD,AdvisorShares Madrona Forward Domestic ETF,US Equity ETF,
+FIW,First Trust ISE Water Index Fund ETF,US Equity ETF,
+RPV,Guggenheim S&P 500 Pure Value ETF,US Equity ETF,
+IYG,iShares Dow Jones U.S. Financial Services Index Fund ETF,US Equity ETF,
+IJR,iShares S&P SmallCap 600 Index Fund ETF,US Equity ETF,
+KBWB,PowerShares KBW Bank Portfolio ETF,US Equity ETF,
+KCE,SPDR KBW Capital Markets ETF,US Equity ETF,
+SLYV,SPDR S&P 600 Small Cap Value ETF (SLYV) ETF,US Equity ETF,
+VFH,Vanguard Financials ETF - DNQ ETF,US Equity ETF,
+VIOV,Vanguard S&P Small-Cap 600 Value ETF,US Equity ETF,
+PXSV,PowerShares Fundamental Pure Small Value Portfolio ETF,US Equity ETF,
+TTFS,AdvisorShares TrimTabs Float Shrink ETF,US Equity ETF,
+FTA,First Trust Large Cap Value Opportunities AlphaDEX Fund ETF,US Equity ETF,
+RFV,Guggenheim S&P MidCap 400 Pure Value ETF,US Equity ETF,
+IAK,iShares Dow Jones U.S. Insurance Index Fund ETF,US Equity ETF,
+IJS,iShares S&P SmallCap 600 Values Index Fund ETF,US Equity ETF,
+KBWR,PowerShares KBW Regional Banking Portfolio ETF,US Equity ETF,
+KIE,SPDR KBW Insurance ETF,US Equity ETF,
+XAR,SPDR S&P Aerospace & Defense ETF,US Equity ETF,
+VTWV,Vanguard Russell 2000 Value ETF,US Equity ETF,
+EES,WisdomTree SmallCap Earnings Fund ETF,US Equity ETF,
+IYT,iShares Dow Jones Transportation Average Index Fund ETF,US Equity ETF,
+PSCF,PowerShares S&P SmallCap Financials Portfolio ETF,US Equity ETF,
+FDM,First Trust DJ Select MicroCap ETF,US Equity ETF,
+QABA,First Trust NASDAQ ABA Community Bank Index Fund ETF,US Equity ETF,
+RZV,Guggenheim S&P SmallCap 600 Pure Value ETF,US Equity ETF,
+IAT,iShares Dow Jones U.S. Regional Banks Index Fund ETF,US Equity ETF,
+PKW,PowerShares Buyback Achievers ETF,US Equity ETF,
+PSCI,PowerShares S&P SmallCap Industrials Portfolio ETF,US Equity ETF,
+RWW,REVENUESHARES FINANCIALS SECTOR FUND ETF,US Equity ETF,
+MDYV,SPDR S&P 400 Mid Cap Value ETF (MDYV) ETF,US Equity ETF,
+KRE,SPDR S&P Regional Banking ETF,US Equity ETF,
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,US Equity ETF,
+JKI,iShares Morningstar Mid Value Index Fund ETF,US Equity ETF,

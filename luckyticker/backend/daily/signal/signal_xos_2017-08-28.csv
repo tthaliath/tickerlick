@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDXS,ProShares UltraShort Gold Miner,,
+GPRE,Green Plains Renewable Energy  ,Basic Materials,Specialty Chemicals
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+MDLZ, Mondelez International  Inc. ,Consumer Goods,Confectioners
+ACU,Acme United Corporation. Common ,Consumer Goods,Housewares & Accessories
+SJM,J.M. Smucker Company (The) New  ,Consumer Goods,Processed & Packaged Goods
+CAG,ConAgra Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+GCBC, Greene County Bancorp  Inc. ,Financial,Savings & Loans
+AIZ,Assurant Inc. Common ,Financial,Accident & Health Insurance
+MDT,Medtronic Inc. Common ,Healthcare,Medical Appliances & Equipment
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+TTC,Toro Company (The) Common ,Industrial Goods,Small Tools & Accessories
+FSIC,FS Investment Corporation Commo ,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+EAT,Brinker International Inc. Com ,Services,Restaurants
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+UNFI,United Natural Foods Inc. ,Services,Food Wholesale
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+JBLU,JetBlue Airways Corporation ,Services,Regional Airlines
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards

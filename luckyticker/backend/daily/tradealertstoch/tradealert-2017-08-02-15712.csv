@@ -1,0 +1,101 @@
+Buy,ALL,Allstate Corporation (The) Comm ,14.4043
+Buy,AMP,Ameriprise Financial Inc. Comm ,9.12679
+Buy,AN,AutoNation Inc. Common ,1.17245
+Buy,BMY,Bristol-Myers Squibb Company Co ,13.591
+Buy,CL,Colgate-Palmolive Company Commo ,14.5301
+Buy,GPS,Gap Inc. (The) Common ,9.99577
+Buy,IVZ,Invesco Plc New Common ,19.3653
+Buy,LB,L.B. Foster Company ,6.99143
+Buy,LEG,Leggett & Platt Incorporated C ,8.81364
+Buy,LNC,Lincoln National Corporation Co ,3.2452
+Buy,MCK,McKesson Corporation Common Sto ,2.19746
+Buy,MLM,Martin Marietta Materials Inc. ,7.42943
+Buy,MOS,Mosaic Company (The) Common Sto ,19.7589
+Buy,MYL,Mylan Inc. ,5.03969
+Buy,NEE,NextEra Energy Inc. Common Sto ,19.1497
+Buy,PNW,Pinnacle West Capital Corporati ,17.7508
+Buy,PRGO,Perrigo Company ,10.6839
+Buy,RIG,Transocean Ltd (Switzerland) Co ,8.52205
+Buy,ROST,Ross Stores Inc. ,8.72181
+Buy,SHW,Sherwin-Williams Company (The)  ,9.02629
+Buy,SIG,Signet Jewelers Limited Common  ,8.16557
+Buy,HIG, Hartford Financial Services Gro ,16.742
+Buy,HOLX, Hologic  Inc. ,14.2596
+Buy,NAVI,Navient Corporation ,2.82959
+Buy,QRVO,Qorvo Inc.,11.1293
+Buy,WBA,Walgreens Boots Alliance Inc.,3.37278
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,18.4537
+Buy,WLTW,Willis Towers Watson Public Limited Company,19.7852
+Sell,ALXN,Alexion Pharmaceuticals Inc. ,89.8779
+Sell,AME,AMETEK Inc. ,86.7071
+Sell,AMG,Affiliated Managers Group Inc. ,92.8657
+Sell,AMGN,Amgen Inc. ,85.0539
+Sell,AMT,American Tower Corporation (REI ,84.9489
+Sell,APA,Apache Corporation Common ,87.0236
+Sell,APH,Amphenol Corporation Common Sto ,87.2428
+Sell,AVY,Avery Dennison Corporation Comm ,86.4156
+Sell,AYI,Acuity Brands Inc (Holding Comp ,89.351
+Sell,BK,Bank of New York Mellon Corpora ,85.4431
+Sell,BLL,Ball Corporation Common ,96.808
+Sell,BXP,Boston Properties Inc. Common  ,91.1022
+Sell,CBOE,CBOE Holdings Inc. ,82.4449
+Sell,CCI,Crown Castle International Corp ,84.8107
+Sell,CCL,Carnival Corporation Common Sto ,89.9994
+Sell,CME,CME Group Inc. ,82.842
+Sell,CMS,CMS Energy Corporation Common S ,94.7153
+Sell,CNC,Centene Corporation Common Stoc ,92.1474
+Sell,CNP,CenterPoint Energy Inc (Holdin ,81.0817
+Sell,EBAY,eBay Inc. ,93.9827
+Sell,EMR,Emerson Electric Company Common ,89.8136
+Sell,EQIX,Equinix Inc. ,86.1574
+Sell,EQT,EQT Corporation Common ,93.8089
+Sell,GRMN,Garmin Ltd. ,91.6757
+Sell,GT,Goodyear Tire & Rubber Company  ,84.3193
+Sell,INTC,Intel Corporation ,86.3565
+Sell,IR,Ingersoll-Rand plc (Ireland) ,90.8467
+Sell,L,Loews Corporation Common ,86.0257
+Sell,LEN,Lennar Corporation Class A Comm ,81.118
+Sell,LLL,L-3 Communications Holdings In ,81.6633
+Sell,LMT,Lockheed Martin Corporation Com ,81.9168
+Sell,LYB,LyondellBasell Industries NV Or ,86.6674
+Sell,MA,Mastercard Incorporated Common  ,95.4575
+Sell,MAC,Macerich Company (The) Common S ,84.5243
+Sell,MCD,McDonald's Corporation Common S ,96.0071
+Sell,MCO,Moody's Corporation Common Stoc ,85.6675
+Sell,MRK,Merck & Company Inc. Common St ,97.2217
+Sell,NFX,Newfield Exploration Company Co ,89.2712
+Sell,NOC,Northrop Grumman Corporation Co ,84.9242
+Sell,NOV,National Oilwell Varco Inc. Co ,83.4094
+Sell,NTRS,Northern Trust Corporation ,96.4273
+Sell,OMC,Omnicom Group Inc. Common ,96.389
+Sell,ORCL,Oracle Corporation ,81.2486
+Sell,OXY,Occidental Petroleum Corporatio ,98.5025
+Sell,PAYX,Paychex Inc. ,85.009
+Sell,PCAR,PACCAR Inc. ,84.2016
+Sell,PCLN,priceline.com Incorporated ,83.7689
+Sell,PEP,Pepsico Inc. Common ,97.3416
+Sell,PFG,Principal Financial Group Inc C ,94.0103
+Sell,PG,Procter & Gamble Company (The)  ,92.6386
+Sell,PHM,PulteGroup Inc. Common ,95.525
+Sell,PKI,PerkinElmer Inc. Common ,93.19
+Sell,PPL,PP&L Corporation Common ,88.5526
+Sell,PSA,Public Storage Common ,84.9021
+Sell,PXD,Pioneer Natural Resources Compa ,84.4739
+Sell,QCOM,QUALCOMM Incorporated ,92.7427
+Sell,ROP,Roper Industries Inc. Common S ,85.0211
+Sell,SBUX,Starbucks Corporation ,88.5569
+Sell,SCHW,Charles Schwab Corporation (The ,88.8895
+Sell,SEE,Sealed Air Corporation Common S ,96.4397
+Sell,SLG,SL Green Realty Corporation Com ,94.6073
+Sell,SNPS,Synopsys Inc. ,83.6949
+Sell,HCN, Health Care REIT  Inc. Common S ,93.5071
+Sell,HCP, HCP  Inc. Common ,97.7354
+Sell,HES, Hess Corporation Common ,84.8005
+Sell,HP, Helmerich & Payne  Inc. Common  ,86.8122
+Sell,HRB, H&R Block  Inc. Common ,98.1479
+Sell,ALLE,Allegion plc Ordinary Shares ,98.1354
+Sell,CFG,Citizens Financial Group Inc.,95.1548
+Sell,KHC,The Kraft Heinz Company,83.8875
+Sell,SPGI,S&P Global  Inc.,84.8901
+Sell,FTV,Fortive Corporation,94.6726
+Sell,ARNC,Arconic Inc.,98.1483

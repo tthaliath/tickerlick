@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+SCSS,Select Comfort Corporation ,Consumer Goods,Home Furnishings & Fixtures
+CAC,Camden National Corporation ,Financial,Regional - Northeast Banks
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+DFT,Dupont Fabros Technology Inc.  ,Financial,Property Management
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+ELS,Equity Lifestyle Properties In ,Financial,REIT - Residential
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+IRMD,iRadimed Corporation,Healthcare,Medical Appliances & Equipment
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+GLTR, ETFS Physical Precious Metal Ba ,N/A,N/A
+SZO, PowerShares DB Crude Oil Short  ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+CBRL,Cracker Barrel Old Country Stor ,Services,Restaurants
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+SYNT,Syntel Inc. ,Technology,Information Technology Services
+ETR,Entergy Corporation Common Stoc ,Utilities,Electric Utilities

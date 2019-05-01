@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SSL,Sasol Ltd. American Depositary  ,Basic Materials,Major Integrated Oil & Gas
+UAN, CVR Partners  LP Common Units r ,Basic Materials,Agricultural Chemicals
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+XHR,Xenia Hotels & Resorts Inc. Co,Financial,REIT - Hotel/Motel
+VTAE,Vitae Pharmaceuticals Inc.,Healthcare,Biotechnology
+LPG,Dorian LPG Ltd. Common,N/A,N/A
+USAK,USA Truck Inc. ,Services,Trucking
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+NVGS,Navigator Holdings Ltd. ,Services,Shipping
+CBRL,Cracker Barrel Old Country Stor ,Services,Restaurants
+SCTY,SolarCity Corporation ,Technology,Semiconductor - Specialized
+IRDM,Iridium Communications Inc ,Technology,Diversified Communication Services
+JCS,Communications Systems Inc. ,Technology,Communication Equipment

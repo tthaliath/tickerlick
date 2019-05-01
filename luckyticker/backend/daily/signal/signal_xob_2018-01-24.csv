@@ -1,0 +1,57 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EUDG,WisdomTree Europe Dividend Grow ,,
+CDC,Compass EMP US EQIncome 100 Enh ,,
+WBIF,WBI Large Cap Tactical Value Sh ,,
+WBIL,WBI Large Cap Tactical Select S ,,
+HEUS,iShares Currency Hedged MSCI Eu,,
+TLEH,FlexShares Currency Hedged Morn,,
+GENY,Principal Millennials Index ETF,,
+BIVV,Bioverativ Inc.,,
+JHMI,John Hancock Multifactor Indust,,
+CID,VictoryShares International Hig,,
+TS,Tenaris S.A. American Depositar ,Basic Materials,Oil & Gas Equipment & Services
+USAC,USA Compression Partners LP ,Basic Materials,Oil & Gas Pipelines
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+PUK,Prudential Public Limited Compa ,Financial,Life Insurance
+VR,Validus Holdings Ltd. Common S ,Financial,Property & Casualty Insurance
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+AIG,American International Group I ,Financial,Property & Casualty Insurance
+BJK,Market Vectors Gaming ETF,Global Equity ETF,
+DNL,WisdomTree Global ex-U.S. Growth Fund ETF,Global Equity ETF,
+LVL,Guggenheim S&P Global Dividend Opportunities Index ETF,Global Equity ETF,
+FM,iShares MSCI Frontier 100 Index ETF,Global Equity ETF,
+DWX,SPDR S&P International Dividend ETF,Global Equity ETF,
+ENTA,Enanta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+NVS,Novartis AG Common ,Healthcare,Drug Manufacturers - Major
+TECH,Techne Corporation ,Healthcare,Biotechnology
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+CHE,Chemed Corp ,Healthcare,Home Health Care
+NVO,Novo Nordisk A/S Common ,Healthcare,Drug Manufacturers - Other
+SRNE,Sorrento Therapeutics Inc. ,Healthcare,Biotechnology
+JUNO,JUNO THERAPEUTICS INC.,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+BCC,Boise Cascade Company ,Industrial Goods,Lumber
+TRNC,tronc  Inc.,N/A,N/A
+KURA,Kura Oncology  Inc.,N/A,N/A
+SBV,iPath Pure Beta SandP GSCI-Weighted ETN ,N/A,N/A
+AEG,AEGON N.V. Common ,NULL,NULL
+LOGI,Logitech International S.A. ,NULL,NULL
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+LSTR,Landstar System Inc. ,Services,Trucking
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+BBY,Best Buy Co. Inc. Common ,Services,Electronics Stores
+GPN,Global Payments Inc. Common Sto ,Services,Business Services
+SCI,Service Corporation Internation ,Services,Personal Services
+LOW,Lowe's Companies Inc. Common S ,Services,Home Improvement Stores
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+DOX,Amdocs Limited Common ,Technology,Business Software & Services
+JKHY,Jack Henry & Associates Inc. ,Technology,Business Software & Services
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,
+HDV,iShares High Dividend Equity ETF,US Equity ETF,
+RCD,Guggenheim S&P Equal Weight Consumer Discretionary ETF,US Equity ETF,

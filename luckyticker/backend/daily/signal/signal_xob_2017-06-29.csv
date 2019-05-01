@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SCHN, Schnitzer Steel Industries  Inc ,Basic Materials,Steel & Iron
+EBF,Ennis Inc. Common ,Consumer Goods,Office Supplies
+CFNB,California First National Banco ,Financial,Regional - Pacific Banks
+PLBC, Plumas Bancorp ,Financial,Regional - Pacific Banks
+FSFG,First Savings Financial Group  ,Financial,Regional - Midwest Banks
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+SPNC,The Spectranetics Corporation ,Healthcare,Medical Appliances & Equipment
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+KIN,Kindred Biosciences Inc. ,Healthcare,Biotechnology
+STRL,Sterling Construction Company I ,Industrial Goods,Heavy Construction
+FNFV,FNFV Group of Fidelity National,N/A,N/A
+PCO, Pendrell Corporation ,Technology,Wireless Communications

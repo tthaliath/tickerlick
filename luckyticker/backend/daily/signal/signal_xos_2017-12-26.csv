@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NURE,NuShares Enhanced Yield US Aggr,,
+UTES,ETFIS Series Trust I Reaves Uti,,
+JHMU,John Hancock Multifactor Utilit,,
+DUG,ProShares UltraShort Oil & Gas ETF,Commodity Based ETF,
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+PHH,PHH Corp Common ,Financial,Credit Services
+NCA, Nuveen California Municipal Val ,Financial,Closed-End Fund - Debt
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+JXI,iShares S&P Global Utilities Sector Index Fund ETF,Global Equity ETF,
+HIFR,InfraREIT Inc. Common,N/A,N/A
+PGP, Pimco Global ,N/A,N/A
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+TIVO,TiVo Inc. ,Services,CATV Systems
+FXU,First Trust Utilities AlphaDEX® Fund ETF,US Equity ETF,
+XEL,Xcel Energy Inc. Common ,Utilities,Electric Utilities
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities
+PNW,Pinnacle West Capital Corporati ,Utilities,Electric Utilities
+PCG,Pacific Gas & Electric Co. Comm ,Utilities,Electric Utilities
+PNM,PNM Resources Inc. (Holding Co ,Utilities,Diversified Utilities

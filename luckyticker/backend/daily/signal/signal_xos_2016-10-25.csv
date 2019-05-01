@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WNC,Wabash National Corporation Com ,Consumer Goods,Trucks & Other Vehicles
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+STS,Supreme Industries Inc. Common ,Consumer Goods,Trucks & Other Vehicles
+RLI,RLI Corp. Common ,Financial,Property & Casualty Insurance
+FNBC,First NBC Bank Holding Company,Financial,Foreign Regional Banks
+MMC,Marsh & McLennan Companies Inc ,Financial,Insurance Brokers
+PICB,PowerShares International Corporate Bond Portfolio ETF,Fixed Income ETF,
+ADPT,Adeptus Health Inc. Common Stoc,Healthcare,Hospitals
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+BCC,Boise Cascade Company ,Industrial Goods,Lumber
+LII,Lennox International Inc. Comm ,Industrial Goods,Diversified Machinery
+TREX,Trex Company Inc. Common ,Industrial Goods,General Building Materials
+BLD,TopBuild Corp.,Industrial Goods,General Building Materials
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+ETX,Eaton Vance Municipal Income Te ,N/A,N/A
+UNP,Union Pacific Corporation Commo ,Services,Railroads
+NVEE,NV5 Holdings Inc. ,Services,Technical Services
+DXPE,DXP Enterprises Inc. ,Services,Industrial Equipment Wholesale
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+DTV,DIRECTV ,Services,CATV Systems
+ATHN,athenahealth Inc. ,Services,Business Services
+AMCC,Applied Micro Circuits Corporat ,Technology,Semiconductor - Integrated Circuits
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+SOFO,Sonic Foundry Inc. ,Technology,Application Software

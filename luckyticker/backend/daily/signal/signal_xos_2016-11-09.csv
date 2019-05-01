@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MUSA,Metals USA Holdings Corp. Commo ,Basic Materials,Steel & Iron
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+COTY,Coty Inc. ,Consumer Goods,Personal Products
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+EGPT,Market Vectors Egypt Index ETF,Global Equity ETF,
+IPXL,Impax Laboratories Inc. ,Healthcare,Drug Manufacturers - Major
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+RTL,iShares FTSE NAREIT Retail Index Fund ETF,US Equity ETF,
+PEGI,Pattern Energy Group Inc. ,Utilities,Diversified Utilities

@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FEUZ,First Trust Eurozone AlphaDEX E ,,
+KB,KB Financial Group Inc ,Financial,Foreign Regional Banks
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+FIBG,Credit Suisse FI Enhanced Big Cap Gr ETN ,N/A,N/A
+ARCO, Arcos Dorados Holdings Inc. Cla ,N/A,N/A
+EXPE,Expedia Inc. ,Services,Lodging
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+CMCM,Cheetah Mobile Inc. American De,Technology,Application Software
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services

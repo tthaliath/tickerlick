@@ -1,0 +1,4 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+TSLA,Tesla Motors Inc. ,2016-06-23,196.4,,,35.3663,16.5352,0.18721888318041544
+DFVS,iPath US Treasury 5-year Bear ETN ,2016-06-23,24.55,,,32.1648,0,0.1243616718498387
+KEMP,KraneShares FTSE Emerging Marke,2016-06-23,20.64,,,37.5886,0,0.11851817894036218

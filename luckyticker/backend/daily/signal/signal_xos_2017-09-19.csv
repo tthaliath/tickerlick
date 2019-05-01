@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BZQ,ProShares UltraShort MSCI Brazil ETF,Commodity Based ETF,
+SSG,ProShares UltraShort Semiconductors ETF,Commodity Based ETF,
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+SNFCA,Security National Financial Cor ,Financial,Credit Services
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+SAGE,Sage Therapeutics Inc.,Healthcare,Biotechnology
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+BEAT,CardioNet Inc. ,Healthcare,Specialized Health Services
+HUM, Humana Inc. Common ,Healthcare,Health Care Plans
+FULLL,Full Circle Capital Corporation ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+CHSCM,CHS Inc,N/A,N/A
+HSIC, Henry Schein  Inc. ,Services,Medical Equipment Wholesale
+BDL,Flanigans Enterprises Inc. ,Services,Specialty Eateries
+ORBC,ORBCOMM Inc. ,Technology,Diversified Communication Services
+SMCI,Super Micro Computer Inc. ,Technology,Networking & Communication Devices
+ABY,Abengoa Yield plc,Utilities,Electric Utilities

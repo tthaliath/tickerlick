@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+FMI,Foundation Medicine Inc. ,Healthcare,Medical Laboratories & Research
+TGTX,TG Therapeutics Inc. ,Healthcare,Biotechnology
+BCRX,BioCryst Pharmaceuticals Inc. ,Healthcare,Biotechnology
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+OA,Orbital ATK Inc. Common,Industrial Goods,Aerospace/Defense Products & Services
+AUPH,Aurinia Pharmaceuticals Inc,N/A,N/A
+AIW,Arlington Asset Investment Corp. ,N/A,N/A
+SGF, Singapore Fund  Inc. (The) Comm ,N/A,N/A
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+TEDU,Tarena International Inc. ,Services,Education & Training Services
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers

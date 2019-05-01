@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VAL,Valspar Corporation (The) Commo ,Basic Materials,Specialty Chemicals
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+CALA,Calithera Biosciences Inc.,Healthcare,Biotechnology
+ABB,ABB Ltd Common ,Industrial Goods,Industrial Electrical Equipment
+DSL,DoubleLine Income Solutions Fun ,N/A,N/A
+MMAC,MMA Capital Management LLC,N/A,N/A
+SPLP, Steel Partners Holdings LP LTD  ,N/A,N/A
+EVT, Eaton Vance Tax Advantaged Divi ,N/A,N/A
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+LBTYK,Liberty Global Inc. ,NULL,NULL
+UTEK,Ultratech Inc. ,Technology,Semiconductor Equipment & Materials
+AAPL,Apple Inc. ,Technology,Personal Computers
+NEE,NextEra Energy Inc. Common Sto ,Utilities,Electric Utilities

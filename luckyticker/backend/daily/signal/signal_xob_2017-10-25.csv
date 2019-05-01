@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBIA,WBI SMID Tactical Growth Shares ,,
+QWLD,SPDR MSCI World Quality Mix ETF ,,
+FDLO,Fidelity Low Volatility Factor,,
+NL,NL Industries Inc. Common Stoc ,Basic Materials,Synthetics
+MMM,3M Company Common ,Conglomerates,Conglomerates
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+CSL,Carlisle Companies Incorporated ,Consumer Goods,Rubber & Plastics
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+IPAR,Inter Parfums Inc. ,Consumer Goods,Personal Products
+USNA,USANA Health Sciences Inc. Com ,Healthcare,Drug Related Products
+FLIR,FLIR Systems Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+FTCS,First Trust Capital Strength ET ,N/A,N/A
+WLTW,Willis Towers Watson Public Limited Company,N/A,N/A
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+ACLS,Axcelis Technologies Inc. ,Technology,Semiconductor Equipment & Materials
+ISDR,Issuer Direct Corporation ,Technology,Information Technology Services
+SSNC,SS&C Technologies Holdings Inc ,Technology,Business Software & Services
+CCMP,Cabot Microelectronics Corporat ,Technology,Semiconductor - Integrated Circuits
+PRGS,Progress Software Corporation ,Technology,Application Software
+PBW,PowerShares WilderHill Clean Energy Portfolio ETF,US Equity ETF,

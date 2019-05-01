@@ -1,0 +1,64 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBIL,WBI Large Cap Tactical Select S ,,
+FBGX,UBS AG FI Enhanced Large Cap Gr ,,
+TRU,Torch Energy Royalty Trust Comm ,Basic Materials,Oil & Gas Equipment & Services
+SSO,ProShares Ultra S&P500 ETF,Commodity Based ETF,
+MMM,3M Company Common ,Conglomerates,Conglomerates
+POOL,Pool Corporation ,Consumer Goods,Sporting Goods
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+LDF, Latin American Discovery Fund   ,Financial,Closed-End Fund - Foreign
+CET, Central Securities Corporation  ,Financial,Closed-End Fund - Equity
+RVT, Royce Value Trust  Inc. Common  ,Financial,Closed-End Fund - Equity
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+WRB,W.R. Berkley Corporation Common ,Financial,Property & Casualty Insurance
+CM,Canadian Imperial Bank of Comme ,Financial,Money Center Banks
+CHN, China Fund  Inc. (The) Common S ,Financial,Closed-End Fund - Foreign
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+FIG,Fortress Investment Group LLC C ,Financial,Asset Management
+CHFN,Charter Financial Corp. ,Financial,Regional - Mid-Atlantic Banks
+CHII,Global X China Industrials ETF,Global Equity ETF,
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+SAGE,Sage Therapeutics Inc.,Healthcare,Biotechnology
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+GLO, Clough Global Opportunities Fun ,N/A,N/A
+SPXL, Direxion Daily S&P 500 Bull 3X  ,N/A,N/A
+FTEC,Fidelity MSCI Information Technology ETF ,N/A,N/A
+INR,Market Vectors Indian Rupee/USD ETN ,N/A,N/A
+ONEQ, Fidelity Nasdaq Composite Index ,N/A,N/A
+CIGI,Colliers International Group Inc.,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+CXW,Corrections Corporation of Amer ,Services,Management Services
+CHH,Choice Hotels International In ,Services,Lodging
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services
+TGNA,TEGNA Inc.,Services,Broadcasting - TV
+NSP, Insperity  Inc. Common ,Services,Business Services
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+GEO,Geo Group Inc (The) Common Stoc ,Services,Security & Protection Services
+SNPS,Synopsys Inc. ,Technology,Semiconductor Equipment & Materials
+NCR,NCR Corporation Common ,Technology,Information Technology Services
+ENTG,Entegris Inc. ,Technology,Semiconductor Equipment & Materials
+INVE,Identive Group Inc. ,Technology,Computer Peripherals
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+SCHG,Schwab U.S. Large-Cap Growth ETF,US Equity ETF,
+IWB,iShares Russell 1000 ETF,US Equity ETF,
+SPY,SPDR S&P 500 ETF,US Equity ETF,
+MGK,Vanguard Mega Cap 300 Growth ETF,US Equity ETF,
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,
+VONG,Vanguard Russell 1000 Growth ETF,US Equity ETF,
+IWV,iShares Russell 3000 ETF,US Equity ETF,
+VUG,Vanguard Growth ETF,US Equity ETF,
+VONE,Vanguard Russell 1000 ETF,US Equity ETF,
+IGN,iShares Goldman Sachs Network Index Fund ETF,US Equity ETF,
+SCHB,Schwab U.S. Broad Market ETF,US Equity ETF,
+IWF,iShares Russell 1000 Growth ETF,US Equity ETF,
+SPYG,SPDR S&P 500 Growth ETF,US Equity ETF,
+IYW,iShares Dow Jones U.S. Technology Index Fund ETF,US Equity ETF,
+IVV,iShares S&P 500 Index Fund ETF,US Equity ETF,
+VGT,Vanguard Information Tech ETF - DNQ ETF,US Equity ETF,
+VOO,Vanguard S&P 500 ETF,US Equity ETF,
+PXLG,PowerShares Fundamental Pure Large Growth ETF,US Equity ETF,
+IYY,iShares Dow Jones U.S. Total Market Index Fund ETF,US Equity ETF,
+SCHX,Schwab U.S. Large-Cap ETF,US Equity ETF,
+VV,Vanguard Large-Cap ETF,US Equity ETF,
+VTI,Vanguard Total Stock Market ETF,US Equity ETF,

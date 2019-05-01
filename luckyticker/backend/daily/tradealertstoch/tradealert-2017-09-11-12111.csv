@@ -1,0 +1,25 @@
+Buy,COST,Costco Wholesale Corporation ,11.3465
+Buy,DIS,Walt Disney Company (The) Commo ,5.6102
+Buy,EMR,Emerson Electric Company Common ,12.9639
+Buy,GILD,Gilead Sciences Inc. ,17.203
+Buy,GOOG,Alphabet Inc.,15.6408
+Buy,INTC,Intel Corporation ,13.6269
+Buy,MRK,Merck & Company Inc. Common St ,10.9909
+Buy,NFLX,Netflix Inc. ,19.4093
+Buy,OXY,Occidental Petroleum Corporatio ,16.7942
+Buy,PEP,Pepsico Inc. Common ,15.7133
+Buy,TWX,Time Warner Inc. New Common Sto ,12.9807
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,11.1132
+Buy,LLY, Eli Lilly and Company Common St ,14.6033
+Buy,VIX,VOLATILITY S&P 500,18.5177
+Sell,CSCO,Cisco Systems Inc. ,97.8255
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,96.0186
+Sell,DD,E.I. du Pont de Nemours and Com ,92.8569
+Sell,DHR,Danaher Corporation Common Stoc ,95.9248
+Sell,GM,General Motors Company Common S ,85.3537
+Sell,JNJ,Johnson & Johnson Common ,89.1555
+Sell,MMM,3M Company Common ,92.5052
+Sell,ORCL,Oracle Corporation ,96.5972
+Sell,PCLN,priceline.com Incorporated ,88.8311
+Sell,PFE,Pfizer Inc. Common ,96.5023
+Sell,SO,Southern Company (The) Common S ,97.5697

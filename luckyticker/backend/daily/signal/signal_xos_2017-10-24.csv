@@ -1,0 +1,44 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XPER,Xperi Corporation,,
+MLPZ,UBS AG ETRACS ETRACS 2xMonthly,,
+NVLN,Novelion Therapeutics Inc.,,
+OVID,Ovid Therapeutics Inc.,,
+AMJL,Credit Suisse X-Links Monthly P,,
+EVIX,VelocityShares 1x Long VSTOXX F,,
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+ENB,Enbridge Inc Common ,Basic Materials,Oil & Gas Pipelines
+TLP,Transmontaigne Partners L.P. Tr ,Basic Materials,Oil & Gas Pipelines
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+SPN,Superior Energy Services Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+EQGP,EQT GP Holdings  LP,Basic Materials,Major Integrated Oil & Gas
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+AGFS,AgroFresh Solutions  Inc.,Conglomerates,Conglomerates
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+OFC,Corporate Office Properties Tru ,Financial,REIT - Office
+AQXP,Aquinox Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+NTG, Tortoise MLP Fund  Inc. Common  ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+LBRDA,Liberty Broadband Corporation,N/A,N/A
+KTP, Corts 7.625 Pfd Common ,N/A,N/A
+CEM, ClearBridge Energy MLP Fund Inc ,N/A,N/A
+SMMT,Summit Therapeutics plc,N/A,N/A
+FEN, First Trust Energy Income and G ,N/A,N/A
+PFH, Cabco Tr Jcp 7.625 Common ,N/A,N/A
+VMO, Invesco Van Kampen Municipal Op ,N/A,N/A
+PHK, Pimco High Income Fund Pimco Hi ,N/A,N/A
+CHTR,Charter Communications Inc. ,Services,CATV Systems
+HDSN, Hudson Technologies  Inc. ,Services,Industrial Equipment Wholesale
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+CVLT,CommVault Systems Inc. ,Technology,Application Software
+BHE,Benchmark Electronics Inc. Com ,Technology,Printed Circuit Boards
+GOGO,Gogo Inc. ,Technology,Diversified Communication Services
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities

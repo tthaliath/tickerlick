@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TWNK,Hostess Brands  Inc.,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+SSG,ProShares UltraShort Semiconductors ETF,Commodity Based ETF,
+FIZZ,National Beverage Corp. ,Consumer Goods,Beverages - Soft Drinks
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment
+TGTX,TG Therapeutics Inc. ,Healthcare,Biotechnology
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+EGRX,Eagle Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+GFNSL,General Finance Corporation,N/A,N/A
+RFTA,RAIT Financial Trust 7.125% Sen,N/A,N/A
+NBRV,Nabriva Therapeutics AG,N/A,N/A
+DISH,DISH Network Corporation ,Services,CATV Systems
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+MMYT,MakeMyTrip Limited ,Services,General Entertainment
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices

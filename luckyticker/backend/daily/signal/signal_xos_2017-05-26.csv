@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AIMT,Aimmune Therapeutics,,
+CCLP,CSI Compressco LP,Basic Materials,Oil & Gas Equipment & Services
+CGG,CGG ,Basic Materials,Oil & Gas Equipment & Services
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+ACCO, Acco Brands Corporation Common  ,Consumer Goods,Office Supplies
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+TARO, Taro Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+PFE,Pfizer Inc. Common ,Healthcare,Drug Manufacturers - Major
+ACOR,Acorda Therapeutics Inc. ,Healthcare,Biotechnology
+ARU, Ares Capital Corporation 5.875% ,N/A,N/A
+NCI,Navigant Consulting Inc. Commo ,Services,Management Services
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+MIK,The Michaels Companies Inc.,Services,Specialty Retail Other
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores

@@ -1,0 +1,95 @@
+Buy,AKAM,Akamai Technologies Inc. ,12.302
+Buy,AME,AMETEK Inc. ,9.12241
+Buy,BA,Boeing Company (The) Common Sto ,8.55131
+Buy,BMY,Bristol-Myers Squibb Company Co ,3.86379
+Buy,CBOE,CBOE Holdings Inc. ,18.1858
+Buy,CCL,Carnival Corporation Common Sto ,17.6413
+Buy,COG,Cabot Oil & Gas Corporation Com ,11.8414
+Buy,CTSH,Cognizant Technology Solutions  ,17.5945
+Buy,D,Dominion Resources Inc. Common ,15.6925
+Buy,DGX,Quest Diagnostics Incorporated  ,13.978
+Buy,DTE,DTE Energy Company Common ,5.82153
+Buy,GGP,General Growth Properties Inc. ,9.90092
+Buy,GPN,Global Payments Inc. Common Sto ,15.8486
+Buy,INTC,Intel Corporation ,13.9311
+Buy,LH,Laboratory Corporation of Ameri ,17.0399
+Buy,LLL,L-3 Communications Holdings In ,11.1107
+Buy,MAR,Marriot International Common St ,10.9805
+Buy,MAT,Mattel Inc. ,17.8363
+Buy,MJN,Mead Johnson Nutrition Company  ,15.2778
+Buy,NRG,NRG Energy Inc. Common ,14.4238
+Buy,NTAP,NetApp Inc. ,13.2036
+Buy,PDCO,Patterson Companies Inc. ,4.75145
+Buy,EVHC,Envision Healthcare Holdings Inc. ,4.89834
+Buy,WLTW,Willis Towers Watson Public Limited Company,12.5665
+Buy,CSRA,CSRA Inc.,16.9083
+Sell,A,Agilent Technologies Inc. Comm ,96.3018
+Sell,AAP,Advance Auto Parts Inc Advance  ,96.2403
+Sell,ABT,Abbott Laboratories Common Stoc ,86.0313
+Sell,ADM,Archer-Daniels-Midland Company  ,92.7352
+Sell,ADSK,Autodesk Inc. ,88.4557
+Sell,AFL,AFLAC Incorporated Common ,81.8239
+Sell,AIZ,Assurant Inc. Common ,85.8769
+Sell,AMG,Affiliated Managers Group Inc. ,80.3592
+Sell,AMP,Ameriprise Financial Inc. Comm ,86.0715
+Sell,AN,AutoNation Inc. Common ,82.6899
+Sell,APD,Air Products and Chemicals Inc ,88.6988
+Sell,ARE,Alexandria Real Estate Equities ,92.7556
+Sell,AZO,AutoZone Inc. Common ,83.188
+Sell,BAX,Baxter International Inc. Commo ,80.4176
+Sell,C,Citigroup Inc. Common ,80.451
+Sell,CB,Chubb Corporation (The) Common  ,92.7048
+Sell,CHD,Church & Dwight Company Inc. C ,80.99
+Sell,CINF,Cincinnati Financial Corporatio ,92.7358
+Sell,CMA,Comerica Incorporated Common St ,83.9981
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,80.0529
+Sell,COST,Costco Wholesale Corporation ,93.5361
+Sell,CPB,Campbell Soup Company Common St ,82.2845
+Sell,CVS,CVS Caremark Corporation Common ,87.9149
+Sell,CVX,Chevron Corporation Common Stoc ,85.1595
+Sell,DD,E.I. du Pont de Nemours and Com ,86.2798
+Sell,DIS,Walt Disney Company (The) Commo ,89.3376
+Sell,DVA,DaVita Inc. Common ,93.1305
+Sell,ECL,Ecolab Inc. Common ,81.1226
+Sell,EMN,Eastman Chemical Company Common ,90.5107
+Sell,EQT,EQT Corporation Common ,80.6133
+Sell,FCX,Freeport-McMoRan Copper & Gold ,84.127
+Sell,FL,Footlocker Inc. ,84.6558
+Sell,FLIR,FLIR Systems Inc. ,88.1371
+Sell,FLR,Fluor Corporation Common ,88.0028
+Sell,GILD,Gilead Sciences Inc. ,86.3079
+Sell,GM,General Motors Company Common S ,82.3475
+Sell,GPC,Genuine Parts Company Common St ,87.1539
+Sell,IT,Gartner Inc. Common ,80.8961
+Sell,JWN,Nordstrom Inc. Common ,91.8014
+Sell,KMX,CarMax Inc ,80.789
+Sell,KO,Coca-Cola Company (The) Common  ,80.7692
+Sell,KORS,Michael Kors Holdings Limited O ,84.4983
+Sell,LOW,Lowe's Companies Inc. Common S ,80.5514
+Sell,MAA,Mid-America Apartment Communiti ,85.5161
+Sell,MAC,Macerich Company (The) Common S ,86.4047
+Sell,MHK,Mohawk Industries Inc. Common  ,87.1985
+Sell,MS,Morgan Stanley Common ,80.7295
+Sell,MUR,Murphy Oil Corporation Common S ,82.9633
+Sell,MYL,Mylan Inc. ,87.7867
+Sell,NFLX,Netflix Inc. ,85.4216
+Sell,NFX,Newfield Exploration Company Co ,97.7925
+Sell,NOV,National Oilwell Varco Inc. Co ,89.8954
+Sell,NVDA,NVIDIA Corporation ,84.13
+Sell,ORCL,Oracle Corporation ,88.4546
+Sell,ORLY,O'Reilly Automotive Inc. ,88.0123
+Sell,PBCT,People's United Financial Inc. ,87.0373
+Sell,PCLN,priceline.com Incorporated ,90.4238
+Sell,PFE,Pfizer Inc. Common ,83.6144
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,87.1798
+Sell,LKQ, LKQ Corporation ,93.4891
+Sell,LLY, Eli Lilly and Company Common St ,81.7515
+Sell,MNST, Monster Beverage Corporation ,81.5411
+Sell,NLSN, Nielsen Holdings N.V. Common St ,81.2097
+Sell,STT, State Street Corporation Common ,86.5379
+Sell,VIAB, Viacom Inc. ,80.4479
+Sell,ABBV,AbbVie Inc. ,88.2826
+Sell,COTY,Coty Inc. ,88.8889
+Sell,FOXA,Twenty-First Century Fox Inc. ,93.758
+Sell,GOOGL,Alphabet Inc.,81.4091
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,88.0853

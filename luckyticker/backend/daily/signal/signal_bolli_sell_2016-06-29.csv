@@ -1,0 +1,3 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+NNN,National Retail Properties Comm ,2016-06-29,51.31,,,71.7753,91.4922,0.13808419962361526
+DRN, Dexion Daily Real Estate Bull 3 ,2016-06-29,100.83,,,71.037,72.7438,0.19043734486940825

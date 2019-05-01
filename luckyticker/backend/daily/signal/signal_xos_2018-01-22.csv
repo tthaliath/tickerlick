@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OBLN,Obalon Therapeutics  Inc.,,
+UTSL,Direxion Daily Utilities Bull 3,,
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+SR,Spire Inc.,Consumer Goods,Office Supplies
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+PFO, Flaherty & Crumrine Preferred I ,Financial,Closed-End Fund - Debt
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+MYF, Blackrock MuniYield Investment  ,Financial,Closed-End Fund - Debt
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+JPC, Nuveen  Preferred Income Opport ,N/A,N/A
+BGH,Babson Capital Global Short Dur ,N/A,N/A
+ORC,Orchid Island Capital Inc. ,N/A,N/A
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+RIF, RMR Real Estate Income Fund Com ,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+MHLA,Maiden Holdings  Ltd. 6.625% No ,N/A,N/A
+DBL, DoubleLine Opportunistic Credit ,N/A,N/A
+FUTY,Fidelity MSCI Utilities Index ETF ,N/A,N/A
+ELU,Entergy Louisiana LLC ,N/A,N/A
+HPS, John Hancock Preferred Income F ,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+MHNC,Maiden Holdings North America   ,N/A,N/A
+EAE,Entergy Arkansas Inc. ,N/A,N/A
+NVEE,NV5 Holdings Inc. ,Services,Technical Services
+IDU,iShares Dow Jones U.S. Utilities Index Fund ETF,US Equity ETF,
+PUI,PowerShares Dynamic Utilities ETF,US Equity ETF,
+CMS,CMS Energy Corporation Common S ,Utilities,Electric Utilities
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+AEE,Ameren Corporation Common ,Utilities,Diversified Utilities
+DTE,DTE Energy Company Common ,Utilities,Electric Utilities
+AEP,American Electric Power Company ,Utilities,Electric Utilities
+LNT,Alliant Energy Corporation Comm ,Utilities,Electric Utilities
+PNW,Pinnacle West Capital Corporati ,Utilities,Electric Utilities
+XEL,Xcel Energy Inc. Common ,Utilities,Electric Utilities
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities

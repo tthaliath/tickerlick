@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KWR,Quaker Chemical Corporation Com ,Basic Materials,Specialty Chemicals
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+OSK,Oshkosh Corporation Common Stoc ,Consumer Goods,Trucks & Other Vehicles
+FLIC,The First of Long Island Corpor ,Financial,Regional - Northeast Banks
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+BANF,BancFirst Corporation ,Financial,Regional - Southwest  Banks
+BOH,Bank of Hawaii Corporation Comm ,Financial,Regional - Pacific Banks
+BRK-B,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+ESGR,Enstar Group Limited ,Financial,Property & Casualty Insurance
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+PRK,Park National Corporation Commo ,Financial,Regional - Midwest Banks
+SIVB,SVB Financial Group ,Financial,Regional - Pacific Banks
+FFG,FBL Financial Group Inc. Commo ,Financial,Life Insurance
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+BRK-A,Berkshire Hathaway Inc.,Financial,Property & Casualty Insurance
+UMBF,UMB Financial Corporation ,Financial,Regional - Southwest  Banks
+NWLI,National Western Life Insurance ,Financial,Life Insurance
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+GD,General Dynamics Corporation Co ,Industrial Goods,Aerospace/Defense Products & Services
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+AGM-A,Federal Agricultural Mortgage Corp.,N/A,N/A
+CACI,CACI International Inc. Class  ,Services,Technical Services
+FRPH,FRP Holdings Inc.,Services,Trucking
+CASS,Cass Information Systems Inc ,Services,Business Services
+SAIC,Science Applications International Corporation ,Technology,Information Technology Services
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,

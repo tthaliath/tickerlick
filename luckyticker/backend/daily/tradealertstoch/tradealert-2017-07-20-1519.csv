@@ -1,0 +1,136 @@
+Buy,AMT,American Tower Corporation (REI ,13.8327
+Buy,AMZN,Amazon.com Inc. ,6.9053
+Buy,APA,Apache Corporation Common ,10.3015
+Buy,APC,Anadarko Petroleum Corporation  ,6.7362
+Buy,APD,Air Products and Chemicals Inc ,16.848
+Buy,ATVI,Activision Blizzard Inc ,17.5896
+Buy,COG,Cabot Oil & Gas Corporation Com ,6.90244
+Buy,DE,Deere & Company Common ,12.3025
+Buy,DGX,Quest Diagnostics Incorporated  ,7.93916
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,19.7556
+Buy,DVN,Devon Energy Corporation Common ,8.61112
+Buy,EBAY,eBay Inc. ,15.2779
+Buy,EOG,EOG Resources Inc. Common Stoc ,15.1123
+Buy,EQT,EQT Corporation Common ,2.58247
+Buy,GLW,Corning Incorporated Common Sto ,5.9606
+Buy,GT,Goodyear Tire & Rubber Company  ,16.6654
+Buy,KR,Kroger Company (The) Common Sto ,1.8146
+Buy,LB,L.B. Foster Company ,14.4451
+Buy,LOW,Lowe's Companies Inc. Common S ,6.13062
+Buy,MAT,Mattel Inc. ,4.22494
+Buy,MDT,Medtronic Inc. Common ,9.31496
+Buy,MET,MetLife Inc. Common ,4.76113
+Buy,MHK,Mohawk Industries Inc. Common  ,15.757
+Buy,NEM,Newmont Mining Corporation (Hol ,15.231
+Buy,NFX,Newfield Exploration Company Co ,19.2064
+Buy,NKE,Nike Inc. Common ,5.05156
+Buy,NOV,National Oilwell Varco Inc. Co ,6.81215
+Buy,NWL,Newell Rubbermaid Inc. Common S ,7.93824
+Buy,NWS,News Corporation ,11.1111
+Buy,PCLN,priceline.com Incorporated ,12.8135
+Buy,SNA,Snap-On Incorporated Common Sto ,12.331
+Buy,XEC,Cimarex Energy Co Common ,4.45468
+Buy,XRAY,DENTSPLY International Inc. ,6.25239
+Buy,BLK,BlackRock Inc,18.5634
+Buy,FB, Facebook  Inc. ,5.77705
+Buy,HAL, Halliburton Company Common Stoc ,6.58703
+Buy,HD, Home Depot  Inc. (The) Common S ,13.5534
+Buy,HES, Hess Corporation Common ,16.1235
+Buy,HOLX, Hologic  Inc. ,11.5368
+Buy,HON, Honeywell International Inc. Co ,13.8163
+Buy,MDLZ, Mondelez International  Inc. ,19.7995
+Buy,MNST, Monster Beverage Corporation ,12.6446
+Buy,WFM, Whole Foods Market  Inc. ,19.4482
+Buy,ABBV,AbbVie Inc. ,15.1779
+Buy,GOOGL,Alphabet Inc.,1.55954
+Buy,NAVI,Navient Corporation ,12.1297
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,16.4846
+Buy,ARNC,Arconic Inc.,2.77787
+Sell,AMG,Affiliated Managers Group Inc. ,87.8615
+Sell,AMP,Ameriprise Financial Inc. Comm ,98.9589
+Sell,AVB,AvalonBay Communities Inc. Com ,83.3309
+Sell,AVGO,Avago Technologies Limited ,96.975
+Sell,AVY,Avery Dennison Corporation Comm ,90.0003
+Sell,AWK,American Water Works Company I ,95.4978
+Sell,AYI,Acuity Brands Inc (Holding Comp ,91.1111
+Sell,AZO,AutoZone Inc. Common ,96.0446
+Sell,CMA,Comerica Incorporated Common St ,93.3728
+Sell,CMCSA,Comcast Corporation ,97.2215
+Sell,CME,CME Group Inc. ,97.5322
+Sell,CMS,CMS Energy Corporation Common S ,87.6563
+Sell,CNC,Centene Corporation Common Stoc ,95.6991
+Sell,CNP,CenterPoint Energy Inc (Holdin ,95.9714
+Sell,COF,Capital One Financial Corporati ,83.6247
+Sell,COH,Coach Inc. Common ,83.8684
+Sell,DG,Dollar General Corporation Comm ,90.6273
+Sell,DIS,Walt Disney Company (The) Commo ,91.5417
+Sell,DISCA,Discovery Communications Inc ,88.3615
+Sell,DISCK,Discovery Communications Inc ,92.4603
+Sell,DISH,DISH Network Corporation ,83.9102
+Sell,DOV,Dover Corporation Common ,94.4177
+Sell,DTE,DTE Energy Company Common ,88.3128
+Sell,ED,Consolidated Edison Inc. Commo ,81.373
+Sell,EL,Estee Lauder Companies Inc. (T ,95.5549
+Sell,GILD,Gilead Sciences Inc. ,90.1908
+Sell,GM,General Motors Company Common S ,80.0005
+Sell,GPN,Global Payments Inc. Common Sto ,90.5557
+Sell,GS,Goldman Sachs Group Inc. (The) ,85.851
+Sell,INTC,Intel Corporation ,89.7983
+Sell,IRM,Iron Mountain Incorporated (Del ,90.4307
+Sell,KEY,KeyCorp Common ,93.215
+Sell,KIM,Kimco Realty Corporation Common ,93.0565
+Sell,KMB,Kimberly-Clark Corporation Comm ,94.587
+Sell,KORS,Michael Kors Holdings Limited O ,86.8229
+Sell,LH,Laboratory Corporation of Ameri ,84.5698
+Sell,LNC,Lincoln National Corporation Co ,88.3827
+Sell,LNT,Alliant Energy Corporation Comm ,83.3344
+Sell,LRCX,Lam Research Corporation ,88.662
+Sell,LVLT,Level 3 Communications Inc. Co ,97.6426
+Sell,MAC,Macerich Company (The) Common S ,81.25
+Sell,MAR,Marriot International Common St ,97.5842
+Sell,MCO,Moody's Corporation Common Stoc ,87.312
+Sell,NOC,Northrop Grumman Corporation Co ,94.3563
+Sell,NTAP,NetApp Inc. ,91.888
+Sell,NUE,Nucor Corporation Common ,83.0239
+Sell,O,Realty Income Corporation Commo ,95.2379
+Sell,ORLY,O'Reilly Automotive Inc. ,89.2922
+Sell,PAYX,Paychex Inc. ,94.6608
+Sell,PEG,Public Service Enterprise Group ,83.2137
+Sell,PG,Procter & Gamble Company (The)  ,93.2886
+Sell,SNPS,Synopsys Inc. ,93.2373
+Sell,SO,Southern Company (The) Common S ,94.3585
+Sell,WDC,Western Digital Corporation ,80.6055
+Sell,WEC,Wisconsin Energy Corporation Co ,97.2226
+Sell,WMT,Wal-Mart Stores Inc. Common St ,82.5053
+Sell,WY,Weyerhaeuser Company Common Sto ,98.333
+Sell,WYN,Wyndham Worldwide Corp Common   ,86.4202
+Sell,XRX,Xerox Corporation Common ,96.9446
+Sell,YUM,Yum! Brands Inc. ,88.2456
+Sell,ZION,Zions Bancorporation ,87.3017
+Sell,EA, Electronic Arts Inc. ,91.1993
+Sell,FBHS, Fortune Brands Home & Security  ,88.8875
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,93.827
+Sell,HAS, Hasbro  Inc. ,96.6179
+Sell,HCN, Health Care REIT  Inc. Common S ,83.7962
+Sell,HIG, Hartford Financial Services Gro ,90.736
+Sell,HRS, Harris Corporation Common ,98.2452
+Sell,HST, Host Hotels & Resorts  Inc. Com ,92.7604
+Sell,HSY, The Hershey Company Common Stoc ,88.6352
+Sell,HUM, Humana Inc. Common ,91.3304
+Sell,ICE, IntercontinentalExchange  Inc.  ,90.7605
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,95.6553
+Sell,PSX, Phillips 66 Common ,92.9666
+Sell,STT, State Street Corporation Common ,90.6006
+Sell,VIAB, Viacom Inc. ,89.6803
+Sell,SPY,SPDR S&P 500 ETF,91.8296
+Sell,COTY,Coty Inc. ,94.1201
+Sell,FOX,Twenty-First Century Fox Inc. ,96.4507
+Sell,FOXA,Twenty-First Century Fox Inc. ,91.2458
+Sell,ALLE,Allegion plc Ordinary Shares ,97.6652
+Sell,ANTM,Anthem Inc. Common,93.3858
+Sell,SYF,Synchrony Financial Common Stoc,89.4573
+Sell,QRVO,Qorvo Inc.,89.3577
+Sell,WBA,Walgreens Boots Alliance Inc.,83.4575
+Sell,KHC,The Kraft Heinz Company,91.5368
+Sell,HPE,Hewlett Packard Enterprise Company,81.108
+Sell,WLTW,Willis Towers Watson Public Limited Company,80.964

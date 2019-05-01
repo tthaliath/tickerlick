@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CROX,Crocs Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+GTS, Triple-S Management Corporation ,Financial,Accident & Health Insurance
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+CYAN,Cyanotech Corporation ,Healthcare,Biotechnology
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+MED,MEDIFAST INC Common ,Services,Specialty Retail Other
+STMP,Stamps.com Inc. ,Services,Catalog & Mail Order Houses
+VNTV, Vantiv  Inc. Class A Common Sto ,Services,Business Services
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+NEFF,Neff Corporation Common,Services,Rental & Leasing Services
+MRCY,Mercury Computer Systems ,Technology,Computer Peripherals
+VPG,Vishay Precision Group Inc. Co ,Technology,Scientific & Technical Instruments
+ATHM,Autohome Inc. ,Technology,Internet Information Providers

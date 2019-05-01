@@ -1,0 +1,153 @@
+ticker,name,sector,industry
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+PFE,Pfizer Inc. Common ,Healthcare,Drug Manufacturers - Major
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+HOG, Harley-Davidson  Inc. Common St ,Consumer Goods,Recreational Vehicles
+M,Macy's Inc Common ,Services,Department Stores
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+PCAR,PACCAR Inc. ,Consumer Goods,Trucks & Other Vehicles
+JNPR,Juniper Networks Inc. Common S ,Technology,Networking & Communication Devices
+CBF, Capital Bank Financial Corp. ,Financial,Regional - Southeast Banks
+DGII,Digi International Inc. ,Technology,Networking & Communication Devices
+FRP, FairPoint Communications  Inc. ,Technology,Telecom Services - Domestic
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+SPA,Sparton Corporation Common Stoc ,Technology,Diversified Electronics
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AF,Astoria Financial Corporation C ,Financial,Savings & Loans
+AMNB,American National Bankshares I ,Financial,Regional - Mid-Atlantic Banks
+BLDR,Builders FirstSource Inc. ,Services,Home Improvement Stores
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+CNK,Cinemark Holdings Inc Cinemark  ,Services,Movie Production Theaters
+DFRG, Del Frisco's Restaurant Group   ,Services,Restaurants
+EEV,ProShares UltraShort MSCI Emerging Markets ETF,Commodity Based ETF,
+EVTC,EVERTEC Inc. ,Technology,Business Software & Services
+FIBK,First Interstate BancSystem In ,Financial,Regional - Pacific Banks
+GPRE,Green Plains Renewable Energy  ,Basic Materials,Specialty Chemicals
+HTLF, Heartland Financial USA  Inc. ,Financial,Regional - Southwest  Banks
+ITT,ITT Corporation Common ,Industrial Goods,Diversified Machinery
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+MG,Mistras Group Inc Common ,Services,Technical Services
+MSTR,MicroStrategy Incorporated ,Technology,Business Software & Services
+NPO,Enpro Industries Inc ,Industrial Goods,Industrial Equipment & Components
+OCFC,OceanFirst Financial Corp. ,Financial,Savings & Loans
+OMN,OMNOVA Solutions Inc. Common St ,Basic Materials,Specialty Chemicals
+PFSW,PFSweb Inc. ,Services,Business Services
+PYT, PPlus Tr GSC-2 Tr Ctf Fltg Rate ,N/A,N/A
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+SPNC,The Spectranetics Corporation ,Healthcare,Medical Appliances & Equipment
+SYBT,S.Y. Bancorp Inc. ,Financial,Regional - Southeast Banks
+TMP,Tompkins Financial Corporation  ,Financial,Regional - Northeast Banks
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+XRT,SPDR S&P Retail ETF,US Equity ETF,
+CCRN,Cross Country Healthcare Inc. ,Services,Staffing & Outsourcing Services
+EBSB,Meridian Interstate Bancorp In ,Financial,Savings & Loans
+GARS,Garrison Capital Inc. ,N/A,N/A
+NMS,Nuveen Minnesota Municipal Inco,N/A,N/A
+PVI,PowerShares VRDO Tax Free Weekly Portfolio ETF,Fixed Income ETF,
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+AIRR,First Trust RBA American Indl Rnsnc ,N/A,N/A
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+CECO,Career Education Corporation ,Services,Education & Training Services
+CUNB, CU Bancorp (CA) ,Financial,Regional - Pacific Banks
+DMO, Western Asset Mortgage Defined  ,N/A,N/A
+ELGX,Endologix Inc. ,Healthcare,Medical Instruments & Supplies
+FFKT,Farmers Capital Bank Corporatio ,Financial,Regional - Southeast Banks
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+IBOC, International Bancshares Corpor ,Financial,Regional - Southwest  Banks
+JBN, Select Asset Inc. Select Asset  ,N/A,N/A
+KRNY,Kearny Financial ,Financial,Savings & Loans
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+NBHC, National Bank Holdings Corporat ,N/A,N/A
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+OPK,OPKO Health Inc. Common ,Healthcare,Medical Appliances & Equipment
+PGNX,Progenics Pharmaceuticals Inc. ,Healthcare,Biotechnology
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+TAST,Carrols Restaurant Group Inc. ,Services,Restaurants
+TOWR,Tower International Inc. Commo ,Industrial Goods,Metal Fabrication
+USG,USG Corporation Common ,Industrial Goods,General Building Materials
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+EDZ, Direxion Emerging Markets Bear  ,N/A,N/A
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+P, Pandora Media  Inc. Common Stoc ,Services,Broadcasting - Radio
+RALS,ProShares RAFI® Long/Short ETF,Commodity Based ETF,
+SSNI,Silver Spring Networks Inc. ,Technology,Computer Based Systems
+ACOR,Acorda Therapeutics Inc. ,Healthcare,Biotechnology
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+AXL,American Axle & Manufacturing H ,Consumer Goods,Auto Parts
+BSTC,BioSpecifics Technologies Corp ,Healthcare,Biotechnology
+CIVI,Civitas Solutions Inc. Common,Healthcare,Long-Term Care Facilities
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+DSW,DSW Inc. Common ,Services,Apparel Stores
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+FGP,Ferrellgas Partners L.P. Commo ,Basic Materials,Oil & Gas Refining & Marketing
+FMNB, Farmers National Banc Corp. ,Financial,Regional - Midwest Banks
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+JMBA,Jamba Inc. ,Services,Restaurants
+KWN,Kennedy-Wilson Holdings Inc. ,N/A,N/A
+MDLY,Medley Management Inc. Class A,N/A,N/A
+MIK,The Michaels Companies Inc.,Services,Specialty Retail Other
+NFBK,Northfield Bancorp Inc. ,Financial,Regional - Northeast Banks
+NUS,Nu Skin Enterprises Inc. Commo ,Consumer Goods,Personal Products
+OLP,One Liberty Properties Inc. Co ,Financial,REIT - Diversified
+OXM,Oxford Industries Inc. Common  ,Consumer Goods,Textile - Apparel Clothing
+PJP,PowerShares Dynamic Pharmaceuticals ETF,US Equity ETF,
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+SAMG,Silvercrest Asset Management Group Inc. ,N/A,N/A
+SMBC, Southern Missouri Bancorp  Inc. ,Financial,Savings & Loans
+STBA,S&T Bancorp Inc. ,Financial,Regional - Northeast Banks
+TRC,Tejon Ranch Co Common ,Financial,Property Management
+VMI,Valmont Industries Inc. Common ,Industrial Goods,Metal Fabrication
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+BOFI,BofI Holding Inc. ,Financial,Savings & Loans
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic
+GNRT,Gener8 Maritime Inc.,N/A,N/A
+KFRC,Kforce Inc. ,Services,Staffing & Outsourcing Services
+MZA, Blackrock MuniYield Arizona Fun ,Financial,Closed-End Fund - Debt
+RECN,Resources Connection Inc. ,Services,Management Services
+VSI,Vitamin Shoppe Inc Common Stoc ,Services,Specialty Retail Other
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+BCC,Boise Cascade Company ,Industrial Goods,Lumber
+CAC,Camden National Corporation ,Financial,Regional - Northeast Banks
+CNAT,Conatus Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CVBF,CVB Financial Corporation ,Financial,Regional - Pacific Banks
+EAT,Brinker International Inc. Com ,Services,Restaurants
+EUM,ProShares Short MSCI Emerging Markets ETF,Commodity Based ETF,
+FHN,First Horizon National Corporat ,Financial,Regional - Southeast Banks
+GEH,General Electric Capital Corporation ,N/A,N/A
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+IPAR,Inter Parfums Inc. ,Consumer Goods,Personal Products
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+MDRX,Allscripts Healthcare Solutions ,Technology,Healthcare Information Services
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+NNBR,NN Inc. ,Industrial Goods,Machine Tools & Accessories
+NVTA,Invitae Corporation Common Stoc,Healthcare,Medical Laboratories & Research
+OMAM,OM Asset Management plc Ordinar,N/A,N/A
+PFS,Provident Financial Services I ,Financial,Savings & Loans
+PNNT, PennantPark Investment Corporat ,N/A,N/A
+RETL, Direxion Daily Retail Bull 3X S ,N/A,N/A
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+SMK,ProShares UltraShort MSCI Mexico Investable Market ETF,Commodity Based ETF,
+STL,Sterling Bancorp Common ,Financial,Regional - Northeast Banks
+TK,Teekay Corporation Common ,Services,Shipping
+UCFC,United Community Financial Corp ,Financial,Savings & Loans
+VOYA,ING U.S. Inc. ,Financial,Asset Management
+WTBA,West Bancorporation ,Financial,Regional - Southwest  Banks

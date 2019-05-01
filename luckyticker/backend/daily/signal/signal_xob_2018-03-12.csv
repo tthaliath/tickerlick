@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MULE,MuleSoft  Inc. Class A Common S,,
+GTHX,G1 Therapeutics  Inc.,,
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+MKTX,MarketAxess Holdings Inc. ,Financial,Investment Brokerage - National
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+NTNX,NUTANIX INC,N/A,N/A
+KFY,Korn/Ferry International Common ,Services,Staffing & Outsourcing Services
+WLDN,Willdan Group Inc. ,Services,Technical Services
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment
+WDC,Western Digital Corporation ,Technology,Data Storage Devices
+TWOU,2U Inc. ,Technology,Application Software
+PRO,PROS Holdings Inc. Common Stoc ,Technology,Application Software
+PTC,PTC Inc. ,Technology,Technical & System Software
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials

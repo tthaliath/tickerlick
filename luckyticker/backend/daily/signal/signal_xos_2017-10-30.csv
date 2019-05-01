@@ -1,0 +1,57 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HWKN, Hawkins  Inc. ,Basic Materials,Synthetics
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+UBR,ProShares Ultra MSCI Brazil ETF,Commodity Based ETF,
+BC,Brunswick Corporation Common St ,Consumer Goods,Recreational Goods Other
+PF,Pinnacle Foods Inc. ,Consumer Goods,Food - Major Diversified
+ADC,Agree Realty Corporation Common ,Financial,Property Management
+HT, Hersha Hospitality Trust Class  ,Financial,REIT - Retail
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+MFA,MFA Financial Inc. ,Financial,REIT - Diversified
+EVP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+MIW, Eaton Vance Michigan Municipal  ,Financial,Closed-End Fund - Debt
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+NLY,Annaly Capital Management Inc C ,Financial,REIT - Diversified
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+ROIC,Retail Opportunity Investments  ,Financial,REIT - Diversified
+CIB,BanColombia S.A. Common ,Financial,Foreign Regional Banks
+CYS,CYS Investments Inc. Common St ,Financial,REIT - Residential
+NYRT,New York REIT Inc. ,Financial,REIT - Office
+KRG,Kite Realty Group Trust Common  ,Financial,REIT - Retail
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+EWW,iShares MSCI Mexico Index Fund ETF,Global Equity ETF,
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+GSK,GlaxoSmithKline PLC Common Stoc ,Healthcare,Drug Manufacturers - Major
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+FHY, First Trust Strategic High Inco ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+KTP, Corts 7.625 Pfd Common ,N/A,N/A
+DMO, Western Asset Mortgage Defined  ,N/A,N/A
+IIM, Invesco Value Municipal Income  ,N/A,N/A
+VGM, Invesco Van Kampen Trust for In ,N/A,N/A
+PGZ,Principal Real Estate Income Fu ,N/A,N/A
+VMO, Invesco Van Kampen Municipal Op ,N/A,N/A
+MXF, Mexico Fund  Inc. (The) Common  ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+ROL,Rollins Inc. Common ,Services,Business Services
+SPSC,SPS Commerce Inc. ,Services,Business Services
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+TRK,Speedway Motorsports Inc. Comm ,Services,Sporting Activities
+TAL,TAL International Group Inc. C ,Services,Rental & Leasing Services
+OMC,Omnicom Group Inc. Common ,Services,Advertising Agencies
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+SFLY,Shutterfly Inc. ,Technology,Internet Information Providers
+CLS,Celestica Inc. Common ,Technology,Printed Circuit Boards
+IHE,iShares Dow Jones U.S. Pharmaceutical Index Fund ETF,US Equity ETF,

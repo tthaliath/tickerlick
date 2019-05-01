@@ -1,0 +1,167 @@
+ticker,name,sector,industry
+FCX,Freeport-McMoRan Copper & Gold ,Basic Materials,Copper
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+TAP,Molson Coors Brewing Company Cl ,Consumer Goods,Beverages - Brewers
+SCM,Stellus Capital Investment Corporation ,N/A,N/A
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+YMLI,Yorkville High Income Infras MLP ETF ,N/A,N/A
+PSAU,PowerShares Global Gold and Precious Metals Portfolio ETF,Global Equity ETF,
+STPZ,PIMCO 1-5 Year U.S. TIPS Index Fund ETF,Fixed Income ETF,
+FPL,First Trust New Opportunities M ,N/A,N/A
+GDX,Market Vectors TR Gold Miners ETF,US Equity ETF,
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+SWM,Schweitzer-Mauduit Internationa ,Consumer Goods,Paper & Paper Products
+GCAP,GAIN Capital Holdings Inc. Com ,Financial,Investment Brokerage - National
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices
+PBFX,PBF Logistics LP Common Units r,Basic Materials,Oil & Gas Equipment & Services
+CNDA,IndexIQ Canada Small Cap ETF,Global Equity ETF,
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+CRF, Cornerstone Total Return Fund   ,Financial,Closed-End Fund - Equity
+TGP,Teekay LNG Partners L.P. ,Services,Shipping
+SRI,Stoneridge Inc. Common ,Consumer Goods,Auto Parts
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+COBO,ProShares USD Covered Bond,Commodity Based ETF,
+TTP, Tortoise Pipeline & Energy Fund ,N/A,N/A
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+AMU, ETRACS Alerian MLP Index ETN ,N/A,N/A
+PHYS, Sprott Physical Gold Trust ETV ,N/A,N/A
+HFBL,Home Federal Bancorp Inc. of Louisiana ,Financial,Savings & Loans
+ARCO, Arcos Dorados Holdings Inc. Cla ,N/A,N/A
+AMZA,InfraCap MLP ETF ,,
+SCSC,ScanSource Inc. ,Technology,Technical & System Software
+NSA,National Storage Affiliates,N/A,N/A
+MYF, Blackrock MuniYield Investment  ,Financial,Closed-End Fund - Debt
+CBA,ClearBridge American Energy MLP ,N/A,N/A
+DSE,Duff &amp; Phelps Select Energy MLP,N/A,N/A
+ACCO, Acco Brands Corporation Common  ,Consumer Goods,Office Supplies
+FPI,Farmland Partners Inc. ,Financial,Real Estate Development
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+ADXS,Advaxis Inc. ,Healthcare,Biotechnology
+LTRPA,Liberty TripAdvisor Holdings I,Consumer Goods,Recreational Goods Other
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+CLM, Cornerstone Strategic Value Fun ,Financial,Closed-End Fund - Equity
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+FTF, Franklin Templeton Limited Dura ,Financial,Closed-End Fund - Debt
+TROX, Tronox Limited Ordinary Shares  ,N/A,N/A
+XME,SPDR S&P Metals and Mining ETF,US Equity ETF,
+RYI,Ryerson Holding Corporation Com,N/A,N/A
+SLVP,iShares MSCI Global Silver Miners Fund ETF,Global Equity ETF,
+PEI,Pennsylvania Real Estate Invest ,Financial,REIT - Retail
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+SGDM,Sprott Gold Miners ETF ,,
+DVHL,UBS E-TRACS Mthly Pay 2x Divs Hi Inc ETN ,N/A,N/A
+PAY,Verifone Systems Inc. Common S ,Consumer Goods,Business Equipment
+CAVM,Cavium Inc. ,Technology,Semiconductor - Broad Line
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+ABY,Abengoa Yield plc,Utilities,Electric Utilities
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+SIVR, ETFS Physical Silver Shares Tru ,N/A,N/A
+SLVO,Credit Suisse Silver Shares Cov Call ETN ,N/A,N/A
+SHLX,Shell Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+ELP,Companhia Paranaense de Energia ,Utilities,Electric Utilities
+YMLP, Yorkville High Income MLP Excha ,N/A,N/A
+PSLV, Sprott Physical Silver Trust ET ,N/A,N/A
+BOIL,ProShares Ultra DJ-UBS Natural Gas ETF,Commodity Based ETF,
+USCI, United States Commodity Index F ,N/A,N/A
+GER, General Electric Capital Corpor ,N/A,N/A
+SLCA, U.S. Silica Holdings  Inc. Comm ,Basic Materials,Industrial Metals & Minerals
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+COPX,Global X Copper Miners ETF,Global Equity ETF,
+KYE, Kayne Anderson Total Energy Ret ,N/A,N/A
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+SILJ,PureFunds ISE Jnr Slvr,N/A,N/A
+PDCE,Pioneer Drilling Company Common ,Basic Materials,Oil & Gas Drilling & Exploration
+AU,AngloGold Ashanti Ltd. Common S ,Basic Materials,Gold
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+KW,Kennedy-Wilson Holdings Inc. Co ,Financial,Property Management
+ARKR,Ark Restaurants Corp. ,Services,Restaurants
+CCA, MFS California Municipal Fund C ,N/A,N/A
+GEL,Genesis Energy L.P. Common Uni ,Basic Materials,Oil & Gas Pipelines
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+MLPX,Global X MLP and Energy Infrastructure ETF ,N/A,N/A
+SIL,Global X Silver Miners ETF,Global Equity ETF,
+PCMI,PCM Inc. ,Services,Specialty Retail
+GRES, IQ ARB Global Resources ETF ,N/A,N/A
+MANU, Manchester United Ltd. Class A  ,Consumer Goods,Recreational Goods  Other
+QADA,QAD Inc. ,Technology,Application Software
+VTIP, Vanguard Short-Term Inflation-P ,N/A,N/A
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+NVEC,NVE Corporation ,Technology,Semiconductor - Specialized
+KED, Kayne Anderson Energy Developme ,N/A,N/A
+SEP,Spectra Energy Partners LP Com ,Basic Materials,Oil & Gas Pipelines
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+GAF,SPDR S&P Emerging Middle East & Africa ETF,Global Equity ETF,
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+VIPS, Vipshop Holdings Limited Americ ,Technology,Internet Service Providers
+CEL,Cellcom Israel Ltd. Ordinary S ,Technology,Wireless Communications
+MLPI, UBS AG ETN ,N/A,N/A
+MSB,Mesabi Trust Common ,Financial,Diversified Investments
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+DIN,DineEquity Inc Common ,Services,Restaurants
+ETE,Energy Transfer Equity L.P. En ,Basic Materials,Oil & Gas Pipelines
+UBR,ProShares Ultra MSCI Brazil ETF,Commodity Based ETF,
+AMLP,ALPS Alerian MLP ETF,US Equity ETF,
+UNG, United States Natural Gas Fund  ,N/A,N/A
+MMLP,Martin Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+RSX,Market Vectors TR Russia ETF,Global Equity ETF,
+CEQP,Crestwood Equity Partners LP ,Basic Materials,Oil & Gas Pipelines
+GMZ,Goldman Sachs MLP Income Opport ,N/A,N/A
+UNL, United States 12 Month Natural  ,N/A,N/A
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+ERUS,iShares MSCI Russia Capped Index Fund ETF,Global Equity ETF,
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+MCRI,Monarch Casino & Resort Inc. ,Services,Resorts & Casinos
+JMLP,Nuveen All Cap Energy MLP Oppor ,N/A,N/A
+KRS,ProShares Short KBW Regional Banking ETF,Commodity Based ETF,
+AEM,Agnico-Eagle Mines Limited Comm ,Basic Materials,Gold
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+WPX, WPX Energy  Inc. Common ,Basic Materials,Independent Oil & Gas
+CXW,Corrections Corporation of Amer ,Services,Management Services
+KIRK,Kirkland's Inc. ,Services,Home Furnishing Stores
+SLX,Market Vectors Steel Index ETF Fund ETF,US Equity ETF,
+RENN,Renren Inc. American Depositary ,Technology,Internet Information Providers
+AZPN,Aspen Technology Inc. ,Technology,Business Software & Services
+ENLK,EnLink Midstream Partners LP ,Basic Materials,Independent Oil & Gas
+SEA,Guggenheim Shipping ETF,Global Equity ETF,
+NBR,Nabors Industries Ltd. ,Basic Materials,Oil & Gas Drilling & Exploration
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+FRAN, Francesca's Holdings Corporatio ,Services,Specialty Retail  Other
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+POWI,Power Integrations Inc. ,Technology,Semiconductor - Integrated Circuits
+XVZ, iPath S&P 500 Dynamic VIX ETN ,N/A,N/A
+CZZ,Cosan Limited Class A Common St ,Consumer Goods,Confectioners
+UGA, United States Gasoline Fund LP ,N/A,N/A
+UGAZ, VelocityShares 3X Long Natural  ,N/A,N/A
+MLPA,Global X MLP ETF,Global Equity ETF,
+DMLP,Dorchester Minerals L.P. ,Financial,Diversified Investments
+GASL, Direxion Daily Natural Gas Rela ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+ERA,Era Group Inc. ,Services,Air Services
+GLDI,Credit Suisse Gold Shrs Cov Call Exc ETN ,N/A,N/A
+NML,Neuberger Berman MLP Income Fun ,N/A,N/A
+TRGP,Targa Resources Inc. Common St ,Utilities,Gas Utilities
+PSCT,PowerShares S&P SmallCap Info Tech ETF,US Equity ETF,
+RBL,SPDR S&P Russia ETF,Global Equity ETF,
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+BRT,BRT Realty Trust Common ,Financial,Mortgage Investment
+SMM, Salient Midstream Common Shares ,N/A,N/A
+SWNC,Southwestern Energy Company Dep,N/A,N/A
+HSNI, HSN  Inc. ,Services,Specialty Retail  Other
+TEP,Tallgrass Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+GNT, GAMCO Natural Resources  Gold & ,N/A,N/A
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+STK, Columbia Seligman Premium Techn ,N/A,N/A

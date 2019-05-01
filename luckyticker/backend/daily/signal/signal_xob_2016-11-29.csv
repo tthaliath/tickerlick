@@ -1,0 +1,69 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBIF,WBI Large Cap Tactical Value Sh ,,
+LEDD,iPath Pure Beta Lead ETN ,,
+STLD,Steel Dynamics Inc. ,Basic Materials,Steel & Iron
+CMC,Commercial Metals Company Commo ,Basic Materials,Steel & Iron
+KRO,Kronos Worldwide Inc Common Sto ,Basic Materials,Specialty Chemicals
+LEU,Centrus Energy Corp. Class A Co,Basic Materials,Industrial Metals & Minerals
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+CAAS,China Automotive Systems Inc. ,Consumer Goods,Auto Parts
+THO,Thor Industries Inc. Common St ,Consumer Goods,Recreational Vehicles
+FSS,Federal Signal Corporation Comm ,Consumer Goods,Trucks & Other Vehicles
+ABCB,Ameris Bancorp ,Financial,Regional - Mid-Atlantic Banks
+CBU,Community Bank System Inc. Com ,Financial,Regional - Northeast Banks
+HFWA, Heritage Financial Corporation ,Financial,Regional - Pacific Banks
+TSBK, Timberland Bancorp  Inc. ,Financial,Savings & Loans
+WAFD, Washington Federal  Inc. ,Financial,Savings & Loans
+BUSE,First Busey Corporation ,Financial,Regional - Midwest Banks
+FRME,First Merchants Corporation ,Financial,Regional - Midwest Banks
+IBCP, Independent Bank Corporation ,Financial,Regional - Midwest Banks
+OCFC,OceanFirst Financial Corp. ,Financial,Savings & Loans
+FCCY,1st Constitution Bancorp (NJ) ,Financial,Regional - Northeast Banks
+BERK,Berkshire Bancorp Inc. ,Financial,Regional - Northeast Banks
+WVFC, WVS Financial Corp. ,Financial,Savings & Loans
+CASH,Meta Financial Group Inc. ,Financial,Savings & Loans
+CNOB,ConnectOne Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+OSHC,Ocean Shore Holding Co. ,Financial,Regional - Northeast Banks
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+TOWN,Towne Bank ,Financial,Regional - Mid-Atlantic Banks
+CIVB,Civista Bancshares  Inc.,Financial,Regional - Pacific Banks
+DFS,Discover Financial Services Com ,Financial,Credit Services
+HBCP, Home Bancorp  Inc. ,Financial,Savings & Loans
+NFBK,Northfield Bancorp Inc. ,Financial,Regional - Northeast Banks
+TRMK,Trustmark Corporation ,Financial,Regional - Southeast Banks
+FFKT,Farmers Capital Bank Corporatio ,Financial,Regional - Southeast Banks
+CUTR,Cutera Inc. ,Healthcare,Medical Appliances & Equipment
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+KAMN,Kaman Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+OA,Orbital ATK Inc. Common,Industrial Goods,Aerospace/Defense Products & Services
+TTC,Toro Company (The) Common ,Industrial Goods,Small Tools & Accessories
+TXT,Textron Inc. Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+AGA, DB Agriculture Short ETN DB Agr ,N/A,N/A
+DGRS,WisdomTree US SmallCap Dividend Growth ,N/A,N/A
+SYLD,Cambria Shareholder Yield ETF ,N/A,N/A
+ARCB,ArcBest Corporation ,N/A,N/A
+SMLV,SPDR Russell 2000 Low Volatility ETF ,N/A,N/A
+FDX,FedEx Corporation Common ,Services,Air Delivery & Freight Services
+AIT,Applied Industrial Technologies ,Services,Industrial Equipment Wholesale
+AAL,American Airlines Group Inc. ,Services,Major Airlines
+AXE,Anixter International Inc. Comm ,Services,Industrial Equipment Wholesale
+CASS,Cass Information Systems Inc ,Services,Business Services
+JBHT,J.B. Hunt Transport Services I ,Services,Trucking
+LUV,Southwest Airlines Company Comm ,Services,Regional Airlines
+UAL,United Continental Holdings ,Services,Major Airlines
+NTN,NTN Buzztime Inc. Common ,Services,Broadcasting - TV
+DGI,DigitalGlobe Inc Common ,Technology,Information & Delivery Services
+LLTC,Linear Technology Corporation ,Technology,Semiconductor - Specialized
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+MSCC,Microsemi Corporation ,Technology,Semiconductor - Integrated Circuits
+ESE,ESCO Technologies Inc. Common S ,Technology,Scientific & Technical Instruments
+MTSC,MTS Systems Corporation ,Technology,Scientific & Technical Instruments
+MDYV,SPDR S&P 400 Mid Cap Value ETF (MDYV) ETF,US Equity ETF,
+PSCF,PowerShares S&P SmallCap Financials Portfolio ETF,US Equity ETF,
+PSCM,PowerShares S&P SmallCap Materials Portfolio ETF,US Equity ETF,
+IYT,iShares Dow Jones Transportation Average Index Fund ETF,US Equity ETF,
+XLI,SPDR Industrial Select Sector Fund ETF,US Equity ETF,
+FDM,First Trust DJ Select MicroCap ETF,US Equity ETF,
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,
+XTN,SPDR S&P Transportation ETF,US Equity ETF,
+WGL,WGL Holdings IncCommon ,Utilities,Gas Utilities

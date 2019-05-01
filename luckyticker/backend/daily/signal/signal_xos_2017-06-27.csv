@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+HHC, Howard Hughes Corporation (The) ,Financial,REIT - Diversified
+KANG,iKang Healthcare Group Inc. ,Healthcare,Medical Laboratories & Research
+BUFF,Blue Buffalo Pet Products  Inc.,N/A,N/A
+JSD, Nuveen Short Duration Credit Op ,N/A,N/A
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+SYY,Sysco Corporation Common ,Services,Food Wholesale
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+LRN,K12 Inc Common ,Services,Education & Training Services
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores

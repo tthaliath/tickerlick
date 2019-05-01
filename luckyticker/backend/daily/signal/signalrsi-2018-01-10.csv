@@ -1,0 +1,146 @@
+OS,AEE,Ameren Corporation Common ,56.48,27.2138
+OS,AEP,American Electric Power Company ,69.5,23.3193
+OS,AIV,Apartment Investment and Manage ,41.46,27.1638
+OS,AVB,AvalonBay Communities Inc. Com ,170.96,26.4843
+OS,CMS,CMS Energy Corporation Common S ,44.98,25.6193
+OS,D,Dominion Resources Inc. Common ,76.21,28.1619
+OS,DTE,DTE Energy Company Common ,104.64,26.5326
+OS,DUK,Duke Energy Corporation (Holdin ,80.11,17.7365
+OS,ED,Consolidated Edison Inc. Commo ,80.92,28.5428
+OS,EQR,Equity Residential Common Share ,61.46,26.2303
+OS,ESS,Essex Property Trust Inc. Comm ,232.22,29.1709
+OS,FE,FirstEnergy Corporation Common  ,29.82,28.836
+OS,LNT,Alliant Energy Corporation Comm ,40.19,26.3526
+OS,MAA,Mid-America Apartment Communiti ,93.91,22.9606
+OS,NI,NiSource Inc Common ,24.13,28.862
+OS,O,Realty Income Corporation Commo ,53.06,29.7404
+OS,PCG,Pacific Gas & Electric Co. Comm ,44.55,27.506
+OS,PNW,Pinnacle West Capital Corporati ,80.57,23.4564
+OS,PPL,PP&L Corporation Common ,30.9,27.6295
+OS,PSA,Public Storage Common ,196.11,28.8013
+OS,SO,Southern Company (The) Common S ,45.96,23.4091
+OS,UDR,UDR Inc. Common ,36.41,27.4891
+OS,VNO,Vornado Realty Trust Common Sto ,72.66,29.5809
+OS,VTR,Ventas Inc. Common ,56.84,21.9532
+OS,WEC,Wisconsin Energy Corporation Co ,63.67,28.9627
+OS,XEL,Xcel Energy Inc. Common ,46.13,24.6096
+OS,HCN, Health Care REIT  Inc. Common S ,60.71,22.5252
+OS,HCP, HCP  Inc. Common ,24.36,23.4136
+OB,ABC,AmerisourceBergen Corporation ( ,97.21,75.285
+OB,ACN,Accenture plc. Class A Ordinary ,158.9,75.5974
+OB,ADS,Alliance Data Systems Corporati ,272.09,80.2714
+OB,AFL,AFLAC Incorporated Common ,90.74,74.6246
+OB,AKAM,Akamai Technologies Inc. ,66.33,70.6636
+OB,AMP,Ameriprise Financial Inc. Comm ,175.83,72.3771
+OB,AMZN,Amazon.com Inc. ,1254.33,75.322
+OB,APC,Anadarko Petroleum Corporation  ,55.41,73.5144
+OB,APD,Air Products and Chemicals Inc ,168.35,70.6126
+OB,AZO,AutoZone Inc. Common ,767.78,71.8744
+OB,BA,Boeing Company (The) Common Sto ,320.26,85.173
+OB,BAC,Bank of America Corporation Com ,30.55,70.2674
+OB,BBT,BB&T Corporation Common ,52.71,75.3131
+OB,BBY,Best Buy Co. Inc. Common ,70.34,72.9194
+OB,BHGE,Baker Hughes Incorporated Commo ,35.47,72.4116
+OB,BK,Bank of New York Mellon Corpora ,57.3,77.4715
+OB,CAH,Cardinal Health Inc. Common St ,68.06,72.4486
+OB,CAT,Caterpillar Inc. Common ,165.87,83.8072
+OB,CBOE,CBOE Holdings Inc. ,132.33,76.5413
+OB,CHRW,C.H. Robinson Worldwide Inc. ,91.44,74.9401
+OB,CMA,Comerica Incorporated Common St ,91.31,76.8767
+OB,COF,Capital One Financial Corporati ,103.14,73.607
+OB,COL,Rockwell Collins Inc. Common S ,137.95,80.4616
+OB,COP,ConocoPhillips Common ,57.65,71.9206
+OB,CSCO,Cisco Systems Inc. ,39.91,72.268
+OB,CVX,Chevron Corporation Common Stoc ,128.66,74.4653
+OB,DE,Deere & Company Common ,164.94,79.8578
+OB,DFS,Discover Financial Services Com ,79.47,76.4436
+OB,DHR,Danaher Corporation Common Stoc ,98.24,72.7763
+OB,DVA,DaVita Inc. Common ,78.07,83.7466
+OB,EMN,Eastman Chemical Company Common ,97.25,70.8046
+OB,EMR,Emerson Electric Company Common ,72.59,80.2029
+OB,EOG,EOG Resources Inc. Common Stoc ,112.01,71.5092
+OB,ESRX,Express Scripts Holding Company ,80.35,88.1586
+OB,ETFC,E*TRADE Financial Corporation ,52.69,77.4054
+OB,FDX,FedEx Corporation Common ,268.01,81.2587
+OB,FFIV,F5 Networks Inc. ,139,71.8224
+OB,FISV,Fiserv Inc. ,137.01,72.1192
+OB,FLIR,FLIR Systems Inc. ,49.71,71.1695
+OB,FLR,Fluor Corporation Common ,54.06,82.83
+OB,FTI,FMC Technologies Inc. Common S ,32.83,72.6786
+OB,GOOG,Alphabet Inc.,1102.61,70.968
+OB,GPC,Genuine Parts Company Common St ,99.4,76.4826
+OB,IP,International Paper Company Com ,61.62,71.7228
+OB,ISRG,Intuitive Surgical Inc. ,423.76,74.4173
+OB,JBHT,J.B. Hunt Transport Services I ,120.11,77.2279
+OB,KEY,KeyCorp Common ,21.01,73.4094
+OB,KSS,Kohl's Corporation Common ,58.84,72.0866
+OB,LEN,Lennar Corporation Class A Comm ,68.26,73.6108
+OB,LH,Laboratory Corporation of Ameri ,170.47,74.7871
+OB,LLL,L-3 Communications Holdings In ,205.73,73.8597
+OB,LNC,Lincoln National Corporation Co ,82.79,75.6189
+OB,LUK,Leucadia National Corporation C ,27.84,73.2746
+OB,LYB,LyondellBasell Industries NV Or ,115.03,75.3542
+OB,MA,Mastercard Incorporated Common  ,159.86,73.9056
+OB,MRO,Marathon Oil Corporation Common ,17.9,70.1031
+OB,MUR,Murphy Oil Corporation Common S ,33.67,75.9183
+OB,MYL,Mylan Inc. ,44.39,76.0999
+OB,NBL,Noble Energy Inc. Common ,31.34,70.3711
+OB,NDAQ,The NASDAQ OMX Group Inc. ,81.23,74.7057
+OB,NFLX,Netflix Inc. ,212.52,72.2613
+OB,NSC,Norfolk Southern Corporation Co ,151.61,73.3397
+OB,NTAP,NetApp Inc. ,60.65,75.6099
+OB,NTRS,Northern Trust Corporation ,105.76,77.3155
+OB,NUE,Nucor Corporation Common ,68.94,76.2161
+OB,NVDA,NVIDIA Corporation ,223.68,73.1149
+OB,OKE,ONEOK Inc. Common ,56.74,73.815
+OB,PFG,Principal Financial Group Inc C ,73.38,71.3078
+OB,PH,Parker-Hannifin Corporation Com ,206.61,78.639
+OB,PNC,PNC Financial Services Group I ,149.62,72.9441
+OB,PNR,Pentair Inc. Common ,73.41,72.2097
+OB,PRU,Prudential Financial Inc. Comm ,121.51,76.1023
+OB,PX,Praxair Inc. Common ,162.62,74.5236
+OB,PXD,Pioneer Natural Resources Compa ,178.7,75.5824
+OB,RF,Regions Financial Corporation C ,18.08,74.8186
+OB,RJF,Raymond James Financial Inc. C ,94.4,73.2123
+OB,SCHW,Charles Schwab Corporation (The ,53.56,74.1125
+OB,SLB,Schlumberger N.V. Common ,75.6,81.3298
+OB,STI,SunTrust Banks Inc. Common Sto ,67.7,72.7498
+OB,STX,Seagate Technology. ,47.07,81.4576
+OB,TAP,Molson Coors Brewing Company Cl ,85.21,72.0168
+OB,TGT,Target Corporation Common ,70.73,72.9816
+OB,TMK,Torchmark Corporation Common St ,92.76,77.162
+OB,TMO,Thermo Fisher Scientific Inc Co ,206.29,74.6497
+OB,TROW,T. Rowe Price Group Inc. ,112.27,80.4117
+OB,TSCO,Tractor Supply Company ,78.53,74.8168
+OB,TSS,Total System Services Inc. Com ,81.49,70.6326
+OB,TXN,Texas Instruments Incorporated ,109.7,77.8593
+OB,TXT,Textron Inc. Common ,58.4,70.8052
+OB,UAL,United Continental Holdings ,73.08,80.2412
+OB,UNM,Unum Group Common ,57.52,72.626
+OB,UNP,Union Pacific Corporation Commo ,139.7,71.0219
+OB,UPS,United Parcel Service Inc. Com ,129.79,78.8333
+OB,UTX,United Technologies Corporation ,134.9,88.0794
+OB,V,Visa Inc. ,118.98,72.6554
+OB,VLO,Valero Energy Corporation Commo ,94.15,79.0411
+OB,WMB,Williams Companies Inc. (The)  ,32.75,83.4716
+OB,WU,Western Union Company (The) Com ,21.23,70.9411
+OB,ETN, Eaton Corporation Common ,82.47,70.5132
+OB,FITB, Fifth Third Bancorp ,31.58,70.1016
+OB,HAL, Halliburton Company Common Stoc ,52.47,83.7264
+OB,HBAN, Huntington Bancshares Incorpora ,15.48,71.8059
+OB,HES, Hess Corporation Common ,53,74.7076
+OB,HP, Helmerich & Payne  Inc. Common  ,68.27,76.758
+OB,IBM, International Business Machines ,164.18,77.0305
+OB,ICE, IntercontinentalExchange  Inc.  ,74.46,74.2507
+OB,ILMN, Illumina  Inc. ,242.59,72.0655
+OB,LKQ, LKQ Corporation ,42.24,72.0655
+OB,MPC, Marathon Petroleum Corporation  ,69.51,73.1509
+OB,STT, State Street Corporation Common ,104.25,76.6221
+OB,SPY,SPDR S&P 500 ETF,274.12,77.8398
+OB,COTY,Coty Inc. ,20.52,72.1284
+OB,CFG,Citizens Financial Group Inc.,44.9,76.5986
+OB,SYF,Synchrony Financial Common Stoc,39.66,70.1465
+OB,WRK,WestRock Company,67.41,74.1246
+OB,ARNC,Arconic Inc.,29.79,82.9099
+OB,INFO,IHS Markit Ltd.,46.97,70.7318
+OB,DXC,DXC Technology Company,101.23,70.3814

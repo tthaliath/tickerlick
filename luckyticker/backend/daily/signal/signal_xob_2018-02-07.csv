@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VMAX,REX VolMAXX Long VIX Weekly Fut,,
+KTEC,Key Technology Inc. ,Consumer Goods,Processed & Packaged Goods
+ZFGN,Zafgen Inc.,Healthcare,Biotechnology
+JJT, iPath DJ-UBS Tin Subindex Total ,N/A,N/A
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+USAK,USA Truck Inc. ,Services,Trucking
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics

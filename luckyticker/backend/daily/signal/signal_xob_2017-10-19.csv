@@ -1,0 +1,40 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DXJC,WisdomTree Japan Hedged Capital ,,
+PLXP,PLx Pharma Inc.,,
+JHDG,WisdomTree Japan Hedged Quality,,
+SCIJ,Global X Scientific Beta Japan,,
+SPMO,PowerShares S&P 500 Momentum Po,,
+BOTZ,Global X Robotics & Artificial,,
+FOE,Ferro Corporation Common ,Basic Materials,Specialty Chemicals
+KRO,Kronos Worldwide Inc Common Sto ,Basic Materials,Specialty Chemicals
+IIIN, Insteel Industries  Inc. ,Basic Materials,Steel & Iron
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+BAM,Brookfield Asset Management Inc ,Financial,Real Estate Development
+MLVF,Malvern Federal Bancorp Inc. ,Financial,Savings & Loans
+CHSP,Chesapeake Lodging Trust Common ,Financial,REIT - Hotel/Motel
+NMIH,NMI Holdings Inc. ,Financial,Surety & Title Insurance
+CB,Chubb Corporation (The) Common  ,Financial,Property & Casualty Insurance
+URTH,iShares MSCI World ETF,Global Equity ETF,
+LFVN, Lifevantage Corporation ,Healthcare,Drug Related Products
+Q,Quintiles Transnational Holdings Inc. ,Healthcare,Medical Laboratories & Research
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+KMT,Kennametal Inc. Common ,Industrial Goods,Machine Tools & Accessories
+NRE,Northstar Realty Europe Corp.,N/A,N/A
+SPXX,Nuveen S&P 500 Dynamic Overwrit,N/A,N/A
+EXLS,ExlService Holdings Inc. ,Services,Business Services
+CPRT,Copart Inc. ,Services,Auto Dealerships
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+VSH,Vishay Intertechnology Inc. Co ,Technology,Semiconductor - Broad Line
+ASYS,Amtech Systems Inc. ,Technology,Semiconductor Equipment & Materials
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+PWB,PowerShares Dynamic LargeCap Growth ETF,US Equity ETF,
+SMH,Market Vectors Semiconductor ETF,US Equity ETF,
+FXL,First Trust Technology AlphaDEX ETF,US Equity ETF,
+PSI,PowerShares Dynamic Semiconductors ETF,US Equity ETF,
+HE, Hawaiian Electric Industries  I ,Utilities,Electric Utilities
+AWR,American States Water Company C ,Utilities,Water Utilities
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities
+AWK,American Water Works Company I ,Utilities,Water Utilities
+WTR,Aqua America Inc. Common ,Utilities,Water Utilities

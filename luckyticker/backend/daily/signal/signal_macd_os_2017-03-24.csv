@@ -1,0 +1,100 @@
+ticker,name,sector,industry
+YUM,Yum! Brands Inc. ,Services,Restaurants
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+ENDP,Endo Health Solutions Inc. ,Healthcare,Drug Manufacturers - Other
+OKE,ONEOK Inc. Common ,Utilities,Gas Utilities
+UHS,Universal Health Services Inc. ,Healthcare,Hospitals
+AAL,American Airlines Group Inc. ,Services,Major Airlines
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+PANW, Palo Alto Networks  Inc. Common ,Technology,Networking & Communication Devices
+AFSI,AmTrust Financial Services Inc ,Financial,Property & Casualty Insurance
+GSG, iShares GSCI Commodity-Indexed  ,N/A,N/A
+HNNA,Hennessy Advisors Inc. ,Financial,Asset Management
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+SONC,Sonic Corp. ,Services,Restaurants
+GER, General Electric Capital Corpor ,N/A,N/A
+SMMF,Summit Financial Group Inc. ,Financial,Regional - Mid-Atlantic Banks
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+UBFO, United Security Bancshares ,Financial,Regional - Pacific Banks
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+DSE,Duff &amp; Phelps Select Energy MLP,N/A,N/A
+CPN,Calpine Corporation Common Stoc ,Utilities,Electric Utilities
+VLT, Invesco Van Kampen High Income  ,N/A,N/A
+RDUS,Radius Health Inc.,N/A,N/A
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+CTIB,CTI Industries Corporation ,Consumer Goods,Rubber & Plastics
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+KMF, Kayne Anderson Midstream Energy ,N/A,N/A
+MLPY, Morgan Stanley Cushing MLP High ,N/A,N/A
+KYE, Kayne Anderson Total Energy Ret ,N/A,N/A
+SNR,New Senior Investment Group Inc,N/A,N/A
+RMT, Royce Micro-Cap Trust  Inc. Com ,Financial,Closed-End Fund - Equity
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+BLH, Blackrock New York Municipal 20 ,Financial,Closed-End Fund - Debt
+DRQ,Dril-Quip Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+DBO, PowerShares DB Oil Fund ,N/A,N/A
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads
+WDTI, WisdomTree Managed Futures Stra ,N/A,N/A
+PHH,PHH Corp Common ,Financial,Credit Services
+GTS, Triple-S Management Corporation ,Financial,Accident & Health Insurance
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+GMLP, Golar LNG Partners LP ,N/A,N/A
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+CBA,ClearBridge American Energy MLP ,N/A,N/A
+GASL, Direxion Daily Natural Gas Rela ,N/A,N/A
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+MPV, Babson Capital Participation In ,N/A,N/A
+SMFG,Sumitomo Mitsui Financial Group ,Financial,Foreign Regional Banks
+TICC,TICC Capital Corp. ,Financial,Asset Management
+EMO, ClearBridge Energy MLP Opportun ,N/A,N/A
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities
+OTTR,Otter Tail Corporation ,Utilities,Diversified Utilities
+FXP,ProShares UltraShort FTSE China 25 ETF,Commodity Based ETF,
+SXL,Sunoco Logistics Partners LP Co ,Basic Materials,Oil & Gas Pipelines
+DIN,DineEquity Inc Common ,Services,Restaurants
+TLYS, Tilly's  Inc. Common ,Services,Apparel Stores
+RDC,Rowan Companies plc Class A Ord ,Basic Materials,Oil & Gas Drilling & Exploration
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+SIZ,QuantShares U.S. Market Neutral Size Fund ETF,US Equity ETF,
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+GFNCP,General Finance Corporation ,N/A,N/A
+NML,Neuberger Berman MLP Income Fun ,N/A,N/A
+NFJ, NFJ Dividend  Interest & Premiu ,N/A,N/A
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+SMM, Salient Midstream Common Shares ,N/A,N/A
+UCI, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+JMF, Nuveen Energy MLP Total Return  ,N/A,N/A
+RM, Regional Management Corp. Commo ,Financial,Credit Services
+WPG,Washington Prime Group Inc. Com,Financial,Property Management
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+YANG, Direxion Daily China Bear 3x Sh ,N/A,N/A
+LNG,Cheniere Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+PGHY,PowerShares Glbl S/T Hi Yld Bd ,N/A,N/A
+BCOV,Brightcove Inc. ,Technology,Application Software
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+USL, United States 12 Month Oil ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+ALOG,Analogic Corporation ,Technology,Scientific & Technical Instruments
+DHG, DWS High Income Opportunities F ,N/A,N/A
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A
+LORL,Loral Space and Communications ,Technology,Communication Equipment
+FCBC,First Community Bancshares Inc ,Financial,Regional - Mid-Atlantic Banks
+HCCI, Heritage-Crystal Clean  Inc. ,Industrial Goods,Pollution & Treatment Controls
+PEI,Pennsylvania Real Estate Invest ,Financial,REIT - Retail
+MELR,Melrose Bancorp Inc.,Financial,Regional - Northeast Banks
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+AMZA,InfraCap MLP ETF ,,
+SIGM,Sigma Designs Inc. ,Technology,Semiconductor - Specialized
+CHEF, The Chefs' Warehouse  Inc. ,Services,Food Wholesale
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+RPT,Ramco-Gershenson Properties Tru ,Financial,REIT - Retail
+PHB,PowerShares Fundamental High Yield Corporate Bond Portfolio ETF,Fixed Income ETF,
+HCLP, Hi-Crush Partners LP Common Uni ,Basic Materials,Industrial Metals & Minerals
+NIE, AGIC Equity & Convertible Incom ,N/A,N/A

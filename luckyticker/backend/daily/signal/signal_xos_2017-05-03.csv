@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPN,Superior Energy Services Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+CMP,Compass Minerals Intl Inc Commo ,Basic Materials,Industrial Metals & Minerals
+PNRG,PrimeEnergy Corporation ,Basic Materials,Independent Oil & Gas
+SRC, Spirit Realty Capital  Inc. Com ,Financial,REIT - Diversified
+PSA,Public Storage Common ,Financial,REIT - Diversified
+CUBE, CubeSmart Common Shares ,Financial,REIT - Industrial
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+AGF, DB Agriculture Long ETN DB Agri ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+VIAB, Viacom Inc. ,Services,CATV Systems
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+PCMI,PCM Inc. ,Services,Specialty Retail
+IPHI,Inphi Corporation Common ,Technology,Semiconductor - Broad Line
+PDFS,PDF Solutions Inc. ,Technology,Technical & System Software

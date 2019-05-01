@@ -1,0 +1,35 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDJJ,ProShares Ultra Junior Miners,,
+CBT,Cabot Corporation Common ,Basic Materials,Specialty Chemicals
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+ABX,Barrick Gold Corporation Common ,Basic Materials,Gold
+X,United States Steel Corporation ,Basic Materials,Steel & Iron
+JBSS,John B. Sanfilippo & Son Inc. ,Consumer Goods,Processed & Packaged Goods
+MTEX,Mannatech Incorporated ,Consumer Goods,Personal Products
+LBY,Libbey Inc. Common ,Consumer Goods,Housewares & Accessories
+ANDE,The Andersons Inc. ,Consumer Goods,Farm Products
+TSN,Tyson Foods Inc. Common ,Consumer Goods,Meat Products
+POST, Post Holdings  Inc. Common Stoc ,Consumer Goods,Food - Major Diversified
+NNN,National Retail Properties Comm ,Financial,REIT - Diversified
+OUT,OUTFRONT Media Inc. Common Stoc,Financial,Property Management
+SBRA,Sabra Healthcare REIT Inc. ,Financial,REIT - Healthcare Facilities
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail
+AMAG,AMAG Pharmaceuticals Inc. ,Healthcare,Diagnostic Substances
+WMGI,Wright Medical Group Inc. ,Healthcare,Medical Appliances & Equipment
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+MYRG,MYR Group Inc. ,Industrial Goods,General Contractors
+TIPX,SPDR Barclays 1-10 Year TIPS ETF ,N/A,N/A
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+TSNU,Tyson Foods Inc. Tangible Equi,N/A,N/A
+LBTYK,Liberty Global Inc. ,NULL,NULL
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+CATM,Cardtronics Inc. ,Services,Business Services
+LBTYA,Liberty Global Inc. ,Services,CATV Systems
+GSH,Guangshen Railway Company Limit ,Services,Railroads
+CCRN,Cross Country Healthcare Inc. ,Services,Staffing & Outsourcing Services
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+PBPB,Potbelly Corporation ,Services,Specialty Eateries
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV

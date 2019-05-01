@@ -1,0 +1,136 @@
+Buy,BMY,Bristol-Myers Squibb Company Co ,8.27453
+Buy,CA,CA Inc. ,10.8255
+Buy,CELG,Celgene Corporation ,11.7336
+Buy,EMN,Eastman Chemical Company Common ,10.5281
+Buy,INCY,Incyte Corporation ,9.14357
+Buy,IRM,Iron Mountain Incorporated (Del ,4.28768
+Buy,NWL,Newell Rubbermaid Inc. Common S ,10.9709
+Buy,QCOM,QUALCOMM Incorporated ,19.2278
+Buy,XLNX,Xilinx Inc. ,15.9789
+Buy,HCA, HCA Holdings  Inc. Common ,13.7564
+Buy,EVHC,Envision Healthcare Holdings Inc. ,5.56205
+Buy,UAA,Under Armour  Inc. Class A,15.2777
+Sell,APA,Apache Corporation Common ,93.293
+Sell,APC,Anadarko Petroleum Corporation  ,90.2957
+Sell,APH,Amphenol Corporation Common Sto ,90.8241
+Sell,ARE,Alexandria Real Estate Equities ,97.4247
+Sell,ATVI,Activision Blizzard Inc ,88.0203
+Sell,AVY,Avery Dennison Corporation Comm ,94.8726
+Sell,AWK,American Water Works Company I ,94.4642
+Sell,AXP,American Express Company Common ,80.1688
+Sell,BA,Boeing Company (The) Common Sto ,95.0983
+Sell,BAC,Bank of America Corporation Com ,88.2052
+Sell,BBT,BB&T Corporation Common ,86.7951
+Sell,BDX,Becton Dickinson and Company C ,85.7595
+Sell,BEN,Franklin Resources Inc. Common ,81.8667
+Sell,BK,Bank of New York Mellon Corpora ,93.8745
+Sell,BXP,Boston Properties Inc. Common  ,93.2335
+Sell,CAG,ConAgra Foods Inc. Common Stoc ,93.6537
+Sell,CAT,Caterpillar Inc. Common ,87.1971
+Sell,CB,Chubb Corporation (The) Common  ,82.0824
+Sell,CBG,CBRE Group Inc Common ,90.0006
+Sell,CBOE,CBOE Holdings Inc. ,92.3938
+Sell,CCI,Crown Castle International Corp ,95.0098
+Sell,CERN,Cerner Corporation ,82.5524
+Sell,CHD,Church & Dwight Company Inc. C ,91.4193
+Sell,CHK,Chesapeake Energy Corporation C ,90.366
+Sell,CHTR,Charter Communications Inc. ,86.3918
+Sell,CMA,Comerica Incorporated Common St ,92.2628
+Sell,CMCSA,Comcast Corporation ,95.5749
+Sell,CME,CME Group Inc. ,88.8684
+Sell,CMS,CMS Energy Corporation Common S ,93.5888
+Sell,CNP,CenterPoint Energy Inc (Holdin ,87.1795
+Sell,COF,Capital One Financial Corporati ,81.1891
+Sell,COG,Cabot Oil & Gas Corporation Com ,82.7552
+Sell,COH,Coach Inc. Common ,89.4182
+Sell,EMR,Emerson Electric Company Common ,90.5172
+Sell,EOG,EOG Resources Inc. Common Stoc ,84.6158
+Sell,EQIX,Equinix Inc. ,93.6215
+Sell,EQR,Equity Residential Common Share ,87.0695
+Sell,EQT,EQT Corporation Common ,88.2598
+Sell,GD,General Dynamics Corporation Co ,89.4704
+Sell,GE,General Electric Company Common ,98.1945
+Sell,GGP,General Growth Properties Inc. ,97.9683
+Sell,GLW,Corning Incorporated Common Sto ,96.9328
+Sell,GM,General Motors Company Common S ,95.5546
+Sell,GOOG,Alphabet Inc.,84.3893
+Sell,GPN,Global Payments Inc. Common Sto ,97.1623
+Sell,GRMN,Garmin Ltd. ,90.8027
+Sell,INTC,Intel Corporation ,82.3015
+Sell,INTU,Intuit Inc. ,90.4382
+Sell,IP,International Paper Company Com ,91.1497
+Sell,ISRG,Intuitive Surgical Inc. ,85.0028
+Sell,ITW,Illinois Tool Works Inc. Common ,94.5828
+Sell,NBL,Noble Energy Inc. Common ,86.5078
+Sell,NDAQ,The NASDAQ OMX Group Inc. ,96.8133
+Sell,NEE,NextEra Energy Inc. Common Sto ,97.4427
+Sell,NFX,Newfield Exploration Company Co ,85.5582
+Sell,NI,NiSource Inc Common ,96.4913
+Sell,NOC,Northrop Grumman Corporation Co ,83.0823
+Sell,NOV,National Oilwell Varco Inc. Co ,90.9434
+Sell,NTAP,NetApp Inc. ,81.813
+Sell,O,Realty Income Corporation Commo ,83.1961
+Sell,OKE,ONEOK Inc. Common ,93.4878
+Sell,OMC,Omnicom Group Inc. Common ,91.881
+Sell,PBCT,People's United Financial Inc. ,85.648
+Sell,PEG,Public Service Enterprise Group ,95.9122
+Sell,PEP,Pepsico Inc. Common ,91.699
+Sell,PG,Procter & Gamble Company (The)  ,86.5514
+Sell,PNC,PNC Financial Services Group I ,80.7366
+Sell,PNR,Pentair Inc. Common ,94.9318
+Sell,PNW,Pinnacle West Capital Corporati ,90.1222
+Sell,PPL,PP&L Corporation Common ,94.1245
+Sell,PRU,Prudential Financial Inc. Comm ,90.5441
+Sell,PVH,PVH Corp. Common ,80.8731
+Sell,PWR,Quanta Services Inc. Common St ,91.535
+Sell,PXD,Pioneer Natural Resources Compa ,88.4163
+Sell,REG,Regency Centers Corporation Com ,87.2323
+Sell,RF,Regions Financial Corporation C ,87.7232
+Sell,RL,Ralph Lauren Corporation Common ,96.0191
+Sell,ROK,Rockwell Automation Inc. Commo ,97.5415
+Sell,ROP,Roper Industries Inc. Common S ,86.6127
+Sell,ROST,Ross Stores Inc. ,88.0088
+Sell,RRC,Range Resources Corporation Com ,88.119
+Sell,RSG,Republic Services Inc. Common  ,97.2682
+Sell,SBUX,Starbucks Corporation ,87.9827
+Sell,SCG,SCANA Corporation Common ,82.0098
+Sell,SCHW,Charles Schwab Corporation (The ,83.2041
+Sell,SJM,J.M. Smucker Company (The) New  ,98.2309
+Sell,SLB,Schlumberger N.V. Common ,93.7551
+Sell,SLG,SL Green Realty Corporation Com ,96.3624
+Sell,SNA,Snap-On Incorporated Common Sto ,88.4375
+Sell,SNI,Scripps Networks Interactive I ,83.4628
+Sell,SNPS,Synopsys Inc. ,82.2531
+Sell,SO,Southern Company (The) Common S ,89.8615
+Sell,SPG,Simon Property Group Inc. Comm ,92.2723
+Sell,XOM,Exxon Mobil Corporation Common  ,85.8582
+Sell,XRX,Xerox Corporation Common ,92.9968
+Sell,YUM,Yum! Brands Inc. ,89.8975
+Sell,ZION,Zions Bancorporation ,83.4757
+Sell,EA, Electronic Arts Inc. ,84.8782
+Sell,ETN, Eaton Corporation Common ,83.3193
+Sell,FBHS, Fortune Brands Home & Security  ,84.8157
+Sell,GWW, W.W. Grainger  Inc. Common Stoc ,95.3554
+Sell,HAS, Hasbro  Inc. ,90.9399
+Sell,HBI, Hanesbrands Inc. Common ,95.8991
+Sell,HD, Home Depot  Inc. (The) Common S ,91.7949
+Sell,HRB, H&R Block  Inc. Common ,87.9649
+Sell,XYL, Xylem Inc. Common ,92.5931
+Sell,SPY,SPDR S&P 500 ETF,93.7709
+Sell,AAL,American Airlines Group Inc. ,95.4286
+Sell,ABBV,AbbVie Inc. ,92.364
+Sell,COTY,Coty Inc. ,93.2114
+Sell,FOX,Twenty-First Century Fox Inc. ,95.9425
+Sell,FOXA,Twenty-First Century Fox Inc. ,84.1547
+Sell,ALLE,Allegion plc Ordinary Shares ,89.1018
+Sell,GOOGL,Alphabet Inc.,93.9575
+Sell,NAVI,Navient Corporation ,94.4972
+Sell,ANTM,Anthem Inc. Common,91.9082
+Sell,CFG,Citizens Financial Group Inc.,96.21
+Sell,KHC,The Kraft Heinz Company,95.0859
+Sell,PYPL,PayPal Holdings  Inc.,91.7607
+Sell,WRK,WestRock Company,84.6417
+Sell,HPE,Hewlett Packard Enterprise Company,80.3929
+Sell,CSRA,CSRA Inc.,90.9589
+Sell,SPGI,S&P Global  Inc.,84.6308
+Sell,INFO,IHS Markit Ltd.,89.4174

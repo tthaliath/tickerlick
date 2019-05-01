@@ -1,0 +1,71 @@
+Buy,A,Agilent Technologies Inc. Comm ,16.9182
+Buy,ADI,Analog Devices Inc. ,3.55524
+Buy,ADSK,Autodesk Inc. ,9.34437
+Buy,AKAM,Akamai Technologies Inc. ,5.18083
+Buy,AMAT,Applied Materials Inc. ,9.09899
+Buy,AMGN,Amgen Inc. ,5.29144
+Buy,AN,AutoNation Inc. Common ,9.94104
+Buy,APD,Air Products and Chemicals Inc ,18.8788
+Buy,APH,Amphenol Corporation Common Sto ,14.8246
+Buy,ATVI,Activision Blizzard Inc ,3.8568
+Buy,AVGO,Avago Technologies Limited ,12.0831
+Buy,AXP,American Express Company Common ,18.5097
+Buy,AYI,Acuity Brands Inc (Holding Comp ,8.14156
+Buy,DPS,Dr Pepper Snapple Group Inc Dr ,3.42045
+Buy,DVN,Devon Energy Corporation Common ,12.8313
+Buy,EIX,Edison International Common Sto ,19.7205
+Buy,EMN,Eastman Chemical Company Common ,4.64711
+Buy,EOG,EOG Resources Inc. Common Stoc ,12.6624
+Buy,EQIX,Equinix Inc. ,18.2629
+Buy,FDX,FedEx Corporation Common ,4.94192
+Buy,FMC,FMC Corporation Common ,8.70936
+Buy,FTI,FMC Technologies Inc. Common S ,14.2154
+Buy,GILD,Gilead Sciences Inc. ,16.2445
+Buy,GIS,General Mills Inc. Common Stoc ,16.7993
+Buy,GLW,Corning Incorporated Common Sto ,2.91911
+Buy,GRMN,Garmin Ltd. ,12.3363
+Buy,INTU,Intuit Inc. ,19.5342
+Buy,IP,International Paper Company Com ,18.5126
+Buy,IT,Gartner Inc. Common ,8.14812
+Buy,MAS,Masco Corporation Common ,14.7965
+Buy,PCAR,PACCAR Inc. ,11.5563
+Buy,SHW,Sherwin-Williams Company (The)  ,19.9773
+Buy,SIG,Signet Jewelers Limited Common  ,13.2975
+Buy,SJM,J.M. Smucker Company (The) New  ,13.2239
+Buy,SLB,Schlumberger N.V. Common ,9.55645
+Buy,SNPS,Synopsys Inc. ,7.70377
+Buy,HOLX, Hologic  Inc. ,6.95613
+Buy,WLTW,Willis Towers Watson Public Limited Company,12.728
+Buy,DXC,DXC Technology Company,2.94136
+Sell,AAP,Advance Auto Parts Inc Advance  ,85.4457
+Sell,AFL,AFLAC Incorporated Common ,97.2236
+Sell,AIG,American International Group I ,89.0839
+Sell,AIV,Apartment Investment and Manage ,80.742
+Sell,ALK,Alaska Air Group Inc. Common S ,82.3245
+Sell,AVB,AvalonBay Communities Inc. Com ,88.15
+Sell,AVY,Avery Dennison Corporation Comm ,95.5546
+Sell,AZO,AutoZone Inc. Common ,82.4952
+Sell,DOV,Dover Corporation Common ,88.0099
+Sell,EFX,Equifax Inc. Common ,93.5437
+Sell,EMR,Emerson Electric Company Common ,80.9594
+Sell,FIS,Fidelity National Information S ,97.361
+Sell,FISV,Fiserv Inc. ,88.4392
+Sell,FLS,Flowserve Corporation Common St ,87.4947
+Sell,FRT,Federal Realty Investment Trust ,98.7122
+Sell,GE,General Electric Company Common ,93.747
+Sell,GGP,General Growth Properties Inc. ,89.3557
+Sell,GPC,Genuine Parts Company Common St ,94.188
+Sell,IR,Ingersoll-Rand plc (Ireland) ,98.4124
+Sell,LUV,Southwest Airlines Company Comm ,93.522
+Sell,MAC,Macerich Company (The) Common S ,87.9432
+Sell,MAR,Marriot International Common St ,87.3206
+Sell,PBCT,People's United Financial Inc. ,94.4444
+Sell,PFE,Pfizer Inc. Common ,98.9517
+Sell,SLG,SL Green Realty Corporation Com ,95.8936
+Sell,SNA,Snap-On Incorporated Common Sto ,97.3544
+Sell,SPG,Simon Property Group Inc. Comm ,94.2951
+Sell,HON, Honeywell International Inc. Co ,82.824
+Sell,HP, Helmerich & Payne  Inc. Common  ,89.7955
+Sell,HRB, H&R Block  Inc. Common ,80.2733
+Sell,CSRA,CSRA Inc.,82.4088
+Sell,INFO,IHS Markit Ltd.,90.7666

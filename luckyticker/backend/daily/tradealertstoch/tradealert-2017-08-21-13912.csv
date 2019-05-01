@@ -1,0 +1,26 @@
+Buy,BA,Boeing Company (The) Common Sto ,8.89025
+Buy,COST,Costco Wholesale Corporation ,11.3793
+Buy,CVS,CVS Caremark Corporation Common ,14.2816
+Buy,DOW,Dow Chemical Company (The) Comm ,14.058
+Buy,GILD,Gilead Sciences Inc. ,18.3156
+Buy,INTC,Intel Corporation ,18.9339
+Buy,MON,Monsanto Company Common ,5.0257
+Buy,MRK,Merck & Company Inc. Common St ,10.3555
+Buy,T,AT&T Inc. ,1.23478
+Buy,FB, Facebook  Inc. ,18.4948
+Buy,HON, Honeywell International Inc. Co ,18.519
+Buy,LLY, Eli Lilly and Company Common St ,3.70323
+Buy,KHC,The Kraft Heinz Company,17.0648
+Buy,VIX,VOLATILITY S&P 500,2.96297
+Sell,AXP,American Express Company Common ,80.5526
+Sell,BAC,Bank of America Corporation Com ,91.0696
+Sell,COP,ConocoPhillips Common ,81.2892
+Sell,CVX,Chevron Corporation Common Stoc ,80.7201
+Sell,JNJ,Johnson & Johnson Common ,87.0342
+Sell,MDT,Medtronic Inc. Common ,91.521
+Sell,OXY,Occidental Petroleum Corporatio ,84.1296
+Sell,SLB,Schlumberger N.V. Common ,83.7038
+Sell,TGT,Target Corporation Common ,80.3042
+Sell,GLD, SPDR Gold Trust ,89.6844
+Sell,PYPL,PayPal Holdings  Inc.,90.7945
+Sell,SNAP,Snap Inc.,89.9998

@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+BRO,Brown & Brown Inc. Common Stoc ,Financial,Insurance Brokers
+UTHR,United Therapeutics Corporation ,Healthcare,Drug Manufacturers - Other
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+JJA, iPath Dow Jones UBS Agriculture ,N/A,N/A
+RJA, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+UEPS,Net 1 UEPS Technologies Inc. ,Services,Business Services
+CACI,CACI International Inc. Class  ,Services,Technical Services
+PKE,Park Electrochemical Corporatio ,Technology,Printed Circuit Boards
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers

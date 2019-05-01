@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SQM,Sociedad Quimica y Minera S.A.  ,Basic Materials,Chemicals - Major Diversified
+RGLD, Royal Gold  Inc. ,Basic Materials,Gold
+MPB,Mid Penn Bancorp ,Financial,Regional - Northeast Banks
+BRAQ,Global X Brazil Consumer ETF,Global Equity ETF,
+THD,iShares MSCI Thailand Investable Market Index Fund ETF,Global Equity ETF,
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+JUNO,JUNO THERAPEUTICS INC.,Healthcare,Biotechnology
+SP,SP Plus Corporation ,N/A,N/A
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments
+AMSWA,American Software Inc. ,Technology,Application Software
+D,Dominion Resources Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TUSK,Mammoth Energy Services  Inc.,,
+AAXN,Axon Enterprise  Inc.,,
+ECYT, Endocyte  Inc. ,Healthcare,Biotechnology
+CDXS,Codexis Inc. ,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+FATE,Fate Therapeutics Inc. ,Healthcare,Biotechnology
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+REPH,Recro Pharma Inc. ,Healthcare,Biotechnology
+CTMX,CytomX Therapeutics  Inc.,N/A,N/A
+ETSY,Etsy  Inc. ,N/A,N/A
+PEN,Penumbra  Inc.,N/A,N/A
+TLND,Talend SA,N/A,N/A
+DDS,Dillard's Inc. Common ,Services,Department Stores
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services

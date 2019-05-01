@@ -1,0 +1,105 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OUNZ,Merk Gold Trust ETV ,,
+REET,iShares Trust iShares Global RE ,,
+SGDM,Sprott Gold Miners ETF ,,
+SRET,Global X SuperDividend REIT ETF,,
+FNV, Franco Nev Corp Common (Canada) ,Basic Materials,Gold
+AG,First Majestic Silver Corp. Ord ,Basic Materials,Silver
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+SLW,Silver Wheaton Corp Common Shar ,Basic Materials,Silver
+UGL,ProShares Ultra Gold ETF,Commodity Based ETF,
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+SR,Spire Inc.,Consumer Goods,Office Supplies
+TWO,Two Harbors Investment Corp ,Financial,REIT - Residential
+SBY,Silver Bay Realty Trust Corp. ,Financial,REIT - Residential
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+KRG,Kite Realty Group Trust Common  ,Financial,REIT - Retail
+WSR,Whitestone REIT Common Shares ,Financial,REIT - Diversified
+CPT,Camden Property Trust Common St ,Financial,REIT - Residential
+MAC,Macerich Company (The) Common S ,Financial,REIT - Retail
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+ELS,Equity Lifestyle Properties In ,Financial,REIT - Residential
+PPS,Post Properties Inc. Common St ,Financial,REIT - Residential
+BXP,Boston Properties Inc. Common  ,Financial,REIT - Office
+EDR,Education Realty Trust Inc. Co ,Financial,REIT - Residential
+DX,Dynex Capital Inc. Common Stoc ,Financial,Mortgage Investment
+CUZ,Cousins Properties Incorporated ,Financial,REIT - Diversified
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+AVB,AvalonBay Communities Inc. Com ,Financial,REIT - Residential
+EQR,Equity Residential Common Share ,Financial,REIT - Residential
+SKT,Tanger Factory Outlet Centers  ,Financial,REIT - Retail
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+CIM,Chimera Investment Corporation  ,Financial,REIT - Diversified
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+WPC,W.P. Carey & Co. LLC Common Sto ,Financial,Real Estate Development
+CXP,Columbia Property Trust Inc. ,Financial,REIT - Office
+WMC, Western Asset Mortgage Capital  ,Financial,Mortgage Investment
+CMO,Capstead Mortgage Corporation C ,Financial,REIT - Diversified
+CDR,Cedar Realty Trust Inc. Common ,Financial,REIT - Retail
+FR,First Industrial Realty Trust  ,Financial,REIT - Industrial
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+NXR, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+COR,CoreSite Realty Corporation Com ,Financial,REIT - Office
+GGP,General Growth Properties Inc. ,Financial,REIT - Retail
+HYD,Market Vectors High Yield Municipal Index ETF,Fixed Income ETF,
+PFXF,Market Vectors Pref Secs ex Fincls ETF,Fixed Income ETF,
+JXI,iShares S&P Global Utilities Sector Index Fund ETF,Global Equity ETF,
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+TARO, Taro Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+NVIV,InVivo Therapeutics Holdings Corp.,Healthcare,Biotechnology
+IRMD,iRadimed Corporation,Healthcare,Medical Appliances & Equipment
+DGL, PowerShares DB Gold Fund ,N/A,N/A
+PHYS, Sprott Physical Gold Trust ETV ,N/A,N/A
+FUTY,Fidelity MSCI Utilities Index ETF ,N/A,N/A
+IAU, ishares Gold Trust ,N/A,N/A
+ERH, Wells Fargo Advantage Utilities ,N/A,N/A
+ORC,Orchid Island Capital Inc. ,N/A,N/A
+CBSHP,Commerce Bancshares Inc.,N/A,N/A
+LSTK,iPath Pure Beta Livestock ETN ,N/A,N/A
+DGP, Deutsche Bank AG DB Gold Double ,N/A,N/A
+DBP, PowerShares DB Precious Metals  ,N/A,N/A
+SGOL, ETFS Physical Swiss Gold Shares ,N/A,N/A
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+SLVO,Credit Suisse Silver Shares Cov Call ETN ,N/A,N/A
+MPA, Blackrock MuniYield Pennsylvani ,N/A,N/A
+GLDI,Credit Suisse Gold Shrs Cov Call Exc ETN ,N/A,N/A
+GLD, SPDR Gold Trust ,N/A,N/A
+UGLD, VelocityShares 3x Long Gold ETN ,N/A,N/A
+DIV,Global X SuperDividend™ US ETF ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+MUS, Blackrock MuniHoldings Quality  ,N/A,N/A
+GLTR, ETFS Physical Precious Metal Ba ,N/A,N/A
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+FXB, Rydex CurrencyShares British Po ,N/A,N/A
+USV, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+BRX,Brixmor Property Group Inc. Com ,N/A,N/A
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+WNS,WNS (Holdings) Limited Sponsore ,Services,Business Services
+LKQ, LKQ Corporation ,Services,Auto Parts Wholesale
+TIER,TIER REIT  Inc,Technology,Information Technology Services
+BT,BT Group plc Common ,Technology,Telecom Services - Foreign
+KBWY,PowerShares KBW Premium Yield Equity REIT Portfolio ETF,US Equity ETF,
+FTY,iShares FTSE NAREIT Real Estate 50 Index Fund ETF,US Equity ETF,
+PSCU,PowerShares S&P SmallCap Utilities Portfolio ETF,US Equity ETF,
+RYU,Guggenheim S&P Equal Weight Utilities ETF,US Equity ETF,
+XLU,SPDR Utilities Select Sector Fund ETF,US Equity ETF,
+WREI,Claymore Wilshire US REIT ETF,US Equity ETF,
+REZ,iShares FTSE NAREIT Residential Index Fund ETF,US Equity ETF,
+SCHH,Schwab U.S. REIT ETF,US Equity ETF,
+ROOF,IndexIQ US Real Estate Small Cap ETF,US Equity ETF,
+FRI,First Trust S&P REIT Index Fund ETF,US Equity ETF,
+RWR,SPDR Dow Jones REIT ETF,US Equity ETF,
+ICF,iShares Cohen & Steers Realty Major ETF,US Equity ETF,
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities
+AWK,American Water Works Company I ,Utilities,Water Utilities
+WTR,Aqua America Inc. Common ,Utilities,Water Utilities
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+SWX,Southwest Gas Corporation Commo ,Utilities,Gas Utilities
+NWE,NorthWestern Corporation Common ,Utilities,Diversified Utilities
+SO,Southern Company (The) Common S ,Utilities,Electric Utilities
+ATO,Atmos Energy Corporation Common ,Utilities,Gas Utilities
+PPL,PP&L Corporation Common ,Utilities,Electric Utilities

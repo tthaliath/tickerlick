@@ -1,0 +1,32 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+UBR,ProShares Ultra MSCI Brazil ETF,Commodity Based ETF,
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+NAV,Navistar International Corporat ,Consumer Goods,Trucks & Other Vehicles
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+HIFS, Hingham Institution for Savings ,Financial,Savings & Loans
+CHIM,Global X China Materials ETF,Global Equity ETF,
+ERUS,iShares MSCI Russia Capped Index Fund ETF,Global Equity ETF,
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+TMO,Thermo Fisher Scientific Inc Co ,Healthcare,Medical Instruments & Supplies
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+LPX,Louisiana-Pacific Corporation C ,Industrial Goods,Lumber Wood Production
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+GYEN,AdvisorShares Gartman Gold/Yen ETF ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+EXPO,Exponent Inc. ,Services,Management Services
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+OSTK,Overstock.com Inc. ,Services,Catalog & Mail Order Houses
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services

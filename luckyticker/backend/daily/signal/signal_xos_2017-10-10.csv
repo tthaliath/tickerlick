@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MRAM,Everspin Technologies  Inc.,,
+GPAC,Global Partner Acquisition Corp,,
+TOCA,Tocagen Inc.,,
+AAV,Advantage Oil & Gas Ltd  Ordina ,Basic Materials,Oil & Gas Drilling & Exploration
+MYY,ProShares Short MidCap400 ETF,Commodity Based ETF,
+SMDD,ProShares UltraPro Short MidCap400 ETF,Commodity Based ETF,
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+SDD,ProShares UltraShort SmallCap600 ETF,Commodity Based ETF,
+SIJ,ProShares UltraShort Industrials ETF,Commodity Based ETF,
+IBN, ICICI Bank Limited Common ,Financial,Foreign Regional Banks
+EWW,iShares MSCI Mexico Index Fund ETF,Global Equity ETF,
+MNTA,Momenta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CX,Cemex S.A.B. de C.V. Sponsored ,Industrial Goods,Cement
+MXF, Mexico Fund  Inc. (The) Common  ,N/A,N/A
+HJV, MS Structured Asset Corp MS Str ,N/A,N/A
+PFH, Cabco Tr Jcp 7.625 Common ,N/A,N/A
+VIA,Viacom Inc. ,NULL,NULL
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+RBA,Ritchie Bros. Auctioneers Incor ,Services,Business Services
+ASR,Grupo Aeroportuario del Sureste ,Services,Air Services Other

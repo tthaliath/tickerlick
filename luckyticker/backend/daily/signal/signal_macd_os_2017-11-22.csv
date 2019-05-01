@@ -1,0 +1,120 @@
+ticker,name,sector,industry
+HCA, HCA Holdings  Inc. Common ,Healthcare,Hospitals
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CAH,Cardinal Health Inc. Common St ,Services,Drugs Wholesale
+JBHT,J.B. Hunt Transport Services I ,Services,Trucking
+GE,General Electric Company Common ,Industrial Goods,Diversified Machinery
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers
+AROC,Archrock  Inc.,N/A,N/A
+BKJ,Bancorp of New Jersey Inc Comm ,Financial,Savings & Loans
+BSV,Vanguard Short-Term Bond ETF,Fixed Income ETF,
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+CNK,Cinemark Holdings Inc Cinemark  ,Services,Movie Production Theaters
+DSKE,Daseke  Inc.,,
+ENOR,iShares MSCI Norway Cppd Investable Mkt,Global Equity ETF,
+EWI,iShares MSCI Italy Index Fund ETF,Global Equity ETF,
+FOF, Cohen & Steers Closed-End Oppor ,N/A,N/A
+FXCH, CurrencyShares Chinese Renminbi ,N/A,N/A
+IBDL,iShares iBonds Dec 2020 Corpora ,,
+ISTB,iShares Core Short-Term US Bond ,N/A,N/A
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+NAP,Navios Maritime Midstream Partn,Services,Shipping
+OMF,OneMain Holdings  Inc.,N/A,N/A
+PBSK, Poage Bankshares  Inc. ,Conglomerates,Conglomerates
+SBFG,SB Financial Group Inc. ,Financial,Regional - Midwest Banks
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+SRT,StarTek Inc. Common ,Services,Business Services
+VCSH,Vanguard Short-Term Corporate Bond ETF,Fixed Income ETF,
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+AGGY,WisdomTree Barclays Yield Enhan,,
+EMSH,ProShares Shrt Term USD Emrg Mkts Bd ETF ,N/A,N/A
+GSK,GlaxoSmithKline PLC Common Stoc ,Healthcare,Drug Manufacturers - Major
+LL,Lumber Liquidators Holdings In ,Services,Home Improvement Stores
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+UTG, Reaves Utility Income Fund Comm ,Financial,Closed-End Fund - Equity
+AMBCW,Ambac Financial Group  Inc. ,N/A,N/A
+AMJL,Credit Suisse X-Links Monthly P,,
+ATI,Allegheny Technologies Incorpor ,Industrial Goods,Metal Fabrication
+BLBD,BOLDFACE GROUP INC.,Consumer Goods,Auto Manufacturers - Major
+CFBI,Community First Bancshares  Inc,,
+CSJ,iShares Barclays 1-3 Year Credit Bond Fund ETF,Fixed Income ETF,
+DXPS,WisdomTree United Kingdom Hedged Equity ,N/A,N/A
+EPR,Entertainment Properties Trust  ,Financial,REIT - Retail
+EWP,iShares MSCI Spain Index Fund ETF,Global Equity ETF,
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+GCE, Clarymore CEF GS Connect ETN ,N/A,N/A
+HCAP,Harvest Capital Credit Corporation ,Financial,Asset Management
+IGEM,EGShares Industrials GEMS ETF,Global Equity ETF,
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+NORW,Global X FTSE Norway 30 ETF,Global Equity ETF,
+OR,Osisko Gold Royalties Ltd.,N/A,N/A
+PGAL,Global X FTSE Portugal 20 ETF ,N/A,N/A
+RETA,Reata Pharmaceuticals  Inc.,N/A,N/A
+SBLKL,Star Bulk Carriers Corp.,N/A,N/A
+SMM, Salient Midstream Common Shares ,N/A,N/A
+STAY,Extended Stay America Inc. ,Services,Lodging
+VGSH,Vanguard Short-Term Government Bond ETF,Fixed Income ETF,
+YRCW,YRC Worldwide Inc. ,Services,Trucking
+ASA,ASA  Gold and Precious Metals L ,Financial,Closed-End Fund - Equity
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+HTGX,Hercules Technology Growth Capi,N/A,N/A
+LTRPA,Liberty TripAdvisor Holdings I,Consumer Goods,Recreational Goods Other
+TEF,Telefonica SA Common ,Technology,Telecom Services - Foreign
+VMM, Delaware Investments Minnesota  ,Financial,Closed-End Fund - Debt
+ANDE,The Andersons Inc. ,Consumer Goods,Farm Products
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+BSCJ,Guggenheim BulletShares 2019 Corp Bond ETF,Fixed Income ETF,
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+CHRS,Coherus BioSciences Inc.,Healthcare,Biotechnology
+CTRE,CareTrust REIT Inc.,N/A,N/A
+ELMD,Electromed Inc. Common ,Healthcare,Home Health Care
+ESLT,Elbit Systems Ltd. ,NULL,NULL
+FDD,First Trust Dow Jones STOXX Select Dividend 30 Index Fund ETF,Global Equity ETF,
+FUT,ProShares Managed Futures Strat,,
+HYXE,iShares iBoxx $ High Yield ex O,,
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+KS,KapStone Paper and Packaging Co ,Consumer Goods,Paper & Paper Products
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+NUSA,NuShares Enhanced Yield 1-5 Yea,,
+ORMP,Oramed Pharmaceuticals Inc. ,Healthcare,Biotechnology
+PHG,Koninklijke Philips Electronics ,Consumer Goods,Electronic Equipment
+RVNC,Revance Therapeutics Inc. ,Healthcare,Biotechnology
+SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income ETF,
+SNAP,Snap Inc.,,
+TOT,Total S.A. ,Basic Materials,Major Integrated Oil & Gas
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+BKH,Black Hills Corporation Common  ,Utilities,Electric Utilities
+FTR,Frontier Communications Corpora ,Technology,Telecom Services - Domestic
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,
+SNY,Sanofi American Depositary Shar ,Healthcare,Drug Manufacturers - Major
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+AFT, Apollo Senior Floating Rate Fun ,N/A,N/A
+ARD,Ardagh Group S.A.,,
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+BSCL,Guggenheim BulletShares 2021 Corp Bd ETF ,N/A,N/A
+CBON,Market Vectors ChinaAMC China B ,,
+CLH,Clean Harbors Inc. Common Stoc ,Industrial Goods,Waste Management
+DRV, Drexion Daily Real Estate Bear  ,N/A,N/A
+EMTL,SPDR DoubleLine Emerging Market,,
+EWD,iShares MSCI Sweden Index Fund ETF,Global Equity ETF,
+FLTB,Fidelity Limited Term Bond ETF ,,
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+GEX,Market Vectors Global Alternative Energy ETF,Global Equity ETF,
+IBDC,iSharesBond Mar 2020 Corporate Term ,N/A,N/A
+INSE,Inspired Entertainment  Inc.,,
+LPI, Laredo Petroleum Holdings  Inc. ,Basic Materials,Independent Oil & Gas
+MITL,Mitel Networks Corporation ,Technology,Communication Equipment
+OHI,Omega Healthcare Investors Inc ,Financial,REIT - Healthcare Facilities
+PAR, PAR Technology Corporation Comm ,Technology,Application Software
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+SAN,Banco Santander S.A. Sponsored ,Financial,Foreign Money Center Banks
+SHY,iShares Barclays 1-3 Year Treasury Bond Fund ETF,Fixed Income ETF,
+TSQ,Townsquare Media Inc. Class A ,Services,Broadcasting - Radio
+WLKP,Westlake Chemical Partners LP C,Basic Materials,Chemicals - Major Diversified
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+CPTA,Capitala Finance Corp. ,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,
+STOT,SPDR DoubleLine Short Duration,,
+AGIO,Agios Pharmaceuticals Inc. ,Healthcare,Biotechnology

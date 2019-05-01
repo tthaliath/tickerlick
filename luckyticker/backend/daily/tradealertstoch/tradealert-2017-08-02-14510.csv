@@ -1,0 +1,108 @@
+Buy,AMG,Affiliated Managers Group Inc. ,7.01731
+Buy,AN,AutoNation Inc. Common ,11.4428
+Buy,ARE,Alexandria Real Estate Equities ,6.66819
+Buy,COG,Cabot Oil & Gas Corporation Com ,12.206
+Buy,DTE,DTE Energy Company Common ,19.7788
+Buy,ED,Consolidated Edison Inc. Commo ,13.1863
+Buy,EIX,Edison International Common Sto ,17.1676
+Buy,EQR,Equity Residential Common Share ,6.94471
+Buy,EW,Edwards Lifesciences Corporatio ,17.6671
+Buy,EXC,Exelon Corporation Common ,7.74993
+Buy,FE,FirstEnergy Corporation Common  ,6.24949
+Buy,FISV,Fiserv Inc. ,14.8071
+Buy,FLR,Fluor Corporation Common ,15.8448
+Buy,GIS,General Mills Inc. Common Stoc ,8.2176
+Buy,IVZ,Invesco Plc New Common ,1.21056
+Buy,MAC,Macerich Company (The) Common S ,7.14284
+Buy,MAT,Mattel Inc. ,17.0979
+Buy,RIG,Transocean Ltd (Switzerland) Co ,1.37833
+Buy,RRC,Range Resources Corporation Com ,13.3264
+Buy,SLG,SL Green Realty Corporation Com ,6.30561
+Buy,SO,Southern Company (The) Common S ,10.3365
+Buy,IDXX, IDEXX Laboratories  Inc. ,8.02814
+Buy,MDLZ, Mondelez International  Inc. ,8.99179
+Buy,VIAB, Viacom Inc. ,5.47961
+Buy,HPE,Hewlett Packard Enterprise Company,16.6291
+Buy,CSRA,CSRA Inc.,18.3097
+Buy,SPGI,S&P Global  Inc.,2.41839
+Sell,AMD,Advanced Micro Devices Inc. Co ,92.1653
+Sell,AME,AMETEK Inc. ,83.0295
+Sell,AMGN,Amgen Inc. ,94.2137
+Sell,AMP,Ameriprise Financial Inc. Comm ,91.1855
+Sell,AMZN,Amazon.com Inc. ,90.8752
+Sell,APD,Air Products and Chemicals Inc ,93.5889
+Sell,APH,Amphenol Corporation Common Sto ,94.338
+Sell,AVY,Avery Dennison Corporation Comm ,89.9282
+Sell,AXP,American Express Company Common ,86.8667
+Sell,CMI,Cummins Inc. Common ,88.6888
+Sell,CNC,Centene Corporation Common Stoc ,88.8355
+Sell,COF,Capital One Financial Corporati ,88.213
+Sell,DD,E.I. du Pont de Nemours and Com ,83.1896
+Sell,DE,Deere & Company Common ,83.5026
+Sell,DHI,D.R. Horton Inc. Common ,94.0747
+Sell,DISCA,Discovery Communications Inc ,89.5237
+Sell,DLTR,Dollar Tree Inc. ,87.2677
+Sell,DOV,Dover Corporation Common ,95.164
+Sell,DOW,Dow Chemical Company (The) Comm ,91.7907
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,94.6299
+Sell,DRI,Darden Restaurants Inc. Common ,91.1099
+Sell,ECL,Ecolab Inc. Common ,96.9756
+Sell,EFX,Equifax Inc. Common ,94.4444
+Sell,EMN,Eastman Chemical Company Common ,94.5803
+Sell,EMR,Emerson Electric Company Common ,81.0497
+Sell,EXPD,Expeditors International of Was ,87.614
+Sell,EXPE,Expedia Inc. ,80.6398
+Sell,EXR,Extra Space Storage Inc Common  ,90.1233
+Sell,FCX,Freeport-McMoRan Copper & Gold ,80.989
+Sell,FDX,FedEx Corporation Common ,97.7872
+Sell,FL,Footlocker Inc. ,80.0132
+Sell,FLIR,FLIR Systems Inc. ,97.3053
+Sell,FLS,Flowserve Corporation Common St ,92.3567
+Sell,GD,General Dynamics Corporation Co ,81.3388
+Sell,GE,General Electric Company Common ,98.2906
+Sell,GM,General Motors Company Common S ,88.344
+Sell,GOOG,Alphabet Inc.,88.8329
+Sell,GPN,Global Payments Inc. Common Sto ,81.5043
+Sell,GPS,Gap Inc. (The) Common ,89.5636
+Sell,GS,Goldman Sachs Group Inc. (The) ,91.45
+Sell,INTU,Intuit Inc. ,90.2944
+Sell,IPG,Interpublic Group of Companies ,87.4992
+Sell,IR,Ingersoll-Rand plc (Ireland) ,95.1746
+Sell,ITW,Illinois Tool Works Inc. Common ,98.1247
+Sell,LUV,Southwest Airlines Company Comm ,86.1071
+Sell,LYB,LyondellBasell Industries NV Or ,88.255
+Sell,MA,Mastercard Incorporated Common  ,89.6805
+Sell,MAA,Mid-America Apartment Communiti ,83.1172
+Sell,MCD,McDonald's Corporation Common S ,90.0401
+Sell,PCAR,PACCAR Inc. ,87.6829
+Sell,PCG,Pacific Gas & Electric Co. Comm ,86.5736
+Sell,PCLN,priceline.com Incorporated ,91.7292
+Sell,PEG,Public Service Enterprise Group ,87.011
+Sell,RCL,Royal Caribbean Cruises Ltd. Co ,92.1958
+Sell,RL,Ralph Lauren Corporation Common ,94.5825
+Sell,ROK,Rockwell Automation Inc. Commo ,98.7922
+Sell,RTN,Raytheon Company Common ,96.3084
+Sell,SBUX,Starbucks Corporation ,90.3657
+Sell,SEE,Sealed Air Corporation Common S ,98.5185
+Sell,SNA,Snap-On Incorporated Common Sto ,86.6288
+Sell,SNPS,Synopsys Inc. ,87.5755
+Sell,HOLX, Hologic  Inc. ,97.2437
+Sell,HON, Honeywell International Inc. Co ,90.9027
+Sell,HRS, Harris Corporation Common ,90.9072
+Sell,HSIC, Henry Schein  Inc. ,87.5303
+Sell,ICE, IntercontinentalExchange  Inc.  ,86.7027
+Sell,IFF, Internationa Flavors & Fragranc ,88.8889
+Sell,ILMN, Illumina  Inc. ,87.4637
+Sell,MPC, Marathon Petroleum Corporation  ,97.4884
+Sell,PSX, Phillips 66 Common ,88.312
+Sell,TRIP, TripAdvisor  Inc. ,81.1469
+Sell,WFM, Whole Foods Market  Inc. ,83.3333
+Sell,XYL, Xylem Inc. Common ,86.1111
+Sell,ABBV,AbbVie Inc. ,90.3163
+Sell,ALLE,Allegion plc Ordinary Shares ,98.5444
+Sell,GOOGL,Alphabet Inc.,92.5982
+Sell,SYF,Synchrony Financial Common Stoc,95.5102
+Sell,FTV,Fortive Corporation,93.8275
+Sell,ARNC,Arconic Inc.,92.8107
+Sell,DXC,DXC Technology Company,86.6666
+Sell,UAA,Under Armour  Inc. Class A,84.0553

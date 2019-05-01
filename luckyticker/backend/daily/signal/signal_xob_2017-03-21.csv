@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DDC,Dominion Diamond Corporation ,Basic Materials,Nonmetallic Mineral Mining
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+CZWI,Citizens Community Bancorp Inc ,Financial,Regional - Midwest Banks
+CHN, China Fund  Inc. (The) Common S ,Financial,Closed-End Fund - Foreign
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+GRR, Asia Tigers Fund  Inc. (The) Co ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+NSAT,Norsat International Inc. (NEW),N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+FXSG,CurrencyShares Singapore Dollar Trust ,N/A,N/A
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+EDU,New Oriental Education & Techno ,Services,Education & Training Services
+LFL,Lan Airlines S.A. ,Services,Regional Airlines
+FIVN,Five9 Inc. ,Technology,Application Software
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices

@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FANH,Fanhua Inc. - American deposita,,
+COT,Cott Corporation Common ,Consumer Goods,Beverages - Soft Drinks
+ALL,Allstate Corporation (The) Comm ,Financial,Property & Casualty Insurance
+CBG,CBRE Group Inc Common ,Financial,Property Management
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+DHI,D.R. Horton Inc. Common ,Industrial Goods,Residential Construction
+SITE,SiteOne Landscape Supply  Inc.,N/A,N/A
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+TIME,Time Inc. Common,Services,Publishing - Periodicals
+H, Hyatt Hotels Corporation Class  ,Services,Lodging
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+EPAM, EPAM Systems  Inc. Common ,Technology,Information Technology Services
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+MARK, Remark Media  Inc. ,Technology,Internet Information Providers

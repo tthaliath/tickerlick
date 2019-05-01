@@ -1,0 +1,39 @@
+Buy,ALL,Allstate Corporation (The) Comm ,8.18733
+Buy,AMGN,Amgen Inc. ,10.865
+Buy,BIIB,Biogen Idec Inc. ,12.2238
+Buy,C,Citigroup Inc. Common ,15.6292
+Buy,CMCSA,Comcast Corporation ,10.8888
+Buy,CVX,Chevron Corporation Common Stoc ,4.82642
+Buy,EXC,Exelon Corporation Common ,10.2836
+Buy,MRK,Merck & Company Inc. Common St ,17.1077
+Buy,ORCL,Oracle Corporation ,11.4591
+Buy,OXY,Occidental Petroleum Corporatio ,18.8419
+Buy,PFE,Pfizer Inc. Common ,15.2777
+Buy,IBM, International Business Machines ,19.3897
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,11.5082
+Buy,LLY, Eli Lilly and Company Common St ,7.56272
+Buy,ABBV,AbbVie Inc. ,1.86262
+Sell,AAPL,Apple Inc. ,87.7082
+Sell,ABT,Abbott Laboratories Common Stoc ,80.578
+Sell,AXP,American Express Company Common ,95.4331
+Sell,CELG,Celgene Corporation ,85.2991
+Sell,CSCO,Cisco Systems Inc. ,91.2633
+Sell,DIS,Walt Disney Company (The) Commo ,92.0499
+Sell,EMR,Emerson Electric Company Common ,97.3008
+Sell,INTC,Intel Corporation ,93.5054
+Sell,JPM,JP Morgan Chase & Co. Common St ,84.0407
+Sell,MDT,Medtronic Inc. Common ,86.1932
+Sell,MMM,3M Company Common ,97.2221
+Sell,MON,Monsanto Company Common ,91.8972
+Sell,MSFT,Microsoft Corporation ,94.735
+Sell,NVDA,NVIDIA Corporation ,89.3146
+Sell,PEP,Pepsico Inc. Common ,81.6956
+Sell,T,AT&T Inc. ,89.6705
+Sell,TWX,Time Warner Inc. New Common Sto ,88.6753
+Sell,HON, Honeywell International Inc. Co ,95.0485
+Sell,SPY,SPDR S&P 500 ETF,86.1575
+Sell,AAL,American Airlines Group Inc. ,86.7973
+Sell,FOX,Twenty-First Century Fox Inc. ,95.2381
+Sell,FOXA,Twenty-First Century Fox Inc. ,95.7406
+Sell,PYPL,PayPal Holdings  Inc.,93.1879
+Sell,SNAP,Snap Inc.,91.9037

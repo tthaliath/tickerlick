@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDXS,ProShares UltraShort Gold Miner,,
+APA,Apache Corporation Common ,Basic Materials,Independent Oil & Gas
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+K,Kellogg Company Common ,Consumer Goods,Processed & Packaged Goods
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+GIS,General Mills Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+MDLZ, Mondelez International  Inc. ,Consumer Goods,Confectioners
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+HMN, Horace Mann Educators Corporati ,Financial,Property & Casualty Insurance
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+PAHC,Phibro Animal Health Corporation ,Healthcare,Specialized Health Services
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+TMHC,Taylor Morrison Home Corporation ,Industrial Goods,Residential Construction
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+HRB, H&R Block  Inc. Common ,Services,Personal Services
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores

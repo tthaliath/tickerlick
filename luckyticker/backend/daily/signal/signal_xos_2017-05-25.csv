@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+SDP,ProShares UltraShort Utilities ETF,Commodity Based ETF,
+LTRPA,Liberty TripAdvisor Holdings I,Consumer Goods,Recreational Goods Other
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+EMCF, Emclaire Financial Corp ,Financial,Regional - Northeast Banks
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+AGX,Argan Inc. Common ,Industrial Goods,Heavy Construction
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+RRF, WisdomTree Global Real Return F ,N/A,N/A
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+SFE,Safeguard Scientifics Inc. New ,Services,Business Services
+DL,China Distance Education Holdin ,Services,Education & Training Services
+SBH,Sally Beauty Holdings Inc. (Na ,Services,Specialty Retail Other
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+FRP, FairPoint Communications  Inc. ,Technology,Telecom Services - Domestic
+SMI,Semiconductor  Manufacturing In ,Technology,Semiconductor - Integrated Circuits
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers

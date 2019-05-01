@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TSO,Tesoro Corporation Common ,Basic Materials,Oil & Gas Refining & Marketing
+STT, State Street Corporation Common ,Financial,Regional - Northeast Banks
+AMRI,Albany Molecular Research Inc. ,Healthcare,Biotechnology
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+LPSN,LivePerson Inc. ,Services,Business Services
+BABA,Alibaba Group Holding Limited A,Services,Specialty Retail Other
+IXYS,IXYS Corporation ,Technology,Semiconductor - Specialized
+VHC,VirnetX Holding Corp Common Sto ,Technology,Internet Software & Services
+AWR,American States Water Company C ,Utilities,Water Utilities

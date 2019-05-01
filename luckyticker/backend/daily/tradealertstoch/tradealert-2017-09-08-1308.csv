@@ -1,0 +1,44 @@
+Buy,AMZN,Amazon.com Inc. ,15.0433
+Buy,COST,Costco Wholesale Corporation ,14.2376
+Buy,GM,General Motors Company Common S ,6.66768
+Buy,INTC,Intel Corporation ,11.234
+Buy,KO,Coca-Cola Company (The) Common  ,11.1125
+Buy,LMT,Lockheed Martin Corporation Com ,16.7504
+Buy,MO,Altria Group Inc. ,3.30994
+Buy,NEE,NextEra Energy Inc. Common Sto ,12.2218
+Buy,NVDA,NVIDIA Corporation ,18.6122
+Buy,PEP,Pepsico Inc. Common ,9.33304
+Buy,PG,Procter & Gamble Company (The)  ,11.1079
+Buy,PM,Philip Morris International Inc ,1.33496
+Buy,QCOM,QUALCOMM Incorporated ,17.1406
+Buy,SLB,Schlumberger N.V. Common ,16.4504
+Buy,FB, Facebook  Inc. ,12.0032
+Buy,HAL, Halliburton Company Common Stoc ,8.42918
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,7.04665
+Buy,BABA,Alibaba Group Holding Limited A,18.0211
+Buy,SNAP,Snap Inc.,4.95677
+Sell,AIG,American International Group I ,82.5788
+Sell,AMD,Advanced Micro Devices Inc. Co ,82.4572
+Sell,CAT,Caterpillar Inc. Common ,97.6833
+Sell,CL,Colgate-Palmolive Company Commo ,89.2654
+Sell,CMCSA,Comcast Corporation ,80.5326
+Sell,CVS,CVS Caremark Corporation Common ,80.1028
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,95.9439
+Sell,DHR,Danaher Corporation Common Stoc ,93.1034
+Sell,DIS,Walt Disney Company (The) Commo ,89.7275
+Sell,DUK,Duke Energy Corporation (Holdin ,89.272
+Sell,JNJ,Johnson & Johnson Common ,80.3549
+Sell,LOW,Lowe's Companies Inc. Common S ,94.6538
+Sell,MDT,Medtronic Inc. Common ,89.973
+Sell,MMM,3M Company Common ,80.2461
+Sell,MRK,Merck & Company Inc. Common St ,89.9007
+Sell,NKE,Nike Inc. Common ,86.6684
+Sell,PCLN,priceline.com Incorporated ,90.4408
+Sell,SBUX,Starbucks Corporation ,96.1357
+Sell,SO,Southern Company (The) Common S ,91.2536
+Sell,T,AT&T Inc. ,92.9922
+Sell,XOM,Exxon Mobil Corporation Common  ,87.2988
+Sell,LLY, Eli Lilly and Company Common St ,94.3279
+Sell,AAL,American Airlines Group Inc. ,94.2113
+Sell,FOX,Twenty-First Century Fox Inc. ,91.7676
+Sell,WBA,Walgreens Boots Alliance Inc.,89.6179

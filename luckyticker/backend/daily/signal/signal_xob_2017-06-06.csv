@@ -1,0 +1,58 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+UGE,ProShares Ultra Consumer Goods ETF,Commodity Based ETF,
+MJN,Mead Johnson Nutrition Company  ,Consumer Goods,Processed & Packaged Goods
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+GLPI,Gaming and Leisure Properties Inc ,Financial,REIT - Diversified
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+TPRE,Third Point Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+FOR, Forestar Group Inc Common ,Financial,Real Estate Development
+PYPL,PayPal Holdings  Inc.,Financial,Credit Services
+LGI, Lazard Global Total Return and  ,Financial,Closed-End Fund - Foreign
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+MVC,MVC Capital Inc. Common ,Financial,Diversified Investments
+JPS, Nuveen Quality Preferred Income ,Financial,Closed-End Fund - Debt
+IXN,iShares S&P Global Technology Index Fund ETF,Global Equity ETF,
+CHIQ,Global X China Consumer ETF,Global Equity ETF,
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+ACWV,iShares MSCI All Country World Minimum Volatility Index Fund ETF,Global Equity ETF,
+ENZL,iShares MSCI New Zealand Investable Market Index Fund (ENZL) ETF,Global Equity ETF,
+EWJ,iShares MSCI Japan Index Fund ETF,Global Equity ETF,
+TAO,Guggenheim China Real Estate ETF,Global Equity ETF,
+IPK,SPDR S&P International Technology Sector ETF,Global Equity ETF,
+WPS,iShares S&P World ex-US Property ETF,Global Equity ETF,
+VAR,Varian Medical Systems Inc. Co ,Healthcare,Medical Appliances & Equipment
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+ISRG,Intuitive Surgical Inc. ,Healthcare,Medical Appliances & Equipment
+ICLR, ICON plc ,Healthcare,Medical Laboratories & Research
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+NUTR,Nutraceutical International Cor ,Healthcare,Drug Related Products
+IART, Integra LifeSciences Holdings C ,Healthcare,Medical Instruments & Supplies
+COO,Cooper Companies Inc. (The) Co ,Healthcare,Medical Instruments & Supplies
+EEI,Ecology and Environment Inc. ,Industrial Goods,Waste Management
+GGZ,Gabelli Global Small and Mid Ca,N/A,N/A
+FTEC,Fidelity MSCI Information Technology ETF ,N/A,N/A
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+JEQ, Japan Equity Fund  Inc. (The) C ,N/A,N/A
+NGE,Global X Nigeria Index ETF ,N/A,N/A
+NICE,NICE-Systems Limited ,NULL,NULL
+ARMK,ARAMARK Holdings Corporation ,Services,Specialty Eateries
+MA,Mastercard Incorporated Common  ,Services,Business Services
+YUM,Yum! Brands Inc. ,Services,Restaurants
+LVS,Las Vegas Sands Corp. Common St ,Services,Resorts & Casinos
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+CACQ,Caesars Acquisition Company ,Services,Resorts & Casinos
+EEFT,Euronet Worldwide Inc. ,Services,Business Services
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+QSII,Quality Systems Inc. ,Technology,Healthcare Information Services
+GSOL,Global Sources Ltd. ,Technology,Internet Information Providers
+LPL,LG Display Co Ltd AMERICAN DEP ,Technology,Diversified Electronics
+EXTR,Extreme Networks Inc. ,Technology,Networking & Communication Devices
+HQY,HealthEquity Inc.,Technology,Healthcare Information Services
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+BNFT,Benefitfocus Inc. ,Technology,Application Software
+MTK,SPDR Morgan Stanley Technology ETF,US Equity ETF,
+IHI,iShares Dow Jones U.S. Medical Devices Index Fund ETF,US Equity ETF,
+XLP,SPDR Consumer Staples Select Sector Fund ETF,US Equity ETF,

@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+LFC,China Life Insurance Company Li ,Financial,Life Insurance
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+DGICB, Donegal Group  Inc. ,Financial,Property & Casualty Insurance
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+DXR,Daxor Corporation Common ,Healthcare,Medical Instruments & Supplies
+ASND,Ascendis Pharma,Healthcare,Biotechnology
+TIVO,TiVo Inc. ,Services,CATV Systems
+BLOX, Infoblox Inc. Common ,Services,Business Services
+ITRI,Itron Inc. ,Technology,Scientific & Technical Instruments
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices

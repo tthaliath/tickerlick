@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+INSE,Inspired Entertainment  Inc.,,
+WTID,UBS ETRACS - ProShares Daily 3x,,
+DWT,VelocityShares 3x Inverse Crude,,
+OILD,ProShares UltraPro 3x Short Cru,,
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+AJRD,Aerojet Rocketdyne Holdings  Inc.,Industrial Goods,Aerospace/Defense - Major Diversified
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+ERH, Wells Fargo Advantage Utilities ,N/A,N/A
+ELU,Entergy Louisiana LLC ,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+MIDZ, Direxion Mid Cap Bear 3X Shares ,N/A,N/A
+DTUL,iPath US Treasury 2-year Bull ETN ,N/A,N/A
+EAE,Entergy Arkansas Inc. ,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+EXD, Eaton Vance Tax-Advantaged Bond ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+NTRI,NutriSystem Inc ,Services,Consumer Services
+ALK,Alaska Air Group Inc. Common S ,Services,Regional Airlines
+MRCY,Mercury Computer Systems ,Technology,Computer Peripherals
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+HDGE,AdvisorShares Active Bear ETF,US Equity ETF,

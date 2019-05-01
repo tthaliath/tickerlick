@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PAK,Global X MSCI Pakistan ETF,,
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+FNF,Fidelity National Financial In ,Financial,Surety & Title Insurance
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income ETF,
+NSS,NuStar Logistics  L.P. ,N/A,N/A
+DKT, Deutsch Bk Contingent Cap Tr V  ,N/A,N/A
+BPOPN, Popular  Inc. ,N/A,N/A
+AEB,AEGON N.V. Perp. Cap. Secs. Flo ,NULL,NULL

@@ -1,0 +1,52 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IBLN,Direxion iBillionaire Index ETF ,,
+UGE,ProShares Ultra Consumer Goods ETF,Commodity Based ETF,
+CL,Colgate-Palmolive Company Commo ,Consumer Goods,Personal Products
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+SHLO,Shiloh Industries Inc. ,Consumer Goods,Auto Parts
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+EV,Eaton Vance Corporation Common  ,Financial,Asset Management
+PGR,Progressive Corporation (The) C ,Financial,Property & Casualty Insurance
+BCBP,BCB Bancorp Inc. (NJ) ,Financial,Regional - Northeast Banks
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+RVT, Royce Value Trust  Inc. Common  ,Financial,Closed-End Fund - Equity
+PRA,ProAssurance Corporation Common ,Financial,Property & Casualty Insurance
+CB,Chubb Corporation (The) Common  ,Financial,Property & Casualty Insurance
+CHFN,Charter Financial Corp. ,Financial,Regional - Mid-Atlantic Banks
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+FEMS,First Trust Emerging Markets SC AlphaDEX ETF,Global Equity ETF,
+AIA,iShares S&P Asia 50 ETF,Global Equity ETF,
+OSUR,OraSure Technologies Inc. ,Healthcare,Medical Instruments & Supplies
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+ISRG,Intuitive Surgical Inc. ,Healthcare,Medical Appliances & Equipment
+ABT,Abbott Laboratories Common Stoc ,Healthcare,Drug Manufacturers - Major
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+ENZY,Enzymotec Ltd. ,Healthcare,Biotechnology
+MTD,Mettler-Toledo International I ,Healthcare,Medical Instruments & Supplies
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+LMIA,LMI Aerospace Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+NVMI,Nova Measuring Instruments Ltd. ,Industrial Goods,Diversified Machinery
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+FIGY,Barclays ETN+ FI Enhanced Glb Hi Yld ETN ,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+PNNT, PennantPark Investment Corporat ,N/A,N/A
+ARCC, Ares Capital Corporation ,N/A,N/A
+TDIV, First Trust Exchange-Traded Fun ,N/A,N/A
+UBM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+LNTH,Lantheus Medical Imaging  Inc.,N/A,N/A
+VAC, Marriot Vacations Worldwide Cor ,Services,Resorts & Casinos
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+TIF,Tiffany & Co. Common ,Services,Jewelry Stores
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+HPQ, Hewlett-Packard Company Common  ,Technology,Diversified Computer Systems
+AAPL,Apple Inc. ,Technology,Personal Computers
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+XCRA,Xcerra Corporation,Technology,Semiconductor Equipment & Materials
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+PFM,PowerShares Dividend Achievers ETF,US Equity ETF,

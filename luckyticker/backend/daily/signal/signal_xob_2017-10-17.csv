@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+IPAC,iShares Core MSCI Pacific ETF ,,
+IPOS,Renaissance Capital Greenwich F,,
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+WBIG,WBI Large Cap Tactical Yield Sh ,,
+ICHR,Ichor Holdings - Ordinary Share,,
+XRLV,PowerShares S&P 500 ex-Rate Sen,,
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+ADX,Adams Express Company (The) ,Financial,Closed-End Fund - Equity
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+IX, Orix Corp Ads Common ,Financial,Credit Services
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+SPG,Simon Property Group Inc. Comm ,Financial,REIT - Retail
+KROO,IndexIQ Australia Small Cap ETF,Global Equity ETF,
+VPL,Vanguard Pacific ETF,Global Equity ETF,
+FJP,First Trust Japan AlphaDEX ETF,Global Equity ETF,
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+ITW,Illinois Tool Works Inc. Common ,Industrial Goods,Diversified Machinery
+KBH,KB Home Common ,Industrial Goods,Residential Construction
+MTH,Meritage Homes Corporation Comm ,Industrial Goods,Residential Construction
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+QUAL,iShares MSCI USA Quality Factor ,N/A,N/A
+YIN,Yintech Investment Holdings Limited,N/A,N/A
+JPN,Deutsche X-trackers JPN JPX-Nikkei400 Eq,N/A,N/A
+TRIL,,N/A,N/A
+FSTR,L.B. Foster Company ,Services,Basic Materials Wholesale
+ARMK,ARAMARK Holdings Corporation ,Services,Specialty Eateries
+ONVI,Onvia Inc. ,Services,Business Services
+NAP,Navios Maritime Midstream Partn,Services,Shipping
+PNK,Pinnacle Entertainment Inc. Co ,Services,Resorts & Casinos
+ASYS,Amtech Systems Inc. ,Technology,Semiconductor Equipment & Materials
+AVX,AVX Corporation Common ,Technology,Diversified Electronics
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+TRI,Thomson Reuters Corp Ordinary S ,Technology,Information & Delivery Services
+HURC, Hurco Companies  Inc. ,Technology,Scientific & Technical Instruments
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+FTC,First Trust Large Cap Growth Opportunities AlphaDEX Fund ETF,US Equity ETF,
+CZA,Guggenheim Mid-Cap Core ETF,US Equity ETF,
+SDY,SPDR S&P Dividend ETF,US Equity ETF,
+ETR,Entergy Corporation Common Stoc ,Utilities,Electric Utilities
+AWK,American Water Works Company I ,Utilities,Water Utilities

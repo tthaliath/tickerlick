@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+PHG,Koninklijke Philips Electronics ,Consumer Goods,Electronic Equipment
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+MSB,Mesabi Trust Common ,Financial,Diversified Investments
+LDF, Latin American Discovery Fund   ,Financial,Closed-End Fund - Foreign
+HBMD, Howard Bancorp  Inc. ,Financial,Regional - Mid-Atlantic Banks
+FCCY,1st Constitution Bancorp (NJ) ,Financial,Regional - Northeast Banks
+WASH,Washington Trust Bancorp Inc. ,Financial,Regional - Northeast Banks
+AADR,AdvisorShares WCM/BNY Mellon Focused Growth ADR ETF,Global Equity ETF,
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+HXL, Hexcel Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+TDY,Teledyne Technologies Incorpora ,Industrial Goods,Aerospace/Defense Products & Services
+AJRD,Aerojet Rocketdyne Holdings  Inc.,Industrial Goods,Aerospace/Defense - Major Diversified
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+CCC,Calgon Carbon Corporation Commo ,Industrial Goods,Pollution & Treatment Controls
+QNST,QuinStreet Inc. ,Services,Advertising Agencies
+BOBE,Bob Evans Farms Inc. ,Services,Restaurants
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+BMI,Badger Meter Inc. Common ,Technology,Scientific & Technical Instruments
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+CUB,Cubic Corporation Common ,Technology,Scientific & Technical Instruments
+PLUS,ePlus inc. ,Technology,Business Software & Services
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,
+PPA,PowerShares Aerospace & Defense ETF,US Equity ETF,
+XAR,SPDR S&P Aerospace & Defense ETF,US Equity ETF,

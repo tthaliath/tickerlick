@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+DDC,Dominion Diamond Corporation ,Basic Materials,Nonmetallic Mineral Mining
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+SPU,SkyPeople Fruit Juice Inc. ,Consumer Goods,Beverages - Soft Drinks
+AFH,Atlas Financial Holdings Inc. ,Financial,Property & Casualty Insurance
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+AMRI,Albany Molecular Research Inc. ,Healthcare,Biotechnology
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+TECS, Direxion Technology Bear 3X Sha ,N/A,N/A
+HRB, H&R Block  Inc. Common ,Services,Personal Services
+JACK,Jack In The Box Inc. ,Services,Restaurants
+WAIR, Wesco Aircraft Holdings  Inc. C ,Services,Industrial Equipment Wholesale
+WING,Wingstop Inc.,Services,Restaurants
+VLRS,Controladora Vuela Compa ,Services,Major Airlines
+UBNT, Ubiquiti Networks  Inc. ,Technology,Wireless Communications
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers

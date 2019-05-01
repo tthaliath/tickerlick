@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VTVT,vTv Therapeutics Inc.,,
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+OPHC,OptimumBank Holdings Inc. ,Financial,Regional - Mid-Atlantic Banks
+STRS,Stratus Properties Inc. ,Financial,Real Estate Development
+RTRX,Retrophin Inc. ,Healthcare,Drug Manufacturers - Major
+NVLS,Nivalis Therapeutics  Inc.,Healthcare,Biotechnology
+LMCK,Liberty Media Corporation,N/A,N/A
+TYBS, Direxion Daily 20 Year Treasury ,N/A,N/A
+CONN,Conn's Inc. ,Services,Electronics Stores
+FNSR,Finisar Corporation ,Technology,Networking & Communication Devices
+SYMC,Symantec Corporation ,Technology,Security Software & Services

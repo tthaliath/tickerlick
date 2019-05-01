@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PZE,Petrobras Argentina S.A. ADS ,Basic Materials,Major Integrated Oil & Gas
+IBA, Industrias Bachoco  S.A.B. de C ,Consumer Goods,Meat Products
+CCE,Coca-Cola Enterprises Inc. Com ,Consumer Goods,Beverages - Soft Drinks
+APB, Asia Pacific Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+BSMX, Grupo Financiero Santander Mexi ,Financial,Foreign Regional Banks
+GGAL,Grupo Financiero Galicia S.A. ,Financial,Foreign Regional Banks
+ENZ,Enzo Biochem Inc. Common ,Healthcare,Medical Laboratories & Research
+AYA,Amaya  Inc.,N/A,N/A
+TIF,Tiffany & Co. Common ,Services,Jewelry Stores
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+EDU,New Oriental Education & Techno ,Services,Education & Training Services
+PENN,Penn National Gaming Inc. ,Services,Resorts & Casinos
+MAR,Marriot International Common St ,Services,Lodging
+SILC,Silicom Ltd ,Technology,Networking & Communication Devices
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities
+BIP,Brookfield Infrastructure Partn ,Utilities,Electric Utilities

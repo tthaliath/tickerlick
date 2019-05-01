@@ -1,0 +1,123 @@
+ticker,name,sector,industry
+AN,AutoNation Inc. Common ,Services,Auto Dealerships
+VZ,Verizon Communications Inc. Com ,Technology,Telecom Services - Domestic
+NFX,Newfield Exploration Company Co ,Basic Materials,Independent Oil & Gas
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+AIV,Apartment Investment and Manage ,Financial,REIT - Residential
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+PCY,PowerShares Emerging Markets Sovereign Debt Portfolio ETF,Fixed Income ETF,
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Fixed Income ETF,
+TRTN,Triton International Limited,N/A,N/A
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+ASYS,Amtech Systems Inc. ,Technology,Semiconductor Equipment & Materials
+BTT, BlackRock Municipal Target Term ,N/A,N/A
+CPAC, Cementos Pacasmayo S.A.A. Ameri ,Industrial Goods,Cement
+EBTC,Enterprise Bancorp Inc ,Financial,Savings & Loans
+FIXD,First Trust TCW Opportunistic F,,
+HBP,Huttig Building Products Inc. ,Services,Building Materials Wholesale
+JASO,JA Solar Holdings Co. Ltd. ,Technology,Semiconductor - Specialized
+LCI,Lannett Co Inc Common ,Healthcare,Drug Manufacturers - Other
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+PAG,Penske Automotive Group Inc. C ,Services,Auto Dealerships
+PWZ,PowerShares Insured CA Municipal Bond Portfolio ETF,Fixed Income ETF,
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+CDNA,CareDx Inc.,Services,Research Services
+CORP,PIMCO Investment Grade Corporate Bond Index Fund ETF,Fixed Income ETF,
+EDV,Vanguard Extended Duration Treasury ETF,Fixed Income ETF,
+FCPT,Four Corners Property Trust  Inc.,N/A,N/A
+HR, Healthcare Realty Trust Incorpo ,Financial,REIT - Healthcare Facilities
+ITI,Iteris Inc. Common ,Technology,Communication Equipment
+NFLT,Virtus Newfleet Multi-Sector Un,,
+NXN, Nuveen New York Select Tax-Free ,Financial,Closed-End Fund - Debt
+PMBC,Pacific Mercantile Bancorp ,Financial,Regional - Pacific Banks
+QMN,IQ Hedge Market Neutral Tracker ETF ,N/A,N/A
+VBF, Invesco Van Kampen Bond Fund Co ,N/A,N/A
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+ANAT,American National Insurance Com ,Financial,Property & Casualty Insurance
+AVDL,Avadel Pharmaceuticals plc - Am,,
+BWV,iPath CBOE SandP 500 BuyWrite Index ETN ,N/A,N/A
+CRAY,Cray Inc ,Technology,Diversified Computer Systems
+EEP,Enbridge Energy L.P. Class A C ,Basic Materials,Oil & Gas Pipelines
+FORTY,Formula Systems (1985) Ltd. ,Technology,Business Software & Services
+HLX, Helix Energy Solutions Group  I ,Basic Materials,Oil & Gas Equipment & Services
+JJP, iPath DJ-UBS Precious Metals Su ,N/A,N/A
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+NMT, Nuveen Massachusetts Premium In ,N/A,N/A
+NTEC,Intec Pharma,N/A,N/A
+PDFS,PDF Solutions Inc. ,Technology,Technical & System Software
+SBBC,Scorpio Tankers Inc. 8.25 Seni,,
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+WFIG,WisdomTree Fundamental U.S. Cor,,
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+BMCH,BMC Stock Holdings  Inc.,N/A,N/A
+CEMB,iShares Emerging Markets Corporate Bond ETF,Fixed Income ETF,
+CRED,Credo Petroleum Corporation ,Basic Materials,Independent Oil & Gas
+EMCI,EMC Insurance Group Inc. ,Financial,Property & Casualty Insurance
+GBAB, Guggenheim Build America Bonds  ,N/A,N/A
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+IVAC,Intevac Inc. ,Technology,Diversified Electronics
+NJV, Nuveen New Jersey Municipal Val ,N/A,N/A
+OIA, Invesco Municipal Income Opport ,N/A,N/A
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+XIVH,UBS AG VelocityShares VIX Short,,
+APU,AmeriGas Partners L.P. Common  ,Utilities,Gas Utilities
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+CRVL,CorVel Corp. ,Financial,Insurance Brokers
+EEQ,Enbridge Energy Management LLC  ,Basic Materials,Independent Oil & Gas
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+HMNY,Helios and Matheson Analytics Inc. ,Technology,Information Technology Services
+MFC,Manulife Financial Corporation  ,Financial,Life Insurance
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+NNBR,NN Inc. ,Industrial Goods,Machine Tools & Accessories
+NYNY,Empire Resorts Inc. ,Services,Resorts & Casinos
+PK,Park Hotels & Resorts Inc.,,
+SMBC, Southern Missouri Bancorp  Inc. ,Financial,Savings & Loans
+UN,Unilever NV Common ,Consumer Goods,Processed & Packaged Goods
+XIN,Xinyuan Real Estate Co Ltd Amer ,Industrial Goods,Residential Construction
+AGGY,WisdomTree Barclays Yield Enhan,,
+CAFD,8point3 Energy Partners LP,Utilities,Diversified Utilities
+CIU,iShares Barclays Intermediate Credit Bond Fund ETF,Fixed Income ETF,
+CXH, MFS Investment Grade Municipal  ,Financial,Closed-End Fund - Debt
+EMTL,SPDR DoubleLine Emerging Market,,
+GMS,GMS ,N/A,N/A
+ICBK,County Bancorp Inc.,Financial,Savings & Loans
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+NTC, Nuveen Connecticut Premium Inco ,N/A,N/A
+PAI, Western Asset Income Fund Commo ,Financial,Closed-End Fund - Debt
+QLS,IQ Hedge Long Short Tracker ETF,,
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+VCSH,Vanguard Short-Term Corporate Bond ETF,Fixed Income ETF,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+ARLP,Alliance Resource Partners L.P ,Basic Materials,Industrial Metals & Minerals
+BKSC, Bank of South Carolina Corp. ,Financial,Regional - Mid-Atlantic Banks
+CLI,Mack-Cali Realty Corporation Co ,Financial,REIT - Office
+DSKE,Daseke  Inc.,,
+EQGP,EQT GP Holdings  LP,Basic Materials,Major Integrated Oil & Gas
+GPX,GP Strategies Corporation Commo ,Services,Education & Training Services
+LAD,Lithia Motors Inc. Common Stoc ,Services,Auto Dealerships
+MMD, MainStay DefinedTerm Municipal  ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+NPO,Enpro Industries Inc ,Industrial Goods,Industrial Equipment & Components
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+SON,Sonoco Products Company Common  ,Consumer Goods,Paper & Paper Products
+VALU,Value Line Inc. ,Financial,Asset Management
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Fixed Income ETF,
+CLY,iShares 10+ Year Credit Bond Fund ETF,Fixed Income ETF,
+DEA,Easterly Government Properties,N/A,N/A
+ETX,Eaton Vance Municipal Income Te ,N/A,N/A
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+NCSM,NCS Multistage Holdings  Inc.,,
+NUAG,NuShares Enhanced Yield US Aggr,,

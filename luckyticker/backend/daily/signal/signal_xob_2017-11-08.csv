@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JPGE,JPMorgan Diversified Return Glo ,,
+IUSG,iShares Core U.S. Growth ETF ,,
+ARCM,Arrow Reserve Capital Managemen,,
+HACW,iShares Currency Hedged MSCI AC,,
+PBF,PBF Energy Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+CVI,CVR Energy Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+HFC, HollyFrontier Corporation Commo ,Basic Materials,Oil & Gas Refining & Marketing
+SU,Suncor Energy  Inc. Common Stoc ,Basic Materials,Independent Oil & Gas
+USD,ProShares Ultra Semiconductors ETF,Commodity Based ETF,
+RYN,Rayonier Inc. REIT Common ,Conglomerates,Conglomerates
+HMC, Honda Motor Company  Ltd. Commo ,Consumer Goods,Auto Manufacturers - Major
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+NEN,New England Realty Associates L ,Financial,Property Management
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+PRI,Primerica Inc. Common ,Financial,Life Insurance
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+DRNA,Dicerna Pharmaceuticals Inc. ,Healthcare,Biotechnology
+INGN,Inogen Inc. ,Healthcare,Medical Instruments & Supplies
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+AEGN, Aegion Corp ,Industrial Goods,Heavy Construction
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+SOXL, Direxion Daily Semiconductor Bu ,N/A,N/A
+AINC,Ashford Inc. Common,N/A,N/A
+PEN,Penumbra  Inc.,N/A,N/A
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+SBAC,SBA Communications Corporation ,Services,Rental & Leasing Services
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+ORBK,Orbotech Ltd. ,Technology,Diversified Electronics
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+ZEN,Zendesk Inc. Common,Technology,Application Software
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+BIO,Bio-Rad Laboratories Inc. Clas ,Technology,Scientific & Technical Instruments
+IDTI, Integrated Device Technology  I ,Technology,Semiconductor - Broad Line
+EBIX,Ebix Inc ,Technology,Business Software & Services
+GILT,Gilat Satellite Networks Ltd. ,Technology,Communication Equipment
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment
+CMCM,Cheetah Mobile Inc. American De,Technology,Application Software
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund ETF,US Equity ETF,
+XSD,SPDR S&P Semiconductor ETF,US Equity ETF,
+IVW,iShares S&P 500 Growth Index Fund ETF,US Equity ETF,
+VOOG,Vanguard S&P 500 Growth ETF,US Equity ETF,
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+SMH,Market Vectors Semiconductor ETF,US Equity ETF,

@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WDRW,Direxion Daily Regional Banks B,,
+SE,Spectra Energy Corp Common Stoc ,Basic Materials,Oil & Gas Pipelines
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+SIJ,ProShares UltraShort Industrials ETF,Commodity Based ETF,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+MZZ,ProShares UltraShort MidCap400 ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+VMM, Delaware Investments Minnesota  ,Financial,Closed-End Fund - Debt
+QIWI,Qiwi plc ,Financial,Credit Services
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+PHI,Philippine Long Distance Teleph ,Technology,Telecom Services - Foreign

@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+LHCG,LHC Group ,Healthcare,Home Health Care
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+DRN, Dexion Daily Real Estate Bull 3 ,N/A,N/A
+WEAT, Teucrium Wheat Fund ETV ,N/A,N/A
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+FOX,Twenty-First Century Fox Inc. ,N/A,N/A
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+ZOES,Zoe's Kitchen Inc. ,Services,Restaurants
+GAIA,Gaiam Inc. ,Services,Catalog & Mail Order Houses
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services

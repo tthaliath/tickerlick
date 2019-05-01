@@ -1,0 +1,120 @@
+Buy,ADI,Analog Devices Inc. ,1.11137
+Buy,AET,Aetna Inc. Common ,18.7999
+Buy,AGN,Allergan Inc. Common ,16.2923
+Buy,ALB,Albemarle Corporation Common St ,19.8171
+Buy,AMD,Advanced Micro Devices Inc. Co ,17.6332
+Buy,AMG,Affiliated Managers Group Inc. ,1.57487
+Buy,AMP,Ameriprise Financial Inc. Comm ,17.4197
+Buy,AMZN,Amazon.com Inc. ,8.44549
+Buy,APA,Apache Corporation Common ,4.66969
+Buy,APC,Anadarko Petroleum Corporation  ,8.76052
+Buy,ATVI,Activision Blizzard Inc ,4.60328
+Buy,AVGO,Avago Technologies Limited ,19.1999
+Buy,C,Citigroup Inc. Common ,8.0846
+Buy,CERN,Cerner Corporation ,4.1737
+Buy,CF,CF Industries Holdings Inc. Co ,2.66409
+Buy,CHK,Chesapeake Energy Corporation C ,10.5769
+Buy,CHTR,Charter Communications Inc. ,5.58599
+Buy,CI,Cigna Corporation Common ,13.8499
+Buy,CMCSA,Comcast Corporation ,11.0377
+Buy,CMI,Cummins Inc. Common ,4.56536
+Buy,COF,Capital One Financial Corporati ,11.1111
+Buy,COG,Cabot Oil & Gas Corporation Com ,6.01857
+Buy,COH,Coach Inc. Common ,4.68641
+Buy,DVN,Devon Energy Corporation Common ,6.88147
+Buy,EMR,Emerson Electric Company Common ,17.5082
+Buy,EOG,EOG Resources Inc. Common Stoc ,5.84067
+Buy,EQT,EQT Corporation Common ,2.43875
+Buy,FDX,FedEx Corporation Common ,9.15088
+Buy,FFIV,F5 Networks Inc. ,16.9937
+Buy,FISV,Fiserv Inc. ,19.2954
+Buy,FL,Footlocker Inc. ,15.9097
+Buy,FLR,Fluor Corporation Common ,16.8526
+Buy,FTI,FMC Technologies Inc. Common S ,6.36907
+Buy,GILD,Gilead Sciences Inc. ,16.6384
+Buy,GLW,Corning Incorporated Common Sto ,14.4985
+Buy,GOOG,Alphabet Inc.,5.50299
+Buy,GS,Goldman Sachs Group Inc. (The) ,6.13332
+Buy,INTC,Intel Corporation ,6.60508
+Buy,INTU,Intuit Inc. ,4.36826
+Buy,IR,Ingersoll-Rand plc (Ireland) ,15.4318
+Buy,IT,Gartner Inc. Common ,8.64229
+Buy,ITW,Illinois Tool Works Inc. Common ,1.86482
+Buy,IVZ,Invesco Plc New Common ,11.1919
+Buy,LRCX,Lam Research Corporation ,8.57341
+Buy,LYB,LyondellBasell Industries NV Or ,3.20473
+Buy,MA,Mastercard Incorporated Common  ,16.1557
+Buy,MAS,Masco Corporation Common ,7.12432
+Buy,MCHP,Microchip Technology Incorporat ,3.94229
+Buy,MJN,Mead Johnson Nutrition Company  ,10.2565
+Buy,NEM,Newmont Mining Corporation (Hol ,12.5942
+Buy,NFX,Newfield Exploration Company Co ,1.91344
+Buy,NOV,National Oilwell Varco Inc. Co ,7.47744
+Buy,NSC,Norfolk Southern Corporation Co ,15.3837
+Buy,NWSA,News Corporation ,10.4014
+Buy,OXY,Occidental Petroleum Corporatio ,4.83414
+Buy,PRGO,Perrigo Company ,2.13145
+Buy,PVH,PVH Corp. Common ,18.2712
+Buy,PWR,Quanta Services Inc. Common St ,10.1241
+Buy,PXD,Pioneer Natural Resources Compa ,9.56069
+Buy,RIG,Transocean Ltd (Switzerland) Co ,6.48149
+Buy,ROK,Rockwell Automation Inc. Commo ,12.962
+Buy,SHW,Sherwin-Williams Company (The)  ,3.27412
+Buy,SIG,Signet Jewelers Limited Common  ,5.24732
+Buy,SLB,Schlumberger N.V. Common ,15.3848
+Buy,BLK,BlackRock Inc,12.3906
+Buy,ETN, Eaton Corporation Common ,9.35964
+Buy,FB, Facebook  Inc. ,17.7465
+Buy,HAL, Halliburton Company Common Stoc ,8.93945
+Buy,HAS, Hasbro  Inc. ,9.37047
+Buy,HPE,Hewlett Packard Enterprise Company,4.24173
+Buy,FTV,Fortive Corporation,5.25286
+Buy,ARNC,Arconic Inc.,8.8752
+Sell,ADP,Automatic Data Processing Inc. ,80.1011
+Sell,AEE,Ameren Corporation Common ,97.5312
+Sell,AEP,American Electric Power Company ,94.7471
+Sell,AES,The AES Corporation Common Stoc ,92.7959
+Sell,AFL,AFLAC Incorporated Common ,84.6794
+Sell,AIV,Apartment Investment and Manage ,96.6672
+Sell,AIZ,Assurant Inc. Common ,97.2565
+Sell,AJG,Arthur J. Gallagher & Co. Commo ,84.587
+Sell,ALL,Allstate Corporation (The) Comm ,97.1933
+Sell,AON,Aon plc Class A Ordinary Shares ,85.5061
+Sell,AVB,AvalonBay Communities Inc. Com ,91.455
+Sell,AVY,Avery Dennison Corporation Comm ,92.9354
+Sell,BXP,Boston Properties Inc. Common  ,84.3224
+Sell,CB,Chubb Corporation (The) Common  ,91.3577
+Sell,CHD,Church & Dwight Company Inc. C ,94.587
+Sell,CL,Colgate-Palmolive Company Commo ,84.5558
+Sell,CLX,Clorox Company (The) Common Sto ,89.3431
+Sell,CMS,CMS Energy Corporation Common S ,83.3333
+Sell,CNP,CenterPoint Energy Inc (Holdin ,92.6495
+Sell,EL,Estee Lauder Companies Inc. (T ,90.8363
+Sell,FMC,FMC Corporation Common ,88.0486
+Sell,FRT,Federal Realty Investment Trust ,89.7101
+Sell,GT,Goodyear Tire & Rubber Company  ,94.8865
+Sell,IRM,Iron Mountain Incorporated (Del ,88.8914
+Sell,ISRG,Intuitive Surgical Inc. ,89.9419
+Sell,LUK,Leucadia National Corporation C ,97.8463
+Sell,LVLT,Level 3 Communications Inc. Co ,80.5437
+Sell,MAT,Mattel Inc. ,81.9444
+Sell,MCD,McDonald's Corporation Common S ,80.0575
+Sell,MCO,Moody's Corporation Common Stoc ,89.8301
+Sell,NEE,NextEra Energy Inc. Common Sto ,86.3892
+Sell,NOC,Northrop Grumman Corporation Co ,85.9596
+Sell,O,Realty Income Corporation Commo ,94.5836
+Sell,PBCT,People's United Financial Inc. ,81.0196
+Sell,PEP,Pepsico Inc. Common ,86.9404
+Sell,PFG,Principal Financial Group Inc C ,85.3157
+Sell,PPL,PP&L Corporation Common ,93.4349
+Sell,REG,Regency Centers Corporation Com ,89.9317
+Sell,RF,Regions Financial Corporation C ,86.6054
+Sell,SBUX,Starbucks Corporation ,88.4771
+Sell,SLG,SL Green Realty Corporation Com ,84.9198
+Sell,SNA,Snap-On Incorporated Common Sto ,89.9175
+Sell,SNPS,Synopsys Inc. ,85.185
+Sell,SO,Southern Company (The) Common S ,89.7958
+Sell,DLPH, Delphi Automotive plc Ordinary  ,92.0872
+Sell,HBAN, Huntington Bancshares Incorpora ,80.3175
+Sell,HCN, Health Care REIT  Inc. Common S ,81.7986
+Sell,HOLX, Hologic  Inc. ,85.8153

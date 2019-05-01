@@ -1,0 +1,33 @@
+Buy,AAPL,Apple Inc. ,18.8586
+Buy,ACN,Accenture plc. Class A Ordinary ,5.66042
+Buy,BAC,Bank of America Corporation Com ,5.55662
+Buy,C,Citigroup Inc. Common ,15.7596
+Buy,COP,ConocoPhillips Common ,5.04355
+Buy,CVX,Chevron Corporation Common Stoc ,7.97704
+Buy,DOW,Dow Chemical Company (The) Comm ,11.0032
+Buy,DUK,Duke Energy Corporation (Holdin ,9.77783
+Buy,EMR,Emerson Electric Company Common ,10.4575
+Buy,GOOG,Alphabet Inc.,14.2799
+Buy,JNJ,Johnson & Johnson Common ,1.39021
+Buy,MO,Altria Group Inc. ,6.6358
+Buy,MS,Morgan Stanley Common ,4.87988
+Buy,NEE,NextEra Energy Inc. Common Sto ,5.35305
+Buy,NFLX,Netflix Inc. ,18.3149
+Buy,NKE,Nike Inc. Common ,3.05559
+Buy,PEP,Pepsico Inc. Common ,16.045
+Buy,SBUX,Starbucks Corporation ,13.1284
+Buy,IBM, International Business Machines ,7.49821
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,6.38275
+Sell,ABT,Abbott Laboratories Common Stoc ,85.366
+Sell,AIG,American International Group I ,88.6981
+Sell,BA,Boeing Company (The) Common Sto ,82.6001
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,88.618
+Sell,DD,E.I. du Pont de Nemours and Com ,88.8432
+Sell,DHR,Danaher Corporation Common Stoc ,92.0839
+Sell,GM,General Motors Company Common S ,93.827
+Sell,MON,Monsanto Company Common ,84.6152
+Sell,RTN,Raytheon Company Common ,95.2932
+Sell,SO,Southern Company (The) Common S ,98.7653
+Sell,T,AT&T Inc. ,92.7155
+Sell,FB, Facebook  Inc. ,89.1776
+Sell,VIX,VOLATILITY S&P 500,92.1299

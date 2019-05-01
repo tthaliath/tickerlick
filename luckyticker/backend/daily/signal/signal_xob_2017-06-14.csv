@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CRDT,WisdomTree Global Corporate Bon ,,
+FSBK, First South Bancorp Inc ,Financial,Savings & Loans
+WF,Woori Finance Holdings Co Ltd A ,Financial,Foreign Regional Banks
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+CME,CME Group Inc. ,Financial,Investment Brokerage - National
+DFT,Dupont Fabros Technology Inc.  ,Financial,Property Management
+AMRI,Albany Molecular Research Inc. ,Healthcare,Biotechnology
+HYGS, Hydrogenics Corporation ,Industrial Goods,Industrial Electrical Equipment
+ALG,Alamo Group Inc. Common ,Industrial Goods,Farm & Construction Machinery
+BDL,Flanigans Enterprises Inc. ,Services,Specialty Eateries
+CMTL,Comtech Telecommunications Corp ,Technology,Communication Equipment
+YORW,The York Water Company ,Utilities,Water Utilities
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities

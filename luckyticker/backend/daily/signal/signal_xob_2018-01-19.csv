@@ -1,0 +1,69 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TUSA,First Trust Total US Market AlphaDEX ETF,,
+WBIF,WBI Large Cap Tactical Value Sh ,,
+DGRO,iShares Core Dividend Growth ET ,,
+FTLS,First Trust Long/Short Equity ,,
+QLC,FlexShares US Quality Large Cap,,
+GTHX,G1 Therapeutics  Inc.,,
+DIVO,Amplify YieldShares CWP Dividen,,
+FDVV,Fidelity Core Dividend ETF,,
+SPXE,ProShares S&P 500 Ex-Energy ETF,,
+AGT,iShares MSCI Argentina and Glob,,
+NULV,NuShares ESG Large-Cap Value ET,,
+DJD,Guggenheim Dow Jones Industrial,,
+OILB,iPath Series B S&P GSCI Crude O,,
+FDLO,Fidelity Low Volatility Factor,,
+JNCE,Jounce Therapeutics  Inc.,,
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+UDOW,ProShares UltraPro Dow30 ETF,Commodity Based ETF,
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+BLK,BlackRock Inc,Financial,Asset Management
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+BOFI,BofI Holding Inc. ,Financial,Savings & Loans
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+MS,Morgan Stanley Common ,Financial,Investment Brokerage - National
+FDTS,First Trust Dev Mkts ex-US SC AlphaDEX ETF,Global Equity ETF,
+EPOL,iShares MSCI Poland Investable Market Index Fund ETF,Global Equity ETF,
+EIDO,iShares MSCI Indonesia Investable Market Index Fund ETF,Global Equity ETF,
+ICUI, ICU Medical  Inc. ,Healthcare,Medical Instruments & Supplies
+UNH,UnitedHealth Group Incorporated ,Healthcare,Health Care Plans
+MYL,Mylan Inc. ,Healthcare,Drugs - Generic
+USPH,U.S. Physical Therapy Inc. ,Healthcare,Specialized Health Services
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+DTUS, iPath US Treasury 2 Yr Bear ETN ,N/A,N/A
+QDF,FlexShares Quality Dividend ,N/A,N/A
+DGRW,WisdomTree US Dividend Growth ,N/A,N/A
+KEN,Kenon Holdings Ltd.,N/A,N/A
+UNG, United States Natural Gas Fund  ,N/A,N/A
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+QUAL,iShares MSCI USA Quality Factor ,N/A,N/A
+ROUS,Lattice U.S. Equity Strategy ET,N/A,N/A
+NOVT,Novanta Inc.,N/A,N/A
+QDEF,FlexShares Quality Dividend Defensive ,N/A,N/A
+ASML,ASML Holding N.V. ,NULL,NULL
+WYN,Wyndham Worldwide Corp Common   ,Services,Lodging
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+FC,Franklin Covey Company Common S ,Services,Education & Training Services
+RHP, Ryman Hospitality Properties  I ,Services,Lodging
+CSGP,CoStar Group Inc. ,Services,Business Services
+WIRE,Encore Wire Corporation ,Technology,Diversified Electronics
+CSPI,CSP Inc. ,Technology,Business Software & Services
+PTC,PTC Inc. ,Technology,Technical & System Software
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+FMK,First Trust Mega Cap AlphaDex,US Equity ETF,
+VYM,Vanguard High Dividend Yield ETF,US Equity ETF,
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,
+IHF,iShares Dow Jones U.S. Health Care Providers Index Fund ETF,US Equity ETF,
+MGV,Vanguard Mega Cap 300 Value ETF,US Equity ETF,
+DTD,WisdomTree Total Dividend Fund ETF,US Equity ETF,
+JKF,iShares Morningstar Large Value Index Fund ETF,US Equity ETF,
+SCHD,Schwab U.S. Dividend Equity ETF,US Equity ETF,
+DLN,WisdomTree LargeCap Dividend Fund ETF,US Equity ETF,
+IWX,iShares Russell Top 200 Value Index Fund ETF,US Equity ETF,
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,
+EDN,Empresa Distribuidora Y Comerci ,Utilities,Electric Utilities

@@ -1,0 +1,45 @@
+Buy,BK,Bank of New York Mellon Corpora ,18
+Buy,C,Citigroup Inc. Common ,10.6384
+Buy,CAT,Caterpillar Inc. Common ,12.759
+Buy,CVX,Chevron Corporation Common Stoc ,12.5288
+Buy,DIS,Walt Disney Company (The) Commo ,2.1394
+Buy,JPM,JP Morgan Chase & Co. Common St ,13.4097
+Buy,LMT,Lockheed Martin Corporation Com ,10.2543
+Buy,LOW,Lowe's Companies Inc. Common S ,18.5716
+Buy,MA,Mastercard Incorporated Common  ,19.1407
+Buy,MO,Altria Group Inc. ,5.34192
+Buy,T,AT&T Inc. ,8.7307
+Buy,TWX,Time Warner Inc. New Common Sto ,6.01054
+Buy,MDLZ, Mondelez International  Inc. ,15.1491
+Sell,AAPL,Apple Inc. ,94.1905
+Sell,ABT,Abbott Laboratories Common Stoc ,95.1953
+Sell,AMGN,Amgen Inc. ,93.2715
+Sell,AMZN,Amazon.com Inc. ,93.1795
+Sell,AXP,American Express Company Common ,84.7515
+Sell,BMY,Bristol-Myers Squibb Company Co ,90.7031
+Sell,CELG,Celgene Corporation ,92.7111
+Sell,COST,Costco Wholesale Corporation ,97.3158
+Sell,CSCO,Cisco Systems Inc. ,84.7905
+Sell,DD,E.I. du Pont de Nemours and Com ,86.1952
+Sell,DHR,Danaher Corporation Common Stoc ,98.9069
+Sell,DOW,Dow Chemical Company (The) Comm ,85.1848
+Sell,EMR,Emerson Electric Company Common ,85.1849
+Sell,INTC,Intel Corporation ,97.0218
+Sell,MON,Monsanto Company Common ,95.5128
+Sell,ORCL,Oracle Corporation ,96.666
+Sell,OXY,Occidental Petroleum Corporatio ,97.2499
+Sell,PFE,Pfizer Inc. Common ,91.7864
+Sell,QCOM,QUALCOMM Incorporated ,80.8511
+Sell,SBUX,Starbucks Corporation ,97.7406
+Sell,TGT,Target Corporation Common ,94.4445
+Sell,BLK,BlackRock Inc,86.4014
+Sell,FB, Facebook  Inc. ,97.0571
+Sell,GLD, SPDR Gold Trust ,96.3407
+Sell,HAL, Halliburton Company Common Stoc ,85.4697
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,85.4167
+Sell,LLY, Eli Lilly and Company Common St ,80.5281
+Sell,SPY,SPDR S&P 500 ETF,82.5395
+Sell,ABBV,AbbVie Inc. ,94.661
+Sell,GOOGL,Alphabet Inc.,90.4064
+Sell,WBA,Walgreens Boots Alliance Inc.,81.3887
+Sell,VIX,VOLATILITY S&P 500,85.8583

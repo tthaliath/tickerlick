@@ -1,0 +1,24 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RGLD, Royal Gold  Inc. ,Basic Materials,Gold
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+CORI,Corium International Inc. ,Healthcare,Biotechnology
+RDNT,RadNet Inc. ,Healthcare,Medical Laboratories & Research
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+MTT, Western Asset Municipal Defined ,N/A,N/A
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+HOLD,AdvisorShares Sage Core Reserves ETF ,N/A,N/A
+THGA,The Hanover Insurance Group Inc. ,N/A,N/A
+VOD,Vodafone Group Plc ,NULL,NULL
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+MCD,McDonald's Corporation Common S ,Services,Restaurants
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+SINA,Sina Corporation ,Technology,Internet Software & Services
+WB,Weibo Corporation ,Technology,Internet Information Providers
+NCIT,NCI Inc. ,Technology,Information Technology Services

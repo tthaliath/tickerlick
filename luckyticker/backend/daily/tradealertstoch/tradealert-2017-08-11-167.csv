@@ -1,0 +1,108 @@
+Buy,AWK,American Water Works Company I ,8.52927
+Buy,AXP,American Express Company Common ,4.15399
+Buy,CME,CME Group Inc. ,12.4329
+Buy,COF,Capital One Financial Corporati ,7.24477
+Buy,CXO,Concho Resources Inc. Common St ,16.7187
+Buy,D,Dominion Resources Inc. Common ,16.6137
+Buy,DE,Deere & Company Common ,2.7495
+Buy,DFS,Discover Financial Services Com ,6.83746
+Buy,DIS,Walt Disney Company (The) Commo ,13.7627
+Buy,EL,Estee Lauder Companies Inc. (T ,12.6551
+Buy,EMN,Eastman Chemical Company Common ,15.2362
+Buy,EMR,Emerson Electric Company Common ,9.93216
+Buy,GS,Goldman Sachs Group Inc. (The) ,6.51391
+Buy,IPG,Interpublic Group of Companies ,12.5252
+Buy,JPM,JP Morgan Chase & Co. Common St ,9.98661
+Buy,K,Kellogg Company Common ,15.9469
+Buy,KEY,KeyCorp Common ,6.41015
+Buy,KIM,Kimco Realty Corporation Common ,4.73008
+Buy,KMB,Kimberly-Clark Corporation Comm ,9.4774
+Buy,L,Loews Corporation Common ,8.46559
+Buy,LH,Laboratory Corporation of Ameri ,8.94062
+Buy,LUK,Leucadia National Corporation C ,6.33155
+Buy,MET,MetLife Inc. Common ,10.5107
+Buy,OMC,Omnicom Group Inc. Common ,8.6225
+Buy,OXY,Occidental Petroleum Corporatio ,17.635
+Buy,PBCT,People's United Financial Inc. ,1.95046
+Buy,PG,Procter & Gamble Company (The)  ,10.6062
+Buy,RCL,Royal Caribbean Cruises Ltd. Co ,16.5943
+Buy,REG,Regency Centers Corporation Com ,13.1574
+Buy,RF,Regions Financial Corporation C ,7.07081
+Buy,ROK,Rockwell Automation Inc. Commo ,17.7565
+Buy,ROP,Roper Industries Inc. Common S ,17.4982
+Buy,SCG,SCANA Corporation Common ,3.9651
+Buy,SCHW,Charles Schwab Corporation (The ,6.37885
+Buy,SNI,Scripps Networks Interactive I ,15.4587
+Buy,SO,Southern Company (The) Common S ,9.80032
+Buy,BRK-B,Berkshire Hathaway Inc.,17.6737
+Buy,FITB, Fifth Third Bancorp ,3.83967
+Buy,HBAN, Huntington Bancshares Incorpora ,4.32441
+Buy,STT, State Street Corporation Common ,8.85642
+Buy,WFM, Whole Foods Market  Inc. ,19.1268
+Buy,AAL,American Airlines Group Inc. ,6.24389
+Buy,MNK,Mallinckrodt plc ,5.43044
+Buy,CFG,Citizens Financial Group Inc.,4.17696
+Buy,CSRA,CSRA Inc.,2.73677
+Sell,AYI,Acuity Brands Inc (Holding Comp ,84.8209
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,94.5078
+Sell,CNC,Centene Corporation Common Stoc ,94.5015
+Sell,COH,Coach Inc. Common ,91.0812
+Sell,DHR,Danaher Corporation Common Stoc ,80.3786
+Sell,DISH,DISH Network Corporation ,92.4732
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,81.0044
+Sell,EFX,Equifax Inc. Common ,90.1585
+Sell,EQR,Equity Residential Common Share ,86.6543
+Sell,INTU,Intuit Inc. ,90.1591
+Sell,JBHT,J.B. Hunt Transport Services I ,97.2677
+Sell,JNPR,Juniper Networks Inc. Common S ,89.776
+Sell,KLAC,KLA-Tencor Corporation ,97.7197
+Sell,KMX,CarMax Inc ,91.8302
+Sell,KORS,Michael Kors Holdings Limited O ,84.4543
+Sell,KR,Kroger Company (The) Common Sto ,85.6594
+Sell,KSU,Kansas City Southern Common Sto ,80.1127
+Sell,LMT,Lockheed Martin Corporation Com ,89.9366
+Sell,LRCX,Lam Research Corporation ,94.0143
+Sell,LVLT,Level 3 Communications Inc. Co ,90.0744
+Sell,M,Macy's Inc Common ,88.2962
+Sell,MA,Mastercard Incorporated Common  ,84.4321
+Sell,MAA,Mid-America Apartment Communiti ,92.7194
+Sell,MAS,Masco Corporation Common ,97.3331
+Sell,MCD,McDonald's Corporation Common S ,92.518
+Sell,MCHP,Microchip Technology Incorporat ,91.7186
+Sell,MCO,Moody's Corporation Common Stoc ,95.0581
+Sell,MDT,Medtronic Inc. Common ,90.6499
+Sell,MHK,Mohawk Industries Inc. Common  ,90.7763
+Sell,MKC,McCormick & Company Incorporat ,84.7214
+Sell,PCG,Pacific Gas & Electric Co. Comm ,85.8682
+Sell,PDCO,Patterson Companies Inc. ,96.238
+Sell,PEG,Public Service Enterprise Group ,86.5789
+Sell,R,Ryder System Inc. Common ,96.2628
+Sell,RHI,Robert Half International Inc.  ,88.889
+Sell,RHT,Red Hat Inc. Common ,91.5231
+Sell,RL,Ralph Lauren Corporation Common ,93.5144
+Sell,RTN,Raytheon Company Common ,88.656
+Sell,SEE,Sealed Air Corporation Common S ,85.0704
+Sell,SNA,Snap-On Incorporated Common Sto ,88.1853
+Sell,SNPS,Synopsys Inc. ,95.3907
+Sell,DLPH, Delphi Automotive plc Ordinary  ,86.8314
+Sell,EA, Electronic Arts Inc. ,89.2863
+Sell,FBHS, Fortune Brands Home & Security  ,84.4468
+Sell,HBI, Hanesbrands Inc. Common ,86.2502
+Sell,HCA, HCA Holdings  Inc. Common ,90.2308
+Sell,HIG, Hartford Financial Services Gro ,83.5118
+Sell,HOLX, Hologic  Inc. ,94.6362
+Sell,TRIP, TripAdvisor  Inc. ,96.2175
+Sell,XYL, Xylem Inc. Common ,89.3716
+Sell,COTY,Coty Inc. ,97.0086
+Sell,EVHC,Envision Healthcare Holdings Inc. ,88.3968
+Sell,FOX,Twenty-First Century Fox Inc. ,93.3605
+Sell,FOXA,Twenty-First Century Fox Inc. ,90.1596
+Sell,ALLE,Allegion plc Ordinary Shares ,92.4581
+Sell,QRVO,Qorvo Inc.,83.7207
+Sell,WBA,Walgreens Boots Alliance Inc.,88.7709
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,93.1187
+Sell,HPE,Hewlett Packard Enterprise Company,82.9181
+Sell,FTV,Fortive Corporation,92.0678
+Sell,INFO,IHS Markit Ltd.,82.639
+Sell,ARNC,Arconic Inc.,84.9465
+Sell,UAA,Under Armour  Inc. Class A,91.7991

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FWONK,Liberty Media Corporation - Ser,,
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+QIWI,Qiwi plc ,Financial,Credit Services
+DRE,Duke Realty Corporation Common  ,Financial,REIT - Office
+LITE,Lumentum Holdings Inc.,N/A,N/A
+QSR,Restaurant Brands International,N/A,N/A
+LOGI,Logitech International S.A. ,NULL,NULL
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+OSIS,OSI Systems Inc. ,Technology,Semiconductor Equipment & Materials
+LRCX,Lam Research Corporation ,Technology,Semiconductor Equipment & Materials
+SMTC,Semtech Corporation ,Technology,Semiconductor - Integrated Circuits
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+SWKS,Skyworks Solutions Inc. ,Technology,Semiconductor - Integrated Circuits
+KIE,SPDR KBW Insurance ETF,US Equity ETF,
+CPL,CPFL Energia S.A. CPFL Energia  ,Utilities,Foreign Utilities

@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KRU,ProShares Ultra KBW Regional Banking ETF,Commodity Based ETF,
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+OZRK,Bank of the Ozarks ,Financial,Regional - Southeast Banks
+BOKF,BOK Financial Corporation ,Financial,Regional - Southwest  Banks
+PNC,PNC Financial Services Group I ,Financial,Money Center Banks
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+EGBN,Eagle Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+ZION,Zions Bancorporation ,Financial,Regional - Pacific Banks
+SF,Stifel Financial Corporation Co ,Financial,Investment Brokerage - Regional
+BBT,BB&T Corporation Common ,Financial,Regional - Mid-Atlantic Banks
+STI,SunTrust Banks Inc. Common Sto ,Financial,Money Center Banks
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+HRTG,Heritage Insurance Holdings In,Financial,Property & Casualty Insurance
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+SNV,Synovus Financial Corp. Common  ,Financial,Regional - Mid-Atlantic Banks
+GSC, Goldman Sachs Connect S&P Enhan ,N/A,N/A
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+NSC,Norfolk Southern Corporation Co ,Services,Railroads
+IDT, IDT Corporation New Preferred S ,Technology,Diversified Communication Services
+KBWR,PowerShares KBW Regional Banking Portfolio ETF,US Equity ETF,
+KBE,SPDR KBW Bank ETF,US Equity ETF,
+KRE,SPDR S&P Regional Banking ETF,US Equity ETF,

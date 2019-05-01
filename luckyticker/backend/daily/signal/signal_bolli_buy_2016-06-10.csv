@@ -1,0 +1,5 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+CMG,Chipotle Mexican Grill Inc. Co ,2016-06-10,405.26,,,39.4053,10.983,0.13294497572093092
+TTT,ProShares UltraPro Short 20+ Year Treasury ETF,2016-06-10,25.14,,,39.9734,6.08684,0.1608405944509189
+INCR,INC Research Holdings Inc.,2016-06-10,41.23,,,39.9659,29.6498,0.1244747516931302
+TAPR,Barclays PLC ,2016-06-10,19.75,,,39.7651,2.50185,0.2434914947690893

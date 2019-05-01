@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PGC,Peapack-Gladstone Financial Cor ,Financial,Regional - Northeast Banks
+FUNC,First United Corporation ,Financial,Regional - Mid-Atlantic Banks
+PRQR,ProQR Therapeutics N.V.,Healthcare,Biotechnology
+ATEC,Alphatec Holdings Inc. ,Healthcare,Medical Instruments & Supplies
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+TNDM,Tandem Diabetes Care Inc. ,Healthcare,Medical Instruments & Supplies
+CARA,Cara Therapeutics Inc. ,Healthcare,Biotechnology
+ARDM,Aradigm Corporation,Healthcare,Drug Delivery
+VBLT,Vascular Biogenics Ltd.,N/A,N/A
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers

@@ -1,0 +1,4 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+VIAB, Viacom Inc. ,Services,CATV Systems
+CBS,CBS Corporation Class B Common  ,Services,Broadcasting - TV

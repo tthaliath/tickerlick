@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UNVR,Univar Inc.,Basic Materials,Chemicals - Major Diversified
+MON,Monsanto Company Common ,Basic Materials,Agricultural Chemicals
+AMWD,American Woodmark Corporation ,Consumer Goods,Home Furnishings & Fixtures
+FBSS,Fauquier Bankshares Inc. ,Financial,Regional - Southeast Banks
+MPB,Mid Penn Bancorp ,Financial,Regional - Northeast Banks
+ADX,Adams Express Company (The) ,Financial,Closed-End Fund - Equity
+FNF,Fidelity National Financial In ,Financial,Surety & Title Insurance
+MLP,Maui Land & Pineapple Company  ,Financial,Real Estate Development
+HYG,iShares iBoxx $ HY Corp Bond Fund ETF,Fixed Income ETF,
+URTH,iShares MSCI World ETF,Global Equity ETF,
+CYNO,Cynosure Inc. ,Healthcare,Medical Appliances & Equipment
+VSAR,Versartis Inc. ,Healthcare,Drugs - Generic
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+OMED,OncoMed Pharmaceuticals Inc. ,Healthcare,Biotechnology
+LLY, Eli Lilly and Company Common St ,Healthcare,Drug Manufacturers - Major
+COL,Rockwell Collins Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+AOR, iShares S&P Growth Allocation ,N/A,N/A
+FTEC,Fidelity MSCI Information Technology ETF ,N/A,N/A
+LNTH,Lantheus Medical Imaging  Inc.,N/A,N/A
+AKAO,Achaogen  Inc. ,N/A,N/A
+GDOT,Green Dot Corporation Class A C ,Services,Business Services
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+FNGN,Financial Engines Inc. ,Services,Business Services
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+JBL,Jabil Circuit Inc. Common Stoc ,Technology,Printed Circuit Boards
+JKE,iShares Morningstar Large Growth Index Fund ETF,US Equity ETF,
+IGM,iShares Goldman Sachs Technology Index Fund ETF,US Equity ETF,
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,
+VGT,Vanguard Information Tech ETF - DNQ ETF,US Equity ETF,

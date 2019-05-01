@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+DUG,ProShares UltraShort Oil & Gas ETF,Commodity Based ETF,
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+AVB,AvalonBay Communities Inc. Com ,Financial,REIT - Residential
+MEN, Blackrock MuniEnhanced Fund  In ,Financial,Closed-End Fund - Debt
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+URA,Global X Uranium ETF,Global Equity ETF,
+HIIQ,Health Insurance Innovations Inc. ,Healthcare,Health Care Plans
+AIB,Apollo Investment Corporation 6 ,N/A,N/A
+ERY, Direxion Energy Bear 3X Shares ,N/A,N/A
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A
+BPOPN, Popular  Inc. ,N/A,N/A
+AEB,AEGON N.V. Perp. Cap. Secs. Flo ,NULL,NULL
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities
+SCG,SCANA Corporation Common ,Utilities,Electric Utilities

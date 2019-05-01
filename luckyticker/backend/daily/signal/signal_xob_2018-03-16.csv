@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NVUS,Novus Therapeutics  Inc.,,
+MYOV,Myovant Sciences Ltd.,,
+RKDA,Arcadia Biosciences  Inc.,Basic Materials,Agricultural Chemicals
+SODA,SodaStream International Ltd. ,Consumer Goods,Beverages - Soft Drinks
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+CBAN,Colony Bankcorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+HMG,HMG/Courtland Properties Inc. ,Financial,REIT - Retail
+CCXI, ChemoCentryx  Inc. ,Healthcare,Biotechnology
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+AGLE,Aeglea Biotherapeutics  Inc.,N/A,N/A
+CHOC, iPath Pure Beta Cocoa ETN ,N/A,N/A
+NIB, iPath DJ-UBS Cocoa Subindex Tot ,N/A,N/A
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+APEI,American Public Education Inc. ,Services,Business Services
+PFSW,PFSweb Inc. ,Services,Business Services
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+JBL,Jabil Circuit Inc. Common Stoc ,Technology,Printed Circuit Boards

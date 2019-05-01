@@ -1,0 +1,323 @@
+ticker,name,sector,industry
+MLM,Martin Marietta Materials Inc. ,Industrial Goods,General Building Materials
+CXO,Concho Resources Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+FLS,Flowserve Corporation Common St ,Industrial Goods,Diversified Machinery
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores
+PCAR,PACCAR Inc. ,Consumer Goods,Trucks & Other Vehicles
+NAVI,Navient Corporation ,Technology,Information Technology Services
+HAL, Halliburton Company Common Stoc ,Basic Materials,Oil & Gas Equipment & Services
+RF,Regions Financial Corporation C ,Financial,Regional - Southeast Banks
+VNO,Vornado Realty Trust Common Sto ,Financial,REIT - Diversified
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+M,Macy's Inc Common ,Services,Department Stores
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic
+LVLT,Level 3 Communications Inc. Co ,Technology,Diversified Communication Services
+UTX,United Technologies Corporation ,Conglomerates,Conglomerates
+JEC,Jacobs Engineering Group Inc. C ,Services,Technical Services
+EBAY,eBay Inc. ,Services,Catalog & Mail Order Houses
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+GGP,General Growth Properties Inc. ,Financial,REIT - Retail
+TIF,Tiffany & Co. Common ,Services,Jewelry Stores
+INCY,Incyte Corporation ,Healthcare,Biotechnology
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+NBL,Noble Energy Inc. Common ,Basic Materials,Independent Oil & Gas
+DVN,Devon Energy Corporation Common ,Basic Materials,Independent Oil & Gas
+CFG,Citizens Financial Group Inc.,N/A,N/A
+APA,Apache Corporation Common ,Basic Materials,Independent Oil & Gas
+MAS,Masco Corporation Common ,Industrial Goods,General Building Materials
+BEN,Franklin Resources Inc. Common ,Financial,Asset Management
+NFBK,Northfield Bancorp Inc. ,Financial,Regional - Northeast Banks
+MXL,MaxLinear Inc Class A Common S ,Technology,Semiconductor Equipment & Materials
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,US Equity ETF,
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+DK,Delek US Holdings Inc. Common  ,Basic Materials,Oil & Gas Refining & Marketing
+SDYL, ETRACS Monthly Pay 2xLeveraged  ,N/A,N/A
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+EAD, Wells Fargo Advantage Income Op ,N/A,N/A
+AMRB,American River Bankshares ,Financial,Regional - Pacific Banks
+PNFP,Pinnacle Financial Partners In ,Financial,Regional - Southeast Banks
+CBA,ClearBridge American Energy MLP ,N/A,N/A
+HNI, HNI Corp Common ,Consumer Goods,Business Equipment
+FPL,First Trust New Opportunities M ,N/A,N/A
+IWR,iShares Russell Midcap Index Fund ETF,US Equity ETF,
+MUSA,Metals USA Holdings Corp. Commo ,Basic Materials,Steel & Iron
+QQEW,First Trust NASDAQ-100 Equal Weighted IndexSMFund ETF,US Equity ETF,
+CIEN,Ciena Corporation ,Technology,Communication Equipment
+AHP,Ashford Hospitality Prime Inc. ,Financial,REIT - Hotel/Motel
+UNT,Unit Corporation Common ,Basic Materials,Oil & Gas Drilling & Exploration
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+WCC,WESCO International Inc. Commo ,Services,Industrial Equipment Wholesale
+SLM,SLM Corporation ,Financial,Credit Services
+KRNT,Kornit Digital  Ltd.,Industrial Goods,Diversified Machinery
+MLPI, UBS AG ETN ,N/A,N/A
+MRC, MRC Global Inc. Common ,Industrial Goods,Machine Tools & Accessories
+ZMLP,Direxion Zacks MLP High Income Shares ,N/A,N/A
+ADMS,Adamas Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+IEO,iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund ETF,US Equity ETF,
+S,Sprint  Nextel Corporation Comm ,Technology,Wireless Communications
+FRAK,Market Vectors Unconventl Oil &amp; Gas ETF,Global Equity ETF,
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+XON,Intrexon Corporation ,Healthcare,Biotechnology
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+FXN,First Trust Energy AlphaDEX Fund ETF,US Equity ETF,
+SSB,South State Corporation,Financial,Regional - Mid-Atlantic Banks
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+PPSI,Pioneer Power Solutions Inc. ,N/A,N/A
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+EXPR,Express Inc. Common ,Services,Apparel Stores
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,
+MDR,McDermott International Inc. C ,Industrial Goods,Heavy Construction
+NML,Neuberger Berman MLP Income Fun ,N/A,N/A
+ADRO,Aduro BioTech  Inc.,Healthcare,Biotechnology
+MLNX,Mellanox Technologies Ltd. ,Technology,Semiconductor - Broad Line
+EVC,Entravision Communications Corp ,Services,Broadcasting - TV
+EEP,Enbridge Energy L.P. Class A C ,Basic Materials,Oil & Gas Pipelines
+PXSV,PowerShares Fundamental Pure Small Value Portfolio ETF,US Equity ETF,
+USAP,Universal Stainless & Alloy Pro ,Basic Materials,Steel & Iron
+DSE,Duff &amp; Phelps Select Energy MLP,N/A,N/A
+MIE,Cohen and Steers MLP Income and E ,N/A,N/A
+MPLX,MPLX LP ,Basic Materials,Oil & Gas Pipelines
+HIPS,Master Income ETF,,
+LNG,Cheniere Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+GABC,German American Bancorp Inc. ,Financial,Regional - Midwest Banks
+IWC,iShares Russell Microcap Index Fund ETF,US Equity ETF,
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+SEA,Guggenheim Shipping ETF,Global Equity ETF,
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+IWM,iShares Russell 2000 ETF,US Equity ETF,
+ORN,Orion Marine Group Inc Common ,Industrial Goods,Heavy Construction
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+STC,Stewart Information Services Co ,Financial,Property & Casualty Insurance
+GLP,Global Partners LP Global Partn ,Services,Basic Materials Wholesale
+BETR,Amplify Snack Brands,N/A,N/A
+SCHA,Schwab U.S. Small-Cap ETF,US Equity ETF,
+PLT,Plantronics Inc. Common ,Technology,Processing Systems & Products
+BBRY,BlackBerry Limited ,N/A,N/A
+MCS,Marcus Corporation (The) Common ,Services,Resorts & Casinos
+CAL,Caleres  Inc.,Consumer Goods,Textile - Apparel Footwear & Accessories
+OIS,Oil States International Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+CASY,Caseys General Stores Inc. ,Services,Grocery Stores
+VXF,Vanguard Extended Market ETF,US Equity ETF,
+EIO, Eaton Vance Ohio Municipal Bond ,Financial,Closed-End Fund - Debt
+PXMV,PowerShares Fundamental Pure Mid Value Portfolio ETF,US Equity ETF,
+MLPJ,Global X Junior MLP ETF ,N/A,N/A
+LCI,Lannett Co Inc Common ,Healthcare,Drug Manufacturers - Other
+GEL,Genesis Energy L.P. Common Uni ,Basic Materials,Oil & Gas Pipelines
+RYI,Ryerson Holding Corporation Com,N/A,N/A
+PUW,PowerShares WilderHill Progressive Energy Portfolio ETF,US Equity ETF,
+VBK,Vanguard Small-Cap Growth ETF,US Equity ETF,
+TNAV,TeleNav Inc. ,Technology,Scientific & Technical Instruments
+PNQI,PowerShares Nasdaq Internet Portfolio ETF,US Equity ETF,
+SPN,Superior Energy Services Inc.  ,Basic Materials,Oil & Gas Equipment & Services
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+PXJ,PowerShares Dynamic Oil Services ETF,US Equity ETF,
+XSD,SPDR S&P Semiconductor ETF,US Equity ETF,
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized
+DKL,Delek Logistics Partners LP ,Basic Materials,Independent Oil & Gas
+SMLP, Summit Midstream Partners  LP C ,Utilities,Gas Utilities
+ALTS,ProShares Morningstar Alternati ,,
+PXI,PowerShares Dynamic Energy ETF,US Equity ETF,
+DWAS, PowerShares DWA SmallCap Techni ,N/A,N/A
+RYE,Guggenheim S&P Equal Weight Energy ETF,US Equity ETF,
+URTH,iShares MSCI World ETF,Global Equity ETF,
+FENY,Fidelity MSCI Energy Index ETF ,N/A,N/A
+FISI,Financial Institutions Inc. ,Financial,Regional - Mid-Atlantic Banks
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+EFSC,Enterprise Financial Services C ,Financial,Regional - Southwest  Banks
+DVHL,UBS E-TRACS Mthly Pay 2x Divs Hi Inc ETN ,N/A,N/A
+CNX,CONSOL Energy Inc. Common ,Basic Materials,Industrial Metals & Minerals
+EMO, ClearBridge Energy MLP Opportun ,N/A,N/A
+LTXB,LegacyTexas Financial Group Inc.,N/A,N/A
+MMP,Magellan Midstream Partners L.P ,Basic Materials,Oil & Gas Pipelines
+BLJ, Blackrock New Jersey Municipal  ,Financial,Closed-End Fund - Debt
+CAMP,CalAmp Corp. ,Technology,Communication Equipment
+PXE,PowerShares Dynamic Energy E&P ETF,US Equity ETF,
+FYLD,Cambria Foreign Shareholder Yield ETF ,N/A,N/A
+MZA, Blackrock MuniYield Arizona Fun ,Financial,Closed-End Fund - Debt
+EUMV,iShares MSCI Europe Minimum Vol ,,
+TTMI,TTM Technologies Inc. ,Technology,Printed Circuit Boards
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+IID, ING International High Dividend ,N/A,N/A
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+RZV,Guggenheim S&P SmallCap 600 Pure Value ETF,US Equity ETF,
+MLPX,Global X MLP and Energy Infrastructure ETF ,N/A,N/A
+DO,Diamond Offshore Drilling Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+WMCR,Claymore Wilshire Micro-Cap ETF,US Equity ETF,
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+FFBC,First Financial Bancorp. ,Financial,Regional - Midwest Banks
+RYJ,Guggenheim Raymond James SB-1 Equity ETF,US Equity ETF,
+CVY,Guggenheim Multi-Asset Income ETF,US Equity ETF,
+DLNG,Dynagas LNG Partners LP ,Services,Shipping
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls
+XTL,SPDR S&P Telecom ETF,US Equity ETF,
+VTWO,Vanguard Russell 2000 ETF,US Equity ETF,
+CY,Cypress Semiconductor Corporati ,Technology,Semiconductor - Broad Line
+MNE, Blackrock Muni New York Interme ,N/A,N/A
+ENLK,EnLink Midstream Partners LP ,Basic Materials,Independent Oil & Gas
+MYRG,MYR Group Inc. ,Industrial Goods,General Contractors
+BSJI,Guggenheim BulletShares 2018 HY C Bd ETF,Fixed Income ETF,
+FTK,Flotek Industries Inc. Common  ,Basic Materials,Specialty Chemicals
+IRWD,Ironwood Pharmaceuticals Inc. ,Healthcare,Medical Laboratories & Research
+HIBB, Hibbett Sports  Inc. ,Services,Sporting Goods Stores
+UCBI,United Community Banks Inc. ,Financial,Regional - Mid-Atlantic Banks
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+VTWV,Vanguard Russell 2000 Value ETF,US Equity ETF,
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+PACW,PacWest Bancorp ,Financial,Regional - Pacific Banks
+CLI,Mack-Cali Realty Corporation Co ,Financial,REIT - Office
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+MXPT,MaxPoint Interactive Inc. Comm,Technology,Application Software
+RPM,RPM International Inc. Common S ,Basic Materials,Specialty Chemicals
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+QUAD,Quad Graphics Inc Class A Comm ,Services,Business Services
+RDC,Rowan Companies plc Class A Ord ,Basic Materials,Oil & Gas Drilling & Exploration
+MHD, Blackrock MuniHoldings Fund  In ,Financial,Closed-End Fund - Debt
+OIH,Market Vectors Oil Services ETF,US Equity ETF,
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+ATEN,A10 Networks Inc. ,Technology,Communication Equipment
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,US Equity ETF,
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+SCHM,Schwab U.S. Mid Cap ETF,US Equity ETF,
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+TRUP,Trupanion Inc. Common,Financial,Accident & Health Insurance
+SRF, The Cushing Royalty & Income Fu ,N/A,N/A
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles
+SIFI,SI Financial Group Inc. ,Financial,Savings & Loans
+SPE, Special Opportunities Fund  Inc ,Financial,Closed-End Fund - Equity
+NTES,NetEase Inc. ,Technology,Internet Software & Services
+INT,World Fuel Services Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+SZC, Cushing Renaissance Fund (The)  ,N/A,N/A
+IGN,iShares Goldman Sachs Network Index Fund ETF,US Equity ETF,
+PSCE,PowerShares S&P SmallCap Energy Portfolio ETF,US Equity ETF,
+MMI,Marcus & Millichap Inc. ,Financial,Real Estate Development
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+BCX, BlackRock Resources Common Shar ,N/A,N/A
+IGE,iShares Goldman Sachs Natural Resources Index Fund ETF,US Equity ETF,
+UMPQ,Umpqua Holdings Corporation ,Financial,Regional - Pacific Banks
+MLPA,Global X MLP ETF,Global Equity ETF,
+ROGS,Lattice Global Small Cap Strate,N/A,N/A
+CQH,Cheniere Energy Partners LP Holdings LLC ,N/A,N/A
+QCRH,QCR Holdings Inc. ,Financial,Regional - Southwest  Banks
+AMJ, JPMorgan Chase Capital XVI JP M ,N/A,N/A
+VO,Vanguard Mid-Cap ETF,US Equity ETF,
+CLB,Core Laboratories N.V. Common S ,Basic Materials,Oil & Gas Equipment & Services
+ISCA,International Speedway Corporat ,Services,Sporting Activities
+GASL, Direxion Daily Natural Gas Rela ,N/A,N/A
+REGI, Renewable Energy Group  Inc. ,Basic Materials,Oil & Gas Refining & Marketing
+AMZA,InfraCap MLP ETF ,,
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+PBA, Pembina Pipeline Corp. Ordinary ,Basic Materials,Oil & Gas Pipelines
+BHLB,Berkshire Hills Bancorp Inc. ,Financial,Savings & Loans
+JMLP,Nuveen All Cap Energy MLP Oppor ,N/A,N/A
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+EMLP, First Trust North American Ener ,N/A,N/A
+SM,SM Energy Company Common ,Basic Materials,Independent Oil & Gas
+LAZ,Lazard LTD. Lazard LTD. Class  ,Financial,Asset Management
+APAM,Artisan Partners Asset Management Inc. ,Financial,Asset Management
+CRR,Carbo Ceramics Inc. Common Sto ,Basic Materials,Oil & Gas Equipment & Services
+TEN,Tenneco Inc. Common ,Consumer Goods,Auto Parts
+CHE,Chemed Corp ,Healthcare,Home Health Care
+PPR, ING Prime Rate Trust Common Sto ,N/A,N/A
+DDF, Delaware Investments Dividend & ,Financial,Closed-End Fund - Equity
+FEU,SPDR DJ STOXX 50 ETF,Global Equity ETF,
+ACY,AeroCentury Corp. Common ,Services,Rental & Leasing Services
+TNA, Direxion Small Cap Bull 3X Shar ,N/A,N/A
+GEO,Geo Group Inc (The) Common Stoc ,Services,Security & Protection Services
+KBWR,PowerShares KBW Regional Banking Portfolio ETF,US Equity ETF,
+TLYS, Tilly's  Inc. Common ,Services,Apparel Stores
+IWN,iShares Russell 2000 Value ETF,US Equity ETF,
+SPB,Spectrum Brands Holdings Inc.  ,Consumer Goods,Appliances
+ENFR,ALPS Alerian Energy Infrastructure ETF ,N/A,N/A
+PETX,Aratana Therapeutics Inc. ,Healthcare,Biotechnology
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+TBI,TrueBlue Inc. Common ,Services,Staffing & Outsourcing Services
+EBIX,Ebix Inc ,Technology,Business Software & Services
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+BGFV,Big 5 Sporting Goods Corporatio ,Services,Sporting Goods Stores
+BNJ, BlackRock New Jersey Municipal  ,Financial,Closed-End Fund - Debt
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+PHX,Panhandle Oil and Gas Inc Commo ,Basic Materials,Independent Oil & Gas
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+ITI,Iteris Inc. Common ,Technology,Communication Equipment
+UIS,Unisys Corporation New Common S ,Technology,Information Technology Services
+PEY,PowerShares Dividend Achievers ETF,US Equity ETF,
+MLPY, Morgan Stanley Cushing MLP High ,N/A,N/A
+VTWG,Vanguard Russell 2000 Growth ETF,US Equity ETF,
+CTG,Computer Task Group Inc. ,Technology,Information Technology Services
+IWO,iShares Russell 2000 Growth ETF,US Equity ETF,
+KN,Knowles Corporation ,Technology,Communication Equipment
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+ENLC,EnLink Midstream LLC ,Basic Materials,Oil & Gas Refining & Marketing
+IEZ,iShares Dow Jones U.S. Oil Equipment & Services Index Fund ETF,US Equity ETF,
+ZEUS,Olympic Steel Inc. ,Services,Basic Materials Wholesale
+NPTN, NeoPhotonics Corporation ,Technology,Semiconductor - Broad Line
+CUNB, CU Bancorp (CA) ,Financial,Regional - Pacific Banks
+WGP,Western Gas Equity Partners LP ,Basic Materials,Oil & Gas Pipelines
+AMLP,ALPS Alerian MLP ETF,US Equity ETF,
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+WPZ,Williams Partners L.P. Common U ,Basic Materials,Specialty Chemicals
+APEI,American Public Education Inc. ,Services,Business Services
+LQDH,iShares Interest Rate Hedged Co ,,
+YMLP, Yorkville High Income MLP Excha ,N/A,N/A
+ICON, Iconix Brand Group  Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+LQDT,Liquidity Services Inc. ,Services,Catalog & Mail Order Houses
+EFNL,iShares MSCI Finland Capped Inv Mkt,Global Equity ETF,
+PEO, Petroleum Resources Corporation ,Financial,Closed-End Fund - Equity
+GAM, General American Investors  Inc ,Financial,Closed-End Fund - Equity
+FEN, First Trust Energy Income and G ,N/A,N/A
+STBA,S&T Bancorp Inc. ,Financial,Regional - Northeast Banks
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+RALS,ProShares RAFI® Long/Short ETF,Commodity Based ETF,
+MTZ,MasTec Inc. Common ,Industrial Goods,Heavy Construction
+TOLZ,ProShares DJ Brookfield Glbl Infras ETF ,N/A,N/A
+ASX,Advanced Semiconductor Engineer ,Technology,Semiconductor Equipment & Materials
+AMU, ETRACS Alerian MLP Index ETN ,N/A,N/A
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+TRMK,Trustmark Corporation ,Financial,Regional - Southeast Banks
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,US Equity ETF,
+LBAI,Lakeland Bancorp Inc. ,Financial,Regional - Northeast Banks
+IMDZ,Immune Design Corp.,Healthcare,Biotechnology
+PFL, PIMCO Income Strategy Fund Shar ,N/A,N/A
+ERIC,Ericsson ,NULL,NULL
+KMF, Kayne Anderson Midstream Energy ,N/A,N/A
+DOX,Amdocs Limited Common ,Technology,Business Software & Services
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+PDCE,Pioneer Drilling Company Common ,Basic Materials,Oil & Gas Drilling & Exploration
+FCG,First Trust ISE-Revere Natural Gas ETF,US Equity ETF,
+ECF, Ellsworth Fund Ltd ,Financial,Closed-End Fund - Debt
+APU,AmeriGas Partners L.P. Common  ,Utilities,Gas Utilities
+SBNA,Scorpio Tankers Inc. 6.75% Seni,N/A,N/A
+CXW,Corrections Corporation of Amer ,Services,Management Services
+IXC,iShares S&P Global Energy Index Fund ETF,Global Equity ETF,
+PSCM,PowerShares S&P SmallCap Materials Portfolio ETF,US Equity ETF,
+MSM,MSC Industrial Direct Company  ,Services,Industrial Equipment Wholesale
+PSCT,PowerShares S&P SmallCap Info Tech ETF,US Equity ETF,
+FMBI,First Midwest Bancorp Inc. ,Financial,Regional - Midwest Banks
+BKE,Buckle Inc. (The) Common ,Services,Apparel Stores
+FSP,Franklin Street Properties Corp ,Financial,REIT - Office
+FNX,First Trust Mid Cap Core AlphaDEX ETF,US Equity ETF,
+JKK,iShares Morningstar Small Growth Index Fund ETF,US Equity ETF,
+GER, General Electric Capital Corpor ,N/A,N/A
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+DNBF,DNB Financial Corp ,Financial,Regional - Pacific Banks
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+VB,Vanguard Small-Cap ETF,US Equity ETF,
+LYTS,LSI Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+JKJ,iShares Morningstar Small Core Index Fund ETF,US Equity ETF,
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+CATY,Cathay General Bancorp ,Financial,Regional - Pacific Banks
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts

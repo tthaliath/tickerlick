@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OILB,iPath Series B S&P GSCI Crude O,,
+CEO,CNOOC Limited Common ,Basic Materials,Independent Oil & Gas
+PKX,POSCO Common ,Basic Materials,Steel & Iron
+CCS,Century Communities Inc. Commo,Financial,Real Estate Development
+ARNA,Arena Pharmaceuticals Inc. ,Healthcare,Biotechnology
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+LEN,Lennar Corporation Class A Comm ,Industrial Goods,Residential Construction
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+TPB,Turning Point Brands  Inc.,N/A,N/A
+EDC, Direxion Emerging Markets Bull  ,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+USFD,US Foods Holding Corp.,N/A,N/A
+WLH,William Lyon Homes ,N/A,N/A
+AIT,Applied Industrial Technologies ,Services,Industrial Equipment Wholesale
+EDU,New Oriental Education & Techno ,Services,Education & Training Services

@@ -1,0 +1,32 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPDN,Direxion Daily S&P 500 Bear 1X,,
+TOCA,Tocagen Inc.,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+SKF,ProShares UltraShort Financials ETF,Commodity Based ETF,
+TRC,Tejon Ranch Co Common ,Financial,Property Management
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+ESRX,Express Scripts Holding Company ,Healthcare,Health Care Plans
+AXDX,Accelerate Diagnostics Inc. ,Healthcare,Diagnostic Substances
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+CX,Cemex S.A.B. de C.V. Sponsored ,Industrial Goods,Cement
+NC,NACCO Industries Inc. Common S ,Industrial Goods,Farm & Construction Machinery
+CCRC,China Customer Relations Centers  Inc.,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+MXF, Mexico Fund  Inc. (The) Common  ,N/A,N/A
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+DISCK,Discovery Communications Inc ,NULL,NULL
+VIA,Viacom Inc. ,NULL,NULL
+AAP,Advance Auto Parts Inc Advance  ,Services,Auto Parts Stores
+AMCX, AMC Networks Inc. ,Services,CATV Systems
+FL,Footlocker Inc. ,Services,Apparel Stores
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+DISCA,Discovery Communications Inc ,Services,CATV Systems
+DISH,DISH Network Corporation ,Services,CATV Systems
+VIAB, Viacom Inc. ,Services,CATV Systems
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+JNPR,Juniper Networks Inc. Common S ,Technology,Networking & Communication Devices
+GIMO,Gigamon Inc. ,Technology,Networking & Communication Devices
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign

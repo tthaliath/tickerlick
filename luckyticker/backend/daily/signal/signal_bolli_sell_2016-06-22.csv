@@ -1,0 +1,3 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+DJCO,Daily Journal Corp. (S.C.) ,2016-06-22,220.9,,,72.6233,89.1674,0.13351984649046272
+CCZ,Comcast Holdings ZONES,2016-06-22,51.98,,,70.0321,99.9556,0.11073027787503198

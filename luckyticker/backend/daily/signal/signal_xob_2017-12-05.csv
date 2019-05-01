@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SPXE,ProShares S&P 500 Ex-Energy ETF,,
+TETF,ETF Industry Exposure & Financi,,
+GARD,Realty Shares DIVCON Dividend G,,
+PSX, Phillips 66 Common ,Basic Materials,Oil & Gas Refining & Marketing
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+DPS,Dr Pepper Snapple Group Inc Dr ,Consumer Goods,Beverages - Soft Drinks
+SON,Sonoco Products Company Common  ,Consumer Goods,Paper & Paper Products
+AXP,American Express Company Common ,Financial,Credit Services
+FII,Federated Investors Inc. Commo ,Financial,Asset Management
+SYF,Synchrony Financial Common Stoc,Financial,Credit Services
+SEIC,SEI Investments Company ,Financial,Asset Management
+DFS,Discover Financial Services Com ,Financial,Credit Services
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+SCMP,Sucampo Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Other
+SSD,Simpson Manufacturing Company  ,Industrial Goods,Small Tools & Accessories
+BGC,General Cable Corporation Commo ,Industrial Goods,Industrial Electrical Equipment
+USFD,US Foods Holding Corp.,N/A,N/A
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+RGC,Regal Entertainment Group Class ,Services,Movie Production Theaters
+NWSA,News Corporation ,Services,Entertainment - Diversified
+NTL, Nortel Inversora SA  ADR Common ,Technology,Telecom Services - Foreign

@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+PBSK, Poage Bankshares  Inc. ,Conglomerates,Conglomerates
+WGO,Winnebago Industries Inc. Comm ,Consumer Goods,Recreational Vehicles
+GTWN,Georgetown Bancorp Inc. ,Financial,Savings & Loans
+GWPH,GW Pharmaceuticals plc ,Healthcare,Drug Manufacturers - Major
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+GRN,iPath Global Carbon ETN ,N/A,N/A
+AUPH,Aurinia Pharmaceuticals Inc,N/A,N/A
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+TSRA,Tessera Technologies Inc. ,Technology,Semiconductor Equipment & Materials
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+SATS,EchoStar Corporation ,Technology,Communication Equipment

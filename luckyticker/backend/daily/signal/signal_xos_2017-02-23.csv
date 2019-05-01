@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+BOIL,ProShares Ultra DJ-UBS Natural Gas ETF,Commodity Based ETF,
+SAEX,SAExploration Holdings Inc. ,Conglomerates,Conglomerates
+LTRPA,Liberty TripAdvisor Holdings I,Consumer Goods,Recreational Goods Other
+HNH, Handy & Harman Ltd. ,Industrial Goods,Industrial Equipment & Components
+UGAZ, VelocityShares 3X Long Natural  ,N/A,N/A
+UNG, United States Natural Gas Fund  ,N/A,N/A
+UNL, United States 12 Month Natural  ,N/A,N/A
+CATM,Cardtronics Inc. ,Services,Business Services
+CRMT,America's Car-Mart Inc. ,Services,Auto Dealerships
+H, Hyatt Hotels Corporation Class  ,Services,Lodging
+PTSI,P.A.M. Transportation Services ,Services,Trucking
+ATTO,Atento S.A. Ordinary Shares,Services,Business Services
+TRIP, TripAdvisor  Inc. ,Technology,Internet Information Providers

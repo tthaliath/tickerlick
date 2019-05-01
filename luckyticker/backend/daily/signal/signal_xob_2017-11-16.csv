@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SVRA,Savara  Inc.,,
+GDS,GDS Holdings Limited - ADS,,
+RCOM,Elkhorn ETF Trust ETF,,
+CDXC,ChromaDex Corporation,Basic Materials,Chemicals - Major Diversified
+RFP, Resolute Forest Products Inc. C ,Consumer Goods,Paper & Paper Products
+TWO,Two Harbors Investment Corp ,Financial,REIT - Residential
+GMED, Globus Medical  Inc. Class A Co ,Healthcare,Medical Appliances & Equipment
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+JYNT,The Joint Corp.,Healthcare,Hospitals
+COLL,Collegium Pharmaceutical  Inc.,Healthcare,Drugs - Generic
+SVT, Servotronics  Inc. Common ,Industrial Goods,Industrial Electrical Equipment
+PHM,PulteGroup Inc. Common ,Industrial Goods,Residential Construction
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+PNK,Pinnacle Entertainment Inc. Co ,Services,Resorts & Casinos
+LLNW,Limelight Networks Inc. ,Services,Business Services
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+VSAT,ViaSat Inc. ,Technology,Communication Equipment
+PCTI,PC-Tel Inc. ,Technology,Diversified Communication Services
+IGT, International Game Technology C ,Technology,Multimedia & Graphics Software

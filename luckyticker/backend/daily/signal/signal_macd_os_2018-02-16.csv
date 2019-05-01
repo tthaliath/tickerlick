@@ -1,0 +1,213 @@
+ticker,name,sector,industry
+MCK,McKesson Corporation Common Sto ,Services,Drugs Wholesale
+APA,Apache Corporation Common ,Basic Materials,Independent Oil & Gas
+VTR,Ventas Inc. Common ,Financial,REIT - Healthcare Facilities
+CI,Cigna Corporation Common ,Healthcare,Health Care Plans
+CVS,CVS Caremark Corporation Common ,Services,Drug Stores
+SEE,Sealed Air Corporation Common S ,Consumer Goods,Packaging & Containers
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+WBA,Walgreens Boots Alliance Inc.,Services,Drug Stores
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+KBAL,Kimball International Inc.,Technology,Printed Circuit Boards
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+NHI,National Health Investors Inc. ,Financial,REIT - Healthcare Facilities
+NVEC,NVE Corporation ,Technology,Semiconductor - Specialized
+OII,Oceaneering International Inc. ,Basic Materials,Oil & Gas Equipment & Services
+PFBI,Premier Financial Bancorp Inc. ,Financial,Regional - Southeast Banks
+PSMC,PowerShares Conservative Multi-,,
+QLS,IQ Hedge Long Short Tracker ETF,,
+RFI, Cohen & Steers Total Return Rea ,N/A,N/A
+SCHZ,Schwab U.S. Aggregate Bond ETF,Fixed Income ETF,
+SHV,iShares Barclays Short Treasury Bond Fund ETF,Fixed Income ETF,
+SUP,Superior Industries Internation ,Consumer Goods,Auto Parts
+TIP,iShares Barclays TIPS Bond Fund ETF,Fixed Income ETF,
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+UEPS,Net 1 UEPS Technologies Inc. ,Services,Business Services
+UST,ProShares Ultra 7-10 Year Treasury ETF,Commodity Based ETF,
+VCYT,Veracyte Inc. ,Healthcare,Biotechnology
+VTEB,Vanguard Tax-Exempt Bond ETF,,
+WBIA,WBI SMID Tactical Growth Shares ,,
+WETF, WisdomTree Investments  Inc. ,N/A,N/A
+XSHQ,PowerShares S&P SmallCap Qualit,,
+APTS, Preferred Apartment Communities ,N/A,N/A
+IBP,Installed Building Products Inc. ,Industrial Goods,General Building Materials
+MYJ, Blackrock MuniYield New Jersey  ,Financial,Closed-End Fund - Debt
+ACP, Avenue Income Credit Strategies ,N/A,N/A
+SIEN,Sientra Inc.,N/A,N/A
+AGGY,WisdomTree Barclays Yield Enhan,,
+BCO,Brinks Company (The) Common Sto ,Services,Security & Protection Services
+BLDR,Builders FirstSource Inc. ,Services,Home Improvement Stores
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+BYSI,BeyondSpring  Inc.,,
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+CHSCO,CHS  Inc. ,N/A,N/A
+CLI,Mack-Cali Realty Corporation Co ,Financial,REIT - Office
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+CUO,Continental Materials Corporati,Industrial Goods,Diversified Machinery
+DXB, Deutsche Bk Contingent Cap TR I ,N/A,N/A
+EGF, Blackrock Enhanced Government F ,Financial,Closed-End Fund - Debt
+EMTL,SPDR DoubleLine Emerging Market,,
+FLQS,Franklin LibertyQ U.S. Small Ca,,
+FPI,Farmland Partners Inc. ,Financial,Real Estate Development
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,
+HIW, Highwoods Properties  Inc. Comm ,Financial,REIT - Office
+IBDK,iShares iBonds Dec 2019 Term Co,,
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,
+IPE,SPDR Barclays Capital TIPS ETF,Fixed Income ETF,
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+JHDG,WisdomTree Japan Hedged Quality,,
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+KT,KT Corporation Common ,Technology,Telecom Services - Foreign
+LQDH,iShares Interest Rate Hedged Co ,,
+MFSF,MutualFirst Financial Inc. ,Financial,Regional - Midwest Banks
+MTSI, M/A-COM Technology Solutions Ho ,N/A,N/A
+NKSH,National Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+NX,Quanex Building Products Corpor ,Industrial Goods,General Building Materials
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+PFGC,Performance Food Group Company,N/A,N/A
+PW,Power REIT (MD) Common ,Financial,REIT - Diversified
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Fixed Income ETF,
+RHP, Ryman Hospitality Properties  I ,Services,Lodging
+SEB,Seaboard Corporation Common Sto ,Consumer Goods,Meat Products
+SJI,South Jersey Industries Inc. C ,Utilities,Gas Utilities
+SVT, Servotronics  Inc. Common ,Industrial Goods,Industrial Electrical Equipment
+TIPZ,PIMCO Broad U.S. TIPS Index Fund ETF,Fixed Income ETF,
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+UHN, United States Diesel Heating Oi ,N/A,N/A
+VBND,Vident Core U.S. Bond Fund ,,
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+WBID,WBI SMID Tactical Select Shares ,,
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+YRCW,YRC Worldwide Inc. ,Services,Trucking
+BAF, BlackRock Municipal Income Inve ,N/A,N/A
+LTC,LTC Properties Inc. Common Sto ,Financial,REIT - Healthcare Facilities
+PFIS,Peoples Financial Services Corp. ,Financial,Regional - Northeast Banks
+AGG,iShares Barclays Aggregate ETF,Fixed Income ETF,
+STRL,Sterling Construction Company I ,Industrial Goods,Heavy Construction
+AGZ,iShares Barclays Agency Bond Fund ETF,Fixed Income ETF,
+ARCB,ArcBest Corporation ,N/A,N/A
+BFY, BlackRock New York Municipal In ,N/A,N/A
+BLJ, Blackrock New Jersey Municipal  ,Financial,Closed-End Fund - Debt
+BSCP,Guggenheim BulletShares 2025 Co,,
+CAFD,8point3 Energy Partners LP,Utilities,Diversified Utilities
+CHSCL,CHS Inc.,N/A,N/A
+CLY,iShares 10+ Year Credit Bond Fund ETF,Fixed Income ETF,
+CPK,Chesapeake Utilities Corporatio ,Utilities,Gas Utilities
+DXJR,WisdomTree Japan Hedged Real Estate ,N/A,N/A
+EMB,iShares JP Morgan Em Bond Fd ETF,Fixed Income ETF,
+EVJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+FMB,First Trust Managed Municipal E ,,
+FTS,Fortis Inc.,,
+GOOD,Gladstone Commercial Corporatio ,Financial,REIT - Diversified
+HEMV,iShares Edge MSCI Min Vol EM Cu,,
+HR, Healthcare Realty Trust Incorpo ,Financial,REIT - Healthcare Facilities
+IBDN,iShares iBonds Dec 2022 Term Co,,
+IGLD, Internet Gold Golden Lines Ltd. ,Technology,Diversified Communication Services
+IRET,Investors Real Estate Trust ,Financial,REIT - Retail
+IUSB,iShares Core Total USD Bond Mar ,,
+JPC, Nuveen  Preferred Income Opport ,N/A,N/A
+JPEH,JPMorgan Diversified Return Eur,,
+KEMP,KraneShares FTSE Emerging Marke,,
+LAUR,Laureate Education  Inc.,,
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+MGEE,MGE Energy Inc. ,Utilities,Diversified Utilities
+MYE, Myers Industries  Inc. Common S ,Consumer Goods,Rubber & Plastics
+NRE,Northstar Realty Europe Corp.,N/A,N/A
+NXN, Nuveen New York Select Tax-Free ,Financial,Closed-End Fund - Debt
+PCY,PowerShares Emerging Markets Sovereign Debt Portfolio ETF,Fixed Income ETF,
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,
+RDC,Rowan Companies plc Class A Ord ,Basic Materials,Oil & Gas Drilling & Exploration
+SCHP,Schwab U.S. TIPS ETF,Fixed Income ETF,
+SPLP, Steel Partners Holdings LP LTD  ,N/A,N/A
+SVXY,ProShares Short VIX Short-Term Futures ETF,Commodity Based ETF,
+TKR,Timken Company (The) Common Sto ,Industrial Goods,Machine Tools & Accessories
+TRS,TriMas Corporation ,Industrial Goods,Industrial Equipment & Components
+UHT,Universal Health Realty Income  ,Financial,REIT - Healthcare Facilities
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,
+VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income ETF,
+VWOB,Vanguard Emerg Mkts Govt Bd Idx ETF ,N/A,N/A
+WBIG,WBI Large Cap Tactical Yield Sh ,,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+AGGE,IQ Enhanced Core Bond U.S. ETF,,
+TIPX,SPDR Barclays 1-10 Year TIPS ETF ,N/A,N/A
+ANIK,Anika Therapeutics Inc. ,Healthcare,Biotechnology
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+BHK, Blackrock Core Bond Trust Black ,Financial,Closed-End Fund - Debt
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+BTZ, BlackRock Credit Allocation Inc ,Financial,Closed-End Fund - Debt
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Fixed Income ETF,
+CHSCM,CHS Inc,N/A,N/A
+CIA,Citizens Inc. Class A Common S ,Financial,Life Insurance
+CMCO,Columbus McKinnon Corporation ,Industrial Goods,Farm & Construction Machinery
+CRED,Credo Petroleum Corporation ,Basic Materials,Independent Oil & Gas
+DEFA,iShares Adaptive Currency Hedge,,
+DXUS,WisdomTree Global ex-U.S. Hedge,,
+EMHY,iShares Emerging Markets High Yield Bond ETF,Fixed Income ETF,
+FBND,Fidelity Total Bond ETF ,,
+FMF,First Trust Morningstar Futs Strat ,N/A,N/A
+FUSB,First US Bancshares  Inc.,,
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,
+HEUS,iShares Currency Hedged MSCI Eu,,
+HSKA, Heska Corporation ,Healthcare,Biotechnology
+IBDQ,iShares iBonds Dec 2025 Corpora,,
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+ISTB,iShares Core Short-Term US Bond ,N/A,N/A
+JELD,JELD-WEN Holding  Inc.,,
+JPGB,JPMorgan Global Bond Opportunit,,
+KEP,Korea Electric Power Corporatio ,Utilities,Electric Utilities
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+MBB,iShares Barclays MBS Fixed-Rate Bond ETF,Fixed Income ETF,
+MLN,Market Vectors-Lehman Brothers AMT-Free Long Municipal Index ETF,Fixed Income ETF,
+NFLT,Virtus Newfleet Multi-Sector Un,,
+NUAG,NuShares Enhanced Yield US Aggr,,
+NXR, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+PEBK, Peoples Bancorp of North Caroli ,Financial,Regional - Mid-Atlantic Banks
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+QGBR,SPDR MSCI United Kingdom Qualit ,,
+REIS,Reis Inc ,Services,Business Services
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,
+SENEA,Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+SRI,Stoneridge Inc. Common ,Consumer Goods,Auto Parts
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+UMH,UMH Properties Inc. Common Sto ,Financial,REIT - Diversified
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+VOD,Vodafone Group Plc ,NULL,NULL
+WBII,WBI Tactical Income Shares ,,
+ACGLP,Arch Capital Group Ltd. ,N/A,N/A
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+RMBS,Rambus Inc. ,Technology,Semiconductor- Memory Chips
+AGGP,IQ Enhanced Core Plus Bond U.S.,,
+AOSL,Alpha and Omega Semiconductor L ,Technology,Semiconductor - Specialized
+AXDX,Accelerate Diagnostics Inc. ,Healthcare,Diagnostic Substances
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,
+BND,Vanguard Total Bond Market ETF,Fixed Income ETF,
+BYLD,iShares Yield Optimized Bond ,N/A,N/A
+CEVA,CEVA Inc. ,Technology,Semiconductor - Specialized
+CHSCN,CHS  Inc. ,N/A,N/A
+CIU,iShares Barclays Intermediate Credit Bond Fund ETF,Fixed Income ETF,
+CORT,Corcept Therapeutics Incorporat ,Healthcare,Biotechnology
+CRVL,CorVel Corp. ,Financial,Insurance Brokers
+DOC,Physicians Realty Trust ,Financial,REIT - Healthcare Facilities
+EDV,Vanguard Extended Duration Treasury ETF,Fixed Income ETF,
+EMKR,EMCORE Corporation ,Technology,Semiconductor - Integrated Circuits
+FIBR,iShares Edge U.S. Fixed Income,,
+FNWB,First Northwest Bancorp,Financial,Savings & Loans
+GBF,iShares Barclays Government/Credit Bond Fund ETF,Fixed Income ETF,
+HCHC,HC2 HOLDINGS INC,Technology,Long Distance Carriers
+HGSD,WisdomTree Global Hedged SmallC,,
+HYB, New America High Income Fund  I ,N/A,N/A
+IBML,iShares iBonds Dec 2023 Term Mu,,
+IMTB,iShares Core 5-10 Year USD Bond,,
+ITI,Iteris Inc. Common ,Technology,Communication Equipment
+JGH,Nuveen Global High Income Fund,N/A,N/A

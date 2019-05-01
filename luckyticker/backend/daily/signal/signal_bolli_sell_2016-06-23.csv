@@ -1,0 +1,3 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+DJCO,Daily Journal Corp. (S.C.) ,2016-06-23,231.99,,,78.2822,91.7404,0.176980350493603
+VAC, Marriot Vacations Worldwide Cor ,2016-06-23,67.16,,,71.3197,85.5139,0.136247603887115

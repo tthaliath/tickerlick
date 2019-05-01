@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDJJ,ProShares Ultra Junior Miners,,
+GDXX,ProShares Ultra Gold Miners ETF,,
+COG,Cabot Oil & Gas Corporation Com ,Basic Materials,Independent Oil & Gas
+KTEC,Key Technology Inc. ,Consumer Goods,Processed & Packaged Goods
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+GDXJ,Market Vectors Junior Gold Miners ETF,Global Equity ETF,
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+NEO,Neogenomics Inc. ,Healthcare,Medical Laboratories & Research
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+HYH,Halyard Health Inc. Common Sto,Healthcare,Medical Instruments & Supplies
+CRY,CryoLife Inc. Common ,Healthcare,Medical Appliances & Equipment
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+OC,Owens Corning Inc Common ,Industrial Goods,General Building Materials
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+BAL, iPath DJ-UBS Cotton Subindex To ,N/A,N/A
+BCM, iPath Pure Beta Broad Commodity ,N/A,N/A
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X Shrs ,N/A,N/A
+GYEN,AdvisorShares Gartman Gold/Yen ETF ,N/A,N/A
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+LSTR,Landstar System Inc. ,Services,Trucking
+MYGN,Myriad Genetics Inc. ,Services,Research Services
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics

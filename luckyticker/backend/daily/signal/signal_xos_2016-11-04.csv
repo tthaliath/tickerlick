@@ -1,0 +1,62 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BSCN,Guggenheim BulletShares 2023 Co ,,
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+GEL,Genesis Energy L.P. Common Uni ,Basic Materials,Oil & Gas Pipelines
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+IOC,InterOil Corporation ,Basic Materials,Oil & Gas Refining & Marketing
+IOSP,Innospec Inc. ,Basic Materials,Specialty Chemicals
+TQQQ,ProShares UltraPro QQQ ETF,Commodity Based ETF,
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+EL,Estee Lauder Companies Inc. (T ,Consumer Goods,Personal Products
+JAKK,JAKKS Pacific Inc. ,Consumer Goods,Toys & Games
+TM,Toyota Motor Corporation Common ,Consumer Goods,Auto Manufacturers - Major
+WMS,WMS Industries Inc. Common Stoc ,Consumer Goods,Recreational Goods Other
+NZH, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+AHT,Ashford Hospitality Trust Inc C ,Financial,REIT - Hotel/Motel
+QTS,QTS Realty Trust Inc. ,Financial,REIT - Industrial
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+IVTY,Invuity  Inc.,Healthcare,Medical Instruments & Supplies
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+DPLO,Diplomat Pharmacy Inc. Common,Healthcare,Drugs - Generic
+MGLN,Magellan Health Services Inc. ,Healthcare,Health Care Plans
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+CEMP, Cempra  Inc. ,Healthcare,Biotechnology
+HALO, Halozyme Therapeutics  Inc. ,Healthcare,Biotechnology
+ADPT,Adeptus Health Inc. Common Stoc,Healthcare,Hospitals
+AKRX,Akorn Inc. ,Healthcare,Drugs - Generic
+DOOR,Masonite International Corporation ,Industrial Goods,General Building Materials
+BRSS,Global Brass and Copper Holdings Inc. ,Industrial Goods,Metal Fabrication
+ORB,Orbital Sciences Corporation Co ,Industrial Goods,Aerospace/Defense Products & Services
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+DNI, Dividend and Income Fund Common ,N/A,N/A
+MLPN, Credit Suisse Group Index ETN ,N/A,N/A
+TRIL,,N/A,N/A
+SYG,SPDR MFS Systematic Growth Equity ETF ,N/A,N/A
+FHLC,Fidelity MSCI Health Care Index ETF ,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+MGR, Affiliated Managers Group  Inc. ,N/A,N/A
+CURE, Direxion Daily Healthcare Bull  ,N/A,N/A
+INDL, Direxion Daily India Bull 3x Sh ,N/A,N/A
+W,Wayfair Inc. Class A Common Sto,Services,Catalog & Mail Order Houses
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+KAR,KAR Auction Services Inc Commo ,Services,Auto Dealerships
+DTV,DIRECTV ,Services,CATV Systems
+MEG,Media General Inc. Class A Com ,Services,Publishing - Newspapers
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+MDP,Meredith Corporation Common Sto ,Services,Publishing - Periodicals
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+VDSI,VASCO Data Security Internation ,Technology,Security Software & Services
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+PRFT,Perficient Inc. ,Technology,Business Software & Services
+VRTU,Virtusa Corporation ,Technology,Information Technology Services
+INFN,Infinera Corporation ,Technology,Communication Equipment
+N,Netsuite Inc Common ,Technology,Business Software & Services
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+MRVC,MRV Communications Inc. ,Technology,Semiconductor - Integrated Circuits
+VHT,Vanguard Health Care ETF - DNQ ETF,US Equity ETF,
+RTH,Market Vectors Retail ETF,US Equity ETF,

@@ -1,0 +1,34 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+USD,ProShares Ultra Semiconductors ETF,Commodity Based ETF,
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+SORL,SORL Auto Parts Inc. ,Consumer Goods,Auto Manufacturers - Major
+BERY, Berry Plastics Group  Inc. Comm ,Consumer Goods,Rubber & Plastics
+CZFC,Citizens First Corporation ,Financial,Regional - Southeast Banks
+CIB,BanColombia S.A. Common ,Financial,Foreign Regional Banks
+AAXJ,iShares MSCI All Country Asia ex Japan Index Fund ETF,Global Equity ETF,
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+XONE,The ExOne Company ,Industrial Goods,Diversified Machinery
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+ANGI, Angie's List  Inc. ,N/A,N/A
+MBCN,Middlefield Banc Corp.,N/A,N/A
+SOXL, Direxion Daily Semiconductor Bu ,N/A,N/A
+VOD,Vodafone Group Plc ,NULL,NULL
+WTW,Weight Watchers International I ,Services,Personal Services
+EDU,New Oriental Education & Techno ,Services,Education & Training Services
+INCR,INC Research Holdings Inc.,Services,Research Services
+ATSG,Air Transport Services Group I ,Services,Air Delivery & Freight Services
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+BZUN,Baozun Inc.,Services,Catalog & Mail Order Houses
+GSOL,Global Sources Ltd. ,Technology,Internet Information Providers
+NVDA,NVIDIA Corporation ,Technology,Semiconductor - Specialized
+EXTR,Extreme Networks Inc. ,Technology,Networking & Communication Devices
+SINA,Sina Corporation ,Technology,Internet Software & Services
+PEGA,Pegasystems Inc. ,Technology,Business Software & Services
+NCIT,NCI Inc. ,Technology,Information Technology Services
+WB,Weibo Corporation ,Technology,Internet Information Providers
+MXL,MaxLinear Inc Class A Common S ,Technology,Semiconductor Equipment & Materials
+CHKP,Check Point Software Technologi ,Technology,Security Software & Services
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund ETF,US Equity ETF,
+VUG,Vanguard Growth ETF,US Equity ETF,

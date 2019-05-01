@@ -1,0 +1,77 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+APD,Air Products and Chemicals Inc ,Basic Materials,Chemicals - Major Diversified
+KOLD,ProShares UltraShort DJ-UBS Natural Gas ETF,Commodity Based ETF,
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+ALV,Autoliv Inc. Common ,Consumer Goods,Auto Parts
+UL,Unilever PLC Common ,Consumer Goods,Food - Major Diversified
+DBD,Diebold Incorporated Common St ,Consumer Goods,Business Equipment
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+ESD, Western Asset Emerging Markets  ,Financial,Closed-End Fund - Debt
+CLMS,Calamos Asset Management Inc. ,Financial,Asset Management
+BFZ, BlackRock California Municipal  ,Financial,Closed-End Fund - Debt
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+MVF, Blackrock MuniVest Fund  Inc. C ,Financial,Closed-End Fund - Debt
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+NZH, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+INTG,The InterGroup Corporation ,Financial,Property Management
+ICB, MS Income Securities  Inc. Comm ,Financial,Closed-End Fund - Debt
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+EMI, Eaton Vance Michigan Municipal  ,Financial,Closed-End Fund - Debt
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+BX,The Blackstone Group L.P. Commo ,Financial,Asset Management
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+BBK, Blackrock Municipal Bond Trust ,Financial,Closed-End Fund - Debt
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+NVX, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+CUZ,Cousins Properties Incorporated ,Financial,REIT - Diversified
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+DUC, Duff & Phelps Utility & Corpora ,Financial,Closed-End Fund - Debt
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+NAC, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+NMZ, Nuveen Municipal High Income Op ,Financial,Closed-End Fund - Debt
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+MAIN,Main Street Capital Corporation ,Financial,Diversified Investments
+SHM,SPDR Barclays Capital Short Term Municipal Bond ETF,Fixed Income ETF,
+LBIO,LION BIOTECHNOLOGIES,Healthcare,Biotechnology
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+IRMD,iRadimed Corporation,Healthcare,Medical Appliances & Equipment
+FLOW,Flow International Corporation ,Industrial Goods,Diversified Machinery
+USV, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+PNF, PIMCO New York Municipal Income ,N/A,N/A
+MUJ, Blackrock MuniHoldings New Jers ,N/A,N/A
+NUW, Nuveen AMT-Free Municipal Value ,N/A,N/A
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+MFT, Blackrock MuniYield Investment  ,N/A,N/A
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+NVG, Nuveen Dividend Advantage Munic ,N/A,N/A
+VMO, Invesco Van Kampen Municipal Op ,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+PCK, Pimco California Municipal Inco ,N/A,N/A
+VFL, Delaware Investments National M ,N/A,N/A
+DMF, Dreyfus Municipal Income  Inc.  ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+MYI, Blackrock MuniYield Quality Fun ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+EOT, Eaton Vance Municipal Income Tr ,N/A,N/A
+VPV, Invesco Van Kampen Pennsylvania ,N/A,N/A
+BFY, BlackRock New York Municipal In ,N/A,N/A
+IIM, Invesco Value Municipal Income  ,N/A,N/A
+NZF, Nuveen Dividend Advantage Munic ,N/A,N/A
+HTR, Helios Total Return Fund  Inc.  ,N/A,N/A
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+SPLS,Staples Inc. ,Services,Specialty Retail Other
+USAK,USA Truck Inc. ,Services,Trucking
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+SHOR,ShoreTel Inc. ,Technology,Communication Equipment
+ZEN,Zendesk Inc. Common,Technology,Application Software
+RST,Rosetta Stone Rosetta Stone In ,Technology,Multimedia & Graphics Software
+CVT,Cvent Inc. ,Technology,Application Software
+CTS,CTS Corporation Common ,Technology,Diversified Electronics
+AMCC,Applied Micro Circuits Corporat ,Technology,Semiconductor - Integrated Circuits
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,

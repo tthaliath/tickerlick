@@ -1,0 +1,25 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+FANG, Diamondback Energy  Inc. ,Basic Materials,Independent Oil & Gas
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+NFX,Newfield Exploration Company Co ,Basic Materials,Independent Oil & Gas
+SZK,ProShares UltraShort Consumer Goods ETF,Commodity Based ETF,
+DGICB, Donegal Group  Inc. ,Financial,Property & Casualty Insurance
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+MGCD,MGC Diagnostics Corporation ,Healthcare,Medical Appliances & Equipment
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+SWNC,Southwestern Energy Company Dep,N/A,N/A
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+AFW, American Financial Group  Inc.  ,N/A,N/A
+STPP, iPath US Treasury Steepener ETN ,N/A,N/A
+GASL, Direxion Daily Natural Gas Rela ,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+GLNG,Golar LNG Limited ,Services,Shipping
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+TAX, JTH Holding Inc. D/B/A Liberty  ,Services,Personal Services
+FCG,First Trust ISE-Revere Natural Gas ETF,US Equity ETF,
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,US Equity ETF,

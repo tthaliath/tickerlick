@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+NETS,Netshoes (Cayman) Limited,,
+KEG,Key Energy Services Inc. Commo ,Basic Materials,Oil & Gas Drilling & Exploration
+NS,Nustar Energy L.P.  Common Unit ,Basic Materials,Oil & Gas Pipelines
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+FTI,FMC Technologies Inc. Common S ,Basic Materials,Oil & Gas Equipment & Services
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+AGFS,AgroFresh Solutions  Inc.,Conglomerates,Conglomerates
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+WMS,WMS Industries Inc. Common Stoc ,Consumer Goods,Recreational Goods Other
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+TGTX,TG Therapeutics Inc. ,Healthcare,Biotechnology
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment
+IMDZ,Immune Design Corp.,Healthcare,Biotechnology
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+KYN, Kayne Anderson MLP Investment C ,N/A,N/A
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+PHK, Pimco High Income Fund Pimco Hi ,N/A,N/A
+CEM, ClearBridge Energy MLP Fund Inc ,N/A,N/A
+NBRV,Nabriva Therapeutics AG,N/A,N/A
+WHLRP,Wheeler Real Estate Investment ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+SVU,SuperValu Inc. Common ,Services,Grocery Stores
+SPYV,SPDR S&P 500 Value ETF (SPYV) ETF,US Equity ETF,
+SPYG,SPDR S&P 500 Growth ETF,US Equity ETF,

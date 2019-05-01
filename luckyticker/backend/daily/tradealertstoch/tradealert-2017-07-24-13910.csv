@@ -1,0 +1,102 @@
+Buy,AME,AMETEK Inc. ,13.333
+Buy,APA,Apache Corporation Common ,17.9014
+Buy,APC,Anadarko Petroleum Corporation  ,10.7149
+Buy,CAG,ConAgra Foods Inc. Common Stoc ,1.53413
+Buy,CHD,Church & Dwight Company Inc. C ,14.2885
+Buy,CHTR,Charter Communications Inc. ,1.1122
+Buy,CI,Cigna Corporation Common ,14.1273
+Buy,CL,Colgate-Palmolive Company Commo ,6.35059
+Buy,COP,ConocoPhillips Common ,18.7515
+Buy,CPB,Campbell Soup Company Common St ,3.17408
+Buy,CVS,CVS Caremark Corporation Common ,12.0389
+Buy,DD,E.I. du Pont de Nemours and Com ,18.5434
+Buy,DIS,Walt Disney Company (The) Commo ,12.5908
+Buy,DISCK,Discovery Communications Inc ,11.1116
+Buy,DLR,Digital Realty Trust Inc. Comm ,8.77637
+Buy,DVN,Devon Energy Corporation Common ,6.77267
+Buy,EBAY,eBay Inc. ,14.276
+Buy,EOG,EOG Resources Inc. Common Stoc ,5.59211
+Buy,EQIX,Equinix Inc. ,14.9429
+Buy,FCX,Freeport-McMoRan Copper & Gold ,6.66681
+Buy,FE,FirstEnergy Corporation Common  ,3.1821
+Buy,FISV,Fiserv Inc. ,17.2853
+Buy,FLS,Flowserve Corporation Common St ,14.8146
+Buy,GIS,General Mills Inc. Common Stoc ,2.38147
+Buy,GRMN,Garmin Ltd. ,9.01887
+Buy,GS,Goldman Sachs Group Inc. (The) ,7.51733
+Buy,GT,Goodyear Tire & Rubber Company  ,9.25808
+Buy,IP,International Paper Company Com ,3.70441
+Buy,ITW,Illinois Tool Works Inc. Common ,9.09998
+Buy,MLM,Martin Marietta Materials Inc. ,19.3713
+Buy,PG,Procter & Gamble Company (The)  ,2.77751
+Buy,RL,Ralph Lauren Corporation Common ,10.4946
+Buy,ROK,Rockwell Automation Inc. Commo ,3.39745
+Buy,SCG,SCANA Corporation Common ,6.86296
+Buy,SHW,Sherwin-Williams Company (The)  ,14.6956
+Buy,SJM,J.M. Smucker Company (The) New  ,16.6677
+Buy,HCA, HCA Holdings  Inc. Common ,9.92012
+Buy,HES, Hess Corporation Common ,19.6287
+Buy,LLY, Eli Lilly and Company Common St ,10.3704
+Buy,MNST, Monster Beverage Corporation ,15.6388
+Buy,MSI, Motorola Solutions  Inc. Common ,4.21468
+Buy,VIAB, Viacom Inc. ,4.9164
+Buy,ANTM,Anthem Inc. Common,9.61144
+Buy,KHC,The Kraft Heinz Company,18.2377
+Buy,WRK,WestRock Company,19.4456
+Buy,SPGI,S&P Global  Inc.,16.0497
+Buy,FTV,Fortive Corporation,6.66794
+Sell,AMZN,Amazon.com Inc. ,80.7182
+Sell,AN,AutoNation Inc. Common ,93.1459
+Sell,AXP,American Express Company Common ,88.0761
+Sell,AYI,Acuity Brands Inc (Holding Comp ,96.9695
+Sell,BBY,Best Buy Co. Inc. Common ,96.5811
+Sell,BDX,Becton Dickinson and Company C ,87.4364
+Sell,CBG,CBRE Group Inc Common ,92.594
+Sell,CBS,CBS Corporation Class B Common  ,86.1106
+Sell,CERN,Cerner Corporation ,91.6578
+Sell,CHRW,C.H. Robinson Worldwide Inc. ,91.1129
+Sell,CME,CME Group Inc. ,86.4244
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,91.4693
+Sell,COF,Capital One Financial Corporati ,84.4249
+Sell,CRM,Salesforce.com Inc Common ,96.2982
+Sell,CTAS,Cintas Corporation ,90.8084
+Sell,CTSH,Cognizant Technology Solutions  ,89.3733
+Sell,DAL,Delta Air Lines Inc. (New) Comm ,93.8419
+Sell,DFS,Discover Financial Services Com ,82.6383
+Sell,DLTR,Dollar Tree Inc. ,83.836
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,80.7703
+Sell,DRI,Darden Restaurants Inc. Common ,90.9801
+Sell,EL,Estee Lauder Companies Inc. (T ,80.9579
+Sell,EMN,Eastman Chemical Company Common ,85.5688
+Sell,FFIV,F5 Networks Inc. ,86.0418
+Sell,FIS,Fidelity National Information S ,87.0408
+Sell,FL,Footlocker Inc. ,83.3909
+Sell,FRT,Federal Realty Investment Trust ,95.2844
+Sell,GILD,Gilead Sciences Inc. ,81.9348
+Sell,GOOG,Alphabet Inc.,94.709
+Sell,GPC,Genuine Parts Company Common St ,88.6244
+Sell,GPS,Gap Inc. (The) Common ,96.2965
+Sell,IT,Gartner Inc. Common ,83.3365
+Sell,IVZ,Invesco Plc New Common ,93.3327
+Sell,MAT,Mattel Inc. ,96.2124
+Sell,MCD,McDonald's Corporation Common S ,98.4405
+Sell,PFG,Principal Financial Group Inc C ,80.557
+Sell,ROP,Roper Industries Inc. Common S ,87.4042
+Sell,HCP, HCP  Inc. Common ,82.2751
+Sell,HD, Home Depot  Inc. (The) Common S ,80.2399
+Sell,HOLX, Hologic  Inc. ,90.2131
+Sell,HP, Helmerich & Payne  Inc. Common  ,82.1649
+Sell,LKQ, LKQ Corporation ,93.0553
+Sell,TRIP, TripAdvisor  Inc. ,81.792
+Sell,XYL, Xylem Inc. Common ,92.0648
+Sell,AAL,American Airlines Group Inc. ,92.1775
+Sell,FOX,Twenty-First Century Fox Inc. ,86.1106
+Sell,FOXA,Twenty-First Century Fox Inc. ,80.5574
+Sell,GOOGL,Alphabet Inc.,90.9497
+Sell,NAVI,Navient Corporation ,88.5184
+Sell,SYF,Synchrony Financial Common Stoc,86.4195
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,97.3988
+Sell,HPE,Hewlett Packard Enterprise Company,87.9628
+Sell,CSRA,CSRA Inc.,85.1871
+Sell,INFO,IHS Markit Ltd.,86.783
+Sell,UAA,Under Armour  Inc. Class A,97.9801

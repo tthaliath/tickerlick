@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XIVH,UBS AG VelocityShares VIX Short,,
+IBDR,iShares iBonds Dec 2026 Term Co,,
+SFIG,WisdomTree Fundamental U.S. Sho,,
+SBBC,Scorpio Tankers Inc. 8.25 Seni,,
+BSCQ,GuggenheimBulletShares2026Corpo,,
+SD,Sandridge Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+BWP,Boardwalk Pipeline Partners LP  ,Basic Materials,Oil & Gas Pipelines
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+CONE,Cyrusone Inc. ,Financial,REIT - Diversified
+BBF, BlackRock Municipal Income Inve ,Financial,Closed-End Fund - Debt
+CORP,PIMCO Investment Grade Corporate Bond Index Fund ETF,Fixed Income ETF,
+NRCIA,National Research Corp. ,N/A,N/A
+CHCT,Community Healthcare Trust Incorporated,N/A,N/A
+BMCH,BMC Stock Holdings  Inc.,N/A,N/A
+RUSHA,Rush Enterprises Inc. ,NULL,NULL
+BT,BT Group plc Common ,Technology,Telecom Services - Foreign
+NYLD,NRG Yield Inc. ,Utilities,Electric Utilities

@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+NMIH,NMI Holdings Inc. ,Financial,Surety & Title Insurance
+CBU,Community Bank System Inc. Com ,Financial,Regional - Northeast Banks
+EBTC,Enterprise Bancorp Inc ,Financial,Savings & Loans
+USMD, USMD Holdings  Inc. ,Healthcare,Hospitals
+TREX,Trex Company Inc. Common ,Industrial Goods,General Building Materials
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A
+GBDC, Golub Capital BDC  Inc. ,N/A,N/A
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+FSD, First Trust High Income Long Sh ,N/A,N/A
+FSC, Fifth Street Finance Corp. ,N/A,N/A
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+TLYS, Tilly's  Inc. Common ,Services,Apparel Stores
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+QADA,QAD Inc. ,Technology,Application Software

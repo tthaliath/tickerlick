@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FIZZ,National Beverage Corp. ,Consumer Goods,Beverages - Soft Drinks
+INCY,Incyte Corporation ,Healthcare,Biotechnology
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+IBP,Installed Building Products Inc. ,Industrial Goods,General Building Materials
+ATRA,Atara Biotherapeutics Inc.,N/A,N/A
+AUPH,Aurinia Pharmaceuticals Inc,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+CMCM,Cheetah Mobile Inc. American De,Technology,Application Software
+ATVI,Activision Blizzard Inc ,Technology,Multimedia & Graphics Software
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers

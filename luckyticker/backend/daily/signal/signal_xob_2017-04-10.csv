@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PBT,Permian Basin Royalty Trust Com ,Basic Materials,Independent Oil & Gas
+HOFT, Hooker Furniture Corporation ,Consumer Goods,Home Furnishings & Fixtures
+TTF, Thai Fund  Inc. (The) Common St ,Financial,Closed-End Fund - Foreign
+APO, Apollo Global Management  LLC C ,Financial,Diversified Investments
+SMIN,iShares MSCI India Small Cap ETF,Global Equity ETF,
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+EML,Eastern Company (The) ,Industrial Goods,Small Tools & Accessories
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+CYAD,Celyad SA,N/A,N/A
+IIF, Morgan Stanley India Investment ,N/A,N/A
+WFM, Whole Foods Market  Inc. ,Services,Grocery Stores
+TCX,Tucows Inc. Class A Common Stoc ,Technology,Internet Information Providers
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services

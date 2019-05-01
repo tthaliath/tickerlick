@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HDLV,ETRACS Montly Pay 2xLeveraged U ,,
+INSE,Inspired Entertainment  Inc.,,
+DUG,ProShares UltraShort Oil & Gas ETF,Commodity Based ETF,
+SCO,ProShares UltraShort DJ-UBS Crude Oil ETF,Commodity Based ETF,
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+MQY, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+RPAI, Retail Properties of America  I ,Financial,REIT - Diversified
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+PGP, Pimco Global ,N/A,N/A
+DNO, United States Short Oil Fund ,N/A,N/A
+BDCL, 2xLeveraged Long Exchange Trade ,N/A,N/A
+VGI, Virtus Global Multi-Sector Inco ,N/A,N/A
+SGG, iPath DJ-UBS Sugar Subindex Tot ,N/A,N/A
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+MHLA,Maiden Holdings  Ltd. 6.625% No ,N/A,N/A
+ERY, Direxion Energy Bear 3X Shares ,N/A,N/A
+MYI, Blackrock MuniYield Quality Fun ,N/A,N/A
+NRO, Neuberger Berman Real Estate Se ,N/A,N/A
+ZF, Zweig Fund  Inc. (The) Common S ,N/A,N/A
+SIEN,Sientra Inc.,N/A,N/A
+HPS, John Hancock Preferred Income F ,N/A,N/A
+ADTN,ADTRAN Inc. ,Technology,Communication Equipment
+RYU,Guggenheim S&P Equal Weight Utilities ETF,US Equity ETF,
+ATO,Atmos Energy Corporation Common ,Utilities,Gas Utilities
+IDA, IDACORP  Inc. Common ,Utilities,Electric Utilities
+POR,Portland General Electric Co Co ,Utilities,Electric Utilities

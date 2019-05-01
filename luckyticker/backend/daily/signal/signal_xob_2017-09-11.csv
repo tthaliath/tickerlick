@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UBR,ProShares Ultra MSCI Brazil ETF,Commodity Based ETF,
+FBR,Fibria Celulose S.A. ,Consumer Goods,Paper & Paper Products
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+DLR,Digital Realty Trust Inc. Comm ,Financial,REIT - Office
+GTY, Getty Realty Corporation Common ,Financial,REIT - Retail
+CMCT,CIM Commerical Trust Corp. ,Financial,REIT - Industrial
+DFT,Dupont Fabros Technology Inc.  ,Financial,Property Management
+FLN,First Trust Latin America AlphaDEX ETF,Global Equity ETF,
+REMX,Market Vectors Rare Earth/Strategic Metals ETF,Global Equity ETF,
+EWZ,iShares MSCI Brazil Index Fund ETF,Global Equity ETF,
+INGN,Inogen Inc. ,Healthcare,Medical Instruments & Supplies
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+DBBR,db X-trackers MSCI Brazil Hedged Eq ETF ,N/A,N/A
+CUPM,iPath Pure Beta Copper ETN ,N/A,N/A
+BRZU,Direxion Daily Brazil Bull 3X Shares ,N/A,N/A
+IXYS,IXYS Corporation ,Technology,Semiconductor - Specialized
+STM,STMicroelectronics N.V. Common  ,Technology,Semiconductor - Broad Line

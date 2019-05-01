@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CTNN,iPath Pure Beta Cotton ETN ,,
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+CRZO,Carrizo Oil & Gas Inc. ,Basic Materials,Independent Oil & Gas
+LPI, Laredo Petroleum Holdings  Inc. ,Basic Materials,Independent Oil & Gas
+OII,Oceaneering International Inc. ,Basic Materials,Oil & Gas Equipment & Services
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+FTI,FMC Technologies Inc. Common S ,Basic Materials,Oil & Gas Equipment & Services
+TBF,ProShares Short 20+ Year Treasury ETF,Commodity Based ETF,
+TTT,ProShares UltraPro Short 20+ Year Treasury ETF,Commodity Based ETF,
+TBT,ProShares UltraShort 20+ Year Treasury ETF,Commodity Based ETF,
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+BLBD,BOLDFACE GROUP INC.,Consumer Goods,Auto Manufacturers - Major
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+MLHR,Herman Miller Inc. ,Consumer Goods,Business Equipment
+ANCX,Access National Corporation ,Financial,Regional - Mid-Atlantic Banks
+IOIL,IndexIQ Global Oil Small Cap ETF,Global Equity ETF,
+FAN,First Trust ISE Global Wind Energy ETF,Global Equity ETF,
+FLN,First Trust Latin America AlphaDEX ETF,Global Equity ETF,
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+AP,Ampco-Pittsburgh Corporation Co ,Industrial Goods,Diversified Machinery
+CLH,Clean Harbors Inc. Common Stoc ,Industrial Goods,Waste Management
+MRC, MRC Global Inc. Common ,Industrial Goods,Machine Tools & Accessories
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+EDF, Stone Harbor Emerging Markets I ,N/A,N/A
+GCC, GreenHaven Continuous Commodity ,N/A,N/A
+JRO, Nuveen Floating Rate Income Opp ,N/A,N/A
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+TMV, Direxion Daily 30-Yr Treasury B ,N/A,N/A
+EDI,Stone Harbor Emerging Markets T ,N/A,N/A
+JSD, Nuveen Short Duration Credit Op ,N/A,N/A
+FRAN, Francesca's Holdings Corporatio ,Services,Specialty Retail  Other
+TJX,TJX Companies Inc. (The) Commo ,Services,Department Stores
+GSH,Guangshen Railway Company Limit ,Services,Railroads
+BBBY,Bed Bath & Beyond Inc. ,Services,Home Furnishing Stores
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+WIT,Wipro Limited Common ,Technology,Information Technology Services
+SWX,Southwest Gas Corporation Commo ,Utilities,Gas Utilities

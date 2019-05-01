@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RISE,Sit Rising Rate ETF,,
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+NOV,National Oilwell Varco Inc. Co ,Basic Materials,Oil & Gas Equipment & Services
+CLF,Cliffs Natural Resources Inc Co ,Basic Materials,Steel & Iron
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+OCIP,OCI Partners LP ,Basic Materials,Chemicals - Major Diversified
+TESO,Tesco Corporation ,Basic Materials,Oil & Gas Equipment & Services
+REMX,Market Vectors Rare Earth/Strategic Metals ETF,Global Equity ETF,
+MKTAY,Makita Corp. ,NULL,NULL
+GWW, W.W. Grainger  Inc. Common Stoc ,Services,Industrial Equipment Wholesale
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+MCK,McKesson Corporation Common Sto ,Services,Drugs Wholesale
+RECN,Resources Connection Inc. ,Services,Management Services
+IBM, International Business Machines ,Technology,Diversified Computer Systems
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities

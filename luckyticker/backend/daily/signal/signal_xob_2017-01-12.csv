@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SFLA,iPath Long Extended S&P 500 TR  ,,
+BPT,BP Prudhoe Bay Royalty Trust Co ,Basic Materials,Oil & Gas Refining & Marketing
+DKL,Delek Logistics Partners LP ,Basic Materials,Independent Oil & Gas
+SHI,SINOPEC Shangai Petrochemical C ,Basic Materials,Oil & Gas Refining & Marketing
+VAL,Valspar Corporation (The) Commo ,Basic Materials,Specialty Chemicals
+URA,Global X Uranium ETF,Global Equity ETF,
+ENZY,Enzymotec Ltd. ,Healthcare,Biotechnology
+ILMN, Illumina  Inc. ,Healthcare,Biotechnology
+ICLR, ICON plc ,Healthcare,Medical Laboratories & Research
+SCAI,Surgical Care Affiliates  Inc. ,N/A,N/A
+QEH, AdvisorShares QAM Equity Hedge ,N/A,N/A
+ABCO,The Advisory Board Company ,Services,Business Services
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+BOX,SeaCube Container Leasing Ltd.  ,Services,Rental & Leasing Services
+UCTT,Ultra Clean Holdings Inc. ,Technology,Semiconductor - Specialized
+HQY,HealthEquity Inc.,Technology,Healthcare Information Services
+HCHC,HC2 HOLDINGS INC,Technology,Long Distance Carriers

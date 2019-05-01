@@ -1,0 +1,5 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNXT,Market Vectors ChinaAMC SME-ChN ,,
+DTEA,DAVIDsTEA Inc.,Consumer Goods,Food - Major Diversified
+PGP, Pimco Global ,N/A,N/A
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services

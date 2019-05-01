@@ -1,0 +1,259 @@
+ticker,name,sector,industry
+CBG,CBRE Group Inc Common ,Financial,Property Management
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+FITB, Fifth Third Bancorp ,Financial,Regional - Midwest Banks
+INTU,Intuit Inc. ,Technology,Application Software
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+BXP,Boston Properties Inc. Common  ,Financial,REIT - Office
+VRSN,VeriSign Inc. ,Technology,Application Software
+SBUX,Starbucks Corporation ,Services,Specialty Eateries
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+NKE,Nike Inc. Common ,Consumer Goods,Textile - Apparel Footwear & Accessories
+ESS,Essex Property Trust Inc. Comm ,Financial,REIT - Residential
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+AXP,American Express Company Common ,Financial,Credit Services
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans
+OI,Owens-Illinois Inc. Common Sto ,Consumer Goods,Packaging & Containers
+PPG,PPG Industries Inc. Common Sto ,Basic Materials,Specialty Chemicals
+LKQ, LKQ Corporation ,Services,Auto Parts Wholesale
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+VMM, Delaware Investments Minnesota  ,Financial,Closed-End Fund - Debt
+JPC, Nuveen  Preferred Income Opport ,N/A,N/A
+ETV, Eaton Vance Corporation Eaton V ,Financial,Closed-End Fund - Equity
+FIT,Fitbit Inc.,Technology,Scientific & Technical Instruments
+VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income ETF,
+CEV, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+TRCO,Tribune Media Company Class A C,Services,Publishing - Newspapers
+FAD,First Trust Multi CG AlphaDEX ETF,US Equity ETF,
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+TLO,SPDR Barclays Capital Long Term Treasury ETF,Fixed Income ETF,
+PHO,PowerShares Water Resource Port ETF,US Equity ETF,
+NVDQ, Novadaq Technologies Inc ,Healthcare,Medical Laboratories & Research
+TGH,Textainer Group Holdings Limite ,Services,Rental & Leasing Services
+BAB,PowerShares Build America Bond Portfolio ETF,Fixed Income ETF,
+IEP, Icahn Enterprises L.P. ,Financial,Property Management
+NNC, Nuveen North Carolina Premium I ,Financial,Closed-End Fund - Debt
+IRR, ING Risk Managed Natural Resour ,N/A,N/A
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+TOK,iShares MSCI Kokusai ETF,Global Equity ETF,
+SXL,Sunoco Logistics Partners LP Co ,Basic Materials,Oil & Gas Pipelines
+FAM, First Trust/Aberdeen Global Opp ,N/A,N/A
+SNN,Smith & Nephew SNATS Inc. Comm ,Healthcare,Medical Appliances & Equipment
+KBWD,PowerShares KBW High Dividend Yield Financial Portfolio ETF,US Equity ETF,
+FUND, Royce Focus Trust  Inc. ,Financial,Closed-End Fund - Equity
+ASML,ASML Holding N.V. ,NULL,NULL
+DDF, Delaware Investments Dividend & ,Financial,Closed-End Fund - Equity
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+TKF, Turkish Investment Fund  Inc. ( ,N/A,N/A
+ISCF,iShares FactorSelect MSCI Intl Small-Cap,N/A,N/A
+ALTS,ProShares Morningstar Alternati ,,
+FEN, First Trust Energy Income and G ,N/A,N/A
+VRP,PowerShares Variable Rate Prefe ,,
+RPM,RPM International Inc. Common S ,Basic Materials,Specialty Chemicals
+WBII,WBI Tactical Income Shares ,,
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+UTF, Cohen & Steers Infrastructure F ,Financial,Closed-End Fund - Equity
+LEMB,iShares Emerging Markets Local Currency Bond Fund ETF,Fixed Income ETF,
+NKX, Nuveen California AMT-Free Muni ,N/A,N/A
+QDYN,FlexShares Quality Dividend Dynamic ,N/A,N/A
+JCE, Nuveen Core Equity Alpha Fund N ,N/A,N/A
+VNM,Market Vectors Vietnam ETF,Global Equity ETF,
+JRI, Nuveen Real Asset Income and Gr ,N/A,N/A
+SOIL,Global X Fertilizers/Potash ETF,Global Equity ETF,
+GIL,Gildan Activewear Inc. Class A ,Consumer Goods,Textile - Apparel Clothing
+SDY,SPDR S&P Dividend ETF,US Equity ETF,
+NXR, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+IWN,iShares Russell 2000 Value ETF,US Equity ETF,
+OFIX,Orthofix International N.V. ,Healthcare,Medical Appliances & Equipment
+PFM,PowerShares Dividend Achievers ETF,US Equity ETF,
+BBN, BlackRock Build America Bond Tr ,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+MODN,Model N Inc. ,N/A,N/A
+DSL,DoubleLine Income Solutions Fun ,N/A,N/A
+MIE,Cohen and Steers MLP Income and E ,N/A,N/A
+PIO,PowerShares Global Water Portfolio ETF,Global Equity ETF,
+KFH, KKR Financial Holdings LLC 8.37 ,N/A,N/A
+EOD, Wells Fargo Advantage Global Di ,N/A,N/A
+NNY, Nuveen New York Municipal Value ,Financial,Closed-End Fund - Debt
+QTWN,SPDR MSCI Taiwan Quality Mix ET ,,
+QAI, IQ Hedge MultiIQ Hedge Multi-St ,N/A,N/A
+PXMG,PowerShares Fundamental Pure Mid Growth Portfolio ETF,US Equity ETF,
+KTF, DSW Municiple Income Trust Comm ,N/A,N/A
+TREE,Tree.com Inc. ,Financial,Mortgage Investment
+EVX,Market Vectors Environment Index ETF Fund ETF,US Equity ETF,
+BKD,Brookdale Senior Living Inc. Co ,Healthcare,Long-Term Care Facilities
+RELY,Real Industry  Inc.,Industrial Goods,Waste Management
+HTD, John Hancock Tax Advantaged Div ,Financial,Closed-End Fund - Equity
+RELX,RELX PLC,N/A,N/A
+AAN,Aaron's Inc. Common ,Services,Rental & Leasing Services
+GTN, Gray Communications Systems  In ,Services,Broadcasting - TV
+RVNU,db X-trackers Muni Infras Revn Bd ETF ,N/A,N/A
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+RDIV,RevenueShares Ultra Dividend ,N/A,N/A
+NYT,New York Times Company (The) Co ,Services,Publishing - Newspapers
+MLR,Miller Industries Inc. Common  ,Consumer Goods,Auto Parts
+UAN, CVR Partners  LP Common Units r ,Basic Materials,Agricultural Chemicals
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+EIS,iShares MSCI Israel Capped Investable Market Index Fund ETF,Global Equity ETF,
+NWHM,The New Home Company LLC ,Industrial Goods,Residential Construction
+IAE, ING Asia Pacific High Dividend  ,N/A,N/A
+FIBG,Credit Suisse FI Enhanced Big Cap Gr ETN ,N/A,N/A
+CGW,Guggenheim S&P Global Water Index ETF,Global Equity ETF,
+BCX, BlackRock Resources Common Shar ,N/A,N/A
+CDK,CDK Global Inc.,Technology,Application Software
+CAR,Avis Budget Group Inc. ,Services,Rental & Leasing Services
+TAO,Guggenheim China Real Estate ETF,Global Equity ETF,
+LGND,Ligand Pharmaceuticals Incorpor ,Healthcare,Drugs - Generic
+NRK, Nuveen New York AMT-Free Munici ,N/A,N/A
+SPXX,Nuveen S&P 500 Dynamic Overwrit,N/A,N/A
+DHS,WisdomTree High-Yielding Equity Fund ETF,US Equity ETF,
+NXQ, Nuveen Select Tax Free Income P ,Financial,Closed-End Fund - Debt
+CYH,Community Health Systems Inc.  ,Healthcare,Hospitals
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+HPS, John Hancock Preferred Income F ,N/A,N/A
+MFD, Macquarie/First Trust Global Co ,Financial,Closed-End Fund - Equity
+PERM, Global X Permanent ETF ,N/A,N/A
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,
+WCG,Wellcare Health Plans Inc. Com ,Healthcare,Health Care Plans
+GYLD, Arrow Dow Jones Global Yield ET ,N/A,N/A
+QVCA,Liberty Interactive Corporation,Services,Catalog & Mail Order Houses
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+RPXC, RPX Corporation ,Services,Business Services
+EVM, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+HYD,Market Vectors High Yield Municipal Index ETF,Fixed Income ETF,
+UAE,iShares MSCI UAE Capped ETF,N/A,N/A
+EQLT,ALPS Workplace Equality ETF ,N/A,N/A
+BSE, Blackrock New York Municipal In ,N/A,N/A
+FKO,First Trust South Korea AlphaDEX ETF,Global Equity ETF,
+AYR,Aircastle Limited Common ,Services,Rental & Leasing Services
+NFJ, NFJ Dividend  Interest & Premiu ,N/A,N/A
+DNI, Dividend and Income Fund Common ,N/A,N/A
+NTP,Nam Tai Property Inc. ,Technology,Diversified Electronics
+BFAM,Bright Horizons Family Solutions Inc. ,Services,Personal Services
+CLDT,Chatham Lodging Trust (REIT) Co ,Financial,REIT - Hotel/Motel
+CVO,Cenveo Inc ,Services,Business Services
+PZC, PIMCO California Municipal Inco ,N/A,N/A
+EUDG,WisdomTree Europe Dividend Grow ,,
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund ETF,Fixed Income ETF,
+JPMV,iShares MSCI Japan Minimum Vola ,,
+GMTB,Columbia Core Bond Strategy ETF,Fixed Income ETF,
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+TLT,iShares Barclays 20 Year Treasury Bond Fund ETF,Fixed Income ETF,
+INB, Cohen & Steers Global Income Bu ,N/A,N/A
+CIZ,Compass EMP International 500 E ,,
+EFAV,iShares MSCI EAFE Minimum Volatility Index Fund ETF,Global Equity ETF,
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+HPF, John Hancock Pfd Income Fund II ,Financial,Closed-End Fund - Debt
+BNDX,Vanguard Total Intl Bd Idx ETF ,N/A,N/A
+FVL,First Trust Value Line 100 Fund ETF,US Equity ETF,
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Fixed Income ETF,
+DPG, Duff & Phelps Global Utility In ,N/A,N/A
+UBT,ProShares Ultra 20+ Year Treasury ETF,Commodity Based ETF,
+PHDG,PowerShares SandP 500 Downside Hdg ,N/A,N/A
+RQI, Cohen & Steers Quality Income R ,Financial,Closed-End Fund - Equity
+IPB, Merrill Lynch & Co.  Inc. 6.051 ,N/A,N/A
+CEMP, Cempra  Inc. ,Healthcare,Biotechnology
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+QJPN,SPDR MSCI Japan Quality Mix ETF ,,
+SGZA,Selective Insurance Group Inc. ,N/A,N/A
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+MYC, Blackrock MuniYield California  ,Financial,Closed-End Fund - Debt
+BWZ,SPDR Barclays Capital Short Term International Treasury Bond ETF,Fixed Income ETF,
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+EPAY,Bottomline Technologies Inc. ,Technology,Business Software & Services
+W,Wayfair Inc. Class A Common Sto,Services,Catalog & Mail Order Houses
+PRN, PowerShares Dynamic Industrials ,N/A,N/A
+AMBR,Amber Road Inc. ,Technology,Application Software
+AWP, Alpine Global Premier Propertie ,N/A,N/A
+GNC, GNC Holdings  Inc. Class A Comm ,Services,Drug Stores
+USAG,United States Agriculture Index ,N/A,N/A
+XSLV,PowerShares SandP SmallCap Low Volatility ,N/A,N/A
+ACM,Aecom Technology Corporation Co ,Services,Technical Services
+BXMX,Nuveen S&P 500 Buy-Write Income,N/A,N/A
+CSD,Guggenheim Spin-Off ETF,US Equity ETF,
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+SPHD,PowerShares Sandamp;P 500 High Div Portfolio ,N/A,N/A
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+FGM,First Trust Germany AlphaDEX ETF,Global Equity ETF,
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+LDP, Cohen & Steers Limited Duration ,N/A,N/A
+NEA, Nuveen AMT-Free Municipal Incom ,N/A,N/A
+CSGP,CoStar Group Inc. ,Services,Business Services
+PAY,Verifone Systems Inc. Common S ,Consumer Goods,Business Equipment
+ADRA,PowerShares BLDRS Asia 50 ADR Index Fund ETF,US Equity ETF,
+NIQ,Nuveenn Intermediate Duration Q ,N/A,N/A
+IID, ING International High Dividend ,N/A,N/A
+SWM,Schweitzer-Mauduit Internationa ,Consumer Goods,Paper & Paper Products
+MHI, Pioneer Municipal High Income T ,N/A,N/A
+NRIM,Northrim BanCorp Inc ,Financial,Regional - Pacific Banks
+GRA,W.R. Grace & Co. Common ,Basic Materials,Specialty Chemicals
+LNG,Cheniere Energy Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+KONA,Kona Grill Inc. ,Services,Restaurants
+SMFG,Sumitomo Mitsui Financial Group ,Financial,Foreign Regional Banks
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+IDHQ,PowerShares Dynamic Developed International Opportunities Portfolio ETF,Global Equity ETF,
+SMHD,ETRACS Monthly Pay 2xLeveraged ,,
+FKU,First Trust United Kingdom AlphaDEX ETF,Global Equity ETF,
+LMLP,LML Payment Systems Inc. ,Services,Business Services
+SRV, The Cushing MLP Total Return Fu ,N/A,N/A
+ALD,WisdomTree Asia Local Debt Fund ETF,Fixed Income ETF,
+AUNZ,WisdomTree Australia & New Zealand Debt Fund,Fixed Income ETF,
+RESI,Altisource Residential Corporation ,Financial,REIT - Residential
+AF,Astoria Financial Corporation C ,Financial,Savings & Loans
+EFAD,ProShares Trust ProShares MSCI  ,,
+AGTC,Applied Genetic Technologies Corporation ,Healthcare,Biotechnology
+PLW,PowerShares 1-30 Treasury Ladder Portfolio ETF,Fixed Income ETF,
+GPM, Guggenheim Enhanced Equity Inco ,N/A,N/A
+IHG, Intercontinental Hotels Group A ,N/A,N/A
+HF, HFF  Inc. Common ,Financial,Mortgage Investment
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund ETF,US Equity ETF,
+EWUS,iShares MSCI United Kingdom Small Cap,Global Equity ETF,
+DBL, DoubleLine Opportunistic Credit ,N/A,N/A
+PZI,PowerShares Zacks Micro Cap ETF,US Equity ETF,
+NBB, Nuveen Build America Bond Fund  ,N/A,N/A
+RENX,RELX NV,N/A,N/A
+SHAK,Shake Shack Inc. Class A Commo,Services,Specialty Eateries
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+TCRD,THL Credit Inc. ,Financial,Asset Management
+LTRPA,Liberty TripAdvisor Holdings I,Consumer Goods,Recreational Goods Other
+AGD, Alpine Global Dynamic Dividend  ,Financial,Closed-End Fund - Foreign
+DGT,SPDR DJ Global Titans ETF,Global Equity ETF,
+RELL,Richardson Electronics Ltd. ,Services,Electronics Wholesale
+FIW,First Trust ISE Water Index Fund ETF,US Equity ETF,
+GEX,Market Vectors Global Alternative Energy ETF,Global Equity ETF,
+KEF, Korea Equity Fund  Inc. Common  ,N/A,N/A
+QEFA,SPDR EURO STOXX Small Cap ETF ,,
+NDSN,Nordson Corporation ,Industrial Goods,Diversified Machinery
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+TCBK,TriCo Bancshares ,Financial,Regional - Pacific Banks
+ENX, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+WBB,Westbury Bancorp Inc. ,Financial,Regional - Northeast Banks
+BKK, Blackrock Municipal 2020 Term T ,Financial,Closed-End Fund - Debt
+NBW, Neuberger Berman California Int ,N/A,N/A
+SCHL,Scholastic Corporation ,Services,Publishing - Books
+MSG,The Madison Square Garden Compa ,Services,Entertainment - Diversified
+GRFS, Grifols  S.A. ,N/A,N/A
+NZF, Nuveen Dividend Advantage Munic ,N/A,N/A
+IEUS,iShares Developed Small Cap ex,N/A,N/A
+ENZL,iShares MSCI New Zealand Investable Market Index Fund (ENZL) ETF,Global Equity ETF,
+FPL,First Trust New Opportunities M ,N/A,N/A
+DRA,Diversified Real Asset Income F,N/A,N/A
+CBAN,Colony Bankcorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+ADRU,PowerShares BLDRS Europe 100 ADR Index Fund ETF,US Equity ETF,
+FNY,First Trust Mid Cap Growth AlphaDEX ETF,US Equity ETF,
+RNST,Renasant Corporation ,Financial,Regional - Southeast Banks
+FII,Federated Investors Inc. Commo ,Financial,Asset Management
+JLS, Nuveen Mortgage Opportunity Ter ,N/A,N/A
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+ATTU, Attunity Ltd. ,Technology,Technical & System Software
+LOXO,Loxo Oncology Inc.,Healthcare,Biotechnology
+AKP, Alliance California Municipal I ,Financial,Closed-End Fund - Debt

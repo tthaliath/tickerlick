@@ -1,0 +1,32 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+MOS,Mosaic Company (The) Common Sto ,Basic Materials,Specialty Chemicals
+FOSL,Fossil Inc. ,Consumer Goods,Recreational Goods Other
+DDR,DDR Corp. Common ,Financial,REIT - Retail
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+THG,Hanover Insurance Group Inc ,Financial,Property & Casualty Insurance
+ARDX,Ardelyx Inc.,Healthcare,Biotechnology
+GWPH,GW Pharmaceuticals plc ,Healthcare,Drug Manufacturers - Major
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+DERM,Dermira Inc.,Healthcare,Biotechnology
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+CECE,CECO Environmental Corp. ,Industrial Goods,Pollution & Treatment Controls
+PWR,Quanta Services Inc. Common St ,Industrial Goods,General Contractors
+CDOR,Condor Hospitality Trust Inc.,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+SP,SP Plus Corporation ,N/A,N/A
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+CHRW,C.H. Robinson Worldwide Inc. ,Services,Air Delivery & Freight Services
+JMBA,Jamba Inc. ,Services,Restaurants
+PHII,PHI Inc. ,Services,Air Services Other
+HUBG, Hub Group  Inc. ,Services,Air Delivery & Freight Services
+NSSC,NAPCO Security Technologies In ,Services,Security & Protection Services
+STN,Stantec Inc Common ,Services,Technical Services
+M,Macy's Inc Common ,Services,Department Stores
+IMAX, Imax Corporation Common ,Services,Entertainment - Diversified
+HCKT, The Hackett Group  Inc. ,Services,Management Services
+CAR,Avis Budget Group Inc. ,Services,Rental & Leasing Services
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+CALL,magicJack VocalTec Ltd ,Technology,Telecom Services - Domestic

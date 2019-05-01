@@ -1,0 +1,179 @@
+ticker,name,sector,industry
+A,Agilent Technologies Inc. Comm ,Technology,Scientific & Technical Instruments
+TGT,Target Corporation Common ,Services,Discount Variety Stores
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+WU,Western Union Company (The) Com ,Services,Business Services
+PRGO,Perrigo Company ,Healthcare,Drug Related Products
+CCL,Carnival Corporation Common Sto ,Services,Resorts & Casinos
+HBI, Hanesbrands Inc. Common ,Consumer Goods,Textile - Apparel Clothing
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+EVO, Eaton Vance Ohio Municipal Inco ,Financial,Closed-End Fund - Debt
+FCEL,FuelCell Energy Inc. ,Industrial Goods,Industrial Electrical Equipment
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+PGP, Pimco Global ,N/A,N/A
+GOODP,Gladstone Commercial Corp. ,N/A,N/A
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+GRX, The Gabelli Healthcare & Wellne ,N/A,N/A
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+NVIV,InVivo Therapeutics Holdings Corp.,Healthcare,Biotechnology
+GBAB, Guggenheim Build America Bonds  ,N/A,N/A
+ACCO, Acco Brands Corporation Common  ,Consumer Goods,Office Supplies
+ACWF,iShares FactorSelect MSCI Global,N/A,N/A
+WIW, Western Asset/Claymore Inflatio ,N/A,N/A
+KONE,Kingtone Wirelessinfo Solution  ,Technology,Business Software & Services
+CUK,Carnival Plc ADS ADS ,Services,General Entertainment
+JCP,J.C. Penney Company Inc. Holdi ,Services,Department Stores
+EIP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+SN, Sanchez Energy Corporation Comm ,Basic Materials,Independent Oil & Gas
+FEUZ,First Trust Eurozone AlphaDEX E ,,
+NCR,NCR Corporation Common ,Technology,Information Technology Services
+TRS,TriMas Corporation ,Industrial Goods,Industrial Equipment & Components
+NYH, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+CGEN,Compugen Ltd. ,Healthcare,Biotechnology
+NXC, Nuveen California Select Tax-Fr ,Financial,Closed-End Fund - Debt
+BBF, BlackRock Municipal Income Inve ,Financial,Closed-End Fund - Debt
+NUM, Nuveen Michigan Quality Income  ,Financial,Closed-End Fund - Debt
+IXJ,iShares S&P Global Healthcare Index Fund ETF,Global Equity ETF,
+KFFB,Kentucky First Federal Bancorp ,Financial,Savings & Loans
+TCCB,Triangle Capital Corporation 6.,N/A,N/A
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+NZH, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+SIX,Six Flags Entertainment Corpora ,Services,General Entertainment
+CURE, Direxion Daily Healthcare Bull  ,N/A,N/A
+CHI, Calamos Convertible Opportuniti ,N/A,N/A
+TIME,Time Inc. Common,Services,Publishing - Periodicals
+HEQ, John Hancock Hedged Equity & In ,N/A,N/A
+IYH,iShares Dow Jones U.S. Health Care Index Fund ETF,US Equity ETF,
+EWU,iShares MSCI United Kingdom Index Fund ETF,Global Equity ETF,
+PML, Pimco Municipal Income Fund II  ,N/A,N/A
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+WAIR, Wesco Aircraft Holdings  Inc. C ,Services,Industrial Equipment Wholesale
+AB,Allianceberstein Holding L.P.   ,Financial,Asset Management
+BX,The Blackstone Group L.P. Commo ,Financial,Asset Management
+UBC, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+CDTX,Cidara Therapeutics  Inc.,Healthcare,Biotechnology
+WIA, Western Asset/Claymore Inflatio ,Financial,Closed-End Fund - Debt
+LIND,Lindblad Expeditions Holdings Inc.,Consumer Goods,Recreational Goods  Other
+ASC,Ardmore Shipping Corporation ,Services,Shipping
+NBD, Nuveen Build America Bond Oppor ,N/A,N/A
+PKE,Park Electrochemical Corporatio ,Technology,Printed Circuit Boards
+KSM, DSW Strategic Municiple Income  ,N/A,N/A
+TRSK,VelocityShares Tail Risk Hedged ,,
+NYV, Nuveen New York Municipal Value ,N/A,N/A
+MYN, Blackrock MuniYield New York Qu ,N/A,N/A
+CSOD, Cornerstone OnDemand  Inc. ,Technology,Multimedia & Graphics Software
+FCFS,First Cash Financial Services  ,Financial,Credit Services
+NMZ, Nuveen Municipal High Income Op ,Financial,Closed-End Fund - Debt
+HEES, H&E Equipment Services  Inc. ,Industrial Goods,Industrial Equipment & Components
+PPH,Market Vectors Pharmaceutical ETF,US Equity ETF,
+SALM,Salem Communications Corporatio ,Services,Broadcasting - Radio
+RNG,RingCentral Inc. ,Technology,Application Software
+ADRO,Aduro BioTech  Inc.,Healthcare,Biotechnology
+MIW, Eaton Vance Michigan Municipal  ,Financial,Closed-End Fund - Debt
+BOOM,Dynamic Materials Corporation ,Industrial Goods,Metal Fabrication
+SP,SP Plus Corporation ,N/A,N/A
+ICSH,iShares Liquidity Income ETF,N/A,N/A
+ECHO,Echo Global Logistics Inc. ,Services,Trucking
+MMT, MFS Multimarket Income Trust Co ,Financial,Closed-End Fund - Debt
+IRY,SPDR S&P International Health Care Sector ETF,Global Equity ETF,
+FHLC,Fidelity MSCI Health Care Index ETF ,N/A,N/A
+BLH, Blackrock New York Municipal 20 ,Financial,Closed-End Fund - Debt
+RMT, Royce Micro-Cap Trust  Inc. Com ,Financial,Closed-End Fund - Equity
+VFL, Delaware Investments National M ,N/A,N/A
+MYD, Blackrock MuniYield Fund  Inc.  ,Financial,Closed-End Fund - Debt
+MUC, Blackrock MuniHoldings Californ ,N/A,N/A
+MHN, Blackrock MuniHoldings New York ,N/A,N/A
+CASS,Cass Information Systems Inc ,Services,Business Services
+MQY, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+UCBA,United Community Bancorp ,Financial,Savings & Loans
+CG, The Carlyle Group L.P. ,Financial,Asset Management
+MMD, MainStay DefinedTerm Municipal  ,N/A,N/A
+XLV,SPDR Health Care Select Sector Fund ETF,US Equity ETF,
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+MUB,iShares S&P National Municipal Bond Fund ETF,Fixed Income ETF,
+LADR,Ladder Capital Corp ,Financial,Savings & Loans
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+YCL,ProShares Ultra Yen ETF,Commodity Based ETF,
+FLDM, Fluidigm Corporation ,Technology,Scientific & Technical Instruments
+BAF, BlackRock Municipal Income Inve ,N/A,N/A
+ZF, Zweig Fund  Inc. (The) Common S ,N/A,N/A
+SFL,Ship Finance International Limi ,Services,Shipping
+EGPT,Market Vectors Egypt Index ETF,Global Equity ETF,
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+JHS, John Hancock Income Securities  ,Financial,Closed-End Fund - Debt
+MMU, Western Asset Managed Municipal ,N/A,N/A
+PDT, John Hancock Premium Dividend F ,N/A,N/A
+ALEX,Alexander & Baldwin Inc. Commo ,Services,Shipping
+EXAR,Exar Corporation ,Technology,Semiconductor - Integrated Circuits
+NUW, Nuveen AMT-Free Municipal Value ,N/A,N/A
+MVT, Blackrock MuniVest Fund II  Inc ,Financial,Closed-End Fund - Debt
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+MUE, Blackrock MuniHoldings Quality  ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+PCQ, PIMCO California Municipal Inco ,N/A,N/A
+VGM, Invesco Van Kampen Trust for In ,N/A,N/A
+MIK,The Michaels Companies Inc.,Services,Specialty Retail Other
+VAL,Valspar Corporation (The) Commo ,Basic Materials,Specialty Chemicals
+VBFC,Village Bank and Trust Financia ,Financial,Regional - Mid-Atlantic Banks
+IPS,SPDR S&P International Consumer Staples Sector ETF,Global Equity ETF,
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+CCE,Coca-Cola Enterprises Inc. Com ,Consumer Goods,Beverages - Soft Drinks
+VHT,Vanguard Health Care ETF - DNQ ETF,US Equity ETF,
+PNF, PIMCO New York Municipal Income ,N/A,N/A
+CZFC,Citizens First Corporation ,Financial,Regional - Southeast Banks
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+PEY,PowerShares Dividend Achievers ETF,US Equity ETF,
+NUV, Nuveen Municipal Value Fund  In ,Financial,Closed-End Fund - Debt
+KST, DSW Strategic Income Trust Comm ,N/A,N/A
+GGN, GAMCO Global Gold  Natural Reso ,N/A,N/A
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+PLNT,Planet Fitness,,
+JKJ,iShares Morningstar Small Core Index Fund ETF,US Equity ETF,
+GMMB,Columbia Intermediate Municipal Bond Strategy ETF,Fixed Income ETF,
+CLM, Cornerstone Strategic Value Fun ,Financial,Closed-End Fund - Equity
+MBLY,Mobileye N.V. Ordinary Shares,Technology,Application Software
+DATA,Tableau Software Inc. ,Technology,Application Software
+CMF,iShares S&P Cali Muni Bond ETF,Fixed Income ETF,
+HIPS,Master Income ETF,,
+ITM,Market Vectors Intermediate Municipal ETF,Fixed Income ETF,
+HURN, Huron Consulting Group Inc. ,Services,Management Services
+HPI, John Hancock Preferred Income F ,N/A,N/A
+ASRVP,AmeriServ Financial Inc. ,N/A,N/A
+PKOH,Park-Ohio Holdings Corp. ,Industrial Goods,Metal Fabrication
+NAN, Nuveen New York Dividend Advant ,N/A,N/A
+PAL,North American Palladium Ltd.  ,Basic Materials,Industrial Metals & Minerals
+PJP,PowerShares Dynamic Pharmaceuticals ETF,US Equity ETF,
+BDGE,Bridge Bancorp Inc. ,Financial,Regional - Northeast Banks
+VRX,Valeant Pharmaceuticals Interna ,Healthcare,Drug Delivery
+RCKY,Rocky Brands Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+NAD, Nuveen Dividend Advantage Munic ,Financial,Closed-End Fund - Debt
+EVN, Eaton Vance Municipal Income Tr ,Financial,Closed-End Fund - Debt
+KKR,KKR & Co. L.P. Common Units Rep ,Financial,Asset Management
+ISL, Aberdeen Israel Fund  Inc. (The ,N/A,N/A
+MNP, Western Asset Municipal Partner ,N/A,N/A
+ALKS,Alkermes plc ,Healthcare,Drug Delivery
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+MIY, Blackrock MuniYield Michigan Qu ,N/A,N/A
+MVF, Blackrock MuniVest Fund  Inc. C ,Financial,Closed-End Fund - Debt
+NVX, Nuveen California Dividend Adva ,Financial,Closed-End Fund - Debt
+CSF,Compass EMP U.S. Discovery 500 ,,
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+NVG, Nuveen Dividend Advantage Munic ,N/A,N/A
+YYY,YieldShares High Income ETF ,N/A,N/A
+NXP, Nuveen Select Tax Free Income P ,N/A,N/A
+IQI, Invesco Quality Municipal Incom ,N/A,N/A
+CCV,Comcast Corporation ,N/A,N/A
+NBO, Neuberger Berman New York Inter ,N/A,N/A
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+IIM, Invesco Value Municipal Income  ,N/A,N/A
+RXL,ProShares Ultra Health Care ETF,Commodity Based ETF,
+EVP, Eaton Vance Pennsylvania Munici ,Financial,Closed-End Fund - Debt
+GTAA,AdvisorShares Cambria Global Tactical ETF,Global Equity ETF,
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A

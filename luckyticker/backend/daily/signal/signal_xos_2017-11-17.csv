@@ -1,0 +1,54 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LAUR,Laureate Education  Inc.,,
+LMB,Limbach Holdings  Inc.,,
+DSKE,Daseke  Inc.,,
+INSW,International Seaways  Inc.,,
+VRNA,Verona Pharma plc,,
+IFLY,FactorShares Trust PureFunds Dr,,
+SEMG,Semgroup Corporation Class A Co ,Basic Materials,Oil & Gas Pipelines
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+SA,Seabridge Gold Inc. Ordinary S ,Basic Materials,Gold
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+ITG,Investment Technology Group In ,Financial,Investment Brokerage - Regional
+DUC, Duff & Phelps Utility & Corpora ,Financial,Closed-End Fund - Debt
+RLGY, Realogy Holdings Corp. Common S ,Financial,Property Management
+NORW,Global X FTSE Norway 30 ETF,Global Equity ETF,
+ENOR,iShares MSCI Norway Cppd Investable Mkt,Global Equity ETF,
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+IRIX,IRIDEX Corporation ,Healthcare,Medical Appliances & Equipment
+TPC,Tutor Perini Corporation Common ,Industrial Goods,Heavy Construction
+UFPI,Universal Forest Products Inc. ,Industrial Goods,General Building Materials
+CMI,Cummins Inc. Common ,Industrial Goods,Diversified Machinery
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+LCM, Advent/Claymore Enhanced Growth ,N/A,N/A
+EDF, Stone Harbor Emerging Markets I ,N/A,N/A
+CRVS,Corvus Pharmaceuticals  Inc.,N/A,N/A
+NVTR,Nuvectra Corporation,N/A,N/A
+CYAD,Celyad SA,N/A,N/A
+ISD, Prudential Short Duration High  ,N/A,N/A
+AROC,Archrock  Inc.,N/A,N/A
+IRL, New Ireland Fund  Inc (The) Com ,N/A,N/A
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+CSRA,CSRA Inc.,N/A,N/A
+ESLT,Elbit Systems Ltd. ,NULL,NULL
+RBA,Ritchie Bros. Auctioneers Incor ,Services,Business Services
+UHAL,Amerco ,Services,Rental & Leasing Services
+VSEC,VSE Corporation ,Services,Technical Services
+YRCW,YRC Worldwide Inc. ,Services,Trucking
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+WAIR, Wesco Aircraft Holdings  Inc. C ,Services,Industrial Equipment Wholesale
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+CATM,Cardtronics Inc. ,Services,Business Services
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+KMX,CarMax Inc ,Services,Auto Dealerships
+GSH,Guangshen Railway Company Limit ,Services,Railroads
+EFII,Electronics for Imaging Inc. ,Technology,Computer Peripherals
+TZOO,Travelzoo Inc. ,Technology,Internet Information Providers
+EVH,Evolent Health  Inc.,Technology,Healthcare Information Services
+PAR, PAR Technology Corporation Comm ,Technology,Application Software
+FTR,Frontier Communications Corpora ,Technology,Telecom Services - Domestic
+AMBR,Amber Road Inc. ,Technology,Application Software
+ECOM,ChannelAdvisor Corporation ,Technology,Application Software
+NSIT,Insight Enterprises Inc. ,Technology,Application Software

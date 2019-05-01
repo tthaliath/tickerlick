@@ -1,0 +1,128 @@
+Buy,AKAM,Akamai Technologies Inc. ,4.6281
+Buy,ALB,Albemarle Corporation Common St ,19.9702
+Buy,AMAT,Applied Materials Inc. ,3.96957
+Buy,AMGN,Amgen Inc. ,7.00485
+Buy,AMP,Ameriprise Financial Inc. Comm ,19.2144
+Buy,AMZN,Amazon.com Inc. ,12.5877
+Buy,AN,AutoNation Inc. Common ,10.8186
+Buy,APA,Apache Corporation Common ,11.3725
+Buy,APD,Air Products and Chemicals Inc ,4.62846
+Buy,APH,Amphenol Corporation Common Sto ,3.78416
+Buy,ARE,Alexandria Real Estate Equities ,9.52407
+Buy,ATVI,Activision Blizzard Inc ,3.88218
+Buy,AVGO,Avago Technologies Limited ,10.3818
+Buy,AXP,American Express Company Common ,11.1552
+Buy,AYI,Acuity Brands Inc (Holding Comp ,10.2489
+Buy,CERN,Cerner Corporation ,6.46162
+Buy,CF,CF Industries Holdings Inc. Co ,8.09627
+Buy,CHTR,Charter Communications Inc. ,5.83256
+Buy,CI,Cigna Corporation Common ,4.50262
+Buy,CMCSA,Comcast Corporation ,18.0261
+Buy,CMG,Chipotle Mexican Grill Inc. Co ,7.90448
+Buy,CMI,Cummins Inc. Common ,4.60143
+Buy,CNC,Centene Corporation Common Stoc ,4.70258
+Buy,COG,Cabot Oil & Gas Corporation Com ,4.72256
+Buy,COP,ConocoPhillips Common ,14.0203
+Buy,COST,Costco Wholesale Corporation ,18.8629
+Buy,CRM,Salesforce.com Inc Common ,11.9258
+Buy,CSCO,Cisco Systems Inc. ,2.03389
+Buy,CSX,CSX Corporation Common ,7.89328
+Buy,CTSH,Cognizant Technology Solutions  ,5.37187
+Buy,CTXS,Citrix Systems Inc. ,8.44144
+Buy,CXO,Concho Resources Inc. Common St ,9.03463
+Buy,DD,E.I. du Pont de Nemours and Com ,9.84097
+Buy,DHR,Danaher Corporation Common Stoc ,18.3877
+Buy,DISCA,Discovery Communications Inc ,10.8576
+Buy,DISCK,Discovery Communications Inc ,11.8165
+Buy,GILD,Gilead Sciences Inc. ,17.7392
+Buy,GLW,Corning Incorporated Common Sto ,2.15663
+Buy,GOOG,Alphabet Inc.,16.0269
+Buy,GPN,Global Payments Inc. Common Sto ,15.3907
+Buy,GRMN,Garmin Ltd. ,8.46878
+Buy,INCY,Incyte Corporation ,1.97691
+Buy,INTC,Intel Corporation ,14.5116
+Buy,INTU,Intuit Inc. ,11.2538
+Buy,IP,International Paper Company Com ,6.00148
+Buy,IPG,Interpublic Group of Companies ,14.343
+Buy,IRM,Iron Mountain Incorporated (Del ,11.7441
+Buy,ISRG,Intuitive Surgical Inc. ,9.17528
+Buy,IT,Gartner Inc. Common ,1.66659
+Buy,JNPR,Juniper Networks Inc. Common S ,11.3278
+Buy,KLAC,KLA-Tencor Corporation ,5.57431
+Buy,KMX,CarMax Inc ,9.0939
+Buy,KSU,Kansas City Southern Common Sto ,16.1574
+Buy,LH,Laboratory Corporation of Ameri ,1.63928
+Buy,LMT,Lockheed Martin Corporation Com ,1.19742
+Buy,LNC,Lincoln National Corporation Co ,11.026
+Buy,LRCX,Lam Research Corporation ,1.67252
+Buy,LUK,Leucadia National Corporation C ,15.6484
+Buy,LYB,LyondellBasell Industries NV Or ,6.88934
+Buy,MA,Mastercard Incorporated Common  ,17.5424
+Buy,MAA,Mid-America Apartment Communiti ,9.05427
+Buy,MAS,Masco Corporation Common ,3.13137
+Buy,MCHP,Microchip Technology Incorporat ,5.55976
+Buy,MCO,Moody's Corporation Common Stoc ,13.4519
+Buy,MHK,Mohawk Industries Inc. Common  ,16.4714
+Buy,MLM,Martin Marietta Materials Inc. ,7.02766
+Buy,MRO,Marathon Oil Corporation Common ,9.09065
+Buy,MS,Morgan Stanley Common ,10.4035
+Buy,MU,Micron Technology Inc. ,5.79724
+Buy,MYL,Mylan Inc. ,2.20421
+Buy,NFX,Newfield Exploration Company Co ,9.87675
+Buy,NOC,Northrop Grumman Corporation Co ,6.01719
+Buy,NRG,NRG Energy Inc. Common ,10.3966
+Buy,NTAP,NetApp Inc. ,6.73165
+Buy,NTRS,Northern Trust Corporation ,7.74358
+Buy,NUE,Nucor Corporation Common ,4.12953
+Buy,NWL,Newell Rubbermaid Inc. Common S ,3.92638
+Buy,OKE,ONEOK Inc. Common ,5.43915
+Buy,ORCL,Oracle Corporation ,2.15886
+Buy,OXY,Occidental Petroleum Corporatio ,12.8736
+Buy,PCAR,PACCAR Inc. ,8.99769
+Buy,PCLN,priceline.com Incorporated ,9.89957
+Buy,PDCO,Patterson Companies Inc. ,18.0411
+Buy,PFG,Principal Financial Group Inc C ,14.0758
+Buy,WDC,Western Digital Corporation ,6.91797
+Buy,WHR,Whirlpool Corporation Common St ,6.81627
+Buy,WMB,Williams Companies Inc. (The)  ,4.14156
+Buy,XL,XL Group plc ,16.1001
+Buy,XLNX,Xilinx Inc. ,13.3922
+Buy,XRAY,DENTSPLY International Inc. ,11.9655
+Buy,XRX,Xerox Corporation Common ,19.0374
+Buy,YUM,Yum! Brands Inc. ,11.548
+Buy,BLK,BlackRock Inc,17.5421
+Buy,DLPH, Delphi Automotive plc Ordinary  ,9.81982
+Buy,EA, Electronic Arts Inc. ,1.0749
+Buy,FBHS, Fortune Brands Home & Security  ,3.16752
+Buy,HAL, Halliburton Company Common Stoc ,4.50404
+Buy,HAS, Hasbro  Inc. ,2.77052
+Buy,HBAN, Huntington Bancshares Incorpora ,17.9895
+Buy,HCA, HCA Holdings  Inc. Common ,9.75776
+Buy,HES, Hess Corporation Common ,7.96624
+Buy,HOLX, Hologic  Inc. ,7.49163
+Buy,HPQ, Hewlett-Packard Company Common  ,5.57654
+Buy,DXC,DXC Technology Company,6.70776
+Sell,CHD,Church & Dwight Company Inc. C ,95.2371
+Sell,CINF,Cincinnati Financial Corporatio ,81.0803
+Sell,CME,CME Group Inc. ,81.3906
+Sell,DIS,Walt Disney Company (The) Commo ,93.5636
+Sell,GGP,General Growth Properties Inc. ,85.6122
+Sell,GPC,Genuine Parts Company Common St ,96.5337
+Sell,KMB,Kimberly-Clark Corporation Comm ,81.1616
+Sell,KO,Coca-Cola Company (The) Common  ,84.9707
+Sell,LOW,Lowe's Companies Inc. Common S ,85.0375
+Sell,MAC,Macerich Company (The) Common S ,82.9244
+Sell,MCD,McDonald's Corporation Common S ,85.1098
+Sell,O,Realty Income Corporation Commo ,96.6742
+Sell,ORLY,O'Reilly Automotive Inc. ,93.1509
+Sell,PAYX,Paychex Inc. ,93.6736
+Sell,PBCT,People's United Financial Inc. ,81.1109
+Sell,PEP,Pepsico Inc. Common ,80.7688
+Sell,PFE,Pfizer Inc. Common ,95.0605
+Sell,PG,Procter & Gamble Company (The)  ,83.731
+Sell,SPG,Simon Property Group Inc. Comm ,88.0257
+Sell,HCN, Health Care REIT  Inc. Common S ,98.831
+Sell,HD, Home Depot  Inc. (The) Common S ,91.4965
+Sell,HIG, Hartford Financial Services Gro ,95.9962
+Sell,HP, Helmerich & Payne  Inc. Common  ,83.3331
+Sell,HRB, H&R Block  Inc. Common ,83.9816

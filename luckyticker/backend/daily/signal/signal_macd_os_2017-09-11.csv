@@ -1,0 +1,182 @@
+ticker,name,sector,industry
+PFG,Principal Financial Group Inc C ,Financial,Asset Management
+RJF,Raymond James Financial Inc. C ,Financial,Investment Brokerage - Regional
+SCHW,Charles Schwab Corporation (The ,Financial,Investment Brokerage - National
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+NLSN, Nielsen Holdings N.V. Common St ,Technology,Information & Delivery Services
+PGR,Progressive Corporation (The) C ,Financial,Property & Casualty Insurance
+UAL,United Continental Holdings ,Services,Major Airlines
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+AIZ,Assurant Inc. Common ,Financial,Accident & Health Insurance
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+HIG, Hartford Financial Services Gro ,Financial,Property & Casualty Insurance
+L,Loews Corporation Common ,Financial,Property & Casualty Insurance
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+FFIV,F5 Networks Inc. ,Technology,Application Software
+HBAN, Huntington Bancshares Incorpora ,Financial,Regional - Midwest Banks
+MDLZ, Mondelez International  Inc. ,Consumer Goods,Confectioners
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+ADS,Alliance Data Systems Corporati ,Services,Business Services
+VIAB, Viacom Inc. ,Services,CATV Systems
+COF,Capital One Financial Corporati ,Financial,Credit Services
+GS,Goldman Sachs Group Inc. (The) ,Financial,Diversified Investments
+KEY,KeyCorp Common ,Financial,Money Center Banks
+ORIT,Oritani Financial Corp. ,Financial,Regional - Northeast Banks
+PSO,Pearson Plc Common ,Services,Publishing - Books
+SIFI,SI Financial Group Inc. ,Financial,Savings & Loans
+TBF,ProShares Short 20+ Year Treasury ETF,Commodity Based ETF,
+TDA,Telephone & Data Systems Inc. ,N/A,N/A
+TYO, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+UYG,ProShares Ultra Financials ETF,Commodity Based ETF,
+WEN,Wendy's Company (The) ,Services,Restaurants
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+ARI,Apollo Commercial Real Estate F ,Financial,REIT - Diversified
+CAFD,8point3 Energy Partners LP,Utilities,Diversified Utilities
+DRR, Market Vectors Double Short Eur ,N/A,N/A
+FUD, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+LZB,La-Z-Boy Incorporated Common St ,Consumer Goods,Home Furnishings & Fixtures
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+PCF, Putnam High Income Securities F ,Financial,Closed-End Fund - Debt
+SCSC,ScanSource Inc. ,Technology,Technical & System Software
+WBIE,WBI Large Cap Tactical Growth S ,,
+AGII,Argo Group International Holdin ,Financial,Property & Casualty Insurance
+ANH,Anworth Mortgage Asset Corporat ,Financial,REIT - Diversified
+BID,Sotheby's Common ,Services,Specialty Retail Other
+BPFH,Boston Private Financial Holdin ,Financial,Regional - Northeast Banks
+CIX,CompX International Inc. Common ,Industrial Goods,Machine Tools & Accessories
+CTBI,Community Trust Bancorp Inc. ,Financial,Regional - Southeast Banks
+DIV,Global X SuperDividend™ US ETF ,N/A,N/A
+DTYS, iPath US Treasury 10 Yr Bear ET ,N/A,N/A
+EAT,Brinker International Inc. Com ,Services,Restaurants
+EWBC,East West Bancorp Inc. ,Financial,Regional - Pacific Banks
+FNCL,Fidelity MSCI Financials Index ETF ,N/A,N/A
+FRC,FIRST REPUBLIC BANK Common Stoc ,Financial,Money Center Banks
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+GWB,Great Western Bancorp Inc. Com,Financial,Money Center Banks
+HCI,HCI Group Inc. ,Financial,Property & Casualty Insurance
+IBTX,Independent Bank Group Inc. ,Financial,Regional - Southeast Banks
+IVAC,Intevac Inc. ,Technology,Diversified Electronics
+JBLU,JetBlue Airways Corporation ,Services,Regional Airlines
+KBWP,PowerShares KBW Property & Casualty Insurance Portfolio ETF,US Equity ETF,
+KRE,SPDR S&P Regional Banking ETF,US Equity ETF,
+MBWM,Mercantile Bank Corporation ,Financial,Regional - Midwest Banks
+PACW,PacWest Bancorp ,Financial,Regional - Pacific Banks
+PST,ProShares UltraShort 7-10 Year Treasury ETF,Commodity Based ETF,
+RNST,Renasant Corporation ,Financial,Regional - Southeast Banks
+SEAS,SeaWorld Entertainment Inc. ,Services,Sporting Activities
+SSB,South State Corporation,Financial,Regional - Mid-Atlantic Banks
+TBT,ProShares UltraShort 20+ Year Treasury ETF,Commodity Based ETF,
+TMV, Direxion Daily 30-Yr Treasury B ,N/A,N/A
+VFH,Vanguard Financials ETF - DNQ ETF,US Equity ETF,
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+BDGE,Bridge Bancorp Inc. ,Financial,Regional - Northeast Banks
+CASS,Cass Information Systems Inc ,Services,Business Services
+EFSC,Enterprise Financial Services C ,Financial,Regional - Southwest  Banks
+IBCC,iSharesBond Mar 2018 Corp ex-Fincls Term ,N/A,N/A
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction
+NTCT,NetScout Systems Inc. ,Technology,Business Software & Services
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+BIG,Big Lots Inc. Common ,Services,Discount Variety Stores
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+CIZN, Citizens Holding Company ,Financial,Regional - Northeast Banks
+CUNB, CU Bancorp (CA) ,Financial,Regional - Pacific Banks
+DLBS, iPath US Treasury Long Bond Bea ,N/A,N/A
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+ESGR,Enstar Group Limited ,Financial,Property & Casualty Insurance
+FCNCA,First Citizens BancShares Inc. ,Financial,Regional - Mid-Atlantic Banks
+FNGN,Financial Engines Inc. ,Services,Business Services
+FXO,First Trust Financials AlphaDEX ETF,US Equity ETF,
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+INTL,INTL FCStone Inc. ,Financial,Asset Management
+IXG,iShares S&P Global Financial Index Fund ETF,Global Equity ETF,
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+KBWR,PowerShares KBW Regional Banking Portfolio ETF,US Equity ETF,
+LNCE,Snyder's-Lance Inc. ,Consumer Goods,Processed & Packaged Goods
+MD,Mednax Inc. Common ,Healthcare,Specialized Health Services
+NMFC, New Mountain Finance Corporatio ,Conglomerates,Conglomerates
+NMIH,NMI Holdings Inc. ,Financial,Surety & Title Insurance
+PB, Prosperity Bancshares  Inc. Com ,Financial,Regional - Southwest  Banks
+PIH,1347 Property Insurance Holdings Inc. ,Financial,Property & Casualty Insurance
+RELV,Reliv' International Inc. ,Healthcare,Biotechnology
+RWW,REVENUESHARES FINANCIALS SECTOR FUND ETF,US Equity ETF,
+SFBS,ServisFirst Bancshares Inc.,Financial,Foreign Money Center Banks
+SUNS, Solar Senior Capital Ltd. ,N/A,N/A
+TBX,ProShares Short 7-10 Year Treasury ETF,Commodity Based ETF,
+TRMK,Trustmark Corporation ,Financial,Regional - Southeast Banks
+UBOH,United Bancshares Inc. ,Financial,Money Center Banks
+VTTI,VTTI Energy Partners LP Common ,Basic Materials,Oil & Gas Equipment & Services
+ZSL,ProShares UltraShort Silver ETF,Commodity Based ETF,
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits
+BIZD,Market Vectors BDC Income ETF ,N/A,N/A
+CFNB,California First National Banco ,Financial,Regional - Pacific Banks
+FISI,Financial Institutions Inc. ,Financial,Regional - Mid-Atlantic Banks
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+NDSN,Nordson Corporation ,Industrial Goods,Diversified Machinery
+NYCB,New York Community Bancorp Inc. ,Financial,Savings & Loans
+PSEC, Prospect Capital Corporation ,Financial,Asset Management
+TCBI,Texas Capital Bancshares Inc. ,Financial,Regional - Southwest  Banks
+AFG,American Financial Group Inc.  ,Financial,Property & Casualty Insurance
+AMH,American Homes 4 Rent ,Financial,REIT - Residential
+ARR, ARMOUR Residential REIT  Inc. ,N/A,N/A
+BKMU,Bank Mutual Corporation ,Financial,Savings & Loans
+CBU,Community Bank System Inc. Com ,Financial,Regional - Northeast Banks
+CNA,CNA Financial Corporation Commo ,Financial,Property & Casualty Insurance
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+DRH,Diamondrock Hospitality Company ,Financial,REIT - Hotel/Motel
+DXJF,WisdomTree Japan Hedged Financials ,N/A,N/A
+EUFX,ProShares Short Euro,US Equity Income ETF,
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+GBCI,Glacier Bancorp Inc. ,Financial,Regional - Pacific Banks
+GLOB,Globant S.A. Common Shares,Technology,Information Technology Services
+HMN, Horace Mann Educators Corporati ,Financial,Property & Casualty Insurance
+IPCC,Infinity Property and Casualty  ,Financial,Property & Casualty Insurance
+IYG,iShares Dow Jones U.S. Financial Services Index Fund ETF,US Equity ETF,
+KBE,SPDR KBW Bank ETF,US Equity ETF,
+KCE,SPDR KBW Capital Markets ETF,US Equity ETF,
+LKFN,Lakeland Financial Corporation ,Financial,Regional - Midwest Banks
+MAIN,Main Street Capital Corporation ,Financial,Diversified Investments
+MTH,Meritage Homes Corporation Comm ,Industrial Goods,Residential Construction
+NYV, Nuveen New York Municipal Value ,N/A,N/A
+PF,Pinnacle Foods Inc. ,Consumer Goods,Food - Major Diversified
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+RYF,Guggenheim S&P Equal Weight Financial ETF,US Equity ETF,
+SGBK,Stonegate Bank,Financial,Regional - Southeast Banks
+TAPR,Barclays PLC ,,
+TCCA,Triangle Capital Corporation 6. ,N/A,N/A
+TTT,ProShares UltraPro Short 20+ Year Treasury ETF,Commodity Based ETF,
+UFCS,United Fire Group Inc ,Financial,Property & Casualty Insurance
+WAFD, Washington Federal  Inc. ,Financial,Savings & Loans
+XLF,SPDR Financial Select Sector Fund ETF,US Equity ETF,
+BOKF,BOK Financial Corporation ,Financial,Regional - Southwest  Banks
+CIT,CIT Group Inc (DEL) Common Stoc ,Financial,Mortgage Investment
+FMNB, Farmers National Banc Corp. ,Financial,Regional - Midwest Banks
+LM,Legg Mason Inc. Common ,Financial,Asset Management
+NGHC,National General Holdings Corp. ,Financial,Property & Casualty Insurance
+PCBK,Pacific Continental Corporation ,Financial,Regional - Pacific Banks
+SBFG,SB Financial Group Inc. ,Financial,Regional - Midwest Banks
+AFSI,AmTrust Financial Services Inc ,Financial,Property & Casualty Insurance
+AMRB,American River Bankshares ,Financial,Regional - Pacific Banks
+AXS,Axis Capital Holdings Limited C ,Financial,Property & Casualty Insurance
+BOH,Bank of Hawaii Corporation Comm ,Financial,Regional - Pacific Banks
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+DGZ, Deutsche Bank AG DB Gold Short  ,N/A,N/A
+DSLV, VelocityShares 3x Inverse Silve ,N/A,N/A
+DZZ, Deutsche Bank AG DB Gold Double ,N/A,N/A
+EUO,ProShares UltraShort Euro ETF,Commodity Based ETF,
+FNB,F.N.B. Corporation Common ,Financial,Regional - Southeast Banks
+FRAN, Francesca's Holdings Corporatio ,Services,Specialty Retail  Other
+GDXS,ProShares UltraShort Gold Miner,,
+HBHC, Hancock Holding Company ,Financial,Regional - Southeast Banks
+IAI,iShares Dow Jones U.S. Broker-Dealers Index Fund ETF,US Equity ETF,
+IROQ, IF Bancorp  Inc. ,Financial,Savings & Loans
+JACK,Jack In The Box Inc. ,Services,Restaurants
+KBWD,PowerShares KBW High Dividend Yield Financial Portfolio ETF,US Equity ETF,
+LMLP,LML Payment Systems Inc. ,Services,Business Services
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+MFA,MFA Financial Inc. ,Financial,REIT - Diversified
+NCMI,National CineMedia Inc. ,Services,Marketing Services

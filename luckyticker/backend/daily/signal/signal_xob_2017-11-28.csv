@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKW,ARK Web x.0 ETF,,
+PUTW,WisdomTree CBOE S&P 500 PutWrit,,
+QMOM,MomentumShares U.S. Quantitativ,,
+THO,Thor Industries Inc. Common St ,Consumer Goods,Recreational Vehicles
+VFC,V.F. Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+MPB,Mid Penn Bancorp ,Financial,Regional - Northeast Banks
+ADMS,Adamas Pharmaceuticals Inc. ,Healthcare,Drugs - Generic
+CTSO,CYTOSORBENTS COR,Healthcare,Medical Laboratories & Research
+USNA,USANA Health Sciences Inc. Com ,Healthcare,Drug Related Products
+GFA,Gafisa SA Gafisa S.A. American  ,Industrial Goods,Residential Construction
+HON, Honeywell International Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+ESIO,Electro Scientific Industries  ,Industrial Goods,Industrial Electrical Equipment
+AWI,Armstrong World Industries Inc  ,Industrial Goods,General Building Materials
+RENX,RELX NV,N/A,N/A
+PSTG,Pure Storage  Inc.,N/A,N/A
+ROBO,Robo-Stox Glbl Robotics&Automation ETF ,N/A,N/A
+NTNX,NUTANIX INC,N/A,N/A
+CPHC,Canterbury Park Holding Corpora ,Services,Gaming Activities
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+USAT,USA Technologies Inc. ,Services,Business Services
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale
+RGC,Regal Entertainment Group Class ,Services,Movie Production Theaters
+CTRN,Citi Trends Inc. ,Services,Apparel Stores
+HD, Home Depot  Inc. (The) Common S ,Services,Home Improvement Stores
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+MARK, Remark Media  Inc. ,Technology,Internet Information Providers
+CUDA,Barracuda Networks Inc. ,Technology,Communication Equipment

@@ -1,0 +1,195 @@
+ticker,name,sector,industry
+WAT,Waters Corporation Common ,Healthcare,Medical Appliances & Equipment
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+SLG,SL Green Realty Corporation Com ,Financial,REIT - Retail
+MRK,Merck & Company Inc. Common St ,Healthcare,Drug Manufacturers - Major
+MCO,Moody's Corporation Common Stoc ,Services,Business Services
+VRSN,VeriSign Inc. ,Technology,Application Software
+KORS,Michael Kors Holdings Limited O ,Services,Apparel Stores
+MJN,Mead Johnson Nutrition Company  ,Consumer Goods,Processed & Packaged Goods
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+JCI,Johnson Controls Inc. Common S ,Consumer Goods,Auto Parts
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+GGP,General Growth Properties Inc. ,Financial,REIT - Retail
+URBN,Urban Outfitters Inc. ,Services,Apparel Stores
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+PNR,Pentair Inc. Common ,Industrial Goods,Industrial Equipment & Components
+CRM,Salesforce.com Inc Common ,Technology,Application Software
+MAT,Mattel Inc. ,Consumer Goods,Toys & Games
+AYI,Acuity Brands Inc (Holding Comp ,Technology,Diversified Electronics
+BME, Blackrock Health Sciences Trust ,Financial,Closed-End Fund - Equity
+ZNH,China Southern Airlines Company ,Services,Major Airlines
+VNET, 21Vianet Group  Inc. ,Technology,Information Technology Services
+EWH,iShares MSCI Hong Kong Index Fund ETF,Global Equity ETF,
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+RH,Restoration Hardware Holdings Inc. ,Services,Home Furnishing Stores
+CGW,Guggenheim S&P Global Water Index ETF,Global Equity ETF,
+COBO,ProShares USD Covered Bond,Commodity Based ETF,
+CVTI,Covenant Transportation Group  ,Services,Trucking
+PYT, PPlus Tr GSC-2 Tr Ctf Fltg Rate ,N/A,N/A
+EFA,iShares MSCI EAFE Index Fund ETF,Global Equity ETF,
+CGI,Celadon Group Inc. Common Stoc ,Services,Trucking
+IEFA,iShares Core MSCI EAFE ,N/A,N/A
+FDIV,First Trust Strategic Income ET ,,
+KWT,Market Vectors Solar Energy ETF,Global Equity ETF,
+HOLI, Hollysys Automation Technologie ,Industrial Goods,Industrial Electrical Equipment
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+SCJ,iShares MSCI Japan Sm Cap ETF,Global Equity ETF,
+BBL,BHP Billiton plc Sponsored ADR ,Basic Materials,Industrial Metals & Minerals
+ISRA,Market Vectors Israel ETF ,N/A,N/A
+IQLT,iShares MSCI International Dev Qual Fact,N/A,N/A
+NUAN,Nuance Communications Inc. ,Technology,Application Software
+APAM,Artisan Partners Asset Management Inc. ,Financial,Asset Management
+PRO,PROS Holdings Inc. Common Stoc ,Technology,Application Software
+EFO,ProShares Ultra MSCI EAFE ETF,Commodity Based ETF,
+GEUR,AdvisorShares Gartman Gold/Euro ETF ,N/A,N/A
+BOE, Blackrock Global Blackrock Glob ,Financial,Closed-End Fund - Foreign
+WMLP,Westmoreland Resource Partners,Basic Materials,Nonmetallic Mineral Mining
+BKE,Buckle Inc. (The) Common ,Services,Apparel Stores
+BRKR,Bruker Corporation ,Technology,Scientific & Technical Instruments
+JD,JD.com Inc.,Technology,Internet Information Providers
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+EFC,Ellington Financial LLC Common  ,Financial,Mortgage Investment
+RJZ, AB Svensk Ekportkredit (Swedish ,N/A,N/A
+IMTM,iShares MSCI International Mome,N/A,N/A
+ASHR,db X-trackers Harvest China ETF ,N/A,N/A
+SOCL,Global X Social Media Index ETF,Global Equity ETF,
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+AEO,American Eagle Outfitters Inc. ,Services,Apparel Stores
+BST,BlackRock Science and Technolog,N/A,N/A
+BMS,Bemis Company Inc. Common Stoc ,Consumer Goods,Packaging & Containers
+SGNL,Signal Genetics Inc.,Healthcare,Medical Laboratories & Research
+ATRA,Atara Biotherapeutics Inc.,N/A,N/A
+KBA,KraneShares Bosera MSCI China A ,,
+PICK,iShares MSCI Global Select Metals & Mining Producers Fund ETF,Global Equity ETF,
+EPC,Edgewell Personal Care Company,Consumer Goods,Personal Products
+ETW, Eaton Vance Corporation Eaton V ,Financial,Closed-End Fund - Foreign
+DJCO,Daily Journal Corp. (S.C.) ,Services,Publishing - Newspapers
+FELE,Franklin Electric Co. Inc. ,Industrial Goods,Industrial Electrical Equipment
+PID,PowerShares Intl Dividend Achievers ETF,US Equity ETF,
+DRW,WisdomTree Global ex-U.S. Real Estate Fund ETF,Global Equity ETF,
+VDSI,VASCO Data Security Internation ,Technology,Security Software & Services
+VOD,Vodafone Group Plc ,NULL,NULL
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+PSR,PowerShares Active U.S. Real Estate Fund ETF,US Equity ETF,
+STB, Student Transportation Inc ,Services,Consumer Services
+BDE,Black Diamond Inc. ,Consumer Goods,Sporting Goods
+OAK, Oaktree Capital Group  LLC Clas ,Financial,Asset Management
+FRN,Guggenheim Frontier Markets ETF,Global Equity ETF,
+WFT,Weatherford International Ltd  ,Basic Materials,Oil & Gas Equipment & Services
+VEA,Vanguard Europe Pacific ETF,Global Equity ETF,
+NVDQ, Novadaq Technologies Inc ,Healthcare,Medical Laboratories & Research
+ULTI,The Ultimate Software Group In ,Technology,Internet Software & Services
+CHSCO,CHS  Inc. ,N/A,N/A
+HVPW,ALPS US Equity High Volatility Put Write ,N/A,N/A
+CTV,Qwest Corporation 6.875% Notes,Technology,Communication Equipment
+CUDA,Barracuda Networks Inc. ,Technology,Communication Equipment
+GPK,Graphic Packaging Holding Compa ,Consumer Goods,Packaging & Containers
+BAM,Brookfield Asset Management Inc ,Financial,Real Estate Development
+DOL,WisdomTree International LargeCap Dividend Fund ETF,Global Equity ETF,
+ZUMZ,Zumiez Inc. ,Services,Apparel Stores
+MGNX,MacroGenics Inc. ,Healthcare,Biotechnology
+PSP,PowerShares Listed Private Equity ETF,Global Equity ETF,
+EWU,iShares MSCI United Kingdom Index Fund ETF,Global Equity ETF,
+EWT,iShares MSCI Taiwan Index Fund ETF,Global Equity ETF,
+CYBR,CyberArk Software Ltd.,Technology,Business Software & Services
+HGI,Guggenheim International Multi-Asset Income ETF,Global Equity ETF,
+DTH,WisdomTree DEFA High-Yielding Equity Fund ETF,Global Equity ETF,
+FSC, Fifth Street Finance Corp. ,N/A,N/A
+DBMX,db X-trackers MSCI Mexico Hedged Eq ETF ,N/A,N/A
+VPL,Vanguard Pacific ETF,Global Equity ETF,
+CHII,Global X China Industrials ETF,Global Equity ETF,
+CNS,Cohn & Steers Inc Common ,Financial,Asset Management
+ANW,Aegean Marine Petroleum Network ,Services,Basic Materials Wholesale
+ELON,Echelon Corporation ,Technology,Networking & Communication Devices
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+TSL,Trina Solar Limited Sponsored A ,Technology,Semiconductor - Specialized
+ACH,Aluminum Corporation of China L ,Basic Materials,Aluminum
+CHIQ,Global X China Consumer ETF,Global Equity ETF,
+UBS, UBS AG Common ,Financial,Foreign Money Center Banks
+AER,Aercap Holdings N.V. Ordinary S ,Industrial Goods,Aerospace/Defense - Major Diversified
+FLT,FleetCor Technologies Inc. Com ,Services,Business Services
+BLDR,Builders FirstSource Inc. ,Services,Home Improvement Stores
+AGIO,Agios Pharmaceuticals Inc. ,Healthcare,Biotechnology
+THW,Tekla World Healthcare Fund Sha ,N/A,N/A
+KCG,Knight Capital Group Inc. Clas ,Financial,Investment Brokerage - Regional
+PAF,PowerShares FTSE RAFI Asia Pacific ex-Japan Portfolio ETF,Global Equity ETF,
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software
+ORBC,ORBCOMM Inc. ,Technology,Diversified Communication Services
+USAK,USA Truck Inc. ,Services,Trucking
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+FHK,First Trust Hong Kong AlphaDEX ETF,Global Equity ETF,
+IEX, IDEX Corporation Common ,Industrial Goods,Diversified Machinery
+FKO,First Trust South Korea AlphaDEX ETF,Global Equity ETF,
+CROX,Crocs Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+PGJ,PowerShares Golden Dragon Halter USX China Portfolio ETF,Global Equity ETF,
+CG, The Carlyle Group L.P. ,Financial,Asset Management
+KOLD,ProShares UltraShort DJ-UBS Natural Gas ETF,Commodity Based ETF,
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+FGD,First Trust DJ Global Select Dividend ETF,Global Equity ETF,
+CPHC,Canterbury Park Holding Corpora ,Services,Gaming Activities
+BCX, BlackRock Resources Common Shar ,N/A,N/A
+MDSO,Medidata Solutions Inc. ,Technology,Healthcare Information Services
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+HF, HFF  Inc. Common ,Financial,Mortgage Investment
+VBND,Vident Core U.S. Bond Fund ,,
+KF, Korea Fund  Inc. (The) New Comm ,Financial,Closed-End Fund - Foreign
+PRTA,Prothena Corporation plc ,Healthcare,Biotechnology
+INXX,EGShares India Infrastructure ETF,Global Equity ETF,
+MEAR,iShares Short Maturity Municipa,,
+SINA,Sina Corporation ,Technology,Internet Software & Services
+CHSCP, CHS Inc ,N/A,N/A
+HBM, Hudbay Minerals Inc Ordinary Sh ,Basic Materials,Industrial Metals & Minerals
+RDUS,Radius Health Inc.,N/A,N/A
+FXSG,CurrencyShares Singapore Dollar Trust ,N/A,N/A
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+FNDF,Schwab Fundamental Intl Lg Co ETF ,N/A,N/A
+ADXS,Advaxis Inc. ,Healthcare,Biotechnology
+ELY,Callaway Golf Company Common St ,Consumer Goods,Sporting Goods
+FIG,Fortress Investment Group LLC C ,Financial,Asset Management
+SC,Santander Consumer USA Holdings Inc. ,Financial,Mortgage Investment
+TNC,Tennant Company Common ,Industrial Goods,Diversified Machinery
+CAF, Morgan Stanley China A Share Fu ,N/A,N/A
+WB,Weibo Corporation ,Technology,Internet Information Providers
+DATA,Tableau Software Inc. ,Technology,Application Software
+IFGL,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund ETF,Global Equity ETF,
+FRO,Frontline Ltd. Ordinary Shares ,Services,Shipping
+EPP,iShares MSCI Pacific Ex-Japan Index Fund ETF,Global Equity ETF,
+FSCE,Fifth Street Finance Corp. ,N/A,N/A
+CH, Aberdeen Chile Fund  Inc. (The) ,N/A,N/A
+EFAV,iShares MSCI EAFE Minimum Volatility Index Fund ETF,Global Equity ETF,
+INB, Cohen & Steers Global Income Bu ,N/A,N/A
+AVP,Avon Products Inc. Common Stoc ,Consumer Goods,Personal Products
+FPA,First Trust Asia Pacific Ex-Japan AlphaDEX ETF,Global Equity ETF,
+FDT,First Trust Developed Markets Ex-US AlphaDEX ETF,Global Equity ETF,
+RDCM,Radcom Ltd. ,Technology,Computer Peripherals
+STML,Stemline Therapeutics Inc. ,Healthcare,Biotechnology
+EEFT,Euronet Worldwide Inc. ,Services,Business Services
+MXI,iShares S&P Global Materials Sector Index Fund ETF,Global Equity ETF,
+CMFN,N/A ,N/A,N/A
+FSFR,Fifth Street Senior Floating Rate Corp. ,N/A,N/A
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Global Equity ETF,
+BHP,BHP Billiton Limited Common Sto ,Basic Materials,Industrial Metals & Minerals
+DOO,WisdomTree International Dividend Top 100 Fund ETF,Global Equity ETF,
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+REMX,Market Vectors Rare Earth/Strategic Metals ETF,Global Equity ETF,
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+DWM,WisdomTree DEFA Fund ETF,Global Equity ETF,
+SOHU,Sohu.com Inc. ,Technology,Internet Information Providers
+AFTY,CSOP FTSE China A50 ETF,,
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+MIK,The Michaels Companies Inc.,Services,Specialty Retail Other
+CHIM,Global X China Materials ETF,Global Equity ETF,
+MATX, Matson  Inc. Common ,Services,Shipping
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+SRPT, Sarepta Therapeutics  Inc. ,Healthcare,Biotechnology
+SCHF,Schwab International Equity ETF,Global Equity ETF,
+IPN,SPDR S&P International Industrial Sector ETF,Global Equity ETF,
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+TGH,Textainer Group Holdings Limite ,Services,Rental & Leasing Services
+NAT, Nordic American Tankers Limited ,Services,Shipping
+DBVT,DBV Technologies S.A.,N/A,N/A
+LFC,China Life Insurance Company Li ,Financial,Life Insurance

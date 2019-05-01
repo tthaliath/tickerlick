@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TNH,Terra Nitrogen Company L.P. Co ,Basic Materials,Agricultural Chemicals
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+CLB,Core Laboratories N.V. Common S ,Basic Materials,Oil & Gas Equipment & Services
+PXD,Pioneer Natural Resources Compa ,Basic Materials,Independent Oil & Gas
+HEP, Holly Energy Partners  L.P. Com ,Basic Materials,Oil & Gas Pipelines
+AE,Adams Resources & Energy Inc.  ,Basic Materials,Oil & Gas Refining & Marketing
+DORM,Dorman Products Inc. ,Consumer Goods,Auto Parts
+FLXS,Flexsteel Industries Inc. ,Consumer Goods,Home Furnishings & Fixtures
+NPK,National Presto Industries Inc ,Consumer Goods,Appliances
+ALSN, Allison Transmission Holdings   ,Consumer Goods,Auto Parts
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+NKSH,National Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+SONA,Southern National Bancorp of Vi ,Financial,Regional - Mid-Atlantic Banks
+LLY, Eli Lilly and Company Common St ,Healthcare,Drug Manufacturers - Major
+INSM,Insmed Inc. ,Healthcare,Biotechnology
+RDY,Dr. Reddy's Laboratories Ltd Co ,Healthcare,Drug Manufacturers - Other
+LYTS,LSI Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+MLPG, UBS AG Exchange Traded Access S ,N/A,N/A
+MLPC,C-Tracks Bsd on Perf of M/H MLP Fdmt ETN ,N/A,N/A
+PFH, Cabco Tr Jcp 7.625 Common ,N/A,N/A
+RIF, RMR Real Estate Income Fund Com ,N/A,N/A
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+GCO,Genesco Inc. Common ,Services,Apparel Stores
+FNGN,Financial Engines Inc. ,Services,Business Services
+CTRN,Citi Trends Inc. ,Services,Apparel Stores
+TNAV,TeleNav Inc. ,Technology,Scientific & Technical Instruments
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic

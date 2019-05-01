@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OIIL,Credit Suisse X-Links WTI Crude,,
+HFXJ,IQ 50 Percent Hedged FTSE Japan,,
+URGN,UroGen Pharma Ltd. - Ordinary S,,
+MTRN, Materion Corporation ,Basic Materials,Industrial Metals & Minerals
+CXO,Concho Resources Inc. Common St ,Basic Materials,Oil & Gas Drilling & Exploration
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+HP, Helmerich & Payne  Inc. Common  ,Basic Materials,Oil & Gas Drilling & Exploration
+POL,PolyOne Corporation Common Stoc ,Basic Materials,Specialty Chemicals
+PTR,PetroChina Company Limited Comm ,Basic Materials,Major Integrated Oil & Gas
+BBG,Bill Barrett Corporation Common ,Basic Materials,Oil & Gas Drilling & Exploration
+CBT,Cabot Corporation Common ,Basic Materials,Specialty Chemicals
+USD,ProShares Ultra Semiconductors ETF,Commodity Based ETF,
+CRC,Chromcraft Revington Inc. Comm ,Consumer Goods,Home Furnishings & Fixtures
+JLL,Jones Lang LaSalle Incorporated ,Financial,Property Management
+NBIX,Neurocrine Biosciences Inc. ,Healthcare,Drug Manufacturers - Major
+AXGN,AxoGen Inc. ,Healthcare,Medical Appliances & Equipment
+EXAS,Exact Sciences Corporation ,Healthcare,Biotechnology
+TDY,Teledyne Technologies Incorpora ,Industrial Goods,Aerospace/Defense Products & Services
+FLR,Fluor Corporation Common ,Industrial Goods,Heavy Construction
+PHM,PulteGroup Inc. Common ,Industrial Goods,Residential Construction
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+QQQX, NASDAQ Premium Income and Growt ,N/A,N/A
+AINC,Ashford Inc. Common,N/A,N/A
+TEL,TE Connectivity Ltd. New Switze ,Technology,Diversified Electronics
+RDWR,Radware Ltd. ,Technology,Information Technology Services
+ORBK,Orbotech Ltd. ,Technology,Diversified Electronics
+TACT,TransAct Technologies Incorpora ,Technology,Computer Peripherals
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments
+OLED,Universal Display Corp. ,Technology,Computer Peripherals
+QCOM,QUALCOMM Incorporated ,Technology,Communication Equipment

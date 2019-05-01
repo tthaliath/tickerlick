@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+UAA,Under Armour  Inc. Class A,,
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+WK,Workiva Inc. Class A Common Sto,N/A,N/A
+WVE,WAVE Life Sciences Pte. Ltd.,N/A,N/A
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+IPG,Interpublic Group of Companies ,Services,Advertising Agencies
+WBAI,500.com Limited ,Services,Gaming Activities
+EGAN, eGain Communications Corporatio ,Technology,Business Software & Services
+TWTR,Twitter Inc. ,Technology,Internet Information Providers
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers

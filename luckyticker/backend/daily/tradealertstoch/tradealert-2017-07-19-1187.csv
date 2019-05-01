@@ -1,0 +1,137 @@
+Buy,ABC,AmerisourceBergen Corporation ( ,13.5613
+Buy,ADBE,Adobe Systems Incorporated ,8.93832
+Buy,ADI,Analog Devices Inc. ,4.53741
+Buy,AIV,Apartment Investment and Manage ,4.7984
+Buy,ALL,Allstate Corporation (The) Comm ,17.2784
+Buy,AMAT,Applied Materials Inc. ,11.7946
+Buy,AMG,Affiliated Managers Group Inc. ,6.89607
+Buy,AON,Aon plc Class A Ordinary Shares ,5.92497
+Buy,APC,Anadarko Petroleum Corporation  ,14.0737
+Buy,APD,Air Products and Chemicals Inc ,4.81059
+Buy,APH,Amphenol Corporation Common Sto ,7.81058
+Buy,ATVI,Activision Blizzard Inc ,4.22952
+Buy,AVB,AvalonBay Communities Inc. Com ,17.3199
+Buy,AVGO,Avago Technologies Limited ,19.455
+Buy,AYI,Acuity Brands Inc (Holding Comp ,15.2209
+Buy,AZO,AutoZone Inc. Common ,14.1469
+Buy,BLL,Ball Corporation Common ,11.4424
+Buy,C,Citigroup Inc. Common ,4.29717
+Buy,CB,Chubb Corporation (The) Common  ,10.9267
+Buy,CBOE,CBOE Holdings Inc. ,19.0509
+Buy,CHRW,C.H. Robinson Worldwide Inc. ,16.067
+Buy,CMCSA,Comcast Corporation ,6.13387
+Buy,CNP,CenterPoint Energy Inc (Holdin ,1.80554
+Buy,COF,Capital One Financial Corporati ,16.8426
+Buy,COG,Cabot Oil & Gas Corporation Com ,14.8151
+Buy,CSX,CSX Corporation Common ,4.89043
+Buy,CVS,CVS Caremark Corporation Common ,1.56918
+Buy,D,Dominion Resources Inc. Common ,15.0981
+Buy,DD,E.I. du Pont de Nemours and Com ,14.8888
+Buy,DFS,Discover Financial Services Com ,19.9114
+Buy,DHI,D.R. Horton Inc. Common ,13.8271
+Buy,DLR,Digital Realty Trust Inc. Comm ,6.22243
+Buy,DTE,DTE Energy Company Common ,17.8237
+Buy,DUK,Duke Energy Corporation (Holdin ,3.00473
+Buy,DVA,DaVita Inc. Common ,8.33227
+Buy,ECL,Ecolab Inc. Common ,1.02892
+Buy,EIX,Edison International Common Sto ,12.8556
+Buy,EQIX,Equinix Inc. ,2.56697
+Buy,FMC,FMC Corporation Common ,3.92145
+Buy,GIS,General Mills Inc. Common Stoc ,12.0371
+Buy,GS,Goldman Sachs Group Inc. (The) ,6.55053
+Buy,IR,Ingersoll-Rand plc (Ireland) ,9.75081
+Buy,IVZ,Invesco Plc New Common ,14.3741
+Buy,LEN,Lennar Corporation Class A Comm ,15.7147
+Buy,LH,Laboratory Corporation of Ameri ,11.6845
+Buy,LRCX,Lam Research Corporation ,7.55486
+Buy,LYB,LyondellBasell Industries NV Or ,9.59181
+Buy,MA,Mastercard Incorporated Common  ,7.1426
+Buy,MAS,Masco Corporation Common ,19.7507
+Buy,MCHP,Microchip Technology Incorporat ,18.8525
+Buy,MCK,McKesson Corporation Common Sto ,14.3703
+Buy,MCO,Moody's Corporation Common Stoc ,18.0772
+Buy,MHK,Mohawk Industries Inc. Common  ,12.4386
+Buy,MJN,Mead Johnson Nutrition Company  ,3.7037
+Buy,MKC,McCormick & Company Incorporat ,17.7083
+Buy,NSC,Norfolk Southern Corporation Co ,2.67421
+Buy,NTAP,NetApp Inc. ,7.70549
+Buy,NTRS,Northern Trust Corporation ,3.81515
+Buy,OMC,Omnicom Group Inc. Common ,7.33516
+Buy,ORLY,O'Reilly Automotive Inc. ,13.6925
+Buy,OXY,Occidental Petroleum Corporatio ,7.35551
+Buy,PAYX,Paychex Inc. ,18.4309
+Buy,REG,Regency Centers Corporation Com ,17.0633
+Buy,RHI,Robert Half International Inc.  ,9.78706
+Buy,RHT,Red Hat Inc. Common ,6.02178
+Buy,RJF,Raymond James Financial Inc. C ,1.96627
+Buy,ROK,Rockwell Automation Inc. Commo ,9.29437
+Buy,RRC,Range Resources Corporation Com ,17.391
+Buy,SCHW,Charles Schwab Corporation (The ,7.9101
+Buy,SNI,Scripps Networks Interactive I ,18.8734
+Buy,SO,Southern Company (The) Common S ,6.48166
+Buy,HCA, HCA Holdings  Inc. Common ,2.11815
+Buy,HIG, Hartford Financial Services Gro ,14.1423
+Buy,STT, State Street Corporation Common ,11.6284
+Buy,XYL, Xylem Inc. Common ,15.8131
+Buy,EVHC,Envision Healthcare Holdings Inc. ,10.893
+Buy,NAVI,Navient Corporation ,19.6992
+Buy,CFG,Citizens Financial Group Inc.,5.64155
+Buy,SYF,Synchrony Financial Common Stoc,6.79741
+Buy,QRVO,Qorvo Inc.,14.5677
+Buy,WLTW,Willis Towers Watson Public Limited Company,2.29468
+Buy,ARNC,Arconic Inc.,14.815
+Sell,ACN,Accenture plc. Class A Ordinary ,88.3866
+Sell,ADP,Automatic Data Processing Inc. ,91.9449
+Sell,ADS,Alliance Data Systems Corporati ,95.4856
+Sell,ADSK,Autodesk Inc. ,94.2766
+Sell,AGN,Allergan Inc. Common ,81.9131
+Sell,ALXN,Alexion Pharmaceuticals Inc. ,82.2096
+Sell,AMGN,Amgen Inc. ,91.869
+Sell,AN,AutoNation Inc. Common ,97.6694
+Sell,ARE,Alexandria Real Estate Equities ,84.1162
+Sell,BIIB,Biogen Idec Inc. ,95.9095
+Sell,BMY,Bristol-Myers Squibb Company Co ,92.2331
+Sell,BSX,Boston Scientific Corporation C ,86.1109
+Sell,CA,CA Inc. ,94.156
+Sell,CBG,CBRE Group Inc Common ,91.4143
+Sell,CCL,Carnival Corporation Common Sto ,91.4622
+Sell,CELG,Celgene Corporation ,81.3756
+Sell,CF,CF Industries Holdings Inc. Co ,92.3287
+Sell,CINF,Cincinnati Financial Corporatio ,85.9118
+Sell,DHR,Danaher Corporation Common Stoc ,89.7511
+Sell,DIS,Walt Disney Company (The) Commo ,85.7561
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,80.2896
+Sell,EFX,Equifax Inc. Common ,82.9656
+Sell,EL,Estee Lauder Companies Inc. (T ,95.1854
+Sell,EOG,EOG Resources Inc. Common Stoc ,91.0998
+Sell,EQR,Equity Residential Common Share ,98.04
+Sell,GD,General Dynamics Corporation Co ,86.4109
+Sell,GE,General Electric Company Common ,98.502
+Sell,GILD,Gilead Sciences Inc. ,82.2807
+Sell,INCY,Incyte Corporation ,83.3185
+Sell,IP,International Paper Company Com ,84.7863
+Sell,LLL,L-3 Communications Holdings In ,96.5089
+Sell,LMT,Lockheed Martin Corporation Com ,97.6973
+Sell,LNC,Lincoln National Corporation Co ,80.7238
+Sell,MAC,Macerich Company (The) Common S ,93.1282
+Sell,MAT,Mattel Inc. ,96.4552
+Sell,NFX,Newfield Exploration Company Co ,90.1585
+Sell,NOC,Northrop Grumman Corporation Co ,93.0072
+Sell,ORCL,Oracle Corporation ,94.4611
+Sell,PCAR,PACCAR Inc. ,90.5783
+Sell,PFE,Pfizer Inc. Common ,87.0598
+Sell,RCL,Royal Caribbean Cruises Ltd. Co ,98.9802
+Sell,RL,Ralph Lauren Corporation Common ,90.699
+Sell,RTN,Raytheon Company Common ,85.9545
+Sell,SEE,Sealed Air Corporation Common S ,82.9637
+Sell,SIG,Signet Jewelers Limited Common  ,93.9899
+Sell,HCN, Health Care REIT  Inc. Common S ,92.5922
+Sell,HP, Helmerich & Payne  Inc. Common  ,88.5714
+Sell,MDLZ, Mondelez International  Inc. ,97.5263
+Sell,MNST, Monster Beverage Corporation ,88.5995
+Sell,TRIP, TripAdvisor  Inc. ,81.0869
+Sell,WFM, Whole Foods Market  Inc. ,90.3075
+Sell,ABBV,AbbVie Inc. ,80.75
+Sell,COTY,Coty Inc. ,84.9152
+Sell,WBA,Walgreens Boots Alliance Inc.,86.8288
+Sell,ZBH,Zimmer Biomet Holdings  Inc.,85.169

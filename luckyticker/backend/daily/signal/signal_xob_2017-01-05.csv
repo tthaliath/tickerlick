@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BAK,Braskem SA ADR ,Basic Materials,Chemicals - Major Diversified
+DLR,Digital Realty Trust Inc. Comm ,Financial,REIT - Office
+SGM,Stonegate Mortgage Corporation ,Financial,Closed-End Fund - Debt
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+DBGR,db X-trackers MSCI Germany Hedged Eq ETF ,N/A,N/A
+CEB, Corporate Executive Board Compa ,Services,Management Services
+IVAC,Intevac Inc. ,Technology,Diversified Electronics

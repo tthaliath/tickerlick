@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RPM,RPM International Inc. Common S ,Basic Materials,Specialty Chemicals
+COG,Cabot Oil & Gas Corporation Com ,Basic Materials,Independent Oil & Gas
+WDFC,WD-40 Company ,Basic Materials,Specialty Chemicals
+PPG,PPG Industries Inc. Common Sto ,Basic Materials,Specialty Chemicals
+GGOV,ProShares German Sovereign/Sub-Sovereign ETF,Commodity Based ETF,
+UN,Unilever NV Common ,Consumer Goods,Processed & Packaged Goods
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+HAFC, Hanmi Financial Corporation ,Financial,Regional - Pacific Banks
+EIV, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+ESD, Western Asset Emerging Markets  ,Financial,Closed-End Fund - Debt
+OPB,Opus Bank ,Financial,Money Center Banks
+FLKS,Flex Pharma Inc.,Healthcare,Biotechnology
+ONCE,Spark Therapeutics Inc.,Healthcare,Biotechnology
+KITE,Kite Pharma Inc.,Healthcare,Biotechnology
+TEVA,Teva Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+CBM,Cambrex Corporation Common Stoc ,Healthcare,Biotechnology
+BMY,Bristol-Myers Squibb Company Co ,Healthcare,Drug Manufacturers - Major
+MNK,Mallinckrodt plc ,Healthcare,Drugs - Generic
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+NKTR,Nektar Therapeutics ,Healthcare,Biotechnology
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+HQH, H&Q Healthcare Investors Common ,N/A,N/A
+NEV, Nuveen Enhanced Municipal Value ,N/A,N/A
+DMB,Dreyfus Municipal Bond Infrastr ,N/A,N/A
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+GME,Gamestop Corporation Common Sto ,Services,Electronics Stores
+PFSW,PFSweb Inc. ,Services,Business Services
+DHX,Dice Holdings Inc. Common Stoc ,Services,Staffing & Outsourcing Services
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+USAK,USA Truck Inc. ,Services,Trucking
+ERI,Eldorado Resorts Inc.,Services,Resorts & Casinos
+WSM,Williams-Sonoma Inc. Common St ,Services,Home Furnishing Stores
+ARKR,Ark Restaurants Corp. ,Services,Restaurants
+IMPV, Imperva  Inc. Common ,Technology,Application Software
+CYBR,CyberArk Software Ltd.,Technology,Business Software & Services
+FEYE,FireEye Inc. ,Technology,Application Software

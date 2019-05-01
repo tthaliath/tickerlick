@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+POOL,Pool Corporation ,Consumer Goods,Sporting Goods
+HELE, Helen of Troy Limited ,Consumer Goods,Housewares & Accessories
+HRL, Hormel Foods Corporation Common ,Consumer Goods,Meat Products
+KHC,The Kraft Heinz Company,Consumer Goods,Food - Major Diversified
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+ALKS,Alkermes plc ,Healthcare,Drug Delivery
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+ASCMA,Ascent Capital Group Inc. ,Services,Security & Protection Services
+SFM,Sprouts Farmers Market Inc. ,Services,Grocery Stores
+CAKE,The Cheesecake Factory Incorpor ,Services,Restaurants
+HRB, H&R Block  Inc. Common ,Services,Personal Services
+RH,Restoration Hardware Holdings Inc. ,Services,Home Furnishing Stores
+ULTA,Ulta Salon Cosmetics & Fragran ,Services,Personal Services
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards

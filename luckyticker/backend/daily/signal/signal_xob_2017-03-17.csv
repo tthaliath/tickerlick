@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EQU,Equal Energy Ltd. Common Shares ,Basic Materials,Independent Oil & Gas
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+KB,KB Financial Group Inc ,Financial,Foreign Regional Banks
+AMNB,American National Bankshares I ,Financial,Regional - Mid-Atlantic Banks
+QIWI,Qiwi plc ,Financial,Credit Services
+JNJ,Johnson & Johnson Common ,Healthcare,Drug Manufacturers - Major
+NSAT,Norsat International Inc. (NEW),N/A,N/A
+IFN, India Fund  Inc. (The) Common S ,N/A,N/A
+EXPE,Expedia Inc. ,Services,Lodging
+WYNN,Wynn Resorts Limited ,Services,Resorts & Casinos
+AEIS,Advanced Energy Industries Inc ,Technology,Diversified Electronics
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+ADBE,Adobe Systems Incorporated ,Technology,Application Software
+TER,Teradyne Inc. Common ,Technology,Semiconductor Equipment & Materials
+SKM,SK Telecom Corporation Ltd. Co ,Technology,Wireless Communications
+NMBL,Nimble Storage Inc. ,Technology,Data Storage Devices
+IT,Gartner Inc. Common ,Technology,Information Technology Services
+NEP,NextEra Energy Partners LP Com,Utilities,Diversified Utilities

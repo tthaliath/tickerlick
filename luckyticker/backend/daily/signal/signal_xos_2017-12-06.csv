@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XRF,China Rapid Finance Limited Ame,,
+EMSD,WisdomTree Strong Dollar Emergi,,
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+AEM,Agnico-Eagle Mines Limited Comm ,Basic Materials,Gold
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+WRE,Washington Real Estate Investme ,Financial,REIT - Retail
+PICO,PICO Holdings Inc. ,Financial,Accident & Health Insurance
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+HAO,Guggenheim China Small Cap ETF,Global Equity ETF,
+EWT,iShares MSCI Taiwan Index Fund ETF,Global Equity ETF,
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+VRTX,Vertex Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+NUGT, Direxion Daily Gold Miners Bull ,N/A,N/A
+GLPG,Galapagos NV ,N/A,N/A
+LITE,Lumentum Holdings Inc.,N/A,N/A
+ALRM,Alarm.com Holdings  Inc. ,N/A,N/A
+CLSD,Clearside BioMedical  Inc.,N/A,N/A
+CTRE,CareTrust REIT Inc.,N/A,N/A
+DSGX,The Descartes Systems Group Inc ,NULL,NULL
+LOGI,Logitech International S.A. ,NULL,NULL
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+SWKS,Skyworks Solutions Inc. ,Technology,Semiconductor - Integrated Circuits
+OSIS,OSI Systems Inc. ,Technology,Semiconductor Equipment & Materials
+AMD,Advanced Micro Devices Inc. Co ,Technology,Semiconductor - Broad Line
+YELP, Yelp Inc. Class A Common ,Technology,Internet Information Providers
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+KN,Knowles Corporation ,Technology,Communication Equipment
+GWRE,Guidewire Software Inc. Common ,Technology,Business Software & Services
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+IBB,iShares Nasdaq Biotechnology ETF,US Equity ETF,
+TERP,TerraForm Power Inc.,Utilities,Diversified Utilities
+EIX,Edison International Common Sto ,Utilities,Electric Utilities

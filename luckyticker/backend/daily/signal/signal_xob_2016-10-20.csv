@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+HYIH,Deutsche X-trackers High Yield,,
+CRK,Comstock Resources Inc. Common ,Basic Materials,Independent Oil & Gas
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+TSBK, Timberland Bancorp  Inc. ,Financial,Savings & Loans
+LGCYP,Legacy Reserves LP,N/A,N/A
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+TTEK,Tetra Tech Inc. ,Services,Technical Services
+EGAS,Gas Natural Inc. Common ,Utilities,Gas Utilities

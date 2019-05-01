@@ -1,0 +1,5 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+COP,ConocoPhillips Common ,Basic Materials,2015-10-07,55.27,1.71930718421936,91.3974,70.3416,2.66872,10.6748933792114
+DD,E.I. du Pont de Nemours and Com ,Basic Materials,2015-10-07,55.38,1.87397372943815,86.8762,72.4836,2.60551,10.4220342636108
+GE,General Electric Company Common ,Industrial Goods,2015-10-07,27.77,0.618678212165833,82.5412,70.5327,0.910924,3.64369463920593
+INTC,Intel Corporation ,Technology,2015-10-07,32.32,0.575114488601685,95.9088,74.1655,1.18826,4.75305557250977

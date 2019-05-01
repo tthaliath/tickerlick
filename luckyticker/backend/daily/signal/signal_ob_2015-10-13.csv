@@ -1,0 +1,2 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DD,E.I. du Pont de Nemours and Com ,Basic Materials,2015-10-13,55.76,0.759543180465698,81.1777,71.0621,3.55285,14.2114019393921

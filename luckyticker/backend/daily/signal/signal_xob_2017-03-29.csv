@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SAFM,Sanderson Farms Inc. ,Consumer Goods,Food - Major Diversified
+ASPS,Altisource Portfolio Solutions  ,Financial,Mortgage Investment
+MBRG,Middleburg Financial Corporatio ,Financial,Regional - Mid-Atlantic Banks
+ITIC,Investors Title Company ,Financial,Surety & Title Insurance
+ALGN,Align Technology Inc. ,Healthcare,Medical Appliances & Equipment
+CLAC,Capitol Acquisition Corp. II,N/A,N/A
+MZOR,Mazor Robotics Ltd. ,N/A,N/A
+NGE,Global X Nigeria Index ETF ,N/A,N/A
+JBK, Lehman ABS 3.50 3.50% Adjustabl ,N/A,N/A
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized
+PAM,Pampa Energia S.A. Pampa Energi ,Utilities,Electric Utilities

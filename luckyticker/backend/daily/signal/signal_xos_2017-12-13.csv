@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+PLOW,Douglas Dynamics Inc. Common S ,Consumer Goods,Auto Parts
+EHTH,eHealth Inc. ,Financial,Insurance Brokers
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+MCY,Mercury General Corporation Com ,Financial,Property & Casualty Insurance
+CALA,Calithera Biosciences Inc.,Healthcare,Biotechnology
+WLTW,Willis Towers Watson Public Limited Company,N/A,N/A
+VBF, Invesco Van Kampen Bond Fund Co ,N/A,N/A
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+DBA, PowerShares DB Agriculture Fund ,N/A,N/A
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+TIVO,TiVo Inc. ,Services,CATV Systems
+DLNG,Dynagas LNG Partners LP ,Services,Shipping
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+IBB,iShares Nasdaq Biotechnology ETF,US Equity ETF,

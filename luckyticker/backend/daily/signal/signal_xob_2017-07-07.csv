@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ZN,Zion Oil & Gas Inc ,Basic Materials,Oil & Gas Equipment & Services
+ZSL,ProShares UltraShort Silver ETF,Commodity Based ETF,
+JPM,JP Morgan Chase & Co. Common St ,Financial,Money Center Banks
+REMX,Market Vectors Rare Earth/Strategic Metals ETF,Global Equity ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+ADRO,Aduro BioTech  Inc.,Healthcare,Biotechnology
+PIRS,Pieris Pharmaceuticals  Inc.,Healthcare,Biotechnology
+ABEO,Abeona Therapeutics Inc. ,N/A,N/A
+SOYB, Teucrium Soybean Fund ETV ,N/A,N/A
+WEET, iPath Pure Beta Grains ETN ,N/A,N/A
+DSLV, VelocityShares 3x Inverse Silve ,N/A,N/A
+SRT,StarTek Inc. Common ,Services,Business Services

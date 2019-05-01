@@ -1,0 +1,6 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KEMP,KraneShares FTSE Emerging Marke,,
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+AGF, DB Agriculture Long ETN DB Agri ,N/A,N/A
+DXPS,WisdomTree United Kingdom Hedged Equity ,N/A,N/A
+DL,China Distance Education Holdin ,Services,Education & Training Services

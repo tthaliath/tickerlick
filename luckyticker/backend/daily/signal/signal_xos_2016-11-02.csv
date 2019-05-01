@@ -1,0 +1,75 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ETE,Energy Transfer Equity L.P. En ,Basic Materials,Oil & Gas Pipelines
+EQM, EQT Midstream Partners  LP Comm ,Basic Materials,Major Integrated Oil & Gas
+CLB,Core Laboratories N.V. Common S ,Basic Materials,Oil & Gas Equipment & Services
+NOV,National Oilwell Varco Inc. Co ,Basic Materials,Oil & Gas Equipment & Services
+WPZ,Williams Partners L.P. Common U ,Basic Materials,Specialty Chemicals
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+LM,Legg Mason Inc. Common ,Financial,Asset Management
+PEB,Pebblebrook Hotel Trust Common  ,Financial,REIT - Hotel/Motel
+HRZN, Horizon Technology Finance Corp ,Financial,Asset Management
+EV,Eaton Vance Corporation Common  ,Financial,Asset Management
+NAZ, Nuveen Arizona Premium Income M ,Financial,Closed-End Fund - Debt
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+ASPS,Altisource Portfolio Solutions  ,Financial,Mortgage Investment
+MKL,Markel Corporation Common ,Financial,Property & Casualty Insurance
+OPB,Opus Bank ,Financial,Money Center Banks
+CHSP,Chesapeake Lodging Trust Common ,Financial,REIT - Hotel/Motel
+HCP, HCP  Inc. Common ,Financial,REIT - Healthcare Facilities
+TAN,Guggenheim Solar ETF,Global Equity ETF,
+IXJ,iShares S&P Global Healthcare Index Fund ETF,Global Equity ETF,
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+CTLT,Catalent Inc. Common,Healthcare,Drugs - Generic
+CNCE,Concert Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CSU,Capital Senior Living Corporati ,Healthcare,Long-Term Care Facilities
+ARIA,ARIAD Pharmaceuticals Inc. ,Healthcare,Biotechnology
+OFIX,Orthofix International N.V. ,Healthcare,Medical Appliances & Equipment
+FOMX,Foamix Pharmaceuticals Ltd.,Healthcare,Biotechnology
+XENT,Intersect ENT Inc.,Healthcare,Medical Appliances & Equipment
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+CRL,Charles River Laboratories Inte ,Healthcare,Biotechnology
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+THC,Tenet Healthcare Corporation Co ,Healthcare,Hospitals
+ALDR,Alder BioPharmaceuticals Inc.,Healthcare,Biotechnology
+ADPT,Adeptus Health Inc. Common Stoc,Healthcare,Hospitals
+CEMP, Cempra  Inc. ,Healthcare,Biotechnology
+PODD,Insulet Corporation ,Healthcare,Medical Instruments & Supplies
+JAZZ, Jazz Pharmaceuticals plc ,Healthcare,Biotechnology
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+LYTS,LSI Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+CIGI,Colliers International Group Inc.,N/A,N/A
+FSV,FirstService Corporation,N/A,N/A
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+FHLC,Fidelity MSCI Health Care Index ETF ,N/A,N/A
+EEA, The European Equity Fund  Inc.  ,N/A,N/A
+RDHL,RedHill Biopharma Ltd. ,N/A,N/A
+PHIIK,PHI Inc. ,NULL,NULL
+GNC, GNC Holdings  Inc. Class A Comm ,Services,Drug Stores
+WWE,World Wrestling Entertainment  ,Services,Entertainment - Diversified
+ABCO,The Advisory Board Company ,Services,Business Services
+NAT, Nordic American Tankers Limited ,Services,Shipping
+SFL,Ship Finance International Limi ,Services,Shipping
+STON,StoneMor Partners L.P. Common U ,Services,Personal Services
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+CERN,Cerner Corporation ,Technology,Healthcare Information Services
+FARO,FARO Technologies Inc. ,Technology,Scientific & Technical Instruments
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+IXYS,IXYS Corporation ,Technology,Semiconductor - Specialized
+DTLK,Datalink Corporation ,Technology,Data Storage Devices
+ACXM,Acxiom Corporation ,Technology,Information Technology Services
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+BCOV,Brightcove Inc. ,Technology,Application Software
+BSFT,BroadSoft Inc. ,Technology,Application Software
+IHE,iShares Dow Jones U.S. Pharmaceutical Index Fund ETF,US Equity ETF,
+RYH,Guggenheim S&P Equal Weight Health Care ETF,US Equity ETF,
+VOX,Vanguard Telecom ETF - DNQ ETF,US Equity ETF,
+DYN, Dynegy Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,80 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VBND,Vident Core U.S. Bond Fund ,,
+ARD,Ardagh Group S.A.,,
+HDRW,WisdomTree Global ex-U.S. Hedge,,
+LKOR,FlexShares Credit-Scored US Lon,,
+DSKE,Daseke  Inc.,,
+MGEN,Miragen Therapeutics  Inc.,,
+WEXP,WisdomTree U.S. Export and Mult,,
+CLPR,Clipper Realty Inc.,,
+NFLT,Virtus Newfleet Multi-Sector Un,,
+AGGP,IQ Enhanced Core Plus Bond U.S.,,
+AGGE,IQ Enhanced Core Bond U.S. ETF,,
+PSDO,Presidio  Inc.,,
+LEXEA,Liberty Expedia Holdings  Inc.,,
+GRA,W.R. Grace & Co. Common ,Basic Materials,Specialty Chemicals
+NL,NL Industries Inc. Common Stoc ,Basic Materials,Synthetics
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+FET, Forum Energy Technologies  Inc. ,Basic Materials,Oil & Gas Equipment & Services
+PTEN,Patterson-UTI Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+CCK,Crown Holdings Inc. ,Consumer Goods,Packaging & Containers
+BMS,Bemis Company Inc. Common Stoc ,Consumer Goods,Packaging & Containers
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+DBD,Diebold Incorporated Common St ,Consumer Goods,Business Equipment
+UFS,Domtar Corporation (NEW) Common ,Consumer Goods,Paper & Paper Products
+TIS,Orchids Paper Products Company  ,Consumer Goods,Paper & Paper Products
+ENX, Eaton Vance New York Municipal  ,Financial,Closed-End Fund - Debt
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+DSM, Dreyfus Strategic Municipal Bon ,Financial,Closed-End Fund - Debt
+WRI,Weingarten Realty Investors Com ,Financial,REIT - Retail
+SFNC,Simmons First National Corporat ,Financial,Regional - Southeast Banks
+WHG,Westwood Holdings Group Inc Com ,Financial,Asset Management
+DX,Dynex Capital Inc. Common Stoc ,Financial,Mortgage Investment
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+UBCP,United Bancorp Inc. ,Financial,Regional - Midwest Banks
+DCOM,Dime Community Bancshares Inc. ,Financial,Savings & Loans
+EIA, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+UMH,UMH Properties Inc. Common Sto ,Financial,REIT - Diversified
+LQD,iShares GS $ InvesTopTM Corporate Bond Fund ETF,Fixed Income ETF,
+UJB,ProShares Ultra High Yield ETF,Fixed Income ETF,
+BLV,Vanguard Long-Term Bond ETF,Fixed Income ETF,
+CLY,iShares 10+ Year Credit Bond Fund ETF,Fixed Income ETF,
+VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income ETF,
+ENZ,Enzo Biochem Inc. Common ,Healthcare,Medical Laboratories & Research
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+SNY,Sanofi American Depositary Shar ,Healthcare,Drug Manufacturers - Major
+TOWR,Tower International Inc. Commo ,Industrial Goods,Metal Fabrication
+GNRC,Generac Holdlings Inc. Common S ,Industrial Goods,Diversified Machinery
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+PNF, PIMCO New York Municipal Income ,N/A,N/A
+PCTY,Paylocity Holding Corporation ,N/A,N/A
+UGA, United States Gasoline Fund LP ,N/A,N/A
+BYLD,iShares Yield Optimized Bond ,N/A,N/A
+CCA, MFS California Municipal Fund C ,N/A,N/A
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+VWOB,Vanguard Emerg Mkts Govt Bd Idx ETF ,N/A,N/A
+EOT, Eaton Vance Municipal Income Tr ,N/A,N/A
+APTS, Preferred Apartment Communities ,N/A,N/A
+PI,Impinj  Inc.,N/A,N/A
+ILTB, iShares Core Long-Term U.S. Bon ,N/A,N/A
+CLCT,Collectors Universe Inc. ,Services,Business Services
+HBP,Huttig Building Products Inc. ,Services,Building Materials Wholesale
+VVI,Viad Corp Common ,Services,Business Services
+CSS,CSS Industries Inc. Common Sto ,Services,Specialty Retail Other
+EXPE,Expedia Inc. ,Services,Lodging
+AYR,Aircastle Limited Common ,Services,Rental & Leasing Services
+WSTG,Wayside Technology Group Inc. ,Services,Computers Wholesale
+PDCO,Patterson Companies Inc. ,Services,Medical Equipment Wholesale
+G,Genpact Limited Common ,Services,Management Services
+CHU,China Unicom (Hong Kong) Ltd Co ,Technology,Wireless Communications
+CHL,China Mobile Limited Common Sto ,Technology,Wireless Communications
+FORTY,Formula Systems (1985) Ltd. ,Technology,Business Software & Services
+TMUS,T-Mobile US Inc. ,Technology,Wireless Communications
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+NLSN, Nielsen Holdings N.V. Common St ,Technology,Information & Delivery Services
+CBB,Cincinnati Bell Inc. Common Sto ,Technology,Telecom Services - Domestic
+WEB,Web.com Group  Inc.,Technology,Internet Information Providers
+CHA,China Telecom Corp Ltd ADS ,Technology,Telecom Services - Foreign
+APU,AmeriGas Partners L.P. Common  ,Utilities,Gas Utilities

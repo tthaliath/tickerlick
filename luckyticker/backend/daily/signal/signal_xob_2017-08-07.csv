@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+MLVF,Malvern Federal Bancorp Inc. ,Financial,Savings & Loans
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+DLS,WisdomTree International SmallCap Fund ETF,Global Equity ETF,
+BZH,Beazer Homes USA Inc. Common S ,Industrial Goods,Residential Construction
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+COL,Rockwell Collins Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+PLCE,The Children's Place Retail Sto ,Services,Apparel Stores
+STMP,Stamps.com Inc. ,Services,Catalog & Mail Order Houses
+SVU,SuperValu Inc. Common ,Services,Grocery Stores
+H, Hyatt Hotels Corporation Class  ,Services,Lodging
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+SHEN,Shenandoah Telecommunications C ,Technology,Telecom Services - Domestic
+GRUB,GrubHub Inc. ,Technology,Internet Information Providers
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line

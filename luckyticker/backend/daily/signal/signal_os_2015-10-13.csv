@@ -1,0 +1,2 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BIIB,Biogen Idec Inc. ,Healthcare,2015-10-13,256.04,-4.03891563415527,11.207,29.991,19.1615,76.6460342407227

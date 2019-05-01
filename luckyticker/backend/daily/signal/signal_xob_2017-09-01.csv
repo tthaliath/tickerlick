@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MEOH,Methanex Corporation ,Basic Materials,Specialty Chemicals
+AAPC,Atlantic Alliance Partnership Corp.,Conglomerates,Conglomerates
+TD,Toronto Dominion Bank (The) Com ,Financial,Money Center Banks
+MSBF,MSB Financial Corp. ,Financial,Regional - Northeast Banks
+GILD,Gilead Sciences Inc. ,Healthcare,Biotechnology
+CRY,CryoLife Inc. Common ,Healthcare,Medical Appliances & Equipment
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+ICLR, ICON plc ,Healthcare,Medical Laboratories & Research
+BIIB,Biogen Idec Inc. ,Healthcare,Biotechnology
+OC,Owens Corning Inc Common ,Industrial Goods,General Building Materials
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+MZOR,Mazor Robotics Ltd. ,N/A,N/A
+CLLS,Cellectis S.A.,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+ABEO,Abeona Therapeutics Inc. ,N/A,N/A
+ZAGG,ZAGG Inc ,Services,Specialty Retail Other
+CVTI,Covenant Transportation Group  ,Services,Trucking
+LSTR,Landstar System Inc. ,Services,Trucking
+NVEE,NV5 Holdings Inc. ,Services,Technical Services
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+CHA,China Telecom Corp Ltd ADS ,Technology,Telecom Services - Foreign
+HIMX, Himax Technologies  Inc. ,Technology,Semiconductor - Specialized

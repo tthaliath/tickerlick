@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+IIIN, Insteel Industries  Inc. ,Basic Materials,Steel & Iron
+SHLM,A. Schulman Inc. ,Basic Materials,Specialty Chemicals
+SENEB, Seneca Foods Corp. ,Consumer Goods,Processed & Packaged Goods
+STC,Stewart Information Services Co ,Financial,Property & Casualty Insurance
+NTRA,Natera  Inc.,Healthcare,Medical Laboratories & Research
+ABB,ABB Ltd Common ,Industrial Goods,Industrial Electrical Equipment
+UUP, PowerShares DB USD Index Bullis ,N/A,N/A
+WAB,Westinghouse Air Brake Technolo ,Services,Railroads
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+DFRG, Del Frisco's Restaurant Group   ,Services,Restaurants
+SGA,Saga Communications Inc. New C ,Services,Broadcasting - Radio
+UAL,United Continental Holdings ,Services,Major Airlines
+DIT,AMCON Distributing Company Comm ,Services,Food Wholesale

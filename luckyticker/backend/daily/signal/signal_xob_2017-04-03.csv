@@ -1,0 +1,19 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FMC,FMC Corporation Common ,Basic Materials,Chemicals - Major Diversified
+FARM,Farmer Brothers Company ,Consumer Goods,Processed & Packaged Goods
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+APB, Asia Pacific Fund  Inc. (The) ,Financial,Closed-End Fund - Foreign
+ASPS,Altisource Portfolio Solutions  ,Financial,Mortgage Investment
+NEN,New England Realty Associates L ,Financial,Property Management
+TRR,TRC Companies Inc. Common Stoc ,Industrial Goods,Waste Management
+MGU, Macquarie Global Infrastructure ,N/A,N/A
+ITRN,Ituran Location and Control Ltd ,NULL,NULL
+PNRA,Panera Bread Company ,Services,Specialty Eateries
+WBAI,500.com Limited ,Services,Gaming Activities
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+AMZN,Amazon.com Inc. ,Services,Catalog & Mail Order Houses
+LL,Lumber Liquidators Holdings In ,Services,Home Improvement Stores
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+ADBE,Adobe Systems Incorporated ,Technology,Application Software
+COOL,Majesco Entertainment Company ,Technology,Multimedia & Graphics Software

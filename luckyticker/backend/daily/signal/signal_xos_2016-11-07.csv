@@ -1,0 +1,33 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+MMLP,Martin Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+EEP,Enbridge Energy L.P. Class A C ,Basic Materials,Oil & Gas Pipelines
+BCPC,Balchem Corporation ,Basic Materials,Chemicals - Major Diversified
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+NUS,Nu Skin Enterprises Inc. Commo ,Consumer Goods,Personal Products
+THS,Treehouse Foods Inc. Common St ,Consumer Goods,Processed & Packaged Goods
+FBRC, FBR & Co ,Financial,Asset Management
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+DPLO,Diplomat Pharmacy Inc. Common,Healthcare,Drugs - Generic
+ENTL,Entellus Medical Inc.,Healthcare,Medical Instruments & Supplies
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+PFIN,P & F Industries Inc. ,Industrial Goods,Small Tools & Accessories
+TRIL,,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+LILA,Liberty LiLAC Group,N/A,N/A
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+FLT,FleetCor Technologies Inc. Com ,Services,Business Services
+WBAI,500.com Limited ,Services,Gaming Activities
+LILAK,Liberty LiLAC Group,Services,CATV Systems
+KAR,KAR Auction Services Inc Commo ,Services,Auto Dealerships
+HSNI, HSN  Inc. ,Services,Specialty Retail  Other
+IMOS,ChipMOS TECHNOLOGIES (Bermuda)  ,Technology,Semiconductor Equipment & Materials
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+PINC,Premier Inc. ,Technology,Healthcare Information Services
+HSTM, HealthStream  Inc. ,Technology,Internet Information Providers
+MRVC,MRV Communications Inc. ,Technology,Semiconductor - Integrated Circuits
+RTL,iShares FTSE NAREIT Retail Index Fund ETF,US Equity ETF,
+SPH,Suburban Propane Partners L.P. ,Utilities,Gas Utilities

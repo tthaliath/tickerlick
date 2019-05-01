@@ -1,0 +1,82 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LEU,Centrus Energy Corp. Class A Co,Basic Materials,Industrial Metals & Minerals
+MTRN, Materion Corporation ,Basic Materials,Industrial Metals & Minerals
+IPHS,Innophos Holdings Inc. ,Basic Materials,Specialty Chemicals
+PST,ProShares UltraShort 7-10 Year Treasury ETF,Commodity Based ETF,
+FINU,ProShares UltraPro Financials,Commodity Based ETF,
+SODA,SodaStream International Ltd. ,Consumer Goods,Beverages - Soft Drinks
+HAR, Harman International Industries ,Consumer Goods,Electronic Equipment
+CAAS,China Automotive Systems Inc. ,Consumer Goods,Auto Parts
+CMA,Comerica Incorporated Common St ,Financial,Regional - Midwest Banks
+EVR,Evercore Partners Inc Class A C ,Financial,Asset Management
+FMBI,First Midwest Bancorp Inc. ,Financial,Regional - Midwest Banks
+LPLA,LPL Financial Holdings Inc. ,Financial,Investment Brokerage - National
+MS,Morgan Stanley Common ,Financial,Investment Brokerage - National
+ONB,Old National Bancorp Capital Tr ,Financial,Regional - Midwest Banks
+UBSH,Union First Market Bankshares C ,Financial,Regional - Mid-Atlantic Banks
+VOYA,ING U.S. Inc. ,Financial,Asset Management
+OUT,OUTFRONT Media Inc. Common Stoc,Financial,Property Management
+MPB,Mid Penn Bancorp ,Financial,Regional - Northeast Banks
+FFKT,Farmers Capital Bank Corporatio ,Financial,Regional - Southeast Banks
+BHLB,Berkshire Hills Bancorp Inc. ,Financial,Savings & Loans
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+IBOC, International Bancshares Corpor ,Financial,Regional - Southwest  Banks
+KRNY,Kearny Financial ,Financial,Savings & Loans
+PFS,Provident Financial Services I ,Financial,Savings & Loans
+UCBI,United Community Banks Inc. ,Financial,Regional - Mid-Atlantic Banks
+WABC,Westamerica Bancorporation ,Financial,Regional - Pacific Banks
+DGICB, Donegal Group  Inc. ,Financial,Property & Casualty Insurance
+MSL,MidSouth Bancorp Common ,Financial,Regional - Southeast Banks
+FHN,First Horizon National Corporat ,Financial,Regional - Southeast Banks
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+LNC,Lincoln National Corporation Co ,Financial,Life Insurance
+NNI,Nelnet Inc. Common ,Financial,Credit Services
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+RGA,Reinsurance Group of America I ,Financial,Life Insurance
+WBS,Webster Financial Corporation C ,Financial,Regional - Northeast Banks
+FCCY,1st Constitution Bancorp (NJ) ,Financial,Regional - Northeast Banks
+TCFC,The Community Financial Corp. ,Financial,Regional - Pacific Banks
+NWFL,Norwood Financial Corp. ,Financial,Regional - Northeast Banks
+AGO,Assured Guaranty Ltd. Common St ,Financial,Surety & Title Insurance
+COLB,Columbia Banking System Inc. ,Financial,Savings & Loans
+OFG,Oriental Financial Group Inc.  ,Financial,Money Center Banks
+PRU,Prudential Financial Inc. Comm ,Financial,Life Insurance
+SLM,SLM Corporation ,Financial,Credit Services
+WSBC,WesBanco Inc. ,Financial,Regional - Mid-Atlantic Banks
+CVLY,Codorus Valley Bancorp Inc ,Financial,Regional - Northeast Banks
+VALU,Value Line Inc. ,Financial,Asset Management
+CUBA, The Herzfeld Caribbean Basin Fu ,Financial,Closed-End Fund - Foreign
+AIR,AAR Corp. Common ,Industrial Goods,Aerospace/Defense Products & Services
+CR,Crane Company Common ,Industrial Goods,Diversified Machinery
+LNN,Lindsay Corporation Common Stoc ,Industrial Goods,Farm & Construction Machinery
+ENS,Enersys Common ,Industrial Goods,Industrial Electrical Equipment
+FNCL,Fidelity MSCI Financials Index ETF ,N/A,N/A
+BPFHW,Boston Private Financial Holdings Inc. ,N/A,N/A
+QADB,QAD Inc. ,NULL,NULL
+DAL,Delta Air Lines Inc. (New) Comm ,Services,Major Airlines
+EXPO,Exponent Inc. ,Services,Management Services
+MAR,Marriot International Common St ,Services,Lodging
+SPTN,Spartan Stores Inc. ,Services,Food Wholesale
+NTN,NTN Buzztime Inc. Common ,Services,Broadcasting - TV
+CECO,Career Education Corporation ,Services,Education & Training Services
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services
+LOPE,Grand Canyon Education Inc. ,Services,Education & Training Services
+MGI,Moneygram International Inc. N ,Services,Business Services
+STRA,Strayer Education Inc. ,Services,Education & Training Services
+TIME,Time Inc. Common,Services,Publishing - Periodicals
+SNCR,Synchronoss Technologies Inc. ,Technology,Application Software
+FORTY,Formula Systems (1985) Ltd. ,Technology,Business Software & Services
+AVNW,Aviat Networks Inc. ,Technology,Communication Equipment
+KEM,Kemet Corporation New Common St ,Technology,Diversified Electronics
+VEEV,Veeva Systems Inc. ,Technology,Healthcare Information Services
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+MENT,Mentor Graphics Corporation ,Technology,Technical & System Software
+VECO,Veeco Instruments Inc. ,Technology,Semiconductor Equipment & Materials
+LLTC,Linear Technology Corporation ,Technology,Semiconductor - Specialized
+QADA,QAD Inc. ,Technology,Application Software
+ARCW,Arc Wireless Solutions Inc. ,Technology,Wireless Communications
+IAT,iShares Dow Jones U.S. Regional Banks Index Fund ETF,US Equity ETF,
+KBE,SPDR KBW Bank ETF,US Equity ETF,
+QABA,First Trust NASDAQ ABA Community Bank Index Fund ETF,US Equity ETF,
+IAI,iShares Dow Jones U.S. Broker-Dealers Index Fund ETF,US Equity ETF,
+VFH,Vanguard Financials ETF - DNQ ETF,US Equity ETF,

@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PBT,Permian Basin Royalty Trust Com ,Basic Materials,Independent Oil & Gas
+FMC,FMC Corporation Common ,Basic Materials,Chemicals - Major Diversified
+EML,Eastern Company (The) ,Industrial Goods,Small Tools & Accessories
+CLNT, Cleantech Solutions Internation ,Industrial Goods,Metal Fabrication
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+BUI, BlackRock Utility and Infrastru ,N/A,N/A
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+JRI, Nuveen Real Asset Income and Gr ,N/A,N/A
+NORD,Nord Anglia Education Inc. ,Services,Education & Training Services
+DSX,Diana Shipping inc. common stoc ,Services,Shipping
+MDSO,Medidata Solutions Inc. ,Technology,Healthcare Information Services
+GNCMA,General Communication Inc. ,Technology,Long Distance Carriers

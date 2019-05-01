@@ -1,0 +1,23 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CNNX,Cone Midstream Partners LP Comm,Basic Materials,Oil & Gas Pipelines
+NGS,Natural Gas Services Group Inc ,Basic Materials,Oil & Gas Equipment & Services
+MAT,Mattel Inc. ,Consumer Goods,Toys & Games
+CRWS,Crown Crafts Inc. ,Consumer Goods,Textile - Apparel Clothing
+CPS,Cooper-Standard Holdings Inc. ,Consumer Goods,Auto Parts
+VC, Visteon Corporation Common Stoc ,Consumer Goods,Auto Parts
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods
+FUND, Royce Focus Trust  Inc. ,Financial,Closed-End Fund - Equity
+RSXJ,Market Vectors Russia Small-Cap ETF,Global Equity ETF,
+FSFR,Fifth Street Senior Floating Rate Corp. ,N/A,N/A
+MHNB, Maiden Holdings North America   ,N/A,N/A
+MLPG, UBS AG Exchange Traded Access S ,N/A,N/A
+ZMLP,Direxion Zacks MLP High Income Shares ,N/A,N/A
+P, Pandora Media  Inc. Common Stoc ,Services,Broadcasting - Radio
+GSH,Guangshen Railway Company Limit ,Services,Railroads
+ROST,Ross Stores Inc. ,Services,Apparel Stores
+AM,American Greetings Corporation  ,Services,Specialty Retail Other
+SFS,Smart & Final Stores Inc. Comm,Services,Grocery Stores
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+INTC,Intel Corporation ,Technology,Semiconductor - Broad Line
+PBJ,PowerShares Dynamic Food & Beverage ETF,US Equity ETF,

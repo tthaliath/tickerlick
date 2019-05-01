@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+KEMP,KraneShares FTSE Emerging Marke,,
+JAKK,JAKKS Pacific Inc. ,Consumer Goods,Toys & Games
+RL,Ralph Lauren Corporation Common ,Consumer Goods,Textile - Apparel Clothing
+GMTB,Columbia Core Bond Strategy ETF,Fixed Income ETF,
+EWH,iShares MSCI Hong Kong Index Fund ETF,Global Equity ETF,
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology
+AGRX,Agile Therapeutics Inc.,Healthcare,Drugs - Generic
+DXJR,WisdomTree Japan Hedged Real Estate ,N/A,N/A
+DEST,Destination Maternity Corporati ,Services,Apparel Stores
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+SSYS,Stratasys Inc. ,Technology,Computer Based Systems
+WUBA,58.com Inc. ,Technology,Internet Information Providers
+HECO,Huntington EcoLogical Strategy ETF,US Equity ETF,

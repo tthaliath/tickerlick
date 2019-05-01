@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SMK,ProShares UltraShort MSCI Mexico Investable Market ETF,Commodity Based ETF,
+DEPO,Depomed Inc. ,Healthcare,Drug Manufacturers - Other
+TLI, LMP Corporate Loan Fund Inc Com ,N/A,N/A
+EDUC,Educational Development Corpora ,Services,Wholesale Other
+WIN,Windstream Corporation ,Technology,Telecom Services - Domestic
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services
+EXA, Exa Corporation ,Technology,Application Software

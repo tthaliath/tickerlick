@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+FLO,Flowers Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods
+VIRT,Virtu Financial  Inc.,Financial,Investment Brokerage - National
+RDN,Radian Group Inc. Common ,Financial,Property & Casualty Insurance
+IOO,iShares S&P Global 100 Index Fund ETF,Global Equity ETF,
+GUR,SPDR S&P Emerging Europe ETF,Global Equity ETF,
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+AVH,Avianca Holdings S.A. ,N/A,N/A
+RICK,Rick's Cabaret International I ,Services,Restaurants
+ERS,Empire Resources Inc. ,Services,Basic Materials Wholesale
+BEBE,bebe stores inc. ,Services,Apparel Stores
+GFN,General Finance Corporation ,Services,Rental & Leasing Services
+RNET,RigNet Inc. ,Technology,Diversified Communication Services
+INVN, InvenSense  Inc. Common ,Technology,Semiconductor - Integrated Circuits
+HDV,iShares High Dividend Equity ETF,US Equity ETF,

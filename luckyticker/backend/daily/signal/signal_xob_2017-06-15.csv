@@ -1,0 +1,17 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CRDT,WisdomTree Global Corporate Bon ,,
+SGU,Star Gas Partners L.P. Common  ,Basic Materials,Oil & Gas Pipelines
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+XBKS, Xenith Bankshares  Inc. ,Financial,Regional - Mid-Atlantic Banks
+CINF,Cincinnati Financial Corporatio ,Financial,Property & Casualty Insurance
+UNB,Union Bankshares Inc. ,Financial,Regional - Northeast Banks
+HR, Healthcare Realty Trust Incorpo ,Financial,REIT - Healthcare Facilities
+ASBB, ASB Bancorp  Inc. ,Financial,Regional - Mid-Atlantic Banks
+PEBK, Peoples Bancorp of North Caroli ,Financial,Regional - Mid-Atlantic Banks
+LAKE,Lakeland Industries Inc. ,Healthcare,Medical Appliances & Equipment
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+IART, Integra LifeSciences Holdings C ,Healthcare,Medical Instruments & Supplies
+ALG,Alamo Group Inc. Common ,Industrial Goods,Farm & Construction Machinery
+EXD, Eaton Vance Tax-Advantaged Bond ,N/A,N/A
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities
+YORW,The York Water Company ,Utilities,Water Utilities

@@ -1,0 +1,29 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FUL,H. B. Fuller Company Common Sto ,Basic Materials,Specialty Chemicals
+PAY,Verifone Systems Inc. Common S ,Consumer Goods,Business Equipment
+PHG,Koninklijke Philips Electronics ,Consumer Goods,Electronic Equipment
+FCAP,First Capital Inc. ,Financial,Savings & Loans
+CMCT,CIM Commerical Trust Corp. ,Financial,REIT - Industrial
+VSTM, Verastem  Inc. ,Healthcare,Biotechnology
+AAC,AAC Holdings Inc. Common,Healthcare,Specialized Health Services
+PFE,Pfizer Inc. Common ,Healthcare,Drug Manufacturers - Major
+INGN,Inogen Inc. ,Healthcare,Medical Instruments & Supplies
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+PDEX,Pro-Dex Inc. ,Healthcare,Medical Instruments & Supplies
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+ABBV,AbbVie Inc. ,Healthcare,Drug Manufacturers - Major
+GTXI, GTx  Inc. ,Healthcare,Biotechnology
+PRGO,Perrigo Company ,Healthcare,Drug Related Products
+AVAV,AeroVironment Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+TXT,Textron Inc. Common ,Industrial Goods,Aerospace/Defense - Major Diversified
+NTEC,Intec Pharma,N/A,N/A
+FCAU,Fiat Chrysler Automobiles N.V.,N/A,N/A
+MA,Mastercard Incorporated Common  ,Services,Business Services
+CVTI,Covenant Transportation Group  ,Services,Trucking
+GPS,Gap Inc. (The) Common ,Services,Apparel Stores
+INOV,Inovalon Holdings Inc.,Technology,Healthcare Information Services
+SYMC,Symantec Corporation ,Technology,Security Software & Services
+PRGS,Progress Software Corporation ,Technology,Application Software
+KEQU,Kewaunee Scientific Corporation ,Technology,Scientific & Technical Instruments

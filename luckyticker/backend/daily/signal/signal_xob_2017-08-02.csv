@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TPL,Texas Pacific Land Trust Common ,Financial,Real Estate Development
+VOYA,ING U.S. Inc. ,Financial,Asset Management
+GLRE,Greenlight Reinsurance Ltd. ,Financial,Property & Casualty Insurance
+ALL,Allstate Corporation (The) Comm ,Financial,Property & Casualty Insurance
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+ENZY,Enzymotec Ltd. ,Healthcare,Biotechnology
+FNFV,FNFV Group of Fidelity National,N/A,N/A
+RGT,Royce Global Value Trust  Inc.  ,N/A,N/A
+AAWW,Atlas Air Worldwide Holdings ,Services,Air Services Other
+FTAI,Fortress Transportation and Infrastructure Investors LLC,Services,Rental & Leasing Services
+VSEC,VSE Corporation ,Services,Technical Services
+OMCL,Omnicell Inc. ,Technology,Computer Based Systems
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers
+FMK,First Trust Mega Cap AlphaDex,US Equity ETF,
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities

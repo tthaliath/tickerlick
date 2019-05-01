@@ -1,0 +1,36 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OILD,ProShares UltraPro 3x Short Cru,,
+UAA,Under Armour  Inc. Class A,,
+SCO,ProShares UltraShort DJ-UBS Crude Oil ETF,Commodity Based ETF,
+GT,Goodyear Tire & Rubber Company  ,Consumer Goods,Rubber & Plastics
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+CTB,Cooper Tire & Rubber Company Co ,Consumer Goods,Rubber & Plastics
+JBSS,John B. Sanfilippo & Son Inc. ,Consumer Goods,Processed & Packaged Goods
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+BSD, BlackRock Strategic Municipal T ,Financial,Closed-End Fund - Debt
+AGNC,American Capital Agency Corp. ,Financial,REIT - Residential
+AON,Aon plc Class A Ordinary Shares ,Financial,Insurance Brokers
+CMO,Capstead Mortgage Corporation C ,Financial,REIT - Diversified
+EARN,N/A ,Financial,REIT - Diversified
+MTGE, American Capital Mortgage Inves ,Financial,REIT - Diversified
+MUH, Blackrock MuniHoldings Fund II  ,Financial,Closed-End Fund - Debt
+TCAP, Triangle Capital Corporation Co ,Financial,Asset Management
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+LXRX,Lexicon Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ERJ,Embraer S.A. Common ,Industrial Goods,Aerospace/Defense Products & Services
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+MXE, Mexico Equity and Income Fund   ,N/A,N/A
+MSGN,MSG Networks Inc.,N/A,N/A
+ICOL,iShares MSCI Colombia Capped ,N/A,N/A
+PI,Impinj  Inc.,N/A,N/A
+VMO, Invesco Van Kampen Municipal Op ,N/A,N/A
+AVAL,Grupo Aval Acciones y Valores S,N/A,N/A
+ATH,Athene Holding Ltd.,N/A,N/A
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+TACO,Del Taco Restaurants  Inc.,Services,Restaurants
+TWX,Time Warner Inc. New Common Sto ,Services,Entertainment - Diversified
+CATM,Cardtronics Inc. ,Services,Business Services
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale
+PSMT,PriceSmart Inc. ,Services,Discount Variety Stores
+OCLR,Oclaro Inc. ,Technology,Semiconductor Equipment & Materials
+TLK,P.T. Telekomunikasi Indonesia  ,Technology,Telecom Services - Foreign

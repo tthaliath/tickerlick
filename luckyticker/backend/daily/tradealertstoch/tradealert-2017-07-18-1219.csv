@@ -1,0 +1,107 @@
+Buy,ALK,Alaska Air Group Inc. Common S ,4.23307
+Buy,AMP,Ameriprise Financial Inc. Comm ,19.1142
+Buy,AVB,AvalonBay Communities Inc. Com ,16.1973
+Buy,COH,Coach Inc. Common ,16.2701
+Buy,DE,Deere & Company Common ,15.8801
+Buy,DG,Dollar General Corporation Comm ,10.2553
+Buy,DHI,D.R. Horton Inc. Common ,15.5364
+Buy,DHR,Danaher Corporation Common Stoc ,2.44212
+Buy,DLR,Digital Realty Trust Inc. Comm ,11.01
+Buy,DLTR,Dollar Tree Inc. ,9.02767
+Buy,ECL,Ecolab Inc. Common ,16.4099
+Buy,ED,Consolidated Edison Inc. Commo ,19.2962
+Buy,EIX,Edison International Common Sto ,10.4174
+Buy,EL,Estee Lauder Companies Inc. (T ,2.08383
+Buy,ISRG,Intuitive Surgical Inc. ,11.5288
+Buy,LUV,Southwest Airlines Company Comm ,5.22506
+Buy,M,Macy's Inc Common ,4.58826
+Buy,MA,Mastercard Incorporated Common  ,12.4479
+Buy,MAA,Mid-America Apartment Communiti ,3.17469
+Buy,MCD,McDonald's Corporation Common S ,19.839
+Buy,MCK,McKesson Corporation Common Sto ,3.20944
+Buy,MCO,Moody's Corporation Common Stoc ,17.0371
+Buy,MET,MetLife Inc. Common ,14.3437
+Buy,PCG,Pacific Gas & Electric Co. Comm ,4.9367
+Buy,PDCO,Patterson Companies Inc. ,15.9192
+Buy,PWR,Quanta Services Inc. Common St ,18.4885
+Buy,RAI,Reynolds American Inc Common St ,5.94235
+Buy,RJF,Raymond James Financial Inc. C ,11.9628
+Buy,ROST,Ross Stores Inc. ,14.9687
+Buy,RRC,Range Resources Corporation Com ,17.0636
+Buy,RTN,Raytheon Company Common ,3.15993
+Buy,SLB,Schlumberger N.V. Common ,12.5543
+Buy,SNA,Snap-On Incorporated Common Sto ,4.47021
+Buy,SO,Southern Company (The) Common S ,11.1122
+Buy,WAT,Waters Corporation Common ,11.8713
+Buy,WEC,Wisconsin Energy Corporation Co ,14.4129
+Buy,WMT,Wal-Mart Stores Inc. Common St ,12.1308
+Buy,WYN,Wyndham Worldwide Corp Common   ,9.75325
+Buy,XEL,Xcel Energy Inc. Common ,12.2552
+Buy,ZION,Zions Bancorporation ,16.7467
+Buy,EA, Electronic Arts Inc. ,12.3497
+Buy,GWW, W.W. Grainger  Inc. Common Stoc ,3.00372
+Buy,HOG, Harley-Davidson  Inc. Common St ,19.4708
+Buy,MSI, Motorola Solutions  Inc. Common ,15.0814
+Buy,ABBV,AbbVie Inc. ,12.3459
+Buy,EVHC,Envision Healthcare Holdings Inc. ,10.7331
+Buy,SYF,Synchrony Financial Common Stoc,16.5028
+Buy,WBA,Walgreens Boots Alliance Inc.,8.18406
+Buy,DXC,DXC Technology Company,14.2266
+Buy,UAA,Under Armour  Inc. Class A,10.9812
+Sell,AJG,Arthur J. Gallagher & Co. Commo ,82.778
+Sell,ALB,Albemarle Corporation Common St ,97.1402
+Sell,ALXN,Alexion Pharmaceuticals Inc. ,83.235
+Sell,AMG,Affiliated Managers Group Inc. ,87.0376
+Sell,ARE,Alexandria Real Estate Equities ,97.7673
+Sell,AVGO,Avago Technologies Limited ,87.6052
+Sell,AVY,Avery Dennison Corporation Comm ,90.7402
+Sell,AYI,Acuity Brands Inc (Holding Comp ,90.8925
+Sell,CBG,CBRE Group Inc Common ,80.0798
+Sell,CBS,CBS Corporation Class B Common  ,98.4441
+Sell,CCI,Crown Castle International Corp ,90.9062
+Sell,CNC,Centene Corporation Common Stoc ,92.6838
+Sell,DGX,Quest Diagnostics Incorporated  ,91.7559
+Sell,DISCK,Discovery Communications Inc ,81.128
+Sell,DPS,Dr Pepper Snapple Group Inc Dr ,89.7397
+Sell,DVN,Devon Energy Corporation Common ,94.2033
+Sell,EBAY,eBay Inc. ,90.6658
+Sell,INTU,Intuit Inc. ,87.8354
+Sell,IRM,Iron Mountain Incorporated (Del ,97.3651
+Sell,LRCX,Lam Research Corporation ,86.1584
+Sell,MDT,Medtronic Inc. Common ,83.3995
+Sell,PAYX,Paychex Inc. ,80.6526
+Sell,PBCT,People's United Financial Inc. ,93.3325
+Sell,PFE,Pfizer Inc. Common ,86.1101
+Sell,PSA,Public Storage Common ,98.5088
+Sell,RCL,Royal Caribbean Cruises Ltd. Co ,90.2166
+Sell,REG,Regency Centers Corporation Com ,95.7263
+Sell,RF,Regions Financial Corporation C ,83.3331
+Sell,RHT,Red Hat Inc. Common ,91.1824
+Sell,ROK,Rockwell Automation Inc. Commo ,98.9158
+Sell,ROP,Roper Industries Inc. Common S ,97.4746
+Sell,SBUX,Starbucks Corporation ,86.5938
+Sell,SHW,Sherwin-Williams Company (The)  ,82.6965
+Sell,SLG,SL Green Realty Corporation Com ,94.4857
+Sell,SNPS,Synopsys Inc. ,92.5305
+Sell,SPG,Simon Property Group Inc. Comm ,83.7169
+Sell,WFC,Wells Fargo & Company Common St ,86.2737
+Sell,WYNN,Wynn Resorts Limited ,92.6644
+Sell,XLNX,Xilinx Inc. ,85.928
+Sell,XRAY,DENTSPLY International Inc. ,83.1158
+Sell,XRX,Xerox Corporation Common ,90.1232
+Sell,DLPH, Delphi Automotive plc Ordinary  ,98.6824
+Sell,ETN, Eaton Corporation Common ,80.9513
+Sell,HAS, Hasbro  Inc. ,89.9723
+Sell,HBAN, Huntington Bancshares Incorpora ,88.8887
+Sell,HBI, Hanesbrands Inc. Common ,84.0622
+Sell,IDXX, IDEXX Laboratories  Inc. ,94.7406
+Sell,ILMN, Illumina  Inc. ,88.1335
+Sell,KMI, Kinder Morgan  Inc. Common Stoc ,95.3707
+Sell,LLY, Eli Lilly and Company Common St ,92.1122
+Sell,VIAB, Viacom Inc. ,92.5756
+Sell,FOX,Twenty-First Century Fox Inc. ,84.5941
+Sell,ALLE,Allegion plc Ordinary Shares ,97.7773
+Sell,GOOGL,Alphabet Inc.,93.1057
+Sell,NAVI,Navient Corporation ,87.4686
+Sell,CSRA,CSRA Inc.,82.4073
+Sell,ARNC,Arconic Inc.,83.3329

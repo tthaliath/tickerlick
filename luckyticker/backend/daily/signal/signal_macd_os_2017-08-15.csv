@@ -1,0 +1,130 @@
+ticker,name,sector,industry
+MMC,Marsh & McLennan Companies Inc ,Financial,Insurance Brokers
+FISV,Fiserv Inc. ,Services,Business Services
+OMC,Omnicom Group Inc. Common ,Services,Advertising Agencies
+IP,International Paper Company Com ,Consumer Goods,Paper & Paper Products
+CMG,Chipotle Mexican Grill Inc. Co ,Services,Restaurants
+CERN,Cerner Corporation ,Technology,Healthcare Information Services
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities
+GOOG,Alphabet Inc.,Technology,Internet Information Providers
+RRC,Range Resources Corporation Com ,Basic Materials,Independent Oil & Gas
+PPG,PPG Industries Inc. Common Sto ,Basic Materials,Specialty Chemicals
+WFC,Wells Fargo & Company Common St ,Financial,Money Center Banks
+UAL,United Continental Holdings ,Services,Major Airlines
+GOOGL,Alphabet Inc.,Technology,Internet Information Providers
+DFS,Discover Financial Services Com ,Financial,Credit Services
+DVA,DaVita Inc. Common ,Healthcare,Specialized Health Services
+FLS,Flowserve Corporation Common St ,Industrial Goods,Diversified Machinery
+PAYX,Paychex Inc. ,Services,Staffing & Outsourcing Services
+DD,E.I. du Pont de Nemours and Com ,Basic Materials,Chemicals - Major Diversified
+DGX,Quest Diagnostics Incorporated  ,Healthcare,Medical Laboratories & Research
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+INSY,INSYS Therapeutics Inc. ,Healthcare,Biotechnology
+QEP,QEP Resources Inc. Common Stoc ,Basic Materials,Oil & Gas Drilling & Exploration
+TGNA,TEGNA Inc.,Services,Broadcasting - TV
+NCR,NCR Corporation Common ,Technology,Information Technology Services
+XCRA,Xcerra Corporation,Technology,Semiconductor Equipment & Materials
+TBT,ProShares UltraShort 20+ Year Treasury ETF,Commodity Based ETF,
+GBL,Gamco Investors Inc. Common St ,Financial,Asset Management
+UBSI,United Bankshares Inc. ,Financial,Regional - Mid-Atlantic Banks
+DZZ, Deutsche Bank AG DB Gold Double ,N/A,N/A
+FORTY,Formula Systems (1985) Ltd. ,Technology,Business Software & Services
+SRDX,SurModics Inc. ,Healthcare,Diagnostic Substances
+CRH,CRH PLC American Depositary Sha ,Industrial Goods,Cement
+KERX,Keryx Biopharmaceuticals Inc. ,Healthcare,Biotechnology
+PST,ProShares UltraShort 7-10 Year Treasury ETF,Commodity Based ETF,
+BHB,Bar Harbor Bankshares Inc. Com ,Financial,Regional - Northeast Banks
+XSW,SPDR S&P Software & Services ETF,US Equity ETF,
+CAVM,Cavium Inc. ,Technology,Semiconductor - Broad Line
+PXQ,PowerShares Dynamic Networking ETF,US Equity ETF,
+NUVA,NuVasive Inc. ,Healthcare,Medical Appliances & Equipment
+BDC,Belden Inc Common ,Industrial Goods,Industrial Electrical Equipment
+BOJA,Bojangles  Inc.,Services,Restaurants
+CBT,Cabot Corporation Common ,Basic Materials,Specialty Chemicals
+VIVO,Meridian Bioscience Inc. ,Healthcare,Diagnostic Substances
+FLRN, SPDR Barclays Capital Investmen ,N/A,N/A
+XHS,SPDR S&P Health Care Services ETF,US Equity ETF,
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+KND,Kindred Healthcare Inc. Common ,Healthcare,Long-Term Care Facilities
+SCX,L.S. Starrett Company (The) Com ,Industrial Goods,Small Tools & Accessories
+BLMN, Bloomin' Brands  Inc. ,Services,Restaurants
+CIR,CIRCOR International Inc. Comm ,Industrial Goods,Industrial Equipment & Components
+CSTE, CaesarStone Sdot-Yam Ltd. ,Industrial Goods,Manufactured Housing
+PMBC,Pacific Mercantile Bancorp ,Financial,Regional - Pacific Banks
+TMV, Direxion Daily 30-Yr Treasury B ,N/A,N/A
+CVI,CVR Energy Inc. Common ,Basic Materials,Oil & Gas Refining & Marketing
+COHR,Coherent Inc. ,Technology,Scientific & Technical Instruments
+LM,Legg Mason Inc. Common ,Financial,Asset Management
+DGLD, VelocityShares 3x Inverse Gold  ,N/A,N/A
+BABY,Natus Medical Incorporated ,Healthcare,Medical Appliances & Equipment
+ESSA,ESSA Bancorp Inc. ,Financial,Savings & Loans
+OEC,Orion Engineered Carbons S.A Co,Basic Materials,Specialty Chemicals
+UFAB,Unique Fabricating  Inc.,Consumer Goods,Auto Parts
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+ERIC,Ericsson ,NULL,NULL
+SPKE,Spark Energy Inc.,Utilities,Electric Utilities
+HRC, Hill-Rom Holdings Inc Common St ,Healthcare,Medical Instruments & Supplies
+ORMP,Oramed Pharmaceuticals Inc. ,Healthcare,Biotechnology
+RBA,Ritchie Bros. Auctioneers Incor ,Services,Business Services
+SPWR, SunPower Corporation ,Technology,Semiconductor - Specialized
+JBLU,JetBlue Airways Corporation ,Services,Regional Airlines
+ABCB,Ameris Bancorp ,Financial,Regional - Mid-Atlantic Banks
+WDTI, WisdomTree Managed Futures Stra ,N/A,N/A
+ACC,American Campus Communities Inc ,Financial,REIT - Residential
+TCBIL, Texas Capital Bancshares  Inc. ,N/A,N/A
+AED,AEGON N.V. Perp. Cap. Securitie ,NULL,NULL
+COW, iPath Dow Jones UBS Livestock T ,N/A,N/A
+DST,DST Systems Inc. Common ,Technology,Information & Delivery Services
+FTK,Flotek Industries Inc. Common  ,Basic Materials,Specialty Chemicals
+ABTL,Autobytel Inc. ,Technology,Internet Information Providers
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+TTT,ProShares UltraPro Short 20+ Year Treasury ETF,Commodity Based ETF,
+HTF, Horizon Technology Finance Corp ,N/A,N/A
+TBF,ProShares Short 20+ Year Treasury ETF,Commodity Based ETF,
+ICPT, Intercept Pharmaceuticals  Inc. ,Healthcare,Biotechnology
+TYO, Direxion Daily 10-Yr Treasury B ,N/A,N/A
+TBX,ProShares Short 7-10 Year Treasury ETF,Commodity Based ETF,
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron
+HRZN, Horizon Technology Finance Corp ,Financial,Asset Management
+CLLS,Cellectis S.A.,N/A,N/A
+IMKTA, Ingles Markets  Incorporated ,Services,Grocery Stores
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+TBPH,Theravance Biopharma Inc.,Healthcare,Biotechnology
+DTYS, iPath US Treasury 10 Yr Bear ET ,N/A,N/A
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+FORR,Forrester Research Inc. ,Services,Research Services
+COMM,CommScope Holding Company Inc. ,Technology,Communication Equipment
+PEJ,PowerShares Dynamic Leisure & Entertainment Portfolio ETF,US Equity ETF,
+FFKT,Farmers Capital Bank Corporatio ,Financial,Regional - Southeast Banks
+ZEN,Zendesk Inc. Common,Technology,Application Software
+EMES,Emerge Energy Services LP ,Basic Materials,Oil & Gas Equipment & Services
+HEDJ,WisdomTree International Hedged Equity Fund ETF,Global Equity ETF,
+AGII,Argo Group International Holdin ,Financial,Property & Casualty Insurance
+SSTK, Shutterstock  Inc. Common ,Services,Business Services
+CVRR,CVR Refining LP ,Basic Materials,Oil & Gas Refining & Marketing
+MSBF,MSB Financial Corp. ,Financial,Regional - Northeast Banks
+AR,Antero Resources Corporation ,Basic Materials,Oil & Gas Drilling & Exploration
+CFNB,California First National Banco ,Financial,Regional - Pacific Banks
+OHI,Omega Healthcare Investors Inc ,Financial,REIT - Healthcare Facilities
+TAPR,Barclays PLC ,,
+GLT,Glatfelter Common ,Consumer Goods,Paper & Paper Products
+PCMI,PCM Inc. ,Services,Specialty Retail
+LPL,LG Display Co Ltd AMERICAN DEP ,Technology,Diversified Electronics
+FBIZ, First Business Financial Servic ,Financial,Regional - Midwest Banks
+YCS,ProShares UltraShort Yen ETF,Commodity Based ETF,
+GCBC, Greene County Bancorp  Inc. ,Financial,Savings & Loans
+ZIXI,Zix Corporation ,Technology,Application Software
+EIRL,iShares MSCI Ireland Capped Investable Market Index Fund ETF,Global Equity ETF,
+PKBK,Parke Bancorp Inc. ,Financial,Regional - Northeast Banks
+DUST, Direxion Daily Gold Miners Bear ,N/A,N/A
+VRNS,Varonis Systems Inc. ,Technology,Technical & System Software
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,Chemicals - Major Diversified
+PTF,PowerShares Dynamic Technology ETF,US Equity ETF,
+CORI,Corium International Inc. ,Healthcare,Biotechnology
+QQQE, Direxion NASDAQ-100 Equal Weigh ,N/A,N/A
+NWHM,The New Home Company LLC ,Industrial Goods,Residential Construction
+FUN,Cedar Fair L.P. Common ,Services,General Entertainment
+XSD,SPDR S&P Semiconductor ETF,US Equity ETF,
+GDXS,ProShares UltraShort Gold Miner,,
+HLT,Hilton Worldwide Holdings Inc. ,Services,Lodging

@@ -1,0 +1,10 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DBUK,Deutsche X-Trackers MSCI United ,,
+CNXT,Market Vectors ChinaAMC SME-ChN ,,
+ACHC, Acadia Healthcare Company  Inc. ,Healthcare,Specialized Health Services
+UHS,Universal Health Services Inc. ,Healthcare,Hospitals
+TRTLU,Terrapin 3 Acquisition Corporat,N/A,N/A
+PGP, Pimco Global ,N/A,N/A
+WLFC,Willis Lease Finance Corporatio ,Services,Rental & Leasing Services
+DL,China Distance Education Holdin ,Services,Education & Training Services
+INOV,Inovalon Holdings Inc.,Technology,Healthcare Information Services

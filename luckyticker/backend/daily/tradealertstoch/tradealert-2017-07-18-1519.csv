@@ -1,0 +1,98 @@
+Buy,BBBY,Bed Bath & Beyond Inc. ,7.67623
+Buy,BBY,Best Buy Co. Inc. Common ,15.459
+Buy,BCR,C.R. Bard Inc. Common ,7.33681
+Buy,BDX,Becton Dickinson and Company C ,11.4863
+Buy,BIIB,Biogen Idec Inc. ,17.6674
+Buy,BK,Bank of New York Mellon Corpora ,10.5262
+Buy,BMY,Bristol-Myers Squibb Company Co ,4.18074
+Buy,BXP,Boston Properties Inc. Common  ,10.1016
+Buy,CA,CA Inc. ,1.13892
+Buy,CAG,ConAgra Foods Inc. Common Stoc ,8.33492
+Buy,CAH,Cardinal Health Inc. Common St ,11.753
+Buy,CBOE,CBOE Holdings Inc. ,6.1697
+Buy,CELG,Celgene Corporation ,4.31399
+Buy,CF,CF Industries Holdings Inc. Co ,11.1345
+Buy,CI,Cigna Corporation Common ,6.1378
+Buy,CMI,Cummins Inc. Common ,16.1611
+Buy,CMS,CMS Energy Corporation Common S ,19.2581
+Buy,CNC,Centene Corporation Common Stoc ,10.7864
+Buy,COH,Coach Inc. Common ,12.0921
+Buy,CTAS,Cintas Corporation ,18.756
+Buy,CTSH,Cognizant Technology Solutions  ,8.95858
+Buy,CVX,Chevron Corporation Common Stoc ,5.34995
+Buy,CXO,Concho Resources Inc. Common St ,2.38087
+Buy,DG,Dollar General Corporation Comm ,5.789
+Buy,DGX,Quest Diagnostics Incorporated  ,19.446
+Buy,DLR,Digital Realty Trust Inc. Comm ,14.3378
+Buy,DLTR,Dollar Tree Inc. ,18.2024
+Buy,DTE,DTE Energy Company Common ,11.6999
+Buy,DVN,Devon Energy Corporation Common ,15.2781
+Buy,EBAY,eBay Inc. ,13.8891
+Buy,EIX,Edison International Common Sto ,10.5363
+Buy,EMN,Eastman Chemical Company Common ,9.15197
+Buy,EMR,Emerson Electric Company Common ,5.55485
+Buy,EOG,EOG Resources Inc. Common Stoc ,16.6681
+Buy,EQT,EQT Corporation Common ,2.09021
+Buy,GILD,Gilead Sciences Inc. ,12.6314
+Buy,GIS,General Mills Inc. Common Stoc ,15.5571
+Buy,GOOG,Alphabet Inc.,17.2964
+Buy,GS,Goldman Sachs Group Inc. (The) ,11.4767
+Buy,INCY,Incyte Corporation ,8.75254
+Buy,IR,Ingersoll-Rand plc (Ireland) ,13.1986
+Buy,IT,Gartner Inc. Common ,4.16746
+Buy,IVZ,Invesco Plc New Common ,7.49943
+Buy,MDT,Medtronic Inc. Common ,4.52742
+Buy,NOC,Northrop Grumman Corporation Co ,2.96352
+Buy,NSC,Norfolk Southern Corporation Co ,16.1368
+Buy,NWS,News Corporation ,11.1111
+Buy,NWSA,News Corporation ,1.85185
+Buy,ORCL,Oracle Corporation ,19.9319
+Buy,OXY,Occidental Petroleum Corporatio ,5.96996
+Buy,PAYX,Paychex Inc. ,14.7339
+Buy,PCG,Pacific Gas & Electric Co. Comm ,16.2972
+Buy,PCLN,priceline.com Incorporated ,14.1414
+Buy,PFG,Principal Financial Group Inc C ,1.11128
+Buy,RJF,Raymond James Financial Inc. C ,3.85705
+Buy,ROK,Rockwell Automation Inc. Commo ,4.16508
+Buy,ROST,Ross Stores Inc. ,10.4091
+Buy,RRC,Range Resources Corporation Com ,14.8147
+Buy,SCG,SCANA Corporation Common ,15.7384
+Buy,SEE,Sealed Air Corporation Common S ,5.71289
+Buy,SIG,Signet Jewelers Limited Common  ,2.53486
+Buy,SLB,Schlumberger N.V. Common ,7.40576
+Buy,SNPS,Synopsys Inc. ,6.67025
+Buy,HP, Helmerich & Payne  Inc. Common  ,9.19804
+Buy,XYL, Xylem Inc. Common ,13.0609
+Buy,ABBV,AbbVie Inc. ,7.46867
+Buy,EVHC,Envision Healthcare Holdings Inc. ,17.2075
+Buy,ZTS,Zoetis Inc. ,9.21527
+Buy,CFG,Citizens Financial Group Inc.,19.753
+Buy,ZBH,Zimmer Biomet Holdings  Inc.,19.9695
+Buy,WLTW,Willis Towers Watson Public Limited Company,13.3305
+Buy,ARNC,Arconic Inc.,11.1111
+Buy,UAA,Under Armour  Inc. Class A,6.12553
+Sell,BWA,BorgWarner Inc. Common ,94.3119
+Sell,CCL,Carnival Corporation Common Sto ,86.7791
+Sell,CVS,CVS Caremark Corporation Common ,93.1462
+Sell,DIS,Walt Disney Company (The) Commo ,92.6339
+Sell,DOV,Dover Corporation Common ,83.3363
+Sell,EL,Estee Lauder Companies Inc. (T ,96.827
+Sell,EQR,Equity Residential Common Share ,80.0455
+Sell,GRMN,Garmin Ltd. ,82.7
+Sell,GT,Goodyear Tire & Rubber Company  ,96.8423
+Sell,IPG,Interpublic Group of Companies ,87.7778
+Sell,IRM,Iron Mountain Incorporated (Del ,83.3333
+Sell,MCO,Moody's Corporation Common Stoc ,90.3584
+Sell,MKC,McCormick & Company Incorporat ,89.8969
+Sell,NVDA,NVIDIA Corporation ,85.1566
+Sell,NWL,Newell Rubbermaid Inc. Common S ,86.6674
+Sell,OMC,Omnicom Group Inc. Common ,97.9798
+Sell,PDCO,Patterson Companies Inc. ,87.0374
+Sell,PG,Procter & Gamble Company (The)  ,80.7425
+Sell,SBUX,Starbucks Corporation ,89.9626
+Sell,SNI,Scripps Networks Interactive I ,92.5561
+Sell,SPY,SPDR S&P 500 ETF,85.794
+Sell,FOXA,Twenty-First Century Fox Inc. ,92.0385
+Sell,NAVI,Navient Corporation ,84.812
+Sell,SYF,Synchrony Financial Common Stoc,96.8253
+Sell,SPGI,S&P Global  Inc.,82.4369

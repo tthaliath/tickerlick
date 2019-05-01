@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CAPL,CrossAmerica Partners LP Common,Basic Materials,Oil & Gas Refining & Marketing
+BAK,Braskem SA ADR ,Basic Materials,Chemicals - Major Diversified
+HSBC,HSBC Holdings plc ,Financial,Foreign Money Center Banks
+BCH,Banco De Chile Banco De Chile A ,Financial,Foreign Regional Banks
+JKS,JinkoSolar Holding Company Limi ,Industrial Goods,Industrial Electrical Equipment
+LFUS,Littelfuse Inc. ,Industrial Goods,Industrial Electrical Equipment
+MXE, Mexico Equity and Income Fund   ,N/A,N/A
+MXF, Mexico Fund  Inc. (The) Common  ,N/A,N/A
+SRG,Seritage Growth Properties,N/A,N/A
+ETO, Eaton Vance Tax-Advantage Globa ,N/A,N/A
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+OMAB,Grupo Aeroportuario del Centro  ,NULL,NULL
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+NFLX,Netflix Inc. ,Services,Music & Video Stores
+TAL,TAL International Group Inc. C ,Services,Rental & Leasing Services
+TEDU,Tarena International Inc. ,Services,Education & Training Services
+SEV, Sevcon  Inc. ,Technology,Semiconductor - Integrated Circuits
+QBAK,Qualstar Corp. ,Technology,Diversified Electronics
+EPAY,Bottomline Technologies Inc. ,Technology,Business Software & Services
+AAOI,Applied Optoelectronics Inc. ,Technology,Semiconductor - Integrated Circuits

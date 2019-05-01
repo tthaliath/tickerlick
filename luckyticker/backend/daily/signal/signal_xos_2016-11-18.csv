@@ -1,0 +1,54 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+QESP,SPDR MSCI Spain Quality Mix ETF ,,
+SBB,ProShares Short SmallCap600 ETF,Commodity Based ETF,
+SCC,ProShares UltraShort Consumer Services ETF,Commodity Based ETF,
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+CCE,Coca-Cola Enterprises Inc. Com ,Consumer Goods,Beverages - Soft Drinks
+NMI, Nuveen Municipal Income Fund  I ,Financial,Closed-End Fund - Debt
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+NUM, Nuveen Michigan Quality Income  ,Financial,Closed-End Fund - Debt
+MMV, Eaton Vance Massachusetts Munic ,Financial,Closed-End Fund - Debt
+EMJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt
+HDB, HDFC Bank Limited Common ,Financial,Foreign Regional Banks
+BZM, BlackRock Maryland Municipal Bo ,Financial,Closed-End Fund - Debt
+MHE, Massachusetts Health and Educat ,Financial,Closed-End Fund - Debt
+MYJ, Blackrock MuniYield New Jersey  ,Financial,Closed-End Fund - Debt
+NYF,iShares S&P NY Muni ETF,Fixed Income ETF,
+PZT,PowerShares Insured NY Municipal Bond Portfolio ETF,Fixed Income ETF,
+BWZ,SPDR Barclays Capital Short Term International Treasury Bond ETF,Fixed Income ETF,
+GMTB,Columbia Core Bond Strategy ETF,Fixed Income ETF,
+PWZ,PowerShares Insured CA Municipal Bond Portfolio ETF,Fixed Income ETF,
+SUB,iShares S&P Short Term National AMT-Free Municipal Bond Fund ETF,Fixed Income ETF,
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund ETF,Fixed Income ETF,
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,
+TUZ,PIMCO 1-3 Year U.S. Treasury Index Fund ETF,Fixed Income ETF,
+PBD,PowerShares Global Clean Energy Portfolio ETF,Global Equity ETF,
+DWM,WisdomTree DEFA Fund ETF,Global Equity ETF,
+FEZ,SPDR DJ EURO STOXX 50 ETF,Global Equity ETF,
+PLND,Market Vectors Poland ETF,Global Equity ETF,
+EPOL,iShares MSCI Poland Investable Market Index Fund ETF,Global Equity ETF,
+FCA,First Trust China AlphaDEX ETF,Global Equity ETF,
+EZU,iShares MSCI EMU Index Fund ETF,Global Equity ETF,
+IPXL,Impax Laboratories Inc. ,Healthcare,Drug Manufacturers - Major
+ICN, WisdomTree Dreyfus Indian Rupee ,N/A,N/A
+RVNU,db X-trackers Muni Infras Revn Bd ETF ,N/A,N/A
+SLQD,iShares 0-5 Year Invmt Grd Corp Bd ,N/A,N/A
+FLAT, iPath US Treasury Flattener ETN ,N/A,N/A
+JRI, Nuveen Real Asset Income and Gr ,N/A,N/A
+PYN, PIMCO New York Municipal Income ,N/A,N/A
+GYC, Corporate Asset Backed Corp CAB ,N/A,N/A
+TMF, Direxion Daily 20-Yr Treasury B ,N/A,N/A
+URR,Market Vectors Double Long Euro ETN ,N/A,N/A
+IPFF, iShares S&P International Prefe ,N/A,N/A
+FPT, Federated Premier Intermediate  ,N/A,N/A
+BETR,Amplify Snack Brands,N/A,N/A
+FXY, Rydex CurrencyShares Japanese Y ,N/A,N/A
+FXA, Rydex CurrencyShares Australian ,N/A,N/A
+VOD,Vodafone Group Plc ,NULL,NULL
+ITRN,Ituran Location and Control Ltd ,NULL,NULL
+INFY,Infosys Limited ,NULL,NULL
+GPRO,Gen-Probe Incorporated ,Services,Research Services
+TEF,Telefonica SA Common ,Technology,Telecom Services - Foreign
+ELLI, Ellie Mae  Inc. Common ,Technology,Application Software
+PHI,Philippine Long Distance Teleph ,Technology,Telecom Services - Foreign

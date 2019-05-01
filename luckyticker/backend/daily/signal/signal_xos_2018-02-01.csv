@@ -1,0 +1,50 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EPRF,Elkhorn S&P High Quality Prefer,,
+PFFR,ETFIS Series Trust I ETF,,
+LCII,LCI Industries,,
+GPOR,Gulfport Energy Corporation ,Basic Materials,Independent Oil & Gas
+ENB,Enbridge Inc Common ,Basic Materials,Oil & Gas Pipelines
+SXC, SunCoke Energy  Inc. Common Sto ,Basic Materials,Steel & Iron
+DLA,Delta Apparel Inc. Common Stoc ,Consumer Goods,Textile - Apparel Clothing
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+EIM, Eaton Vance Municipal Bond Fund ,Financial,Closed-End Fund - Debt
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+LEO, Dreyfus Strategic Municipals  I ,Financial,Closed-End Fund - Debt
+PHH,PHH Corp Common ,Financial,Credit Services
+BKCC,BlackRock Kelso Capital Corpora ,Financial,Asset Management
+MUA, Blackrock MuniAssets Fund  Inc  ,Financial,Closed-End Fund - Debt
+DCOM,Dime Community Bancshares Inc. ,Financial,Savings & Loans
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+CDR,Cedar Realty Trust Inc. Common ,Financial,REIT - Retail
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+MUI, Blackrock Muni Intermediate Dur ,Financial,Closed-End Fund - Debt
+NUO, Nuveen Ohio Quality Income Muni ,Financial,Closed-End Fund - Debt
+AI,Arlington Asset Investment Corp ,Financial,Investment Brokerage - Regional
+NNC, Nuveen North Carolina Premium I ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+PFXF,Market Vectors Pref Secs ex Fincls ETF,Fixed Income ETF,
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+CVV,CVD Equipment Corporation ,Industrial Goods,Diversified Machinery
+MHO,M/I Homes Inc. Common ,Industrial Goods,Residential Construction
+DRUA,Dominion Resources  Inc. 2016 S ,N/A,N/A
+DTYL, iPath US Treasury 10 Yr Bull ET ,N/A,N/A
+IQI, Invesco Quality Municipal Incom ,N/A,N/A
+TDA,Telephone & Data Systems Inc. ,N/A,N/A
+DVMT,Dell Technologies Inc.,N/A,N/A
+VKI, Invesco Van Kampen Advantage Mu ,N/A,N/A
+MFL, Blackrock MuniHoldings Investme ,N/A,N/A
+LMHB,Legg Mason  Inc. 5.45% Junior S ,N/A,N/A
+EXD, Eaton Vance Tax-Advantaged Bond ,N/A,N/A
+TDI,Telephone and Data Systems Inc ,NULL,NULL
+GPRO,Gen-Probe Incorporated ,Services,Research Services
+CATO,Cato Corporation (The) Class A  ,Services,Apparel Stores
+RRTS,Roadrunner Transportation Syste ,Services,Air Delivery & Freight Services
+ALEX,Alexander & Baldwin Inc. Commo ,Services,Shipping
+RRD,R.R. Donnelley & Sons Company ,Services,Business Services
+MITK, Mitek Systems  Inc. ,Technology,Application Software
+PCG,Pacific Gas & Electric Co. Comm ,Utilities,Electric Utilities
+AVA,Avista Corporation Common ,Utilities,Diversified Utilities
+TRP,Transcanada Corporation (Holdin ,Utilities,Gas Utilities

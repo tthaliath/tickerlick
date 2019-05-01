@@ -1,0 +1,38 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+XOM,Exxon Mobil Corporation Common  ,Basic Materials,Major Integrated Oil & Gas
+E,ENI S.p.A. Common ,Basic Materials,Major Integrated Oil & Gas
+PSXP,Phillips 66 Partners LP ,Basic Materials,Oil & Gas Refining & Marketing
+SAM,Boston Beer Company Inc. (The) ,Consumer Goods,Beverages - Brewers
+SCS,Steelcase Inc. Common ,Consumer Goods,Business Equipment
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+POST, Post Holdings  Inc. Common Stoc ,Consumer Goods,Food - Major Diversified
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+HY, Hyster-Yale Materials Handling  ,Consumer Goods,Trucks & Other Vehicles
+BNY, BlackRock New York Municipal In ,Financial,Closed-End Fund - Debt
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+BANC, First PacTrust Bancorp  Inc. ,Financial,Regional - Pacific Banks
+CRF, Cornerstone Total Return Fund   ,Financial,Closed-End Fund - Equity
+BNJ, BlackRock New Jersey Municipal  ,Financial,Closed-End Fund - Debt
+IMH, Impac Mortgage Holdings  Inc. C ,Financial,Mortgage Investment
+KWT,Market Vectors Solar Energy ETF,Global Equity ETF,
+DAR,Darling International Inc. Comm ,Industrial Goods,Waste Management
+SRCL,Stericycle Inc. ,Industrial Goods,Waste Management
+TGI,Triumph Group Inc. Common Stoc ,Industrial Goods,Aerospace/Defense Products & Services
+MTH,Meritage Homes Corporation Comm ,Industrial Goods,Residential Construction
+HII, Huntington Ingalls Industries   ,Industrial Goods,Aerospace/Defense Products & Services
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+MXE, Mexico Equity and Income Fund   ,N/A,N/A
+DCNG,iPath Seasonal Natural Gas ETN ,N/A,N/A
+NEV, Nuveen Enhanced Municipal Value ,N/A,N/A
+IIM, Invesco Value Municipal Income  ,N/A,N/A
+EGIF,Eagle Growth and Income Opportunities Fund,N/A,N/A
+FTRPR,Frontier Communications Corporation,N/A,N/A
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+FTD,FTD Companies Inc. ,Services,Specialty Retail
+BBW,Build-A-Bear Workshop Inc. Com ,Services,Toy & Hobby Stores
+SERV,ServiceMaster Global Holdings ,Services,Business Services
+CTL,CenturyLink Inc. Common ,Technology,Telecom Services - Domestic
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications
+DQ,DAQQ New Energy Corp. American  ,Technology,Semiconductor Equipment & Materials
+RYF,Guggenheim S&P Equal Weight Financial ETF,US Equity ETF,
+XLF,SPDR Financial Select Sector Fund ETF,US Equity ETF,

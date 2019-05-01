@@ -1,0 +1,8 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SNH,Senior Housing Properties Trust ,Financial,REIT - Residential
+EMB,iShares JP Morgan Em Bond Fd ETF,Fixed Income ETF,
+VWOB,Vanguard Emerg Mkts Govt Bd Idx ETF ,N/A,N/A
+ORLY,O'Reilly Automotive Inc. ,Services,Auto Parts Stores
+AZO,AutoZone Inc. Common ,Services,Auto Parts Stores
+DL,China Distance Education Holdin ,Services,Education & Training Services
+ZAYO,Zayo Group Holdings Inc. Commo,Technology,Networking & Communication Devices

@@ -1,0 +1,3 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+BH,Biglari Holdings Inc. ,2016-05-27,401.38,,,74.8372,83.2637,0.11731595152549835
+FANG, Diamondback Energy  Inc. ,2016-05-27,92.86,,,71.2393,90.3844,0.11729231444922004

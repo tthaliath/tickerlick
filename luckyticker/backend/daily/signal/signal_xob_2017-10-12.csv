@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CFO,Compass EMP U.S. 500 Enhanced V ,,
+HGSD,WisdomTree Global Hedged SmallC,,
+EQWL,PowerShares Russell Top 200 Equ,,
+JHML,John Hancock Multifactor Large,,
+NAIL,Direxion Daily Homebuilders & S,,
+POLA,Polar Power  Inc.,,
+RFDA,RiverFront Dynamic US Dividend,,
+ANAB,AnaptysBio  Inc.,,
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles
+MERC,Mercer International Inc. ,Consumer Goods,Paper & Paper Products
+UNF,Unifirst Corporation Common Sto ,Consumer Goods,Textile - Apparel Clothing
+SMMF,Summit Financial Group Inc. ,Financial,Regional - Mid-Atlantic Banks
+IBKR, Interactive Brokers Group  Inc. ,Financial,Investment Brokerage - National
+RBCAA,Republic Bancorp Inc. ,Financial,Regional - Southeast Banks
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+CLGX,CoreLogic Inc. Common ,Financial,Property & Casualty Insurance
+CARZ,First Trust NASDAQ Global Auto ETF,Global Equity ETF,
+ZGNX,Zogenix Inc. ,Healthcare,Drug Manufacturers - Major
+HLF, Herbalife Ltd. Common ,Healthcare,Drug Related Products
+USLM,United States Lime & Minerals  ,Industrial Goods,General Building Materials
+CIGI,Colliers International Group Inc.,N/A,N/A
+LRGF,iShares FactorSelect MSCI USA,N/A,N/A
+NSP, Insperity  Inc. Common ,Services,Business Services
+MAR,Marriot International Common St ,Services,Lodging
+DL,China Distance Education Holdin ,Services,Education & Training Services
+WMT,Wal-Mart Stores Inc. Common St ,Services,Discount Variety Stores
+NEWM,New Media Investment Group Inc. ,Services,Publishing - Newspapers
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+TSM,Taiwan Semiconductor Manufactur ,Technology,Semiconductor - Integrated Circuits
+ACTA,Actua Corporation,Technology,Application Software
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+ON,ON Semiconductor Corp.,Technology,Semiconductor - Broad Line
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software
+PTC,PTC Inc. ,Technology,Technical & System Software
+PLXS,Plexus Corp. ,Technology,Printed Circuit Boards
+WEX,Winland Electronics Inc. Commo ,Technology,Scientific & Technical Instruments
+TYPE,Monotype Imaging Holdings Inc. ,Technology,Application Software
+SNPS,Synopsys Inc. ,Technology,Semiconductor Equipment & Materials
+IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,US Equity ETF,
+MDYG,SPDR S&P 400 Mid Cap Growth ETF (MDYG) ETF,US Equity ETF,
+IWP,iShares Russell Midcap Growth Index ETF,US Equity ETF,
+EZY,WisdomTree Low P/E Fund ETF,US Equity ETF,
+IJK,iShares S&P MidCap 400 Growth Index Fund ETF,US Equity ETF,
+FNY,First Trust Mid Cap Growth AlphaDEX ETF,US Equity ETF,
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,

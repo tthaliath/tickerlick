@@ -1,0 +1,39 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+DWT,VelocityShares 3x Inverse Crude,,
+OILD,ProShares UltraPro 3x Short Cru,,
+WTID,UBS ETRACS - ProShares Daily 3x,,
+RES,RPC Inc. Common ,Basic Materials,Oil & Gas Equipment & Services
+BAS,Basic Energy Services Inc. Com ,Basic Materials,Oil & Gas Equipment & Services
+PVG,Pretium Resources Inc. Ordinar ,Basic Materials,Industrial Metals & Minerals
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+EFZ,ProShares Short MSCI EAFE ETF,Commodity Based ETF,
+SCO,ProShares UltraShort DJ-UBS Crude Oil ETF,Commodity Based ETF,
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+SDOW,ProShares UltraPro Short Dow30 ETF,Commodity Based ETF,
+EEV,ProShares UltraShort MSCI Emerging Markets ETF,Commodity Based ETF,
+FXP,ProShares UltraShort FTSE China 25 ETF,Commodity Based ETF,
+SMDD,ProShares UltraPro Short MidCap400 ETF,Commodity Based ETF,
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+FLC, Flaherty & Crumrine/Claymore To ,Financial,Closed-End Fund - Debt
+ACGLP,Arch Capital Group Ltd. ,N/A,N/A
+CTX, Qwest Corporation 7.00% Notes d ,N/A,N/A
+PSF, Cohen & Steers Select Preferred ,N/A,N/A
+DNO, United States Short Oil Fund ,N/A,N/A
+DFP,Flaherty and Crumrine Dynamic Pre ,N/A,N/A
+LMHB,Legg Mason  Inc. 5.45% Junior S ,N/A,N/A
+EMP,Entergy Mississippi  Inc. First ,N/A,N/A
+EDZ, Direxion Emerging Markets Bear  ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+DPK, Direxion Developed Markets Bear ,N/A,N/A
+XMPT, Market Vectors CEF Municipal In ,N/A,N/A
+ADNT,Adient plc,N/A,N/A
+KTH, Structures Products Cp 8% CorTS ,N/A,N/A
+NTRI,NutriSystem Inc ,Services,Consumer Services
+DMRC,Digimarc Corporation ,Technology,Information Technology Services
+AVGO,Avago Technologies Limited ,Technology,Semiconductor - Broad Line
+MRIN,Marin Software Incorporated ,Technology,Application Software
+BELFB,Bel Fuse Inc. ,Technology,Diversified Electronics
+CYOU,Changyou.com Limited ,Technology,Multimedia & Graphics Software
+TRP,Transcanada Corporation (Holdin ,Utilities,Gas Utilities

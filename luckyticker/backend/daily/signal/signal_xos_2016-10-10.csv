@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+INTG,The InterGroup Corporation ,Financial,Property Management
+EVM, Eaton Vance California Municipa ,Financial,Closed-End Fund - Debt
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+CUZ,Cousins Properties Incorporated ,Financial,REIT - Diversified
+ALNY,Alnylam Pharmaceuticals Inc. ,Healthcare,Biotechnology
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+NVIV,InVivo Therapeutics Holdings Corp.,Healthcare,Biotechnology
+AZZ,AZZ Incorporated Common ,Industrial Goods,Metal Fabrication
+MMU, Western Asset Managed Municipal ,N/A,N/A
+FXB, Rydex CurrencyShares British Po ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+VDTH,Videocon d2h Limited,Services,CATV Systems
+RDWR,Radware Ltd. ,Technology,Information Technology Services
+NGG,National Grid Transco PLC Nati ,Utilities,Gas Utilities

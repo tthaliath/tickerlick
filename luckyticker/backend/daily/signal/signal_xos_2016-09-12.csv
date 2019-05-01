@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PII,Polaris Industries Inc. Common  ,Consumer Goods,Recreational Vehicles
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+LHO,LaSalle Hotel Properties Common ,Financial,REIT - Hotel/Motel
+THD,iShares MSCI Thailand Investable Market Index Fund ETF,Global Equity ETF,
+RGR,Sturm Ruger & Company Inc. Co ,Industrial Goods,Aerospace/Defense Products & Services
+DHR,Danaher Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+CUPM,iPath Pure Beta Copper ETN ,N/A,N/A
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+SVVC, Firsthand Technology Value Fund ,N/A,N/A
+IRDMB,Iridium Communications Inc,N/A,N/A
+SHOS, Sears Hometown and Outlet Store ,Services,Department Stores
+DEST,Destination Maternity Corporati ,Services,Apparel Stores
+DLTR,Dollar Tree Inc. ,Services,Discount Variety Stores
+ARII,American Railcar Industries In ,Services,Railroads
+BECN,Beacon Roofing Supply Inc. ,Services,Building Materials Wholesale

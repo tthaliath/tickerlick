@@ -1,0 +1,18 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+HSY, The Hershey Company Common Stoc ,Consumer Goods,Confectioners
+SPPI,Spectrum Pharmaceuticals Inc. ,Healthcare,Biotechnology
+HW, Headwaters Incorporated Common  ,Industrial Goods,General Building Materials
+NCS,NCI Building Systems Inc. New  ,Industrial Goods,General Building Materials
+FOX,Twenty-First Century Fox Inc. ,N/A,N/A
+COW, iPath Dow Jones UBS Livestock T ,N/A,N/A
+UAG,UBS E-TRACS CMCI Agriculture TR ETN ,N/A,N/A
+IRDMB,Iridium Communications Inc,N/A,N/A
+SSW,Seaspan Corporation Seaspan Cor ,Services,Shipping
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+DIS,Walt Disney Company (The) Commo ,Services,Entertainment - Diversified
+CBRL,Cracker Barrel Old Country Stor ,Services,Restaurants
+IRDM,Iridium Communications Inc ,Technology,Diversified Communication Services
+NAME,Rightside Group Ltd.,Technology,Internet Information Providers

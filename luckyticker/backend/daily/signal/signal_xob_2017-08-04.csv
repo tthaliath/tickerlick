@@ -1,0 +1,27 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+FMC,FMC Corporation Common ,Basic Materials,Chemicals - Major Diversified
+DDM,ProShares Ultra Dow30 ETF,Commodity Based ETF,
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+KMPR, Kemper Corporation ,Financial,Property & Casualty Insurance
+BSAC, Banco Santander - Chile ADS ,Financial,Money Center Banks
+CINF,Cincinnati Financial Corporatio ,Financial,Property & Casualty Insurance
+ENZY,Enzymotec Ltd. ,Healthcare,Biotechnology
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+TDY,Teledyne Technologies Incorpora ,Industrial Goods,Aerospace/Defense Products & Services
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+BWV,iPath CBOE SandP 500 BuyWrite Index ETN ,N/A,N/A
+CPER,United States Copper ,N/A,N/A
+FNDC,Schwab Fundamental Intl Sm Co ETF ,N/A,N/A
+JJC, iPath Dow Jones UBS Copper Tota ,N/A,N/A
+HZN,Horizon Global Corporation,N/A,N/A
+SNI,Scripps Networks Interactive I ,Services,Broadcasting - TV
+SVU,SuperValu Inc. Common ,Services,Grocery Stores
+TDW,Tidewater Inc. Common ,Services,Shipping
+JOBS,51job Inc. ,Services,Staffing & Outsourcing Services
+LL,Lumber Liquidators Holdings In ,Services,Home Improvement Stores
+MGRC,McGrath RentCorp ,Services,Rental & Leasing Services
+WBMD,WebMD Health Corp ,Technology,Healthcare Information Services
+SEDG,SolarEdge Technologies  Inc.,Technology,Semiconductor - Specialized
+NXPI,NXP Semiconductors N.V. ,Technology,Semiconductor - Broad Line
+SHEN,Shenandoah Telecommunications C ,Technology,Telecom Services - Domestic
+DIA,SPDR Dow Jones Industrial Average ETF,US Equity ETF,

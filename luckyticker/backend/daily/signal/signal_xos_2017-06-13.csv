@@ -1,0 +1,14 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+VLP,Valero Energy Partners LP ,Basic Materials,Oil & Gas Pipelines
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,
+MAYS,J. W. Mays Inc. ,Financial,Property Management
+NLNK, NewLink Genetics Corporation ,Healthcare,Biotechnology
+CBI,Chicago Bridge & Iron Company N ,Industrial Goods,General Contractors
+SCM,Stellus Capital Investment Corporation ,N/A,N/A
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+MHNB, Maiden Holdings North America   ,N/A,N/A
+TGNA,TEGNA Inc.,Services,Broadcasting - TV
+SEAS,SeaWorld Entertainment Inc. ,Services,Sporting Activities
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants
+RST,Rosetta Stone Rosetta Stone In ,Technology,Multimedia & Graphics Software

@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EEP,Enbridge Energy L.P. Class A C ,Basic Materials,Oil & Gas Pipelines
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+SBM,ProShares Short Basic Materials ETF,Commodity Based ETF,
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+POWL,Powell Industries Inc. ,Industrial Goods,Industrial Electrical Equipment
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+SPXS, Direxion Daily S&P 500 Bear 3X ,N/A,N/A
+FSAM,Fifth Street Asset Management I,N/A,N/A
+SIG,Signet Jewelers Limited Common  ,Services,Jewelry Stores
+WAIR, Wesco Aircraft Holdings  Inc. C ,Services,Industrial Equipment Wholesale
+CATM,Cardtronics Inc. ,Services,Business Services
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+DNB,Dun & Bradstreet Corporation (T ,Technology,Information & Delivery Services
+WR,Westar Energy Inc. Common Stoc ,Utilities,Diversified Utilities

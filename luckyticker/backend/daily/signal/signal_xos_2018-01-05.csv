@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+OILD,ProShares UltraPro 3x Short Cru,,
+HYDD,Direxion Daily High Yield Bear,,
+YTRA,Yatra Online  Inc. - Ordinary S,,
+DWT,VelocityShares 3x Inverse Crude,,
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+SCO,ProShares UltraShort DJ-UBS Crude Oil ETF,Commodity Based ETF,
+EPV,ProShares UltraShort MSCI Europe ETF,Commodity Based ETF,
+REW,ProShares UltraShort Technology ETF,Commodity Based ETF,
+EFZ,ProShares Short MSCI EAFE ETF,Commodity Based ETF,
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+EARN,N/A ,Financial,REIT - Diversified
+HTD, John Hancock Tax Advantaged Div ,Financial,Closed-End Fund - Equity
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified
+JXI,iShares S&P Global Utilities Sector Index Fund ETF,Global Equity ETF,
+NEOG,Neogen Corporation ,Healthcare,Diagnostic Substances
+DPK, Direxion Developed Markets Bear ,N/A,N/A
+PEX,ProShares Global Listed Private Eq ETF ,N/A,N/A
+COWNL,Cowen Group Inc.,N/A,N/A
+DNO, United States Short Oil Fund ,N/A,N/A
+WHLRD,Wheeler Real Estate Investment  ,N/A,N/A
+WYIG,JM Global Holding Company,N/A,N/A
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+TDI,Telephone and Data Systems Inc ,NULL,NULL
+BPI,Bridgepoint Education Inc. ,Services,Education & Training Services
+ADTN,ADTRAN Inc. ,Technology,Communication Equipment
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities

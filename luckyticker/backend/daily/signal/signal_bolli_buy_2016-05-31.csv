@@ -1,0 +1,3 @@
+ticker,name,price_date, close_price, macd long,macd short,RSI, Stoch,bolli
+CCE,Coca-Cola Enterprises Inc. Com ,2016-05-31,38.81,,,35.6572,27.6433,0.24033677488319993
+PSTG,Pure Storage  Inc.,2016-05-31,11.78,,,39.9451,38.4977,0.2372968235179114

@@ -1,0 +1,42 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+LMBS,First Trust Low Duration Opport,,
+UBIO,Proshares UltraPro Nasdaq Biote,,
+KREF,KKR Real Estate Finance Trust I,,
+QTNA,Quantenna Communications  Inc.,,
+OVID,Ovid Therapeutics Inc.,,
+WES,Western Gas Partners LP Limite ,Basic Materials,Oil & Gas Pipelines
+ESTE, Earthstone Energy  Inc. Common  ,Basic Materials,Independent Oil & Gas
+PAGP,Plains GP Holdings L.P. ,Basic Materials,Oil & Gas Pipelines
+OII,Oceaneering International Inc. ,Basic Materials,Oil & Gas Equipment & Services
+BIB,ProShares Ultra Nasdaq Biotechnology ETF,Commodity Based ETF,
+IRBT,iRobot Corporation ,Consumer Goods,Appliances
+PG,Procter & Gamble Company (The)  ,Consumer Goods,Personal Products
+ESND,Essendant Inc.,Consumer Goods,Business Equipment
+KOF,Coca Cola Femsa S.A.B. de C.V.  ,Consumer Goods,Beverages - Soft Drinks
+MBI,MBIA Inc. Common ,Financial,Property & Casualty Insurance
+BKK, Blackrock Municipal 2020 Term T ,Financial,Closed-End Fund - Debt
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+KFS,Kingsway Financial Services In ,Financial,Property & Casualty Insurance
+PDM,Piedmont Office Realty Trust I ,Financial,REIT - Office
+OMER,Omeros Corporation ,Healthcare,Biotechnology
+MDCO,The Medicines Company ,Healthcare,Drug Manufacturers - Other
+ALXN,Alexion Pharmaceuticals Inc. ,Healthcare,Biotechnology
+NSTG,NanoString Technologies Inc. ,Healthcare,Biotechnology
+KERX,Keryx Biopharmaceuticals Inc. ,Healthcare,Biotechnology
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+CELG,Celgene Corporation ,Healthcare,Biotechnology
+NVS,Novartis AG Common ,Healthcare,Drug Manufacturers - Major
+RARE,Ultragenyx Pharmaceutical Inc. ,Healthcare,Biotechnology
+ATMP,Barclays ETN+ Select MLP ETN ,N/A,N/A
+SMMT,Summit Therapeutics plc,N/A,N/A
+LBRDA,Liberty Broadband Corporation,N/A,N/A
+DBVT,DBV Technologies S.A.,N/A,N/A
+SHPG, Shire plc ,N/A,N/A
+LVNTA, Liberty Interactive Corporation ,N/A,N/A
+LBRDK,Liberty Broadband Corporation,Services,Broadcasting - TV
+CHTR,Charter Communications Inc. ,Services,CATV Systems
+CVLT,CommVault Systems Inc. ,Technology,Application Software
+WB,Weibo Corporation ,Technology,Internet Information Providers
+BBH,Market Vectors Biotech ETF,US Equity ETF,
+IBB,iShares Nasdaq Biotechnology ETF,US Equity ETF,
+ELP,Companhia Paranaense de Energia ,Utilities,Electric Utilities

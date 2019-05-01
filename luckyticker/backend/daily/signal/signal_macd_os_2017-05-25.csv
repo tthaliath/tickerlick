@@ -1,0 +1,97 @@
+ticker,name,sector,industry
+KIM,Kimco Realty Corporation Common ,Financial,REIT - Retail
+FOX,Twenty-First Century Fox Inc. ,N/A,N/A
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment
+JWN,Nordstrom Inc. Common ,Services,Apparel Stores
+KMI, Kinder Morgan  Inc. Common Stoc ,Basic Materials,Oil & Gas Pipelines
+LLY, Eli Lilly and Company Common St ,Healthcare,Drug Manufacturers - Major
+SPLS,Staples Inc. ,Services,Specialty Retail Other
+TJX,TJX Companies Inc. (The) Commo ,Services,Department Stores
+AKAM,Akamai Technologies Inc. ,Technology,Internet Information Providers
+NTAP,NetApp Inc. ,Technology,Data Storage Devices
+ADS,Alliance Data Systems Corporati ,Services,Business Services
+BBGI,Beasley Broadcast Group Inc. ,Services,Broadcasting - Radio
+CATM,Cardtronics Inc. ,Services,Business Services
+OMI,Owens & Minor Inc. Common Stoc ,Services,Medical Equipment Wholesale
+SSP,E.W. Scripps Company (The) Comm ,Services,Publishing - Newspapers
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+ASH,Ashland Inc. (NEW) Common ,Basic Materials,Chemicals - Major Diversified
+CVBF,CVB Financial Corporation ,Financial,Regional - Pacific Banks
+DKS,Dick's Sporting Goods Inc Commo ,Services,Sporting Goods Stores
+EBSB,Meridian Interstate Bancorp In ,Financial,Savings & Loans
+FARM,Farmer Brothers Company ,Consumer Goods,Processed & Packaged Goods
+GOL,Gol Linhas Aereas Inteligentes  ,Services,Regional Airlines
+ISBC,Investors Bancorp Inc. ,Financial,Savings & Loans
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers
+OSTK,Overstock.com Inc. ,Services,Catalog & Mail Order Houses
+PFS,Provident Financial Services I ,Financial,Savings & Loans
+SAGG,Direxion Daily Tot Bd Mkt Bear 1X Shares ,N/A,N/A
+SFE,Safeguard Scientifics Inc. New ,Services,Business Services
+SMI,Semiconductor  Manufacturing In ,Technology,Semiconductor - Integrated Circuits
+TACT,TransAct Technologies Incorpora ,Technology,Computer Peripherals
+WLB,Westmoreland Coal Company ,Basic Materials,Industrial Metals & Minerals
+BCRX,BioCryst Pharmaceuticals Inc. ,Healthcare,Biotechnology
+EFZ,ProShares Short MSCI EAFE ETF,Commodity Based ETF,
+MHLD,Maiden Holdings Ltd. ,Financial,Property & Casualty Insurance
+PHIIK,PHI Inc. ,NULL,NULL
+TSNU,Tyson Foods Inc. Tangible Equi,N/A,N/A
+AMNB,American National Bankshares I ,Financial,Regional - Mid-Atlantic Banks
+ATRO,Astronics Corporation ,Industrial Goods,Aerospace/Defense Products & Services
+CYD,China Yuchai International Limi ,Industrial Goods,Diversified Machinery
+DNO, United States Short Oil Fund ,N/A,N/A
+EGOV,NIC Inc. ,Technology,Application Software
+FBSS,Fauquier Bankshares Inc. ,Financial,Regional - Southeast Banks
+FRED,Fred's Inc. ,Services,Discount Variety Stores
+GRC,Gorman-Rupp Company (The) Commo ,Industrial Goods,Diversified Machinery
+HVT, Haverty Furniture Companies  In ,Services,Home Furnishing Stores
+ISRL,Isramco Inc. ,Basic Materials,Independent Oil & Gas
+PBH,Prestige Brand Holdings Inc. C ,Healthcare,Drug Related Products
+PLOW,Douglas Dynamics Inc. Common S ,Consumer Goods,Auto Parts
+SCO,ProShares UltraShort DJ-UBS Crude Oil ETF,Commodity Based ETF,
+SHLD,Sears Holdings Corporation ,Services,Department Stores
+ZYNE,Zynerba Pharmaceuticals,N/A,N/A
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A
+GLT,Glatfelter Common ,Consumer Goods,Paper & Paper Products
+NCMI,National CineMedia Inc. ,Services,Marketing Services
+REV,Revlon Inc. New Common ,Consumer Goods,Personal Products
+UEPS,Net 1 UEPS Technologies Inc. ,Services,Business Services
+AMRB,American River Bankshares ,Financial,Regional - Pacific Banks
+BLVDU,Boulevard Acquisition Corp. ,N/A,N/A
+DBMX,db X-trackers MSCI Mexico Hedged Eq ETF ,N/A,N/A
+DTO, PowerShares DB Crude Oil Double ,N/A,N/A
+EVHC,Envision Healthcare Holdings Inc. ,Healthcare,Long-Term Care Facilities
+FIX,Comfort Systems USA Inc. Commo ,Industrial Goods,General Contractors
+FRP, FairPoint Communications  Inc. ,Technology,Telecom Services - Domestic
+GVA, Granite Construction Incorporat ,Industrial Goods,Heavy Construction
+ICI, iPath iPath Optimized Currency  ,N/A,N/A
+JBR,Select Asset Inc. Corporate Bac ,N/A,N/A
+KNL,Knoll Inc. Common ,Consumer Goods,Business Equipment
+LMNR,Limoneira Co ,Consumer Goods,Farm Products
+PCTI,PC-Tel Inc. ,Technology,Diversified Communication Services
+PZN,Pzena Investment Management Inc ,Financial,Asset Management
+SCSC,ScanSource Inc. ,Technology,Technical & System Software
+SHOR,ShoreTel Inc. ,Technology,Communication Equipment
+SVA,Sinovac Biotech Ltd. ,Healthcare,Biotechnology
+VLGEA,Village Super Market Inc. ,Services,Grocery Stores
+ASHS,Deutsche X-trackers Harvest CSI ,,
+CAPE, Barclays ETN Schiller CAPE ,N/A,N/A
+HMNF,HMN Financial Inc. ,Financial,Savings & Loans
+SBGI,Sinclair Broadcast Group Inc. ,Services,Broadcasting - TV
+AROW,Arrow Financial Corporation ,Financial,Regional - Northeast Banks
+CDI,CDI Corporation Common ,Services,Staffing & Outsourcing Services
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products
+EBIX,Ebix Inc ,Technology,Business Software & Services
+EZPW,EZCORP Inc. ,Services,Specialty Retail Other
+FOGO,Fogo de Chao  Inc.,Services,Restaurants
+GAIN,Gladstone Investment Corporatio ,Financial,Diversified Investments
+HAE, Haemonetics Corporation Common  ,Healthcare,Medical Instruments & Supplies
+IIN, IntriCon Corporation ,Industrial Goods,Diversified Machinery
+JMPB,JMP Group Inc. ,N/A,N/A
+KTCC,Key Tronic Corporation ,Technology,Computer Peripherals
+NEWS,NewStar Financial Inc. ,Financial,Credit Services
+PERY,Perry Ellis International Inc. ,Consumer Goods,Textile - Apparel Clothing
+QVM,Arrow QVM Equity Factor ETF,,
+SCVL,Shoe Carnival Inc. ,Services,Apparel Stores
+SKY,Skyline Corporation Common Stoc ,Industrial Goods,Manufactured Housing
+SYBT,S.Y. Bancorp Inc. ,Financial,Regional - Southeast Banks
+VRA,Vera Bradley Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories

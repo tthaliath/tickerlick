@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ARKW,ARK Web x.0 ETF,,
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,Chemicals - Major Diversified
+UPW,ProShares Ultra Utilities ETF,Commodity Based ETF,
+UGE,ProShares Ultra Consumer Goods ETF,Commodity Based ETF,
+KO,Coca-Cola Company (The) Common  ,Consumer Goods,Beverages - Soft Drinks
+UN,Unilever NV Common ,Consumer Goods,Processed & Packaged Goods
+PEP,Pepsico Inc. Common ,Consumer Goods,Beverages - Soft Drinks
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+COKE,Coca-Cola Bottling Co. Consolid ,Consumer Goods,Beverages - Soft Drinks
+PM,Philip Morris International Inc ,Consumer Goods,Cigarettes
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+XBKS, Xenith Bankshares  Inc. ,Financial,Regional - Mid-Atlantic Banks
+JOF, Japan Smaller Capitalization Fu ,Financial,Closed-End Fund - Foreign
+REXR,Rexford Industrial Realty Inc. ,Financial,REIT - Industrial
+TCO,Taubman Centers Inc. Common St ,Financial,REIT - Retail
+GLU, Gabelli Global Utility Common S ,Financial,Closed-End Fund - Equity
+MMC,Marsh & McLennan Companies Inc ,Financial,Insurance Brokers
+EWGS,iShares MSCI Germany Small Cap,Global Equity ETF,
+ACWV,iShares MSCI All Country World Minimum Volatility Index Fund ETF,Global Equity ETF,
+PBYI,Puma Biotechnology Inc. ,Healthcare,Biotechnology
+BAX,Baxter International Inc. Commo ,Healthcare,Medical Instruments & Supplies
+AMRI,Albany Molecular Research Inc. ,Healthcare,Biotechnology
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+ZBRA,Zebra Technologies Corporation ,Industrial Goods,Diversified Machinery
+HTY, John Hancock Tax-Advantaged Glo ,N/A,N/A
+FGL,Fidelity and Guaranty Life Common ,N/A,N/A
+MTUM,iShares MSCI USA Momentum Factor ,N/A,N/A
+ZPIN,Zhaopin Limited American Deposi,Services,Staffing & Outsourcing Services
+ZNH,China Southern Airlines Company ,Services,Major Airlines
+BAH,Booz Allen Hamilton Holding Cor ,Services,Management Services
+TCS,The Container Store Group Inc. ,Services,Specialty Retail
+RICK,Rick's Cabaret International I ,Services,Restaurants
+DPZ,Domino's Pizza Inc Common ,Services,Restaurants
+YUM,Yum! Brands Inc. ,Services,Restaurants
+ANSS,ANSYS Inc. ,Technology,Technical & System Software
+JKHY,Jack Henry & Associates Inc. ,Technology,Business Software & Services
+CCI,Crown Castle International Corp ,Technology,Diversified Communication Services
+CTSH,Cognizant Technology Solutions  ,Technology,Business Software & Services
+NOW,ServiceNow Inc. Common ,Technology,Information Technology Services
+ISDR,Issuer Direct Corporation ,Technology,Information Technology Services
+XTLY,Xactly Corporation,Technology,Business Software & Services
+DTE,DTE Energy Company Common ,Utilities,Electric Utilities
+PPL,PP&L Corporation Common ,Utilities,Electric Utilities
+NI,NiSource Inc Common ,Utilities,Diversified Utilities
+AEP,American Electric Power Company ,Utilities,Electric Utilities

@@ -1,0 +1,46 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+SCTO,Global X JPMorgan US Sector Rot ,,
+WTIU,UBS ETRACS - ProShares Daily 3x,,
+FANH,Fanhua Inc. - American deposita,,
+QLC,FlexShares US Quality Large Cap,,
+IDMO,PowerShares S&P International D,,
+JNCE,Jounce Therapeutics  Inc.,,
+DWLD,Davis Select Worldwide ETF,,
+WLL,Whiting Petroleum Corporation C ,Basic Materials,Oil & Gas Drilling & Exploration
+MZA, Blackrock MuniYield Arizona Fun ,Financial,Closed-End Fund - Debt
+PJC,Piper Jaffray Companies Common  ,Financial,Investment Brokerage - National
+NRT,North European Oil Royality Tru ,Financial,Diversified Investments
+BAC,Bank of America Corporation Com ,Financial,Regional - Mid-Atlantic Banks
+HAWK,Blackhawk Network Holdings Inc. ,Financial,Credit Services
+MTB,M&T Bank Corporation Common Sto ,Financial,Regional - Northeast Banks
+SBNY,Signature Bank ,Financial,Regional - Northeast Banks
+BLK,BlackRock Inc,Financial,Asset Management
+GNR,SPDR S&P Global Natural Resources ETF,Global Equity ETF,
+MXI,iShares S&P Global Materials Sector Index Fund ETF,Global Equity ETF,
+ESRX,Express Scripts Holding Company ,Healthcare,Health Care Plans
+ICUI, ICU Medical  Inc. ,Healthcare,Medical Instruments & Supplies
+MOH,Molina Healthcare Inc Common St ,Healthcare,Health Care Plans
+MRTX,Mirati Therapeutics Inc. ,Healthcare,Biotechnology
+UNH,UnitedHealth Group Incorporated ,Healthcare,Health Care Plans
+IDXX, IDEXX Laboratories  Inc. ,Healthcare,Diagnostic Substances
+ANTM,Anthem Inc. Common,Healthcare,Health Care Plans
+HUM, Humana Inc. Common ,Healthcare,Health Care Plans
+SPR,Spirit Aerosystems Holdings In ,Industrial Goods,Aerospace/Defense Products & Services
+DE,Deere & Company Common ,Industrial Goods,Farm & Construction Machinery
+ABB,ABB Ltd Common ,Industrial Goods,Industrial Electrical Equipment
+ARNC,Arconic Inc.,N/A,N/A
+MMTM,SPDR Sandamp;P 1500 Momentum Tilt ETF ,N/A,N/A
+CEW, WisdomTree Dreyfus Emerging Cur ,N/A,N/A
+QAT,iShares MSCI Qatar Capped ETF,N/A,N/A
+OIL, Barclays Bank Plc iPath Exchang ,N/A,N/A
+USL, United States 12 Month Oil ,N/A,N/A
+SGRY,Surgery Partners  Inc.,N/A,N/A
+OLEM,iPath Pure Beta Crude Oil ETN ,N/A,N/A
+ASML,ASML Holding N.V. ,NULL,NULL
+DENN,Denny's Corporation ,Services,Restaurants
+BXC,Bluelinx Holdings Inc. Common S ,Services,Building Materials Wholesale
+WNS,WNS (Holdings) Limited Sponsore ,Services,Business Services
+CSGP,CoStar Group Inc. ,Services,Business Services
+PTC,PTC Inc. ,Technology,Technical & System Software
+CTSH,Cognizant Technology Solutions  ,Technology,Business Software & Services
+IYT,iShares Dow Jones Transportation Average Index Fund ETF,US Equity ETF,

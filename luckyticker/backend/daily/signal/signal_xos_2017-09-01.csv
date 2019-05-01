@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+BIS,ProShares UltraShort Nasdaq Biotechnology ETF,Commodity Based ETF,
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+CPB,Campbell Soup Company Common St ,Consumer Goods,Processed & Packaged Goods
+XL,XL Group plc ,Financial,Property & Casualty Insurance
+TRV,The Travelers Companies Inc. C ,Financial,Property & Casualty Insurance
+RE,Everest Re Group Ltd. Common S ,Financial,Property & Casualty Insurance
+RNR, RenaissanceRe Holdings Ltd. Com ,Financial,Property & Casualty Insurance
+RUSS, Direxion Daily Russia Bear 3x S ,N/A,N/A
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs ,N/A,N/A
+TITN,Titan Machinery Inc. ,Services,Specialty Retail Other
+HRB, H&R Block  Inc. Common ,Services,Personal Services

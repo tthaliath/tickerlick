@@ -1,0 +1,9 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ODC,Oil-Dri Corporation Of America  ,Basic Materials,Specialty Chemicals
+FN,Fabrinet Ordinary Shares ,Consumer Goods,Electronic Equipment
+XRX,Xerox Corporation Common ,Consumer Goods,Business Equipment
+NSEC,National Security Group Inc. ,Financial,Property & Casualty Insurance
+NATR,Nature's Sunshine Products Inc ,Healthcare,Drug Related Products
+CHDN,Churchill Downs Incorporated ,Services,Gaming Activities
+RRGB,Red Robin Gourmet Burgers Inc. ,Services,Restaurants
+SPA,Sparton Corporation Common Stoc ,Technology,Diversified Electronics

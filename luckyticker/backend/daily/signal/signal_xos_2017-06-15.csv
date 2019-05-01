@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TLLP, Tesoro Logistics LP Common Unit ,Basic Materials,Oil & Gas Pipelines
+PAA,Plains All American Pipeline L ,Basic Materials,Oil & Gas Pipelines
+YPF,YPF Sociedad Anonima Common Sto ,Basic Materials,Major Integrated Oil & Gas
+GEL,Genesis Energy L.P. Common Uni ,Basic Materials,Oil & Gas Pipelines
+UNAM,Unico American Corporation ,Financial,Property & Casualty Insurance
+STIP,iShares Barclays 0-5 Year TIPS ETF,Fixed Income ETF,
+ADXS,Advaxis Inc. ,Healthcare,Biotechnology
+CVR,Chicago Rivet & Machine Co. Com ,Industrial Goods,Machine Tools & Accessories
+MLPG, UBS AG Exchange Traded Access S ,N/A,N/A
+PVTBP, PrivateBancorp  Inc. ,N/A,N/A
+TPZ, Tortoise Power and Energy Infra ,N/A,N/A
+UZA, United States Cellular Corporat ,N/A,N/A
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+BJRI,BJ's Restaurants Inc. ,Services,Restaurants

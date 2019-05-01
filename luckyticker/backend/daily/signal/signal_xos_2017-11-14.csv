@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WOR,Worthington Industries Inc. Co ,Basic Materials,Steel & Iron
+AA,Alcoa Inc. Common ,Basic Materials,Aluminum
+HSC, Harsco Corporation Common ,Basic Materials,Steel & Iron
+JCI,Johnson Controls Inc. Common S ,Consumer Goods,Auto Parts
+UG,United-Guardian Inc. ,Consumer Goods,Personal Products
+AFSI,AmTrust Financial Services Inc ,Financial,Property & Casualty Insurance
+TSRO, TESARO  Inc. ,Healthcare,Biotechnology
+ACAD,ACADIA Pharmaceuticals Inc. ,Healthcare,Biotechnology
+ONCE,Spark Therapeutics Inc.,Healthcare,Biotechnology
+CRS,Carpenter Technology Corporatio ,Industrial Goods,Metal Fabrication
+RXN, Rexnord Corporation Common Stoc ,Industrial Goods,Diversified Machinery
+MATW,Matthews International Corporat ,Industrial Goods,Metal Fabrication
+ESL,Esterline Technologies Corporat ,Industrial Goods,Aerospace/Defense Products & Services
+PIY, Preferred Plus Trust (Ser CZN)  ,N/A,N/A
+CSRA,CSRA Inc.,N/A,N/A
+HTZ, Hertz Global Holdings  Inc Comm ,Services,Rental & Leasing Services
+SCSC,ScanSource Inc. ,Technology,Technical & System Software
+WIX,Wix.com Ltd. ,Technology,Internet Information Providers
+NSIT,Insight Enterprises Inc. ,Technology,Application Software
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,

@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AGQ,ProShares Ultra Silver ETF,Commodity Based ETF,
+ALX,Alexander's Inc. Common ,Financial,REIT - Retail
+FRT,Federal Realty Investment Trust ,Financial,REIT - Retail
+TSRO, TESARO  Inc. ,Healthcare,Biotechnology
+NTK, Nortek Inc. ,Industrial Goods,General Building Materials
+USLV, VelocityShares 3x Long Silver E ,N/A,N/A
+DRN, Dexion Daily Real Estate Bull 3 ,N/A,N/A
+USV, E-TRACS USB Bloomberg Commodity ,N/A,N/A
+GOLD, Randgold Resources Limited ,N/A,N/A
+BLNG,iPath Pure Beta Precious Metals ETN ,N/A,N/A

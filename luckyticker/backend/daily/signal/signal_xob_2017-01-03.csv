@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PZE,Petrobras Argentina S.A. ADS ,Basic Materials,Major Integrated Oil & Gas
+UNVR,Univar Inc.,Basic Materials,Chemicals - Major Diversified
+AWH,Allied World Assurance Company  ,Financial,Property & Casualty Insurance
+BSBR,Banco Santander Brasil SA Ameri ,Financial,Foreign Regional Banks
+HTD, John Hancock Tax Advantaged Div ,Financial,Closed-End Fund - Equity
+GPT,Gramercy Property Trust Inc. ,Financial,REIT - Diversified
+PCBC, Pacific Capital Bancorp ,Financial,Regional - Pacific Banks
+GFED,Guaranty Federal Bancshares In ,Financial,Regional - Southwest  Banks
+GCBC, Greene County Bancorp  Inc. ,Financial,Savings & Loans
+CETX,Cemtrex Inc.,Industrial Goods,Industrial Equipment & Components
+GOLD, Randgold Resources Limited ,N/A,N/A
+GLP,Global Partners LP Global Partn ,Services,Basic Materials Wholesale
+ERA,Era Group Inc. ,Services,Air Services
+IVAC,Intevac Inc. ,Technology,Diversified Electronics

@@ -1,0 +1,28 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+SNE,Sony Corporation Common ,Consumer Goods,Electronic Equipment
+CVGW,Calavo Growers Inc. ,Consumer Goods,Farm Products
+MAA,Mid-America Apartment Communiti ,Financial,REIT - Residential
+ICE, IntercontinentalExchange  Inc.  ,Financial,Diversified Investments
+IPU,SPDR S&P International Utilities Sector ETF,Global Equity ETF,
+EW,Edwards Lifesciences Corporatio ,Healthcare,Medical Appliances & Equipment
+BLUE,bluebird bio Inc. ,Healthcare,Biotechnology
+ISRG,Intuitive Surgical Inc. ,Healthcare,Medical Appliances & Equipment
+PTCT,PTC Therapeutics Inc. ,Healthcare,Biotechnology
+LOXO,Loxo Oncology Inc.,Healthcare,Biotechnology
+FONR,Fonar Corporation ,Healthcare,Medical Appliances & Equipment
+ALRM,Alarm.com Holdings  Inc. ,N/A,N/A
+GF, New Germany Fund  Inc. (The) Co ,N/A,N/A
+SWIR,Sierra Wireless Inc. ,NULL,NULL
+GDOT,Green Dot Corporation Class A C ,Services,Business Services
+EXLS,ExlService Holdings Inc. ,Services,Business Services
+QGEN,Qiagen N.V. ,Services,Research Services
+BABA,Alibaba Group Holding Limited A,Services,Specialty Retail Other
+YUM,Yum! Brands Inc. ,Services,Restaurants
+MRTN,Marten Transport Ltd. ,Services,Trucking
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+SYNA,Synaptics Incorporated ,Technology,Computer Peripherals
+ORBC,ORBCOMM Inc. ,Technology,Diversified Communication Services
+YHOO,Yahoo! Inc. ,Technology,Internet Information Providers
+INTU,Intuit Inc. ,Technology,Application Software
+HQY,HealthEquity Inc.,Technology,Healthcare Information Services

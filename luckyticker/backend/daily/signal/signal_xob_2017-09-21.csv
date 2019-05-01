@@ -1,0 +1,26 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WLK,Westlake Chemical Corporation C ,Basic Materials,Specialty Chemicals
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+CAT,Caterpillar Inc. Common ,Conglomerates,Conglomerates
+WBC,Wabco Holdings Inc. Common Stoc ,Consumer Goods,Auto Parts
+TBK,Triumph Bancorp Inc.,Financial,Regional - Southwest  Banks
+CFFI,C&F Financial Corporation ,Financial,Regional - Mid-Atlantic Banks
+MSB,Mesabi Trust Common ,Financial,Diversified Investments
+AMTD,TD Ameritrade Holding Corporati ,Financial,Investment Brokerage - National
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+CNBKA,Century Bancorp Inc. ,Financial,Regional - Northeast Banks
+MCRB,Seres Therapeutics  Inc.,Healthcare,Biotechnology
+ROLL,RBC Bearings Incorporated ,Industrial Goods,Machine Tools & Accessories
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+LAYN,Layne Christensen Company ,Industrial Goods,Heavy Construction
+HXL, Hexcel Corporation Common ,Industrial Goods,Aerospace/Defense Products & Services
+XYL, Xylem Inc. Common ,Industrial Goods,Diversified Machinery
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+BOBE,Bob Evans Farms Inc. ,Services,Restaurants
+FENG, Phoenix New Media Limited Ameri ,Technology,Internet Information Providers
+BCOR, Blucora  Inc. ,Technology,Internet Information Providers
+IO,Ion Geophysical Corporation Com ,Technology,Scientific & Technical Instruments
+HRS, Harris Corporation Common ,Technology,Communication Equipment
+ROP,Roper Industries Inc. Common S ,Technology,Scientific & Technical Instruments
+ITA,iShares Dow Jones U.S. Aerospace & Defense Index Fund ETF,US Equity ETF,

@@ -1,0 +1,93 @@
+ticker,name,sector,industry
+BHGE,Baker Hughes Incorporated Commo ,Basic Materials,Oil & Gas Equipment & Services
+REGN,Regeneron Pharmaceuticals Inc. ,Healthcare,Biotechnology
+XEC,Cimarex Energy Co Common ,Basic Materials,Independent Oil & Gas
+DLR,Digital Realty Trust Inc. Comm ,Financial,REIT - Office
+TAP,Molson Coors Brewing Company Cl ,Consumer Goods,Beverages - Brewers
+COL,Rockwell Collins Inc. Common S ,Industrial Goods,Aerospace/Defense Products & Services
+APC,Anadarko Petroleum Corporation  ,Basic Materials,Independent Oil & Gas
+HAL, Halliburton Company Common Stoc ,Basic Materials,Oil & Gas Equipment & Services
+RIG,Transocean Ltd (Switzerland) Co ,Basic Materials,Oil & Gas Drilling & Exploration
+EXT,WisdomTree Total Earnings Fund ETF,US Equity ETF,
+WBK,Westpac Banking Corporation Com ,Financial,Foreign Money Center Banks
+VIPS, Vipshop Holdings Limited Americ ,Technology,Internet Service Providers
+CAAS,China Automotive Systems Inc. ,Consumer Goods,Auto Parts
+VIXM,ProShares VIX Mid-Term Futures ETF,Commodity Based ETF,
+TUR,iShares MSCI Turkey Investable Market Index Fund ETF,Global Equity ETF,
+EWV,ProShares UltraShort MSCI Japan ETF,Commodity Based ETF,
+PMF, PIMCO Municipal Income Fund Com ,N/A,N/A
+SRLP,Sprague Resources LP ,Basic Materials,Oil & Gas Refining & Marketing
+ENIA,Enersis Américas S.A.,N/A,N/A
+ENY,Guggenheim Canadian Energy Income ETF,Global Equity ETF,
+CNQ,Canadian Natural Resources Limi ,Basic Materials,Independent Oil & Gas
+EVV, Eaton Vance Limited Duration In ,Financial,Closed-End Fund - Debt
+EPZM,Epizyme Inc. ,Healthcare,Biotechnology
+JRI, Nuveen Real Asset Income and Gr ,N/A,N/A
+LMBS,First Trust Low Duration Opport,,
+DMO, Western Asset Mortgage Defined  ,N/A,N/A
+LGCYP,Legacy Reserves LP,N/A,N/A
+ERF,Enerplus Corporation Common Sto ,Basic Materials,Oil & Gas Drilling & Exploration
+IQI, Invesco Quality Municipal Incom ,N/A,N/A
+JDD, Nuveen Diversified Dividend and ,Financial,Closed-End Fund - Equity
+INCR,INC Research Holdings Inc.,Services,Research Services
+EPS,WisdomTree Earnings 500 Fund ETF,US Equity ETF,
+ASFI,Asta Funding Inc. ,Services,Business Services
+LGCYO,Legacy Reserves LP,N/A,N/A
+APLP,Archrock Partners  L.P.,N/A,N/A
+VXZ, iPath S&P 500 VIX Mid-Term Futu ,N/A,N/A
+VXX, iPath S&P 500 VIX Short Term Fu ,N/A,N/A
+SMMU,PIMCO Short Term Municipal Bond Strategy Fund ETF,Fixed Income ETF,
+NXJ, Nuveen New Jersey Dividend Adva ,N/A,N/A
+AMJL,Credit Suisse X-Links Monthly P,,
+AROC,Archrock  Inc.,N/A,N/A
+EQGP,EQT GP Holdings  LP,Basic Materials,Major Integrated Oil & Gas
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,
+AEUA,Anadarko Petroleum Corporation,N/A,N/A
+MMLP,Martin Midstream Partners L.P. ,Basic Materials,Oil & Gas Pipelines
+VMAX,REX VolMAXX Long VIX Weekly Fut,,
+MRIN,Marin Software Incorporated ,Technology,Application Software
+CEN,Center Coast MLP and Infrastructu ,N/A,N/A
+VTEB,Vanguard Tax-Exempt Bond ETF,,
+MQT, Blackrock MuniYield Quality Fun ,Financial,Closed-End Fund - Debt
+FXC, Rydex CurrencyShares Canadian D ,N/A,N/A
+DES,WisdomTree Trust SmallCap Dividend Fund ETF,US Equity ETF,
+EVIX,VelocityShares 1x Long VSTOXX F,,
+BGH,Babson Capital Global Short Dur ,N/A,N/A
+TVIZ, VelocityShares Daily 2x VIX Med ,N/A,N/A
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Commodity Based ETF,
+VIIX, VelocityShares VIX Short Term E ,N/A,N/A
+VET,Vermilion Energy Inc. ,Basic Materials,Oil & Gas Drilling & Exploration
+BKN, BlackRock Investment Quality Mu ,Financial,Closed-End Fund - Debt
+EVJ, Eaton Vance New Jersey Municipa ,Financial,Closed-End Fund - Debt
+TEGP,Tallgrass Energy GP  LP,Basic Materials,Oil & Gas Pipelines
+TKF, Turkish Investment Fund  Inc. ( ,N/A,N/A
+NQP, Nuveen Pennsylvania Investment  ,N/A,N/A
+DBL, DoubleLine Opportunistic Credit ,N/A,N/A
+PXJ,PowerShares Dynamic Oil Services ETF,US Equity ETF,
+BZM, BlackRock Maryland Municipal Bo ,Financial,Closed-End Fund - Debt
+GOODM,Gladstone Commercial Corp.,N/A,N/A
+EPR,Entertainment Properties Trust  ,Financial,REIT - Retail
+IMO,Imperial Oil Limited Common Sto ,Basic Materials,Oil & Gas Refining & Marketing
+TCP, TC PipeLines  LP Common Units r ,Basic Materials,Oil & Gas Pipelines
+INSE,Inspired Entertainment  Inc.,,
+DON,WisdomTree MidCap Dividend Fund ETF,US Equity ETF,
+QUOT,Quotient Technology Inc.,N/A,N/A
+NKG, Nuveen Georgia Dividend Advanta ,Financial,Closed-End Fund - Debt
+CPG,Crescent Point Energy Corp. ,N/A,N/A
+VIIZ, VelocityShares VIX Medium Term  ,N/A,N/A
+TVIX, VelocityShares Daily 2x VIX Sho ,N/A,N/A
+CVE,Cenovus Energy Inc Common ,Basic Materials,Oil & Gas Drilling & Exploration
+VIXY,ProShares VIX Short-Term Futures ETF,Commodity Based ETF,
+BLE, BlackRock Municipal Income Trus ,Financial,Closed-End Fund - Debt
+NSH,Nustar GP Holdings LLC Units ,Basic Materials,Oil & Gas Pipelines
+BSWN,UBS AG VelocityShares VIX Tail,,
+FI,Franks International N.V. ,Basic Materials,Oil & Gas Pipelines
+NDP, Tortoise Energy Independence Fu ,N/A,N/A
+PWZ,PowerShares Insured CA Municipal Bond Portfolio ETF,Fixed Income ETF,
+NSL, Nuveen Senior Income Fund Commo ,Financial,Closed-End Fund - Debt
+DPK, Direxion Developed Markets Bear ,N/A,N/A
+CTR, ClearBridge Energy MLP Total Re ,N/A,N/A
+ESV,Ensco plc Class A Ordinary Shar ,Basic Materials,Oil & Gas Drilling & Exploration
+FMCI,Forum Merger Corporation,,
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+FTF, Franklin Templeton Limited Dura ,Financial,Closed-End Fund - Debt

@@ -1,0 +1,11 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+GDJJ,ProShares Ultra Junior Miners,,
+SLB,Schlumberger N.V. Common ,Basic Materials,Oil & Gas Equipment & Services
+FMSA,FMSA Holdings Inc. Common,Basic Materials,Industrial Metals & Minerals
+PNRG,PrimeEnergy Corporation ,Basic Materials,Independent Oil & Gas
+NGL, NGL ENERGY PARTNERS LP Common U ,Basic Materials,Oil & Gas Refining & Marketing
+MAT,Mattel Inc. ,Consumer Goods,Toys & Games
+TBK,Triumph Bancorp Inc.,Financial,Regional - Southwest  Banks
+PGNX,Progenics Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MYCC,ClubCorp Holdings Inc. ,Services,Sporting Activities
+TAC,TransAlta Corporation Ordinary  ,Utilities,Diversified Utilities

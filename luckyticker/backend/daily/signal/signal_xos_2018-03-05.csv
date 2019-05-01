@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+WBT,Welbilt  Inc.,,
+WMB,Williams Companies Inc. (The)  ,Basic Materials,Oil & Gas Pipelines
+SWM,Schweitzer-Mauduit Internationa ,Consumer Goods,Paper & Paper Products
+SIR, Select Income REIT Common Share ,Financial,REIT - Office
+TTS, Tile Shop Hldgs  Inc. ,Financial,Diversified Investments
+RLJ, RLJ Lodging Trust Common Shares ,Financial,REIT - Hotel/Motel
+INN, Summit Hotel Properties  Inc. C ,Financial,Real Estate Development
+MDXG,MiMedx Group Inc. ,Healthcare,Medical Appliances & Equipment
+CFX,Colfax Corporation Common ,Industrial Goods,Diversified Machinery
+VMI,Valmont Industries Inc. Common ,Industrial Goods,Metal Fabrication
+AER,Aercap Holdings N.V. Ordinary S ,Industrial Goods,Aerospace/Defense - Major Diversified
+JMLP,Nuveen All Cap Energy MLP Oppor ,N/A,N/A
+NQP, Nuveen Pennsylvania Investment  ,N/A,N/A
+IMLP,iPath S&P MLP ETN ,N/A,N/A
+FEI,First Trust MLP and Energy Inco ,N/A,N/A
+FISK,Empire State Realty OP L.P. ,N/A,N/A
+SRG,Seritage Growth Properties,N/A,N/A
+TV,Grupo Televisa S.A. Common Stoc ,Services,Broadcasting - TV
+RPXC, RPX Corporation ,Services,Business Services
+ORA,Ormat Technologies Inc. Common ,Utilities,Electric Utilities

@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TSLA,Tesla Motors Inc. ,Consumer Goods,Auto Manufacturers - Major
+LULU,lululemon athletica inc. ,Consumer Goods,Textile - Apparel Clothing
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt
+TARO, Taro Pharmaceutical Industries  ,Healthcare,Drug Manufacturers - Other
+VTAE,Vitae Pharmaceuticals Inc.,Healthcare,Biotechnology
+HNH, Handy & Harman Ltd. ,Industrial Goods,Industrial Equipment & Components
+IRDMB,Iridium Communications Inc,N/A,N/A
+SVVC, Firsthand Technology Value Fund ,N/A,N/A
+DFVL,iPath US Treasury 5-year Bull ETN ,N/A,N/A
+VTN, Invesco Van Kampen Trust for In ,N/A,N/A
+COST,Costco Wholesale Corporation ,Services,Discount Variety Stores
+MNI,McClatchy Company (The) Common  ,Services,Publishing - Newspapers
+JCS,Communications Systems Inc. ,Technology,Communication Equipment
+IRDM,Iridium Communications Inc ,Technology,Diversified Communication Services
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities

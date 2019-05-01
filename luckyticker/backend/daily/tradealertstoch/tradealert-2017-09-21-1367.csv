@@ -1,0 +1,38 @@
+Buy,AAPL,Apple Inc. ,7.90755
+Buy,AGN,Allergan Inc. Common ,14.7103
+Buy,AMD,Advanced Micro Devices Inc. Co ,16.8294
+Buy,AMZN,Amazon.com Inc. ,13.323
+Buy,CL,Colgate-Palmolive Company Commo ,8.17354
+Buy,COST,Costco Wholesale Corporation ,1.72914
+Buy,GILD,Gilead Sciences Inc. ,18.9723
+Buy,JNJ,Johnson & Johnson Common ,11.8314
+Buy,MSFT,Microsoft Corporation ,6.94479
+Buy,PG,Procter & Gamble Company (The)  ,4.25752
+Buy,PM,Philip Morris International Inc ,19.4137
+Buy,KMI, Kinder Morgan  Inc. Common Stoc ,3.24055
+Buy,MDLZ, Mondelez International  Inc. ,14.4038
+Buy,ABBV,AbbVie Inc. ,15.6418
+Buy,FOX,Twenty-First Century Fox Inc. ,6.99577
+Buy,FOXA,Twenty-First Century Fox Inc. ,6.13039
+Buy,KHC,The Kraft Heinz Company,4.3026
+Buy,PYPL,PayPal Holdings  Inc.,16.0981
+Buy,SNAP,Snap Inc.,2.36681
+Sell,CAT,Caterpillar Inc. Common ,96.9367
+Sell,COF,Capital One Financial Corporati ,91.2807
+Sell,COP,ConocoPhillips Common ,90.3596
+Sell,EXC,Exelon Corporation Common ,89.8572
+Sell,FDX,FedEx Corporation Common ,80.1516
+Sell,GD,General Dynamics Corporation Co ,96.5832
+Sell,GE,General Electric Company Common ,98.1744
+Sell,GS,Goldman Sachs Group Inc. (The) ,82.8037
+Sell,JPM,JP Morgan Chase & Co. Common St ,93.3334
+Sell,MA,Mastercard Incorporated Common  ,84.0056
+Sell,MCD,McDonald's Corporation Common S ,84.3139
+Sell,NEE,NextEra Energy Inc. Common Sto ,83.8964
+Sell,OXY,Occidental Petroleum Corporatio ,84.1756
+Sell,SLB,Schlumberger N.V. Common ,92.7931
+Sell,BLK,BlackRock Inc,88.7758
+Sell,HAL, Halliburton Company Common Stoc ,80.6809
+Sell,HON, Honeywell International Inc. Co ,95.7997
+Sell,LLY, Eli Lilly and Company Common St ,87.6349
+Sell,AAL,American Airlines Group Inc. ,97.1853

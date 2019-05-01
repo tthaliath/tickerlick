@@ -1,0 +1,15 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+LTL,ProShares Ultra Telecommunications ETF,Commodity Based ETF,
+EFU,ProShares UltraShort MSCI EAFE ETF,Commodity Based ETF,
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+MO,Altria Group Inc. ,Consumer Goods,Cigarettes
+GHL,Greenhill Common ,Financial,Investment Brokerage - Regional
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants
+CHUY, Chuy's Holdings  Inc. ,Services,Restaurants
+CBS,CBS Corporation Class B Common  ,Services,Broadcasting - TV
+T,AT&T Inc. ,Technology,Telecom Services - Domestic
+ATNI,Atlantic Tele-Network Inc. ,Technology,Telecom Services - Domestic
+SPOK,Spok Holdings Inc.,Technology,Wireless Communications
+USM,United States Cellular Corporat ,Technology,Wireless Communications
+VOX,Vanguard Telecom ETF - DNQ ETF,US Equity ETF,

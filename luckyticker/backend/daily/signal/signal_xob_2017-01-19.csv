@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CENX,Century Aluminum Company ,Basic Materials,Aluminum
+SXCL,Steel Excel Inc.,Basic Materials,Oil & Gas Equipment & Services
+SYT,Syngenta AG Common ,Basic Materials,Agricultural Chemicals
+SQQQ,ProShares UltraPro Short QQQ ETF,Commodity Based ETF,
+UVV,Universal Corporation Common St ,Consumer Goods,Tobacco Products Other
+RAI,Reynolds American Inc Common St ,Consumer Goods,Cigarettes
+PCBC, Pacific Capital Bancorp ,Financial,Regional - Pacific Banks
+AAMC,Altisource Asset Management Corporation ,Financial,Asset Management
+ARRY,Array BioPharma Inc. ,Healthcare,Biotechnology
+SPAN, Span-America Medical Systems  I ,Healthcare,Medical Appliances & Equipment
+ASMB,Assembly Biosciences Inc.,Healthcare,Drug Manufacturers - Major
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology
+FWP,Forward Pharma A/S,Healthcare,Biotechnology
+LPG,Dorian LPG Ltd. Common,N/A,N/A
+MX, MagnaChip Semiconductor Corpora ,Technology,Semiconductor - Specialized
+GRVY,GRAVITY Co. Ltd. ,Technology,Multimedia & Graphics Software
+GILT,Gilat Satellite Networks Ltd. ,Technology,Communication Equipment
+CYBE,CyberOptics Corporation ,Technology,Scientific & Technical Instruments
+NRG,NRG Energy Inc. Common ,Utilities,Electric Utilities

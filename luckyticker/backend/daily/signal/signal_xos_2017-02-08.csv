@@ -1,0 +1,12 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+PE,Parsley Energy Inc. Class A Co,Basic Materials,Independent Oil & Gas
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas
+GLL,ProShares UltraShort Gold ETF,Commodity Based ETF,
+KODK,Eastman Kodak Co. ,Consumer Goods,Electronic Equipment
+NHC,National HealthCare Corporation ,Healthcare,Long-Term Care Facilities
+DTYL, iPath US Treasury 10 Yr Bull ET ,N/A,N/A
+SPSC,SPS Commerce Inc. ,Services,Business Services
+AMC,AMC Entertainment Holdings Inc. ,Services,Movie Production
+SCOR,comScore Inc. ,Services,Business Services
+TNGO, Tangoe  Inc. ,Technology,Business Software & Services
+EES,WisdomTree SmallCap Earnings Fund ETF,US Equity ETF,

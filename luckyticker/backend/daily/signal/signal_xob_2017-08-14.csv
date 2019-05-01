@@ -1,0 +1,13 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+STS,Supreme Industries Inc. Common ,Consumer Goods,Trucks & Other Vehicles
+CROX,Crocs Inc. ,Consumer Goods,Textile - Apparel Footwear & Accessories
+GTS, Triple-S Management Corporation ,Financial,Accident & Health Insurance
+UJB,ProShares Ultra High Yield ETF,Fixed Income ETF,
+STAA,STAAR Surgical Company ,Healthcare,Medical Instruments & Supplies
+ENZY,Enzymotec Ltd. ,Healthcare,Biotechnology
+VNTV, Vantiv  Inc. Class A Common Sto ,Services,Business Services
+SVU,SuperValu Inc. Common ,Services,Grocery Stores
+ATHM,Autohome Inc. ,Technology,Internet Information Providers
+TCCO,Technical Communications Corpor ,Technology,Communication Equipment
+LDR,Landauer Inc. Common ,Technology,Scientific & Technical Instruments
+MRCY,Mercury Computer Systems ,Technology,Computer Peripherals

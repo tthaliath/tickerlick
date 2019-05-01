@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RARX,Ra Pharmaceuticals  Inc.,,
+CBT,Cabot Corporation Common ,Basic Materials,Specialty Chemicals
+KWR,Quaker Chemical Corporation Com ,Basic Materials,Specialty Chemicals
+MTX,Minerals Technologies Inc. Comm ,Basic Materials,Synthetics
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+JOUT,Johnson Outdoors Inc. ,Consumer Goods,Sporting Goods
+DORM,Dorman Products Inc. ,Consumer Goods,Auto Parts
+GLAD,Gladstone Capital Corporation ,Financial,Asset Management
+MCY,Mercury General Corporation Com ,Financial,Property & Casualty Insurance
+PFBX,Peoples Financial Corporation ,Financial,Regional - Northeast Banks
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+PATK,Patrick Industries Inc. ,Industrial Goods,Lumber Wood Production
+ALRM,Alarm.com Holdings  Inc. ,N/A,N/A
+UNL, United States 12 Month Natural  ,N/A,N/A
+MCC, Medley Capital Corporation Comm ,N/A,N/A
+SNR,New Senior Investment Group Inc,N/A,N/A
+CXW,Corrections Corporation of Amer ,Services,Management Services
+QTWO,Q2 Holdings Inc. ,Technology,Business Software & Services
+OPNT,Opiant Pharmaceuticals, Inc.,Technology,Application Software
+GEOS, Geospace Technologies Corporati ,Technology,Scientific & Technical Instruments
+NJR,NewJersey Resources Corporation ,Utilities,Gas Utilities

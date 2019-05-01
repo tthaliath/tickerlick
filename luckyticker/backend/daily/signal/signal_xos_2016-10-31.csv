@@ -1,0 +1,51 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CRR,Carbo Ceramics Inc. Common Sto ,Basic Materials,Oil & Gas Equipment & Services
+PNRG,PrimeEnergy Corporation ,Basic Materials,Independent Oil & Gas
+KALU,Kaiser Aluminum Corporation ,Basic Materials,Aluminum
+FTK,Flotek Industries Inc. Common  ,Basic Materials,Specialty Chemicals
+KRA,Kraton Performance Polymers In ,Basic Materials,Specialty Chemicals
+BPL,Buckeye Partners L.P. Common St ,Basic Materials,Oil & Gas Pipelines
+HEP, Holly Energy Partners  L.P. Com ,Basic Materials,Oil & Gas Pipelines
+UL,Unilever PLC Common ,Consumer Goods,Food - Major Diversified
+NWL,Newell Rubbermaid Inc. Common S ,Consumer Goods,Housewares & Accessories
+NLS,Nautilus Inc. Common ,Consumer Goods,Sporting Goods
+BUD,Anheuser-Busch Inbev SA Sponsor ,Consumer Goods,Beverages - Brewers
+GIII,G-III Apparel Group LTD. ,Consumer Goods,Textile - Apparel Clothing
+UA,Under Armour Inc. Class A Comm ,Consumer Goods,Textile - Apparel Clothing
+AOI,Alliance One International Inc ,Consumer Goods,Tobacco Products Other
+PMBC,Pacific Mercantile Bancorp ,Financial,Regional - Pacific Banks
+LGIH,LGI Homes Inc. ,Financial,Real Estate Development
+ASPS,Altisource Portfolio Solutions  ,Financial,Mortgage Investment
+BOFI,BofI Holding Inc. ,Financial,Savings & Loans
+FBIZ, First Business Financial Servic ,Financial,Regional - Midwest Banks
+BMRN,BioMarin Pharmaceutical Inc. ,Healthcare,Biotechnology
+NVLS,Nivalis Therapeutics  Inc.,Healthcare,Biotechnology
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment
+SNN,Smith & Nephew SNATS Inc. Comm ,Healthcare,Medical Appliances & Equipment
+EGLT,Egalet Ltd. ,Healthcare,Biotechnology
+AMGN,Amgen Inc. ,Healthcare,Biotechnology
+AGN,Allergan Inc. Common ,Healthcare,Drug Manufacturers - Other
+JAZZ, Jazz Pharmaceuticals plc ,Healthcare,Biotechnology
+AZN,Astrazeneca PLC Common ,Healthcare,Drug Manufacturers - Major
+USNA,USANA Health Sciences Inc. Com ,Healthcare,Drug Related Products
+ZBH,Zimmer Biomet Holdings  Inc.,Healthcare,Medical Appliances & Equipment
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+GTLS, Chart Industries  Inc. ,Industrial Goods,Metal Fabrication
+NVR,NVR Inc. Common ,Industrial Goods,Residential Construction
+AVY,Avery Dennison Corporation Comm ,Industrial Goods,Diversified Machinery
+ETX,Eaton Vance Municipal Income Te ,N/A,N/A
+IEUS,iShares Developed Small Cap ex,N/A,N/A
+CIGI,Colliers International Group Inc.,N/A,N/A
+ANGI, Angie's List  Inc. ,N/A,N/A
+IGR, CBRE Clarion Global Real Estate ,N/A,N/A
+MDCA,MDC Partners Inc. ,NULL,NULL
+AIXG,Aixtron SE ,NULL,NULL
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other
+GNC, GNC Holdings  Inc. Class A Comm ,Services,Drug Stores
+PHII,PHI Inc. ,Services,Air Services Other
+AIRM,Air Methods Corporation ,Services,Air Services Other
+CKH,SEACOR Holdings Inc. Common Sto ,Services,Shipping
+SPSC,SPS Commerce Inc. ,Services,Business Services
+TRCO,Tribune Media Company Class A C,Services,Publishing - Newspapers
+PMC,Pharmerica Corporation Common S ,Services,Drug Stores
+AYI,Acuity Brands Inc (Holding Comp ,Technology,Diversified Electronics

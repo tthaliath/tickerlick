@@ -1,0 +1,22 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+DECK,Deckers Outdoor Corporation ,Consumer Goods,Textile - Apparel Footwear & Accessories
+ECL,Ecolab Inc. Common ,Consumer Goods,Cleaning Products
+MMC,Marsh & McLennan Companies Inc ,Financial,Insurance Brokers
+PSB,PS Business Parks Inc. Common  ,Financial,REIT - Diversified
+ZTS,Zoetis Inc. ,Healthcare,Drugs - Generic
+COO,Cooper Companies Inc. (The) Co ,Healthcare,Medical Instruments & Supplies
+UTMD,Utah Medical Products Inc. ,Healthcare,Medical Instruments & Supplies
+ATRI,ATRION Corporation ,Healthcare,Medical Instruments & Supplies
+MLAB,Mesa Laboratories Inc. ,Healthcare,Medical Instruments & Supplies
+SUPN, Supernus Pharmaceuticals  Inc. ,Healthcare,Drugs - Generic
+VRTX,Vertex Pharmaceuticals Incorpor ,Healthcare,Biotechnology
+CCZ,Comcast Holdings ZONES,N/A,N/A
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+RYAAY,Ryanair Holdings plc ,NULL,NULL
+ATV,Acorn International Inc. ADS ,Services,Catalog & Mail Order Houses
+TTEC,TeleTech Holdings Inc. ,Services,Business Services
+CABO,Cable ONE  Inc.,Technology,Diversified Communication Services
+BLKB,Blackbaud Inc. ,Technology,Business Software & Services
+ADSK,Autodesk Inc. ,Technology,Technical & System Software
+IDA, IDACORP  Inc. Common ,Utilities,Electric Utilities

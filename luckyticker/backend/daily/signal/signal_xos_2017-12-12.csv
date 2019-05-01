@@ -1,0 +1,21 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+CRT,Cross Timbers Royalty Trust Com ,Basic Materials,Oil & Gas Drilling & Exploration
+LWAY,Lifeway Foods Inc. ,Consumer Goods,Dairy Products
+STRT,Strattec Security Corporation ,Consumer Goods,Auto Parts
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment
+PRTK,Paratek Pharmaceuticals Inc. ,Healthcare,Biotechnology
+LJPC,La Jolla Pharmaceutical Co. ,Healthcare,Biotechnology
+HIFR,InfraREIT Inc. Common,N/A,N/A
+PPLT, ETFS Physical Platinum Shares ,N/A,N/A
+SGAR, iPath Pure Beta Sugar ETN ,N/A,N/A
+ENIC,Enersis Chile S.A.,N/A,N/A
+VBF, Invesco Van Kampen Bond Fund Co ,N/A,N/A
+NTEC,Intec Pharma,N/A,N/A
+BRG,Bluerock Residential Growth REIT  Inc. ,N/A,N/A
+JO, iPath DJ-UBS Coffee Subindex To ,N/A,N/A
+PGM, iPath DJ-UBS Platinum Subindex  ,N/A,N/A
+JJA, iPath Dow Jones UBS Agriculture ,N/A,N/A
+CTRP,Ctrip.com International Ltd. ,Services,Lodging
+MTLS,Materialise NV,Technology,Application Software
+MEI,Methode Electronics Inc. Commo ,Technology,Diversified Electronics
+PPL,PP&L Corporation Common ,Utilities,Electric Utilities

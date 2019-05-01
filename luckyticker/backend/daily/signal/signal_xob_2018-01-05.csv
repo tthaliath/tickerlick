@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+EEMX,SPDR MSCI Emerging Markets Fuel,,
+PSDO,Presidio  Inc.,,
+PAVE,Global X Funds Global X U.S. In,,
+CNDF,iShares Edge MSCI Multifactor C,,
+REVG,REV Group  Inc.,,
+OIIL,Credit Suisse X-Links WTI Crude,,
+STO,Statoil ASA ,Basic Materials,Major Integrated Oil & Gas
+EZJ,ProShares Ultra MSCI Japan ETF,Commodity Based ETF,
+PVH,PVH Corp. Common ,Consumer Goods,Textile - Apparel Clothing
+RWX,SPDR Dow Jones International Real Estate ETF,Global Equity ETF,
+SRNE,Sorrento Therapeutics Inc. ,Healthcare,Biotechnology
+ARNA,Arena Pharmaceuticals Inc. ,Healthcare,Biotechnology
+CHE,Chemed Corp ,Healthcare,Home Health Care
+MNTA,Momenta Pharmaceuticals Inc. ,Healthcare,Biotechnology
+MIDD,The Middleby Corporation ,Industrial Goods,Diversified Machinery
+NDSN,Nordson Corporation ,Industrial Goods,Diversified Machinery
+CBPX,Continental Building Products Inc. ,Industrial Goods,General Building Materials
+CLNT, Cleantech Solutions Internation ,Industrial Goods,Metal Fabrication
+JPNL,Direxion Daily Japan Bull 3X Shares ,N/A,N/A
+FOIL,iPath Pure Beta Aluminum ETN ,N/A,N/A
+FMO, Fiduciary/Claymore MLP Opportun ,N/A,N/A
+CBMG,Cellular Biomedicine Group Inc,N/A,N/A
+EDC, Direxion Emerging Markets Bull  ,N/A,N/A
+FEEU,Barclays ETN+ FI Enhanced Europe 50 ETN ,N/A,N/A
+TYG, Tortoise Energy Infrastructure  ,N/A,N/A
+DZK, Direxion Developed Markets Bull ,N/A,N/A
+UNG, United States Natural Gas Fund  ,N/A,N/A
+RUSL, Direxion Daily Russia Bull 3x S ,N/A,N/A
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services
+FC,Franklin Covey Company Common S ,Services,Education & Training Services

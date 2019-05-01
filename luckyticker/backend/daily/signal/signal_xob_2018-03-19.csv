@@ -1,0 +1,16 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+RKDA,Arcadia Biosciences  Inc.,Basic Materials,Agricultural Chemicals
+HMG,HMG/Courtland Properties Inc. ,Financial,REIT - Retail
+IHC, Independence Holding Company Co ,Financial,Life Insurance
+AHL,Aspen Insurance Holdings Limite ,Financial,Property & Casualty Insurance
+AMOT,Allied Motion Technologies Inc ,Industrial Goods,Industrial Electrical Equipment
+ETSY,Etsy  Inc. ,N/A,N/A
+CWAY,Coastway Bancorp  Inc. ,N/A,N/A
+AGLE,Aeglea Biotherapeutics  Inc.,N/A,N/A
+CTRN,Citi Trends Inc. ,Services,Apparel Stores
+MHH,Mastech Holdings Inc Common St ,Services,Management Services
+HLG,Hailiang Education Group Inc.,Services,Education & Training Services
+PFSW,PFSweb Inc. ,Services,Business Services
+STX,Seagate Technology. ,Technology,Data Storage Devices
+JBL,Jabil Circuit Inc. Common Stoc ,Technology,Printed Circuit Boards
+CTWS,Connecticut Water Service Inc. ,Utilities,Water Utilities

@@ -1,0 +1,47 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+TMST,Timken Steel Corporation Common,Basic Materials,Steel & Iron
+KOLD,ProShares UltraShort DJ-UBS Natural Gas ETF,Commodity Based ETF,
+HAS, Hasbro  Inc. ,Consumer Goods,Toys & Games
+CLX,Clorox Company (The) Common Sto ,Consumer Goods,Housewares & Accessories
+BG,Bunge Limited Bunge Limited ,Consumer Goods,Farm Products
+CL,Colgate-Palmolive Company Commo ,Consumer Goods,Personal Products
+KATE,Kate Spade & Company ,Consumer Goods,Textile - Apparel Clothing
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products
+ACGL,Arch Capital Group Ltd. ,Financial,Property & Casualty Insurance
+WRB,W.R. Berkley Corporation Common ,Financial,Property & Casualty Insurance
+Y,Alleghany Corporation Common St ,Financial,Property & Casualty Insurance
+URTH,iShares MSCI World ETF,Global Equity ETF,
+FTW,First Trust Taiwan AlphaDEX ETF,Global Equity ETF,
+TFX,Teleflex Incorporated Common St ,Healthcare,Medical Instruments & Supplies
+MDT,Medtronic Inc. Common ,Healthcare,Medical Appliances & Equipment
+SAGE,Sage Therapeutics Inc.,Healthcare,Biotechnology
+EXAS,Exact Sciences Corporation ,Healthcare,Biotechnology
+LMIA,LMI Aerospace Inc. ,Industrial Goods,Aerospace/Defense Products & Services
+WCN,Waste Connections Inc. Common  ,Industrial Goods,Waste Management
+CAE,CAE Inc. Ordinary Shares ,Industrial Goods,Aerospace/Defense Products & Services
+RSG,Republic Services Inc. Common  ,Industrial Goods,Waste Management
+IAF, Aberdeen Australia Equity Fund  ,N/A,N/A
+ISCF,iShares FactorSelect MSCI Intl Small-Cap,N/A,N/A
+BCRH,Blue Capital Reinsurance Holdings Ltd. ,N/A,N/A
+TROX, Tronox Limited Ordinary Shares  ,N/A,N/A
+QSR,Restaurant Brands International,N/A,N/A
+LFL,Lan Airlines S.A. ,Services,Regional Airlines
+EVI,EnviroStar Inc.  Common ,Services,Consumer Services
+AMN,AMN Healthcare Services Inc AMN ,Services,Staffing & Outsourcing Services
+WYN,Wyndham Worldwide Corp Common   ,Services,Lodging
+LAMR,Lamar Advertising Company ,Services,Advertising Agencies
+ZNH,China Southern Airlines Company ,Services,Major Airlines
+CHH,Choice Hotels International In ,Services,Lodging
+TIF,Tiffany & Co. Common ,Services,Jewelry Stores
+LLTC,Linear Technology Corporation ,Technology,Semiconductor - Specialized
+CSIQ,Canadian Solar Inc. ,Technology,Semiconductor - Specialized
+MRCY,Mercury Computer Systems ,Technology,Computer Peripherals
+ADI,Analog Devices Inc. ,Technology,Semiconductor - Integrated Circuits
+CGNX,Cognex Corporation ,Technology,Scientific & Technical Instruments
+RENN,Renren Inc. American Depositary ,Technology,Internet Information Providers
+ANET,Arista Networks Inc. Common St,Technology,Diversified Computer Systems
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+RAVN,Raven Industries Inc. ,Technology,Printed Circuit Boards
+WIRE,Encore Wire Corporation ,Technology,Diversified Electronics
+SHOP,Shopify Inc.,Technology,Application Software
+FWDD,AdvisorShares Madrona Forward Domestic ETF,US Equity ETF,

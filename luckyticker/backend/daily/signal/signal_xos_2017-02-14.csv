@@ -1,0 +1,20 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+ACET,Aceto Corporation ,Basic Materials,Chemicals - Major Diversified
+DOG,ProShares Short Dow30 ETF,Commodity Based ETF,
+SH,ProShares Short S&P500 ETF,Commodity Based ETF,
+DXD,ProShares UltraShort Dow30 ETF,Commodity Based ETF,
+SDS,ProShares UltraShort S&P500 ETF,Commodity Based ETF,
+SPXU,ProShares UltraPro Short S&P500 ETF,Commodity Based ETF,
+VSTO,Vista Outdoor Inc. Common,Consumer Goods,Sporting Goods
+TTM, Tata Motors Ltd Tata Motors Lim ,Consumer Goods,Auto Manufacturers - Major
+HAIN, The Hain Celestial Group  Inc. ,Consumer Goods,Processed & Packaged Goods
+BGC,General Cable Corporation Commo ,Industrial Goods,Industrial Electrical Equipment
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+FSAM,Fifth Street Asset Management I,N/A,N/A
+FAZ, Direxion Financial Bear 3X Shar ,N/A,N/A
+CATM,Cardtronics Inc. ,Services,Business Services
+CAB,Cabela's Inc Class A Common Sto ,Services,Sporting Goods Stores
+ECOM,ChannelAdvisor Corporation ,Technology,Application Software
+BBOX,Black Box Corporation ,Technology,Networking & Communication Devices
+YELP, Yelp Inc. Class A Common ,Technology,Internet Information Providers
+WR,Westar Energy Inc. Common Stoc ,Utilities,Diversified Utilities

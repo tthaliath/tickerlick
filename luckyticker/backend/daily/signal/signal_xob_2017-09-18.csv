@@ -1,0 +1,31 @@
+ticker,name,sector,price_date, close_price, macd,stoch,RSI, dma_20_sd, bollinger
+AGU,Agrium Inc. Common ,Basic Materials,Agricultural Chemicals
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates
+MTOR, Meritor  Inc. Common ,Consumer Goods,Auto Parts
+PUB,Peoples Utah Bancorp,Financial,Money Center Banks
+CG, The Carlyle Group L.P. ,Financial,Asset Management
+BRT,BRT Realty Trust Common ,Financial,Mortgage Investment
+PWOD,Penns Woods Bancorp Inc. ,Financial,Regional - Mid-Atlantic Banks
+CQQQ,Guggenheim China Technology ETF,Global Equity ETF,
+EWZS,iShares MSCI Brazil Small Cap Index Fund (EWZS) ETF,Global Equity ETF,
+QDEL,Quidel Corporation ,Healthcare,Diagnostic Substances
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies
+XOMA,XOMA Corporation ,Healthcare,Biotechnology
+SRDX,SurModics Inc. ,Healthcare,Diagnostic Substances
+MTRX,Matrix Service Company ,Industrial Goods,Heavy Construction
+BA,Boeing Company (The) Common Sto ,Industrial Goods,Aerospace/Defense Products & Services
+FELE,Franklin Electric Co. Inc. ,Industrial Goods,Industrial Electrical Equipment
+PLPC,Preformed Line Products Company ,Industrial Goods,Industrial Electrical Equipment
+OFLX,Omega Flex Inc. ,Industrial Goods,Industrial Equipment & Components
+CW,Curtiss-Wright Corporation Comm ,Industrial Goods,Aerospace/Defense Products & Services
+PH,Parker-Hannifin Corporation Com ,Industrial Goods,Industrial Equipment & Components
+ALG,Alamo Group Inc. Common ,Industrial Goods,Farm & Construction Machinery
+SXI,Standex International Corporati ,Industrial Goods,Industrial Equipment & Components
+NRCIA,National Research Corp. ,N/A,N/A
+SGMS,Scientific Games Corp ,Services,Gaming Activities
+ANF,Abercrombie & Fitch Company Com ,Services,Apparel Stores
+PRGS,Progress Software Corporation ,Technology,Application Software
+COHU,Cohu Inc. ,Technology,Semiconductor Equipment & Materials
+BITA,Bitauto Holdings Limited Americ ,Technology,Internet Information Providers
+VMW,Vmware Inc. Common stock Clas ,Technology,Technical & System Software

@@ -1,0 +1,102 @@
+Buy,AWK,American Water Works Company I ,11.8472
+Buy,CL,Colgate-Palmolive Company Commo ,14.2589
+Buy,CMA,Comerica Incorporated Common St ,5.7272
+Buy,CNC,Centene Corporation Common Stoc ,10.7402
+Buy,ETFC,E*TRADE Financial Corporation ,18.1471
+Buy,EXPE,Expedia Inc. ,13.3136
+Buy,FLIR,FLIR Systems Inc. ,12.4998
+Buy,GD,General Dynamics Corporation Co ,9.16093
+Buy,GM,General Motors Company Common S ,2.96259
+Buy,JBHT,J.B. Hunt Transport Services I ,15.357
+Buy,KEY,KeyCorp Common ,16.7949
+Buy,KSS,Kohl's Corporation Common ,14.6283
+Buy,KSU,Kansas City Southern Common Sto ,11.1107
+Buy,M,Macy's Inc Common ,19.5025
+Buy,MDT,Medtronic Inc. Common ,16.5262
+Buy,MET,MetLife Inc. Common ,10.021
+Buy,NEE,NextEra Energy Inc. Common Sto ,19.5756
+Buy,NOC,Northrop Grumman Corporation Co ,4.19008
+Buy,NSC,Norfolk Southern Corporation Co ,12.6982
+Buy,PEG,Public Service Enterprise Group ,15.3202
+Buy,SCG,SCANA Corporation Common ,2.38147
+Buy,ETN, Eaton Corporation Common ,9.29403
+Buy,HBAN, Huntington Bancshares Incorpora ,19.8152
+Buy,HPQ, Hewlett-Packard Company Common  ,10.5577
+Buy,HRB, H&R Block  Inc. Common ,17.7077
+Buy,SYF,Synchrony Financial Common Stoc,16.0497
+Sell,AIG,American International Group I ,83.6702
+Sell,AIV,Apartment Investment and Manage ,81.2486
+Sell,AKAM,Akamai Technologies Inc. ,93.187
+Sell,ALL,Allstate Corporation (The) Comm ,93.5583
+Sell,AMGN,Amgen Inc. ,89.9066
+Sell,AMT,American Tower Corporation (REI ,87.1641
+Sell,AMZN,Amazon.com Inc. ,85.0608
+Sell,AN,AutoNation Inc. Common ,91.9757
+Sell,APA,Apache Corporation Common ,97.443
+Sell,APC,Anadarko Petroleum Corporation  ,89.935
+Sell,ARE,Alexandria Real Estate Equities ,83.774
+Sell,AVB,AvalonBay Communities Inc. Com ,91.1929
+Sell,AXP,American Express Company Common ,82.7344
+Sell,AZO,AutoZone Inc. Common ,80.3033
+Sell,CMCSA,Comcast Corporation ,95.4024
+Sell,CMG,Chipotle Mexican Grill Inc. Co ,93.6676
+Sell,CMS,CMS Energy Corporation Common S ,98.413
+Sell,COG,Cabot Oil & Gas Corporation Com ,95.0761
+Sell,EQT,EQT Corporation Common ,93.3333
+Sell,EXR,Extra Space Storage Inc Common  ,96.6253
+Sell,FE,FirstEnergy Corporation Common  ,98.0713
+Sell,FL,Footlocker Inc. ,88.066
+Sell,FLR,Fluor Corporation Common ,81.6239
+Sell,FLS,Flowserve Corporation Common St ,86.5494
+Sell,GILD,Gilead Sciences Inc. ,95.8954
+Sell,GIS,General Mills Inc. Common Stoc ,98.2902
+Sell,GLW,Corning Incorporated Common Sto ,82.5389
+Sell,GOOG,Alphabet Inc.,83.1373
+Sell,GPN,Global Payments Inc. Common Sto ,95.9118
+Sell,GPS,Gap Inc. (The) Common ,95.758
+Sell,GRMN,Garmin Ltd. ,88.6415
+Sell,INCY,Incyte Corporation ,94.4521
+Sell,INTC,Intel Corporation ,90.2373
+Sell,INTU,Intuit Inc. ,90.0523
+Sell,IRM,Iron Mountain Incorporated (Del ,82.7157
+Sell,IT,Gartner Inc. Common ,96.873
+Sell,ITW,Illinois Tool Works Inc. Common ,84.2361
+Sell,IVZ,Invesco Plc New Common ,88.5183
+Sell,JWN,Nordstrom Inc. Common ,95.3562
+Sell,K,Kellogg Company Common ,90.0629
+Sell,KIM,Kimco Realty Corporation Common ,87.3035
+Sell,L,Loews Corporation Common ,90.4777
+Sell,LB,L.B. Foster Company ,88.5586
+Sell,LEG,Leggett & Platt Incorporated C ,97.2219
+Sell,LH,Laboratory Corporation of Ameri ,97.2226
+Sell,LOW,Lowe's Companies Inc. Common S ,80.4497
+Sell,MAT,Mattel Inc. ,81.401
+Sell,NFLX,Netflix Inc. ,95.0676
+Sell,NFX,Newfield Exploration Company Co ,97.3359
+Sell,NOV,National Oilwell Varco Inc. Co ,82.9373
+Sell,NWS,News Corporation ,83.3333
+Sell,NWSA,News Corporation ,91.6361
+Sell,OKE,ONEOK Inc. Common ,82.3237
+Sell,ORCL,Oracle Corporation ,86.5086
+Sell,PDCO,Patterson Companies Inc. ,97.3479
+Sell,PEP,Pepsico Inc. Common ,91.3707
+Sell,SBUX,Starbucks Corporation ,96.554
+Sell,SHW,Sherwin-Williams Company (The)  ,86.3071
+Sell,SO,Southern Company (The) Common S ,91.2793
+Sell,SPG,Simon Property Group Inc. Comm ,81.654
+Sell,BLK,BlackRock Inc,83.2972
+Sell,EA, Electronic Arts Inc. ,96.6978
+Sell,HAL, Halliburton Company Common Stoc ,81.0898
+Sell,HAS, Hasbro  Inc. ,84.2347
+Sell,HBI, Hanesbrands Inc. Common ,86.5084
+Sell,HCA, HCA Holdings  Inc. Common ,88.9892
+Sell,HCN, Health Care REIT  Inc. Common S ,98.6108
+Sell,HCP, HCP  Inc. Common ,98.8302
+Sell,HD, Home Depot  Inc. (The) Common S ,91.2609
+Sell,HP, Helmerich & Payne  Inc. Common  ,90.6082
+Sell,GOOGL,Alphabet Inc.,95.0808
+Sell,ANTM,Anthem Inc. Common,92.6625
+Sell,KHC,The Kraft Heinz Company,91.0706
+Sell,WRK,WestRock Company,93.2573
+Sell,DXC,DXC Technology Company,89.1464
+Sell,UAA,Under Armour  Inc. Class A,91.0051

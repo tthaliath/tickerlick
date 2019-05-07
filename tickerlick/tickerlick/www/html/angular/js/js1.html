@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First JavaScript</h1>
+
+<p>Click Date to display current day, date, and time.</p>
+
+<button type="button" onclick="myFunction()">Date</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = Date();
+}
+</script>
+
+<h1>My second JavaScript</h1>
+
+<p id="demo2">JavaScript can change the style of an HTML element.</p>
+
+<script>
+function myFunction2() {
+    var x = document.getElementById("demo2");
+    x.style.fontSize = "25px";           
+    x.style.color = "blue"; 
+}
+</script>
+
+<button type="button" onclick="myFunction2()">Click Me!</button>
+
+<p>Please input a number:</p>
+
+<input id="numb" type="text">
+
+<button type="button" onclick="myFunction3()">Click Me!</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction3() {
+    //Get the value of input field with id="numb"
+    var val = document.getElementById("numb").value;
+
+    //Get the element with id="demo"
+    var elem = document.getElementById("demo");
+
+    //If value is space or not a number
+    if ((val.trim() == "") || isNaN(val)) {
+        elem.innerHTML = "Not a Number";
+    } else {
+        elem.innerHTML = "Input OK";
+    }
+}
+</script>
+
+</body>
+</html> 
+

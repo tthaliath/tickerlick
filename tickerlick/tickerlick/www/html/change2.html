@@ -1,0 +1,155 @@
+<!doctype html>
+<!--[if lt IE 7]>
+<html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>
+<html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>
+<html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Demo For: jQuery on change method Examples</title>
+
+    <link rel="stylesheet" href="http://www.theextremewebdesigns.com/blog/wp-content/themes/ewd_blog6/css/try_demo.css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+
+</head>
+<body>
+
+
+<section id="header" class="header">
+    <div class="wrapper">
+        <a href="http://www.theextremewebdesigns.com/blog" class="site-name" title="Extreme Web Designs">
+            Extreme Web Designs        </a>
+
+        <a href="http://www.theextremewebdesigns.com/blog/jquery-on-change-using-on-method-change-event-examples-jquery/" class="back-to-article" title="Go back to the article">Back to article</a>
+    </div>
+    <!--.wrapper-->
+</section>
+
+<div class="wrapper">
+
+    <div class="ad-leaderboard"><div class="ads_google_728_90">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EWD Blog - 728x90 - Text & Image -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7751981170852526"
+     data-ad-slot="2956932675"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+        <div class="ad-vertical"><div class="ads_google_box_160_600">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EWD Blog - 160x600 - Text & Image -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-7751981170852526"
+     data-ad-slot="1257113233"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+    <section id="content" class="content" role="main">
+
+
+        <h1>Demo For: jQuery on change method Examples</h1>
+        <label for="states">States</label>
+<select name="states" id="states">
+<option value="Texas">Texas</option>
+<option value="Alabama">Alabama</option>
+<option value="Illinois">Illinois</option>
+</select>
+
+<div id="selected_value"></div>
+
+<label for="new_state">New State:</label>
+<input type="text" name="new_state" id="new_state" class="new_state">
+
+<script type="text/javascript">
+
+$('#states').on("change", function(){
+
+//Get the selected value
+var selected_value = $("#states option:selected").val();
+
+//1. Alert the selected value
+alert( selected_value );
+
+//2. Write the selected value to our div
+$('#selected_value').html('The new State value is: '+ selected_value);
+
+//3. Write the selected value to our input box with class .new_state
+$('.new_state').val(selected_value);
+
+});
+
+</script>
+    </section>
+
+        <div class="ad-square"><div class="ads_google_box_top_left">
+
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EWD Blog - 300x250 - Top Left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7751981170852526"
+     data-ad-slot="7195582035"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+				</div></div>
+</div>
+<!--.wrapper-->
+
+<!-- End Document
+================================================== -->
+
+
+<!-- Start of StatCounter Code for EWD BLOG Default Guide -->
+<script type="text/javascript">
+var sc_project=7634154; 
+var sc_invisible=1; 
+var sc_security="326ea579"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="tumblr visit
+counter" href="http://statcounter.com/tumblr/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/7634154/0/326ea579/1/"
+alt="tumblr visit counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+<!-- START: Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27909670-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- END: Google Analytics --></body>
+</html>
+

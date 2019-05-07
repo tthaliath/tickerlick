@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html >
+<style>
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+ 
+<div ng-app="myApp" ng-controller="customersCtrl">
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;"> 
+<tr bgcolor="#00FFFF"><th colspan=12>Analyst Coverage</th></tr>
+<tr bgcolor="#00FFFF"><td>ticker</td><td>Name</td><td>sector</td><td>industry</td></tr>
+  <tr ng-repeat="x in names">
+    <td>{{ x.ticker }}</td>
+    <td>{{ x.compname }}</td>
+    <td>{{ x.sector }}</td>
+    <td>{{ x.industry }}</td>
+  </tr>
+</table>
+</div>
+ 
+<script>
+var query =  "SELECT a.ticker,a.comp_name,sector,industry FROM tickermaster a, report b where b.report_flag = 'SS' and b.ticker_id = a.ticker_id order by sector desc";
+var app = angular.module('myApp', []);
+app.controller('customersCtrl', function($scope, $http) {
+   $http.get("http://www.tickerlick.com/angular/signalgen.php?r="+query)
+   .then(function (response) {$scope.names = response.data.records;});
+});
+</script>
+ 
+</body>
+</html>
+

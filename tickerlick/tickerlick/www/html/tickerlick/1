@@ -1,0 +1,168 @@
+74c74
+< <link rel="stylesheet" href="http://tickerlick.com/common/ishtaarnew.css" type="text/css">
+---
+> <link rel="stylesheet" href="http://tickerlick.com/common/ishtaar.css" type="text/css">
+173c173
+<         <td> <button class="greenbutton" value="xos" >Extremely Oversold</button></td>
+---
+>         <td> <button style="font-weight:bold;color:green;" value="xos" >Oversold</button></td>
+175c175
+<         <td>    <button class="redbutton" value="xob" >Extremely Overbought</button>
+---
+>         <td>    <button style="font-weight:bold;color:red" value="xob" >Overbought</button>
+178c178,182
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+> </tr>
+> <?php } ?>
+181c185
+<                <button class="greenbutton" value="mbux" >S&P 500 - MACD Bullish Crossover</button>
+---
+>                <button value="mbux" >S&P 500 - MACD Bullish Crossover</button>
+183,184c187,188
+<         <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=3></td>
+<         <td> <button class="greenbutton" value="osx" >S&P 500 - MACD Oversold (Bullish)</button></td>
+---
+>         <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+>         <td> <button value="osx" >S&P 500 - MACD Oversold (Bullish)</button></td>
+187c191,194
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+>   </tr>
+190c197
+<                 <button value="rsx" class="greenbutton">S&P 500 - RSI Oversold (Bullish)</button>
+---
+>                 <button value="rsx">S&P 500 - RSI Oversold (Bullish)</button>
+192,193c199,200
+<         <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=3></td>
+<         <td>   <button value="ssx" class="greenbutton">S&P 500 - Stochastic Oversold (Bullish)</button>
+---
+>         <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+>         <td>   <button value="ssx">S&P 500 - Stochastic Oversold (Bullish)</button>
+196c203,206
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+> 
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+>   </tr>
+199c209
+<                 <button value="bbux" class="greenbutton">S&P 500 - Bollinger Oversold (Bullish)</button>
+---
+>                 <button value="bbux" >S&P 500 - Bollinger Oversold (Bullish)</button>
+202c212
+<         <td>   <button value="ssrx" class="greenbutton">S&P 500 - Stochastic RSI Oversold (Bullish)</button>
+---
+>         <td>   <button value="ssrx">S&P 500 - Stochastic RSI Oversold (Bullish)</button>
+205,206c215,223
+<         <tr><td height="10" style="line-height:10px; font-size:0px;">&nbsp;</td></tr>
+< <?php } ?>
+---
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+>   </tr>
+>      <td>
+>          <tr>
+>             <td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td>
+>         </tr>
+>      </td>
+>   </tr>
+209c226
+<                <button value="mbu" class="greenbutton">MACD Bullish Crossover</button>
+---
+>                <button value="mbu" >MACD Bullish Crossover</button>
+212c229
+<         <td>    <button value="mbe" class="redbutton" >MACD Bearish Crossover</button>
+---
+>         <td>    <button value="mbe" >MACD Bearish Crossover</button>
+215c232,235
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+> </tr>
+217c237
+<         <td> <button value="os" class="greenbutton">MACD Oversold (Bullish)</button></td>
+---
+>         <td> <button value="os" >MACD Oversold (Bullish)</button></td>
+219c239
+<         <td>    <button value="ob" class="redbutton" >MACD Overbought (Bearish)</button>
+---
+>         <td>    <button value="ob" >MACD Overbought (Bearish)</button>
+222c242,245
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+>   </tr>
+224c247
+<         <td> <button value="bbu" class="greenbutton">Bollinger Oversold (Bullish)</button></td>
+---
+>         <td> <button value="bbu" >Bollinger Oversold (Bullish)</button></td>
+226c249
+<         <td><button value="bbe" class="redbutton">Bollinger Overbought (Bearish)</button>
+---
+>         <td>    <button value="bbe" >Bollinger Overbought (Bearish)</button>
+229c252,255
+<        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+>   </tr>
+232c258
+<                 <button value="rs" class="greenbutton">RSI Oversold (Bullish)</button>
+---
+>                 <button value="rs" >RSI Oversold (Bullish)</button>
+235c261
+<         <td>    <button value="rb" class="redbutton">RSI Overbought (Bearish)</button>
+---
+>         <td>    <button value="rb" >RSI Overbought (Bearish)</button>
+238c264,268
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+> 
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+>   </tr>
+241c271
+<                 <button value="ss"  class="greenbutton">Stochastic Oversold (Bullish)</button>
+---
+>                 <button value="ss" >Stochastic Oversold (Bullish)</button>
+244c274
+<         <td>   <button value="sb" class="redbutton">Stochastic Overbought (Bearish)</button>
+---
+>         <td>    <button value="sb" >Stochastic Overbought (Bearish)</button>
+247c277,281
+<         <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+---
+> 
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+>   </tr>
+250c284
+<                 <button value="ssr" class="greenbutton">Stochastic RSI Oversold (Bullish)</button>
+---
+>                 <button value="ssr" >Stochastic RSI Oversold (Bullish)</button>
+253c287
+<         <td>    <button value="sbr" class="redbutton">Stochastic RSI Overbought (Bearish)</button>
+---
+>         <td>    <button value="sbr" >Stochastic RSI Overbought (Bearish)</button>
+256c290,294
+<         <tr><td height="10" style="line-height:10px; font-size:0px;">&nbsp;</td></tr>
+---
+> 
+>         <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+>         </td>
+> 
+>   </tr>

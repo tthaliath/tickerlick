@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Replace "Microsoft" with "W3Schools" in the paragraph below:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo">Please visit Microsoft!</p>
+
+<script>
+function myFunction() {
+    var str = document.getElementById("demo").innerHTML; 
+    var txt = str.replace("Microsoft","W3Schools3");
+    document.getElementById("demo").innerHTML = txt;
+}
+</script>
+
+<p>Convert string to upper case:</p>
+
+<button onclick="myFunction2()">Try it</button>
+
+<p id="demo2">Hello World!</p>
+
+<script>
+function myFunction2() {
+    var txt = document.getElementById("demo2").innerHTML;
+    document.getElementById("demo2").innerHTML = txt.toUpperCase();
+}
+</script>
+
+
+<p>Convert string to lower case:</p>
+
+<button onclick="myFunction3()">Try it</button>
+
+<p id="demo3">Hello World!</p>
+
+<script>
+function myFunction3() {
+    var txt = document.getElementById("demo3").innerHTML;
+    document.getElementById("demo3").innerHTML = txt.toLowerCase();
+}
+</script>
+</body>
+</html>
+

@@ -1,0 +1,274 @@
+<?PHP
+require_once("./users/include/membersite_config.php");
+$ustat = 1;
+if(!$fgmembersite->CheckLogin())
+{
+   $ustat = 0;
+}
+?>
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6 lt8"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7 lt8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8 lt8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>LuckyTicker - Real time buy and sell signals based on technical indicators</title> 
+<meta name="keywords" lang="en-US" content="luckyticker, tickerlick, MACD, Stochastic, Bollinger, RSI, Oversold, Overbought, Stock Research, Investment Tools,Thomas Thaliath"/>
+<script language="javascript" type="text/javascript">
+function setFocus(){document.f.q.focus();}
+function submitform(obj ) {
+    var l = obj
+           var s = l.q.value.split(" ");
+           l.q.value = s[0];
+	   document.f.action = "/quote";
+	   document.f.submit();
+	   return true;
+
+}
+</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+
+  <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+<script>
+
+  $(function() {
+
+    var cache = {};
+
+    $( "#symbols" ).autocomplete({
+
+      minLength: 2,
+
+      source: function( request, response ) {
+
+        var term = request.term;
+
+        if ( term in cache ) {
+
+          response( cache[ term ] );
+
+          return;
+
+        }
+
+        $.getJSON( "searchsymbol.php", request, function( data, status, xhr ) {
+
+          cache[ term ] = data;
+          response( data );
+
+        });
+
+      },
+
+
+    });
+
+  });
+
+  </script>
+<link rel="stylesheet" href="http://tickerlick.com/common/ishtaarnew.css" type="text/css">
+<link rel="stylesheet" href="http://tickerlick.com/common/tickerlick2.css" type="text/css">
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $.get("php2/gettickerlist.php",
+    {
+      r:$(this).attr("value"),
+    },
+    function(data){
+    $("#div1").html(data)
+    $('html, body').animate({
+           scrollTop: $("#div1").offset().top
+           }, 2000);
+    });
+  });
+});
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link=#0000cc vlink=#551a8b alink=#ff0000>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td>
+ <table align="center" cellspacing="0" cellspadding="0" width="70%" ><tr><td></td><tr><td></td><tr><td></td></tr>
+ <tr  align="right"><td>
+ <div class="ddown">
+ <ul>
+ <li><a href="http://www.luckyticker.com">Home</a></li>
+ <li><a href="http://www.luckyticker.com/aboutus.htm">About LuckyTicker</a></li>
+ <li>My Account<span class="arrow">&#9660;</span>
+   <ul>
+    <?PHP
+    if (!$ustat)
+        {
+           echo '<li><a href="http://www.luckyticker.com/users/login.php">Sign in</a></li>';
+        }
+      ?>
+     <li><a href="http://www.luckyticker.com/users/ma.php">Manage Buy/Sell Signal Alerts</a></li>
+      <?PHP 
+       if ($ustat)
+        {
+           echo '<li><a href="http://www.luckyticker.com/users/change-pwd.php">Change Password</a></li>';
+           echo '<li><a href="http://www.luckyticker.com/users/logout.php">Sign Out</a></li>';
+        }
+      ?>
+   </ul>
+ </li>
+ <li><a href="http://www.luckyticker.com/earnings">Earnings Calendar</a></li>
+ <li><a href="http://www.luckyticker.com/twitter">Search Tweets</a></li>
+ <li><a href="http://www.luckyticker.com/daytrader">Day Trader</a></li>
+ <li><a href="http://www.luckyticker.com/cointrader">Crypto Currency</a></li>
+ <li><a href="http://www.luckyticker.com/contactus.htm">Contact Us</a></li>
+ <li><a href="http://www.luckyticker.com/disclaimer.htm">Disclaimer</a></li>
+</ul>
+</div>
+</td></tr>
+<tr><td>
+<p style="text-align:center"><b><font class="bluetextheader">Live, Real-time buy/sell signals based on technical analysis indicators.<br />Signal data of over 8000 stocks, funds and ETF's are available.<br />Historical signal data for backtesting trading strategies.</font></b></P>
+</TD></TR>
+                                <TR vAlign=top>
+                                <TD colSpan=3><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5>
+								</TD></TR></TABLE>
+  <table align="center">
+  <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+  <tr>
+		<tr>
+        <td height="25" class="companytext" ><font color="#05840C">LUCKY</font><font color="#FA3205">TICKER</font>
+        </td>
+
+  </tr>
+   <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+   </table>
+   <table align="center">
+  <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=1></td></tr>
+   </table>
+
+       <form  name=f METHOD=GET action="/quote">
+
+      <table  align="center">
+
+        <tr>
+          <td height="23" class="bluetext">
+          <div class="ui-widget">
+
+             <label for="symbols">Symbol: </label>
+
+             <input id="symbols" name="q">
+            </div></td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=10></td>
+          <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11></td>
+          <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11></td>
+          <td><button class="greenbutton" onclick="submitform(f)">Search</button></td>
+        </tr>
+        <tr>
+          <td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td>
+        </tr>
+      </table><br>
+</a>
+</form>
+</tr></td></table>
+<div class="nobox"></div>
+<table align="center">
+<tr>
+        <td> <button class="greenbutton" value="xos" >Extremely Oversold</button></td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>    <button class="redbutton" value="xob" >Extremely Overbought</button>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+<tr>
+        <td>
+               <button class="greenbutton" value="mbux" >S&P 500 - MACD Bullish Crossover</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=3></td>
+        <td> <button class="greenbutton" value="osx" >S&P 500 - MACD Oversold (Bullish)</button></td>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+   <tr>
+        <td>
+                <button value="rsx" class="greenbutton">S&P 500 - RSI Oversold (Bullish)</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=3></td>
+        <td>   <button value="ssx" class="greenbutton">S&P 500 - Stochastic Oversold (Bullish)</button>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+   <tr>
+        <td>
+                <button value="bbux" class="greenbutton">S&P 500 - Bollinger Oversold (Bullish)</button>
+        </td>
+         <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>   <button value="ssrx" class="greenbutton">S&P 500 - Stochastic RSI Oversold (Bullish)</button>
+        </td>
+        </tr>
+        <tr><td height="10" style="line-height:10px; font-size:0px;">&nbsp;</td></tr>
+<tr>
+        <td>
+               <button value="mbu" class="greenbutton">MACD Bullish Crossover</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>    <button value="mbe" class="redbutton" >MACD Bearish Crossover</button>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+<tr>
+        <td> <button value="os" class="greenbutton">MACD Oversold (Bullish)</button></td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>    <button value="ob" class="redbutton" >MACD Overbought (Bearish)</button>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+  <tr>
+        <td> <button value="bbu" class="greenbutton">Bollinger Oversold (Bullish)</button></td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td><button value="bbe" class="redbutton">Bollinger Overbought (Bearish)</button>
+        </td>
+        </tr>
+       <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+  <tr>
+        <td>
+                <button value="rs" class="greenbutton">RSI Oversold (Bullish)</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>    <button value="rb" class="redbutton">RSI Overbought (Bearish)</button>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+   <tr>
+        <td>
+                <button value="ss"  class="greenbutton">Stochastic Oversold (Bullish)</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>   <button value="sb" class="redbutton">Stochastic Overbought (Bearish)</button>
+        </td>
+        </tr>
+        <tr><td height="3" style="line-height:0px; font-size:0px;">&nbsp;</td></tr>
+   <tr>
+        <td>
+                <button value="ssr" class="greenbutton">Stochastic RSI Oversold (Bullish)</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>    <button value="sbr" class="redbutton">Stochastic RSI Overbought (Bearish)</button>
+        </td>
+        </tr>
+        <tr><td height="10" style="line-height:10px; font-size:0px;">&nbsp;</td></tr>
+  </table>
+</div>
+<div id="div1"></div>
+<table align="center">
+  <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=20></td></tr>
+                
+	<tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=10></td></tr>
+        <tr></tr><td align="center"><font size=-1>&copy;2012 LuckyTicker - All rights reserved.</font><p></p>
+        </td>
+
+  </tr>
+   <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=10></td></tr>
+   </table>
+</body>
+</html>
+

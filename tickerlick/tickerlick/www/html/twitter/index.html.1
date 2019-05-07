@@ -1,0 +1,87 @@
+<?PHP
+?>
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6 lt8"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7 lt8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8 lt8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>Twitter Crawler Demo</title> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+
+  <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+<link rel="stylesheet" href="http://tickerlick.com/common/ishtaarnew.css" type="text/css">
+<link rel="stylesheet" href="http://tickerlick.com/common/tickerlick2.css" type="text/css">
+<script>
+$(document).ready(function(){
+  $("#searchForm").submit(function( event ) {
+  event.preventDefault();
+    $.post("tweets.php",
+    {
+     screenname:$("#screenname").val(),
+     keyword:$("#keyword").val(),
+    },
+    function(data){
+    $("#div1").html(data)
+  });
+});
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link=#0000cc vlink=#551a8b alink=#ff0000>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td>
+<table align="center">
+  <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=10></td></tr>
+  <tr>
+        <td>
+                <a href="http://www.tickerlick.com">Home</a>
+                <a href="http://www.tickerlick.com/aboutus.htm">About Tickerlick</a>
+                <a href="http://www.tickerlick.com/contactus.htm">Contact Us</a>
+                <a href="http://www.tickerlick.com/disclaimer.htm">Disclaimer</a>
+        </td>
+  </tr>
+  <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=10></td></tr>
+</table>
+</td></tr>
+<tr><td>
+ <table align="center" cellspacing="0" cellspadding="0" width="70%" ><tr><td></td><tr><td></td><tr><td></td></tr>
+ <tr  align="right"><td>
+ <div class="ddown">
+
+       <form  id="searchForm" name=f METHOD=POST action="">
+
+      <table  align="center">
+
+        <tr>
+          <td height="23" class="bluetext">
+          <div class="ui-widget">
+             Twitter Profile Id (for example @elonmusk): <input type="text" id="screenname" name="screenname">
+          </div></td></tr>
+          <tr><td height="23" class="bluetext">
+          <div class="ui-widget">
+             Key Word in tweet text: <input type="text" id="keyword" name="keyword">
+          </div></td></tr>
+          <tr>
+          <td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=10></td>
+          </tr>
+           <tr><td height="23" class="bluetext">
+          <div class="ui-widget">
+             <input type="submit" value="Search" name="submit" id="submit">
+          </div></td></tr> 
+        <tr>
+          <td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td>
+        </tr>
+      </table>
+</form>
+</tr></td></table>
+<div class="nobox"></div>
+</div>
+<div id="div1"></div>
+</body>
+</html>
+

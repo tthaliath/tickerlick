@@ -1,0 +1,75 @@
+AAPL
+EEM
+prevclose	45.09
+wkrange	37.05-45.13
+divyield	1.63
+dma200stat	up
+yearlow	37.05
+dma50diff	1.23
+dma10diffper	0.85
+yearhigh	45.13
+pricediff	0.23
+dma50diffper	2.82
+sector	Global Equity ETF
+difflowstat	up
+name	iShares MSCI Emerging Index Fund ETF
+dma10diff	0.38
+difflow	7.81
+pe	12
+class	ETF
+hash(0x165eb310)	
+dma50stat	up
+perdifflow	21.08
+pricestat	down
+dma10	44.477
+dma200diffper	8.1
+dma200	41.5011
+dma50	43.6306
+dma200diff	3.36
+diffhighstat	down
+vol	26,519,045
+nav	44.70
+lasttrade	44.86
+pricediffper	0.51
+industry	
+ticker	EEM
+diffhigh	0.27
+dma10stat	up
+perdiffhigh	0.6
+ticker	Ticker
+no data	no data
+divyield	DivYield
+wkrange	wkRange
+dma200stat	dma200stat
+nav	Nav
+dma50diff	dma50diff
+dma10diffper	dma10diffper
+pricediff	pricediff
+prevclose	PrevClose
+dma50diffper	dma50diffper
+sector	sector
+difflowstat	difflowstat
+name	name
+dma10diff	dma10diff
+difflow	difflow
+lasttrade	LastTrade
+class	class
+dma50stat	dma50stat
+perdifflow	perdifflow
+yearlow	YearLow
+dma10	dma10
+dma200diffper	dma200diffper
+dma200	dma200
+dma50	dma50
+dma200diff	dma200diff
+yearhigh	YearHigh
+pricestat	PriceStat
+diffhighstat	diffhighstat
+vol	vol
+pricediffper	pricediffper
+industry	industry
+diffhigh	diffhigh
+dma10stat	dma10stat
+perdiffhigh	perdiffhigh
+hash(0x165eb310)	HASH(0x165eb310)
+pe	PE

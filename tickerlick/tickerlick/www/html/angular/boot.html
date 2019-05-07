@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<head>
+      <title>Manual boostrapping both modules</title>
+</head>
+
+<body>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+       <!-- using id attribute instead of ng-app -->
+       <div id="firstApp">
+              <div ng-controller="FirstController">
+                     <p>1# {{ name }}</p>
+              </div>
+       </div>
+
+<script type="text/javascript">
+       var firstApp = angular.module('firstApp', []);
+       firstApp.controller('FirstController', function($scope) {
+
+              $scope.name = "I'm the first app.";
+       });
+
+
+       var firstDiv = document.getElementById('firstApp');
+
+       // manually boostrapping the second app
+       angular.element(document).ready(function() {
+              angular.bootstrap(firstDiv, [ 'firstApp' ]);
+       });
+</script>
+<!-- using id attribute instead of ng-app -->
+       <div id="secondApp">
+              <div ng-controller="SecondController">
+                     <p>2# {{ name }}</p>
+              </div>
+       </div>
+
+<script type="text/javascript">
+       var secondApp = angular.module('secondApp', []);
+       secondApp.controller('SecondController', function($scope) {
+
+              $scope.name = "I'm the second app.";
+       });
+
+       var secondDiv = document.getElementById('secondApp');
+
+       // manually boostrapping the second app
+       angular.element(document).ready(function() {
+              angular.bootstrap(secondDiv, [ 'secondApp' ]);
+       });
+</script>
+</body>
+</html>

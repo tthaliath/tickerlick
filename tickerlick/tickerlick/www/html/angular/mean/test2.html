@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script>
+var myController = function($scope) {
+  $scope.items = ["one", "two", "three"];
+  };
+  var app = angular.module('myApp', []);
+  app.controller('myController',myController);
+</script>
+  <meta charset="utf-8">
+  <title>Angular binding test</title>
+</head>
+<body ng-controller="myController">
+  <ul>
+    <li ng-repeat="item in items">{{ item }}</li>
+  </ul>
+</body>
+</html>

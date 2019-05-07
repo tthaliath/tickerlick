@@ -1,0 +1,345 @@
+ticker,companyname,sector,industry,closeprice,dma10,dma50,dma200
+ABC,AmerisourceBergen Corporation ( ,Services,Drugs Wholesale,65.18,64.429,66.177,64.8622
+ACHN,Achillion Pharmaceuticals Inc. ,Healthcare,Biotechnology,2.85,2.854,3.2324,4.1832
+ACWX,iShares MSCI ACWI ex US Index Fund ETF,Global Equity ETF,,47.35,47.028,46.261,45.2321
+AED,AEGON N.V. Perp. Cap. Securitie ,NULL,NULL,25.44,25.313,25.1848,24.2386
+AERI,Aerie Pharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major,15.66,15.574,19.8502,
+AET,Aetna Inc. Common ,Healthcare,Health Care Plans,71.45,69.964,72.4368,67.327
+AGD, Alpine Global Dynamic Dividend  ,Financial,Closed-End Fund - Foreign,10.06,9.983,9.9322,6.58325
+AGNCP, American Capital Agency Corp. ,N/A,N/A,26.15,25.936,26.1316,25.57
+AGZ,iShares Barclays Agency Bond Fund ETF,Fixed Income ETF,,112.15,111.917,111.738,111.236
+AHC,A.H. Belo Corporation Common St ,Services,Publishing - Newspapers,11.51,11.326,11.5266,8.6496
+AIRT,Air T Inc. ,Services,Air Delivery & Freight Services,12.22,12.083,12.2592,11.3851
+AIY,Apollo Investment Corporation ,N/A,N/A,24.33,23.968,23.8168,22.1019
+AJG,Arthur J. Gallagher & Co. Commo ,Financial,Insurance Brokers,45.02,44.899,46.044,45.6725
+ALB,Albemarle Corporation Common St ,Basic Materials,Specialty Chemicals,67.04,66.731,65.5448,64.9035
+AMIC,American Independence Corp. ,Financial,Accident & Health Insurance,10.93,10.935,11.3874,10.4739
+AMRE, AmREIT  Inc. Class B COmmon sto ,Financial,Property Management,16.66,16.431,16.6878,17.0602
+AMRS,Amyris Inc. ,Healthcare,Biotechnology,3.52,3.472,3.9272,3.277
+AMSF,AMERISAFE Inc. ,Financial,Property & Casualty Insurance,42.65,41.747,42.5122,39.3345
+AMTG, Apollo Residential Mortgage  In ,Financial,REIT - Residential,16.15,15.929,16.4972,15.6196
+AMX,America Movil S.A.B. de C.V. A ,Technology,Wireless Communications,20.08,19.721,19.9036,20.9267
+AOL,AOL Inc. AOL Inc. Common ,Technology,Internet Information Providers,42.81,42.843,43.1584,40.82
+APAM,Artisan Partners Asset Management Inc. ,Financial,Asset Management,58.07,57.121,61.4614,58.4781
+APSA,Alto Palermo S.A. ,Financial,Property Management,19.64,18.827,17.5796,19.483
+ARRS,Arris Group Inc ,Technology,Communication Equipment,26.09,26.21,27.8816,21.5018
+ARSD,Arabian American Development Co ,Basic Materials,Chemicals - Major Diversified,10.93,11.019,11.5764,10.337
+ARY, Ares Capital Corporation 7.75%  ,N/A,N/A,26.79,26.432,26.3142,25.7241
+ATOS,Atossa Genetics Inc. ,Healthcare,Diagnostic Substances,1.23,1.272,1.736,2.91805
+ATRI,ATRION Corporation ,Healthcare,Medical Instruments & Supplies,288.33,288.669,297.232,272.721
+ATV,Acorn International Inc. ADS ,Services,Catalog & Mail Order Houses,2.01,1.565,1.6522,1.8599
+ATVI,Activision Blizzard Inc ,Technology,Multimedia & Graphics Software,20.01,19.642,20.0122,17.909
+AWP, Alpine Global Premier Propertie ,N/A,N/A,7.12,7.097,7.0784,7.1499
+AXE,Anixter International Inc. Comm ,Services,Industrial Equipment Wholesale,97.98,96.957,101.187,90.7318
+AZPN,Aspen Technology Inc. ,Technology,Business Software & Services,42.99,39.839,43.4194,38.8737
+BAB,PowerShares Build America Bond Portfolio ETF,Fixed Income ETF,,29.02,28.896,28.682,27.8209
+BBX,BankAtlantic Bancorp Inc. New  ,Financial,Savings & Loans,18.73,17.562,18.9076,15.2255
+BCOV,Brightcove Inc. ,Technology,Application Software,8.62,8.48,9.6042,11.415
+BCRX,BioCryst Pharmaceuticals Inc. ,Healthcare,Biotechnology,8.59,8.463,10.317,7.71795
+BDCS, UBS AG Exchange Traded Access S ,N/A,N/A,25.04,25.165,25.9684,26.1542
+BERK,Berkshire Bancorp Inc. ,Financial,Regional - Northeast Banks,7.35,7.257,7.2152,7.55265
+BGS,B&G Foods Inc. B&G Foods Inc. ,Consumer Goods,Processed & Packaged Goods,32.8,31.937,30.7682,33.2929
+BIND,BIND Therapeutics Inc. ,Healthcare,Biotechnology,9.43,9.588,11.803,
+BIV,Vanguard Intermediate-Term Bond ETF,Fixed Income ETF,,83.92,83.648,83.4794,83.205
+BKLN,PowerShares Exchange-Traded Fund ETF,Fixed Income ETF,,24.74,24.676,24.789,24.8148
+BKSC, Bank of South Carolina Corp. ,Financial,Regional - Mid-Atlantic Banks,15.41,15.086,15.0732,14.8385
+BNFT,Benefitfocus Inc. ,Technology,Application Software,32.4,34.863,50.4774,
+BPOPM, Popular  Inc. ,N/A,N/A,21.25,20.674,20.3018,19.8031
+BSFT,BroadSoft Inc. ,Technology,Application Software,25.38,25.175,27.6126,29.8817
+BWEN,Broadwind Energy Inc. ,Industrial Goods,Diversified Machinery,13.49,12.316,10.9536,8.336
+BWLD,Buffalo Wild Wings Inc. ,Services,Restaurants,146.12,139.921,144.098,130.477
+BWZ,SPDR Barclays Capital Short Term International Treasury Bond ETF,Fixed Income ETF,,36.36,36.222,36.0956,35.8351
+CACQ,Caesars Acquisition Company ,Services,Resorts & Casinos,12.6,12.779,14.1084,
+CALI,China Auto Logistics Inc. ,Services,Auto Parts Wholesale,2.63,2.645,3.5948,3.174
+CANE, Teucrium Sugar Fund ETV ,N/A,N/A,15.2,15.001,14.8768,14.5847
+CBL,CBL & Associates Properties In ,Financial,REIT - Retail,18.17,17.88,17.6882,18.8573
+CEMB,iShares Emerging Markets Corporate Bond ETF,Fixed Income ETF,,50.6,50.275,49.803,49.1424
+CETV,Central European Media Enterpri ,Services,Broadcasting - TV,2.74,2.668,3.2002,3.6575
+CFT,iShares Barclays Credit Bond Fund ETF,Fixed Income ETF,,110.51,110.229,109.515,107.897
+CHL,China Mobile Limited Common Sto ,Technology,Wireless Communications,47.43,46.119,46.065,51.1084
+CHSCP, CHS Inc ,N/A,N/A,31.47,30.668,30.098,30.3625
+CIU,iShares Barclays Intermediate Credit Bond Fund ETF,Fixed Income ETF,,109.57,109.355,109.111,108.319
+CLR,Continental Resources Inc. Com ,Basic Materials,Independent Oil & Gas,138.52,134.984,124.493,110.35
+CLVS, Clovis Oncology  Inc. ,Healthcare,Biotechnology,54.07,53.957,70.9244,65.0526
+CLW,Clearwater Paper Corporation Co ,Consumer Goods,Paper & Paper Products,61.39,61.055,62.5762,54.0103
+CM,Canadian Imperial Bank of Comme ,Financial,Money Center Banks,89.25,87.502,85.6086,81.9277
+CMD,ProShares UltraShort DJ-UBS Commodity ETF,Commodity Based ETF,,51.48,51.826,54.2758,59.2163
+CNPF, Global Canada Preferred ETF ,N/A,N/A,12.45,12.244,12.1228,12.5773
+CNSL,Consolidated Communications Hol ,Technology,Telecom Services - Domestic,19.92,19.579,19.6152,18.6657
+COLM,Columbia Sportswear Company ,Consumer Goods,Textile - Apparel Clothing,85.98,81.851,82.6176,70.7124
+COMM,CommScope Holding Company Inc. ,Technology,Communication Equipment,26.68,25.123,23.674,
+COV,Covidien plc. Ordinary Shares ( ,Healthcare,Medical Instruments & Supplies,71.25,70.35,70.9454,66.0962
+CPLP,Capital Product Partners L.P. ,Services,Shipping,11,10.82,10.7558,9.733
+CPSI,Computer Programs and Systems  ,Technology,Healthcare Information Services,63.13,61.771,65.2244,60.7329
+CSFL,CenterState Banks Inc. ,Financial,Regional - Southeast Banks,10.97,10.78,10.8516,10.2799
+CUT,Guggenheim Timber ETF,Global Equity ETF,,24.66,24.527,25.2126,24.7509
+CVGI,Commercial Vehicle Group Inc. ,Services,Auto Parts Wholesale,9.71,9.3,8.9866,7.9536
+CVO,Cenveo Inc ,Services,Business Services,3.09,3.084,3.2092,3.06155
+CYAN,Cyanotech Corporation ,Healthcare,Drug Related Products,4.98,5.006,5.4434,5.36275
+DDC,Dominion Diamond Corporation ,Basic Materials,Nonmetallic Mineral Mining,12.59,12.485,13.527,13.568
+DDE,Dover Downs Gaming & Entertainm ,Services,Gaming Activities,1.45,1.428,1.5308,1.48485
+DEL,Deltic Timber Corporation Commo ,Industrial Goods,Lumber Wood Production,60.75,60.386,63.3852,63.4513
+DF,Dean Foods Company Common ,Consumer Goods,Dairy Products,15.84,15.695,15.181,16.0662
+DFT,Dupont Fabros Technology Inc.  ,Financial,Property Management,24.23,24.087,24.674,24.3829
+DHX,Dice Holdings Inc. Common Stoc ,Services,Staffing & Outsourcing Services,7.65,7.19,7.2108,7.7638
+DOD, Deutsche Bank AG ELEMENTS Dogs  ,N/A,N/A,14.4,14.339,13.984,13.3525
+DOVR,Dover Saddlery Inc. ,Services,Sporting Goods Stores,5.56,5.46,5.457,4.86885
+DOW,Dow Chemical Company (The) Comm ,Conglomerates,Conglomerates,49.9,48.791,48.7308,42.2931
+DPM,DCP Midstream Partners LP DCP  ,Basic Materials,Oil & Gas Pipelines,53.5,52.158,50.4582,49.3944
+DSLV, VelocityShares 3x Inverse Silve ,N/A,N/A,51.04,48.532,43.409,47.5199
+DTV,DIRECTV ,Services,CATV Systems,77.6,76.57,76.5494,67.4041
+DTYL, iPath US Treasury 10 Yr Bull ET ,N/A,N/A,68.26,67.827,67.8362,66.7284
+DUA, Deutsche Bank Cap Fdg Tr VIII 6 ,N/A,N/A,25.43,25.213,25.245,24.6474
+DVD,Dover Motorsports Inc. Common  ,Services,Sporting Activities,2.34,2.266,2.3116,2.3881
+DWAS, PowerShares DWA SmallCap Techni ,N/A,N/A,36.29,36.603,38.854,37.6554
+DWCH,Datawatch Corporation ,Technology,Business Software & Services,13.53,13.692,25.4354,28.1942
+DWRE,DEMANDWARE INC. Common ,NULL,NULL,49.63,52.039,65.1224,56.8814
+DXLG,Destination XL Group Inc. ,Services,Apparel Stores,5.4,5.336,5.5426,6.1321
+EBSB,Meridian Interstate Bancorp In ,Financial,Savings & Loans,25.27,24.889,25.5754,22.7544
+ENGN,iShares Industrials Sector Bond ETF,Fixed Income ETF,,49.88,49.691,49.2,47.9081
+ENR,Energizer Holdings Inc. Common ,Consumer Goods,Personal Products,111.69,99.736,97.3596,100.104
+ENVI, Envivio  Inc. ,Technology,Communication Equipment,2.66,2.723,3.214,3.0817
+EOPN, E2open  Inc. ,Technology,Application Software,17.27,17.714,23.3068,22.4869
+EPOL,iShares MSCI Poland Investable Market Index Fund ETF,Global Equity ETF,,30.32,29.944,29.787,29.2763
+EQS,Equus Total Return Inc. Common ,Financial,Diversified Investments,2.1,2.056,1.9484,1.92045
+ERH, Wells Fargo Advantage Utilities ,N/A,N/A,12.87,12.683,12.4684,12.1074
+ERII,Energy Recovery Inc. ,Industrial Goods,Pollution & Treatment Controls,5.11,5,5.1712,5.27915
+EWP,iShares MSCI Spain Index Fund ETF,Global Equity ETF,,41.97,41.497,40.4384,36.81
+EWUS,iShares MSCI United Kingdom Small Cap,Global Equity ETF,,42.35,42.216,43.0838,39.9384
+FAD,First Trust Multi CG AlphaDEX ETF,US Equity ETF,,44.41,44.435,45.3016,42.8634
+FAN,First Trust ISE Global Wind Energy ETF,Global Equity ETF,,12.22,12.093,12.0718,11.0493
+FB, Facebook  Inc. ,Technology,Internet Information Providers,59.78,59.694,64.2908,52.12
+FBNK, First Connecticut Bancorp  Inc. ,Financial,Money Center Banks,15.85,15.801,15.8222,15.3712
+FBRC, FBR & Co ,Financial,Asset Management,25.8,25.532,25.6328,26.7945
+FCCO,First Community Corporation ,Financial,Regional - Southwest  Banks,11.17,10.996,11.028,10.5566
+FCT, First Trust Senior Floating Rat ,N/A,N/A,14.02,13.96,14.2096,14.6016
+FDS,FactSet Research Systems Inc. C ,Technology,Information & Delivery Services,106.5,105.409,105.774,108.148
+FDT,First Trust Developed Markets Ex-US AlphaDEX ETF,Global Equity ETF,,51.97,51.803,51.7258,50.08
+FFKT,Farmers Capital Bank Corporatio ,Financial,Regional - Southeast Banks,20.89,20.343,20.7886,21.4172
+FINZ,ProShares UltraPro Short Financials,Commodity Based ETF,,36.03,35.633,35.7568,43.0962
+FIVZ,PIMCO 3-7 Year U.S. Treasury Index Fund ETF,Fixed Income ETF,,79.06,78.957,79.0636,79.1739
+FLAT, iPath US Treasury Flattener ETN ,N/A,N/A,57.52,57.179,57.4498,57.0638
+FLO,Flowers Foods Inc. Common Stoc ,Consumer Goods,Processed & Packaged Goods,20.52,20.368,20.5848,21.7691
+FMC,FMC Corporation Common ,Basic Materials,Chemicals - Major Diversified,77,76.408,76.9432,72.3583
+FNK,First Trust Mid Cap Value AlphaDEX ETF,US Equity ETF,,30.35,30.241,30.083,28.4009
+FOSL,Fossil Inc. ,Consumer Goods,Recreational Goods Other,106.65,107.643,113.692,117.697
+FRX,Forest Laboratories Inc. Class ,Healthcare,Drug Manufacturers - Other,91.91,90.736,93.062,61.8071
+FVI,First Trust VL Equity Allocation ETF,US Equity ETF,,25.99,25.939,25.8846,24.7058
+FXF, Rydex CurrencyShares Swiss Fran ,N/A,N/A,111.19,110.867,110.894,108.4
+FXR,First Trust Industrials AlphaDEX ETF,US Equity ETF,,29.53,29.413,29.184,26.8794
+FXU,First Trust Utilities AlphaDEX® Fund ETF,US Equity ETF,,22.97,22.705,21.8996,20.7358
+GASX, Direxion Daily Natural Gas Rela ,N/A,N/A,14.83,15.211,20.2004,23.8694
+GHI, Global High Income Fund  Inc. C ,N/A,N/A,10.13,10.02,9.8142,10.0324
+GJV, Synthetic Fixed-Income Securiti ,N/A,N/A,25.73,25.59,25.4812,25.1549
+GLT,Glatfelter Common ,Consumer Goods,Paper & Paper Products,25.52,25.222,27.6664,27.4979
+GNMK,GenMark Diagnostics Inc. ,Healthcare,Medical Appliances & Equipment,8.95,9.123,10.7608,11.5816
+GNVC,GenVec Inc. ,Healthcare,Biotechnology,2.48,2.529,2.9598,1.95725
+GOVT,iShares Barclays U.S. Treasury Bond ETF,Fixed Income ETF,,24.69,24.635,24.5818,24.4874
+GPC,Genuine Parts Company Common St ,Services,Auto Parts Wholesale,87.12,86.717,86.2434,82.4905
+GPIC,Gaming Partners International C ,Consumer Goods,Toys & Games,8.33,8.298,8.9384,8.4124
+GSY, Guggenheim Enhanced Short Durat ,N/A,N/A,50.29,50.277,50.2638,50.2066
+GVI,iShares Barclays Intermediate Government/Credit Bond Fund ETF,Fixed Income ETF,,110.53,110.276,110.239,109.936
+H, Hyatt Hotels Corporation Class  ,Services,Lodging,56.28,54.302,53.4342,48.2444
+HAYN, Haynes International  Inc. ,Basic Materials,Steel & Iron,53.05,52.763,51.6282,50.4831
+HBCP, Home Bancorp  Inc. ,Financial,Savings & Loans,20.25,20.137,20.5956,19.0881
+HCN, Health Care REIT  Inc. Common S ,Financial,REIT - Healthcare Facilities,63.09,62.417,59.7964,60.0325
+HEB, Hemispherx BioPharma  Inc. Comm ,Healthcare,Biotechnology,0.33,0.335,0.3862,0.2976
+HEDJ,WisdomTree International Hedged Equity Fund ETF,Global Equity ETF,,57.52,57.214,56.0404,54.223
+HMSY, HMS Holdings Corp ,Services,Business Services,16.17,16.242,18.852,21.9785
+HOLL, Hollywood Media Corp. ,Services,Specialty Retail  Other,1.25,1.254,1.3362,1.47715
+HOLX, Hologic  Inc. ,Healthcare,Medical Appliances & Equipment,20.99,20.737,21.4178,21.7005
+HPY, Heartland Payment Systems  Inc. ,Services,Business Services,40.94,39.216,40.9548,41.6529
+HRB, H&R Block  Inc. Common ,Services,Personal Services,28.42,28.097,29.7186,29.1075
+HRC, Hill-Rom Holdings Inc Common St ,Healthcare,Medical Instruments & Supplies,37.36,37.017,37.6996,38.1538
+HSEA,HSBC Holdings plc ,N/A,N/A,26.17,25.989,26.0062,25.4025
+HT, Hersha Hospitality Trust Class  ,Financial,REIT - Retail,5.81,5.768,5.722,5.62905
+HTA, Healthcare Trust of America  In ,Financial,REIT - Healthcare Facilities,11.69,11.62,11.362,10.8254
+HUM, Humana Inc. Common ,Healthcare,Health Care Plans,109.75,108.044,110.713,99.7051
+HYL, Structured Products Corp 6.00 C ,N/A,N/A,24.75,24.7,24.552,24.3535
+HZNP, Horizon Pharma  Inc. ,Healthcare,Drug Manufacturers - Major,14.18,13.952,13.7934,7.3166
+IDIX, Idenix Pharmaceuticals  Inc. ,Healthcare,Biotechnology,5.51,5.444,6.334,5.40815
+IEF,iShares Barclays 7-10 Year Treasury Bond Fund ETF,Fixed Income ETF,,102.31,102.001,101.928,101.406
+IEI,iShares Barclays 3-7 Year Treasury Bond Fund ETF,Fixed Income ETF,,121.18,120.862,121.049,120.926
+IGS,ProShares Short Investment Grade Corporate ETF,Fixed Income ETF,,30.28,30.327,30.6154,31.8867
+IGV,iShares Goldman Sachs Software Index Fund ETF,US Equity ETF,,79.33,79.804,83.2278,78.8971
+IHS, IHS Inc. IHS Inc. Class A Commo ,Technology,Information & Delivery Services,120.63,119.698,120.288,114.704
+IHT,Innsuites Hospitality Trust ,Financial,REIT - Hotel/Motel,1.97,1.896,1.863,1.6838
+IHY,Market Vectors Intl High Yield Bond ETF,Fixed Income ETF,,27.8,27.69,27.5516,27.0012
+IKNX, Ikonics Corporation ,Basic Materials,Specialty Chemicals,28.1,26.192,25.069,18.8479
+IMMR, Immersion Corporation ,Technology,Computer Peripherals,11.34,10.765,10.8682,12.1855
+ING,ING Group N.V. Common ,NULL,NULL,14.3,13.947,14.082,12.8067
+INGR, Ingredion Incorporated Common S ,Consumer Goods,Processed & Packaged Goods,70.45,68.073,67.0258,66.322
+INSM,Insmed Inc. ,Healthcare,Biotechnology,13.94,13.682,17.1634,15.7935
+IOT,Income Opportunity Realty Trust ,Financial,Real Estate Development,6.84,6.383,6.2464,5.29905
+ISD, Prudential Short Duration High  ,N/A,N/A,18.07,17.854,17.8962,17.8005
+ITB,iShares Dow Jones U.S. Home Construction Index Fund ETF,US Equity ETF,,23.39,23.515,24.5284,23.1852
+ITE,SPDR Barclays Capital Intermediate Term Treasury ETF,Fixed Income ETF,,59.46,59.391,59.4408,59.4695
+IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,US Equity ETF,,91.35,91.437,93.0498,88.8642
+IWO,iShares Russell 2000 Growth ETF,US Equity ETF,,129.09,130.119,135.861,129.66
+IXG,iShares S&P Global Financial Index Fund ETF,Global Equity ETF,,56.58,56.306,55.9274,54.3503
+IYM,iShares Dow Jones U.S. Basic Materials Index ETF,US Equity ETF,,83.91,83.536,82.9268,77.7355
+JOEZ,Joe's Jeans Inc. ,Consumer Goods,Textile - Apparel Clothing,1.05,1.063,1.235,1.1897
+JZJ, Lehman ABS Corporation 7.125% C ,N/A,N/A,26.65,26.375,26.1874,25.8236
+KERX,Keryx Biopharmaceuticals Inc. ,Healthcare,Drug Manufacturers - Major,14.77,14.03,15.3322,12.387
+KMB,Kimberly-Clark Corporation Comm ,Consumer Goods,Personal Products,112.25,110.586,110.041,103.807
+KRC,Kilroy Realty Corporation Commo ,Financial,REIT - Office,59.57,59.027,58.2424,53.2014
+KUTV,Ku6 Media Co. Ltd. ,Services,Entertainment - Diversified,1.82,1.795,2.7186,2.40225
+LBF, DSW Global High Income Fund  In ,N/A,N/A,8.22,8.189,8.1546,8.04375
+LBIX,Leading Brands Inc ,Consumer Goods,Beverages - Soft Drinks,4.03,3.954,3.9694,4.34515
+LDL,Lydall Inc. Common ,Conglomerates,Conglomerates,23.41,22.762,21.9382,18.178
+LG,Laclede Gas Company Common Stoc ,Utilities,Gas Utilities,47.41,46.703,46.272,45.6459
+LGI, Lazard Global Total Return and  ,Financial,Closed-End Fund - Foreign,17.96,17.842,17.315,16.9761
+LIVE,LiveDeal Inc. ,Technology,Internet Information Providers,4.44,4.662,6.7994,5.7102
+LOGM,LogMein Inc. ,Technology,Application Software,45.45,40.725,42.9244,34.4297
+LOOK,LookSmart Ltd. ,Technology,Internet Information Providers,1.67,1.705,2.0532,1.5536
+LRN,K12 Inc Common ,Services,Education & Training Services,23.68,22.302,21.9502,24.5075
+LVL,Guggenheim S&P Global Dividend Opportunities Index ETF,Global Equity ETF,,13.85,13.737,13.3928,13.0373
+LVLT,Level 3 Communications Inc. Co ,Technology,Diversified Communication Services,43.03,38.223,38.1842,30.7224
+MANH,Manhattan Associates Inc. ,Technology,Application Software,31.53,32.76,35.7364,76.8815
+MAR,Marriot International Common St ,Services,Lodging,57.93,56.833,55.1144,47.44
+MASI,Masimo Corporation ,Healthcare,Medical Appliances & Equipment,26.76,26.631,27.0036,27.22
+MATL, Direxion Daily Basic Materials  ,N/A,N/A,58.67,58.169,57.0172,47.4917
+MAV, Pioneer Municipal High Income A ,Financial,Closed-End Fund - Debt,14.92,14.789,14.5032,13.5887
+MBT,Mobile TeleSystems Common ,Technology,Wireless Communications,16.76,16.608,16.698,19.8832
+MCZ,Mad Catz Interactive Inc Common ,Technology,Computer Peripherals,0.63,0.562,0.5108,0.5687
+MDC,M.D.C. Holdings Inc. Common St ,Industrial Goods,Residential Construction,27.6,27.632,28.681,29.6352
+MDYG,SPDR S&P 400 Mid Cap Growth ETF (MDYG) ETF,US Equity ETF,,110.64,110.621,112.703,107.525
+MEIL,Methes Energies International Ltd. ,Basic Materials,Chemicals - Major Diversified,2.44,2.432,2.8948,2.7336
+MFC,Manulife Financial Corporation  ,Financial,Life Insurance,18.75,18.666,18.9842,18.2829
+MFG,Mizuho Financial Group Inc. Sp ,Financial,Money Center Banks,3.91,3.894,3.9954,4.20105
+MHGC,Morgans Hotel Group Co. ,Services,Lodging,7.5,7.38,7.7758,7.53695
+MHNA, Maiden Holdings North America L ,N/A,N/A,26.17,25.954,25.6124,25.3866
+MSFT,Microsoft Corporation ,Technology,Application Software,40.4,40.158,39.269,36.0737
+MSI, Motorola Solutions  Inc. Common ,Technology,Communication Equipment,63.58,63.06,64.8012,62.4907
+MWO, Morgan Stanley Cap Tr V Gtd Cap ,N/A,N/A,25.16,24.96,24.5776,23.8454
+MXI,iShares S&P Global Materials Sector Index Fund ETF,Global Equity ETF,,63.67,63.103,62.4378,60.506
+MYGN,Myriad Genetics Inc. ,Services,Research Services,42.21,39.428,37.2204,29.2781
+NATI,National Instruments Corporatio ,Technology,Technical & System Software,27.31,27.26,28.5646,29.7449
+NEOG,Neogen Corporation ,Healthcare,Diagnostic Substances,41.78,42.247,43.9054,50.5033
+NEWL,NewLead Holdings Ltd. ,Services,Shipping,0.11,0.178,1.315,0.8504
+NFO,Guggenheim Insider Sentiment ETF,US Equity ETF,,46.97,47.014,47.2602,45.0017
+NJR,NewJersey Resources Corporation ,Utilities,Gas Utilities,49.73,49.185,47.6308,45.4535
+NOC,Northrop Grumman Corporation Co ,Industrial Goods,Aerospace/Defense - Major Diversified,121.51,120.551,121.199,108.242
+NOK,Nokia Corporation Sponsored Ame ,Technology,Communication Equipment,7.5,7.337,7.4848,6.76335
+NOW,ServiceNow Inc. Common ,Technology,Information Technology Services,49.72,51.042,60.2284,54.2508
+NPD,China Nepstar Chain Drugstore L ,Services,Drug Stores,2.53,2.343,2.5908,2.00325
+OBCI,Ocean Bio-Chem Inc. ,Consumer Goods,Cleaning Products,2.76,2.759,2.948,2.68735
+OEH,Orient-Express Hotels Ltd. Comm ,Services,Lodging,13.1,13.04,14.0064,13.8195
+OFG,Oriental Financial Group Inc.  ,Financial,Money Center Banks,17.06,16.777,16.716,16.6525
+OKS,ONEOK Partners L.P. Common Sto ,Basic Materials,Oil & Gas Pipelines,56.99,56.488,54.5174,52.6425
+OMEX,Odyssey Marine Exploration Inc ,Services,Research Services,2.19,2.122,2.2142,2.4675
+OPXA,Opexa Therapeutics Inc. ,Healthcare,Biotechnology,1.6,1.566,1.7656,1.78505
+ORAN,Orange ,Technology,Telecom Services - Foreign,16.1,15.209,14.2018,12.3733
+PAGG,PowerShares Global Agriculture Portfolio ETF,Global Equity ETF,,30.83,30.512,30.0794,29.2603
+PBI,Pitney Bowes Inc. Common ,Consumer Goods,Business Equipment,26.8,25.421,25.5644,21.5772
+PBS,PowerShares Dynamic Media ETF,US Equity ETF,,23.81,24.015,25.1424,24.2873
+PBT,Permian Basin Royalty Trust Com ,Basic Materials,Independent Oil & Gas,13.41,13.303,13.1806,13.573
+PCM, PCM Fund  Inc. Common ,N/A,N/A,12.12,12.044,12.1206,11.6474
+PDS,Precision Drilling Corporation  ,Basic Materials,Oil & Gas Equipment & Services,13,12.747,11.5894,10.2393
+PES, Pioneer Energy Services Corp. C ,Basic Materials,Oil & Gas Drilling & Exploration,14.97,14.013,12.451,8.9035
+PETS,PetMed Express Inc. ,Healthcare,Drug Delivery,13.09,13.045,13.3106,14.9178
+PEZ,PowerShares Dynamic Consumer Discretionary ETF,US Equity ETF,,39.69,39.934,41.0898,40.125
+PF,Pinnacle Foods Inc. ,Consumer Goods,Food - Major Diversified,30.4,30.019,29.1374,27.3332
+PFBI,Premier Financial Bancorp Inc. ,Financial,Regional - Southeast Banks,14.3,14.268,14.2484,13.3078
+PFI,PowerShares Dynamic Financial ETF,US Equity ETF,,27.68,27.698,28.311,27.4499
+PFIG,PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF,Fixed Income ETF,,25.36,25.293,25.2616,25.0005
+PHB,PowerShares Fundamental High Yield Corporate Bond Portfolio ETF,Fixed Income ETF,,19.51,19.462,19.4466,19.1563
+PICB,PowerShares International Corporate Bond Portfolio ETF,Fixed Income ETF,,30.47,30.233,30.001,29.2913
+PL,Protective Life Corporation Com ,Financial,Life Insurance,51.15,50.554,51.766,47.6426
+PLT,Plantronics Inc. Common ,Technology,Processing Systems & Products,43.57,42.57,43.9786,44.7412
+PSEM,Pericom Semiconductor Corporati ,Technology,Semiconductor - Integrated Circuits,8.07,7.742,8.119,8.14245
+PSJ,PowerShares Dynamic Software ETF,US Equity ETF,,33.95,33.806,35.8922,34.3971
+PTEK,PokerTek Inc. ,Services,Gaming Activities,1.31,1.049,1.0758,1.1308
+PTM, E-TRACS USB Bloomberg Commodity ,N/A,N/A,15.92,15.796,16.123,16.0459
+PZA,PowerShares Insured National Municipal Bond Portfolio ETF,Fixed Income ETF,,24.39,24.307,24.0534,23.3426
+PZZI,Pizza Inn Holdings Inc. ,Services,Restaurants,5.94,5.751,5.976,7.2022
+QEPM,QEP Midstream Partners LP ,Basic Materials,Oil & Gas Pipelines,23.8,23.252,22.9222,
+RAND, Rand Capital Corporation ,Financial,Asset Management,3.5,3.428,3.3624,3.0893
+RBA,Ritchie Bros. Auctioneers Incor ,Services,Business Services,25,24.293,23.4926,21.2987
+RBC,Regal Beloit Corporation Common ,Industrial Goods,Industrial Electrical Equipment,74.73,74.174,73.096,71.3973
+RCL,Royal Caribbean Cruises Ltd. Co ,Services,Resorts & Casinos,53.13,51.905,52.4642,44.7672
+RDN,Radian Group Inc. Common ,Financial,Property & Casualty Insurance,13.98,14.003,14.9338,14.2901
+REFR,Research Frontiers Incorporated ,Industrial Goods,Industrial Electrical Equipment,4.55,4.595,5.5348,5.3111
+RFG,Guggenheim S&P MidCap 400 Pure Growth ETF,US Equity ETF,,117.97,118.504,121.933,116.183
+RFMD,RF Micro Devices Inc. ,Technology,Semiconductor - Integrated Circuits,8.44,8.076,7.5716,5.84515
+RVLT,Revolution Lighting Technologies Inc. ,Technology,Diversified Electronics,2.91,2.924,3.237,3.34695
+RVP, Retractable Technologies  Inc.  ,Healthcare,Medical Instruments & Supplies,3.65,3.485,3.5982,2.84365
+SAFT,Safety Insurance Group Inc. ,Financial,Property & Casualty Insurance,53.71,53.606,54.2134,54.1822
+SAM,Boston Beer Company Inc. (The) ,Consumer Goods,Beverages - Brewers,246.04,237.746,239.227,228.536
+SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income ETF,,50.62,50.576,50.5658,50.5376
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income ETF,,52.76,52.604,52.6854,52.5975
+SCON,Superconductor Technologies Inc ,Technology,Semiconductor - Integrated Circuits,2.26,2.32,2.7794,2.2674
+SCOR,comScore Inc. ,Services,Business Services,31.33,29.963,31.5008,28.8768
+SGY,Stone Energy Corporation Common ,Basic Materials,Independent Oil & Gas,49.05,46.396,40.3302,33.5632
+SHOO,Steven Madden Ltd. ,Consumer Goods,Textile - Apparel Footwear & Accessories,35.61,35.031,35.7752,40.5933
+SHV,iShares Barclays Short Treasury Bond Fund ETF,Fixed Income ETF,,110.27,110.263,110.258,110.248
+SHY,iShares Barclays 1-3 Year Treasury Bond Fund ETF,Fixed Income ETF,,84.52,84.476,84.4736,84.428
+SIGA,SIGA Technologies Inc. ,Healthcare,Biotechnology,2.87,2.835,3.095,3.3421
+SLCA, U.S. Silica Holdings  Inc. Comm ,Basic Materials,Industrial Metals & Minerals,45.17,42.157,37.125,30.952
+SMB,Market Vectors Short Municipal Index ETF,Fixed Income ETF,,17.57,17.575,17.6314,17.5353
+SMFG,Sumitomo Mitsui Financial Group ,Financial,Foreign Regional Banks,7.95,8.006,8.5724,9.46435
+SMPL,Simplicity Bancorp Inc. ,Financial,Savings & Loans,17.34,17.147,17.2622,15.985
+SONS,Sonus Networks Inc. ,Technology,Communication Equipment,3.27,3.12,3.4564,3.27315
+SPAR,Spartan Motors Inc. ,Consumer Goods,Trucks & Other Vehicles,5.31,5.245,5.3964,6.06405
+SPDC,Speed Commerce Inc. ,Services,Computers Wholesale,3.3,3.263,3.801,3.7186
+SPFF,Global X SuperIncome Preferred ETF,Fixed Income ETF,,15.12,15.029,14.962,14.7717
+SPIL,Siliconware Precision Industrie ,NULL,NULL,7.42,7.017,6.6936,6.02615
+SPNS,Sapiens International Corporati ,Technology,Technical & System Software,7.87,7.715,7.8666,6.8939
+SPSC,SPS Commerce Inc. ,Services,Business Services,51.8,52.156,60.7258,64.9376
+SSS,Sovran Self Storage Inc. Commo ,Financial,REIT - Industrial,75.9,75.098,74.1014,70.9715
+STRN,Sutron Corporation ,Technology,Scientific & Technical Instruments,5.5,5.379,5.4278,5.1411
+STRP,Straight Path Communications Inc. ,Technology,Diversified Communication Services,7,6.335,7.3222,
+STRZA,Starz ,Services,Entertainment - Diversified,32.27,31.773,31.9864,28.5443
+SYPR,Sypris Solutions Inc. ,Technology,Scientific & Technical Instruments,3.03,2.872,2.9038,3.00845
+TAYCO,Taylor Capital Group Inc. ,N/A,N/A,27.27,26.999,26.506,25.8431
+TDD,DBX TDX Independence 2010 ETF,Fixed Income ETF,,25.65,24.809,24.7348,24.2878
+TDH,DBX TDX Independence 2020 ETF,Fixed Income ETF,,27.65,27.423,27.3202,26.3405
+TDIV, First Trust Exchange-Traded Fun ,N/A,N/A,25.3,25.11,24.7932,23.7027
+TDX,DBX TDX Independence In-Target ETF,Fixed Income ETF,,29,28.679,28.5578,27.9137
+THGA,The Hanover Insurance Group Inc. ,N/A,N/A,23.87,23.409,23.047,21.8574
+TIVO,TiVo Inc. ,Services,CATV Systems,11.86,11.873,12.727,12.4634
+TLH,iShares Barclays 10-20 Year Treasury Bond Fund ETF,Fixed Income ETF,,127.31,126.922,126.053,124.41
+TLYS, Tilly's  Inc. Common ,Services,Apparel Stores,11.3,11.304,11.5156,12.9329
+TNXP,Tonix Pharmaceuticals Holding Corp ,Healthcare,Drug Manufacturers - Major,9.73,9.747,11.69,8.3054
+TQNT,TriQuint Semiconductor Inc. ,Technology,Semiconductor - Integrated Circuits,14.18,13.535,12.831,9.2191
+TRNS,Transcat Inc. ,Technology,Scientific & Technical Instruments,9.88,9.335,9.3838,8.4036
+TSCO,Tractor Supply Company ,Services,Specialty Retail Other,67.24,66.898,69.672,84.6405
+TU,TELUS Corporation Common ,Technology,Wireless Communications,35.27,34.849,35.0542,33.6865
+TUZ,PIMCO 1-3 Year U.S. Treasury Index Fund ETF,Fixed Income ETF,,50.93,50.894,50.894,50.8764
+TWO,Two Harbors Investment Corp ,Financial,REIT - Residential,10.38,10.234,10.326,9.78945
+TZD, iShares S&P Target Date 2010 ,N/A,N/A,35.99,35.85,35.7452,35.0251
+UCD,ProShares Ultra DJ-UBS Commodity ETF,Commodity Based ETF,,23.65,23.176,22.5862,20.2931
+UDN, PowerShares DB USD Index Bearis ,N/A,N/A,27.26,27.169,27.1332,26.9002
+UEIC,Universal Electronics Inc. ,Consumer Goods,Electronic Equipment,37.35,35.812,39.0228,36.0284
+UKK,ProShares Ultra Russell2000 Growth ETF,Commodity Based ETF,,88.57,89.999,98.3748,90.5241
+ULE,ProShares Ultra Euro ETF,Commodity Based ETF,,26.42,26.165,26.1366,25.3591
+ULTI,The Ultimate Software Group In ,Technology,Internet Software & Services,119.63,123.208,143.542,147.394
+UMC,United Microelectronics Corpora ,Technology,Semiconductor Equipment & Materials,2.18,2.113,2.0656,2.04485
+UTHR,United Therapeutics Corporation ,Healthcare,Drug Manufacturers - Other,100.01,94.801,96.8018,89.8618
+UYG,ProShares Ultra Financials ETF,Commodity Based ETF,,118,117.555,118.507,109.646
+UYM,ProShares Ultra Basic Materials ETF,Commodity Based ETF,,51.43,50.954,50.209,45.1862
+VBK,Vanguard Small-Cap Growth ETF,US Equity ETF,,119.55,120.269,124.02,118.168
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income ETF,,85.67,85.359,84.9478,83.8681
+VCRA, Vocera Communications  Inc. Com ,Technology,Communication Equipment,15.25,14.997,16.062,16.7053
+VFH,Vanguard Financials ETF - DNQ ETF,US Equity ETF,,44.77,44.692,44.8438,43.1393
+VGR,Vector Group Ltd. Common ,Consumer Goods,Cigarettes,21.3,20.898,20.689,17.5993
+VICR,Vicor Corporation ,Technology,Diversified Electronics,8.36,8.499,9.9224,9.7238
+VOT,Vanguard Mid-Cap Growth ETF,US Equity ETF,,90.6,90.586,92.4136,87.8177
+VSTM, Verastem  Inc. ,Healthcare,Biotechnology,8.35,8.628,11.5258,12.4415
+VXF,Vanguard Extended Market ETF,US Equity ETF,,82.76,82.981,84.3978,79.9847
+VXUS,Vanguard Total International Stock ETF,Global Equity ETF,,52.86,52.577,52.0036,50.7828
+WDFC,WD-40 Company ,Basic Materials,Specialty Chemicals,72.84,72.596,74.227,68.9296
+WHLR,Wheeler Real Estate Investment Trust Inc. ,Financial,REIT - Diversified,4.74,4.514,4.4822,4.41255
+WLP,WellPoint Inc. Common ,Healthcare,Health Care Plans,100.68,95.313,94.8494,89.368
+WSR,Whitestone REIT Common Shares ,Financial,REIT - Diversified,14.03,14.016,14.2836,14.22
+WST,West Pharmaceutical Services I ,Healthcare,Medical Instruments & Supplies,43.38,43.047,44.6982,54.4408
+WSTL,Westell Technologies Inc. ,Technology,Communication Equipment,3.26,3.304,3.7864,3.5572
+WU,Western Union Company (The) Com ,Services,Business Services,15.87,15.67,16.209,17.1462
+WVFC, WVS Financial Corp. ,Financial,Savings & Loans,11.75,11.606,11.674,11.4822
+XBKS, Xenith Bankshares  Inc. ,Financial,Regional - Mid-Atlantic Banks,6.1,6.067,6.0102,5.88715
+XLB,SPDR Materials Select Sector Fund ETF,US Equity ETF,,47.67,47.441,47.1068,44.1637
+XLRN,Acceleron Pharma Inc. ,Healthcare,Biotechnology,34.35,34.583,40.5566,
+ZA, Zuoan Fashion Limited American  ,Consumer Goods,Textile - Apparel Clothing,2.05,1.76,1.9912,2.09495
+ZIOP,ZIOPHARM Oncology Inc ,Healthcare,Biotechnology,3.6,3.493,4.2176,3.85965
+ZQK,Quiksilver Inc. Common ,Consumer Goods,Textile - Apparel Clothing,6.42,6.449,7.345,7.2975
+ZSL,ProShares UltraShort Silver ETF,Commodity Based ETF,,88.59,85.86,79.6772,81.3559

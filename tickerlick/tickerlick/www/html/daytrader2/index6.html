@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html >
+<style>
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+<table border="0" cellpadding="0" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;">
+<tr  align="center"><td>
+ <a href="http://www.luckyticker.com">Home</a>
+</td></tr>
+<tr><td><img src="../images/spacer.gif" width = "100%" height=20></td></tr>
+</table>
+<div ng-app="myApp" ng-controller="signalCtrl">
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;">
+<tr><td>ticker</td><td>LastPrice</td><td>Diff</td></tr>
+   <tr ng-repeat="x in names">
+    <td><a href=http://www.luckyticker.com/quote?q={{x.ticker}}>{{x.ticker}}</a></td>
+    <td>{{ x.lastprice }}</td>
+    <td>{{ x.diff }}</td>
+  </tr>
+</table>
+
+</div>
+<script>
+var app = angular.module('myApp', []);
+app.controller("signalCtrl", function($scope, $interval, $http){
+   $scope.callAtInterval  = function() {
+   $http.get("http://www.luckyticker.com/php/getsignalmacdall.php")
+   .then(function (response) {$scope.names = response.data.records;});
+    }
+    $interval( function(){ $scope.callAtInterval(); }, 30000);
+});
+angular.bootstrap(document, ['myApp']);
+</script>
+</body>
+</html>

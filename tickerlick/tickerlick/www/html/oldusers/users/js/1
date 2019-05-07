@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+
+<script>
+document.write(5 + 6);
+var o = {x:1, y:2, z:3};
+for(var k in o)
+{
+   document.write(5 + 6);
+   console.log(k);
+}
+</script>
+
+</body>
+</html> 

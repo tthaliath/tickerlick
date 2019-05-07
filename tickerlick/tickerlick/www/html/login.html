@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Very simple login using Perl, jQuery, Ajax, JSON and MySQL</title>
+    <link rel="stylesheet" type="text/css" media="screen, projection" 
+      href="http://www.blueprintcss.org/blueprint/screen.css" />
+    <link rel="stylesheet"  type="text/css" media="screen, projection"
+      href="http://www.blueprintcss.org/blueprint/plugins/buttons/screen.css" />
+    <link rel="stylesheet" type="text/css" media="print" 
+      href="http://www.blueprintcss.org/blueprint/print.css" />
+    <!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" 
+      href="http://www.blueprintcss.org/blueprint/ie.css"><![endif]-->
+    <script type="text/javascript" 
+      src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="login.js"></script>
+    <style type="text/css">
+      #loginContent { width: 350px; margin: 100px auto; }
+      button[type] { margin: 0.5em 0; }
+    </style>
+  </head>
+  <body>
+    <div id="loginContent" class="container">
+      <div id="loginResult" style="display:none;">
+      </div>
+      <form id="loginForm" name="loginForm" method="post" action="">
+        <fieldset>
+          <legend>Enter information</legend>
+          <p>
+            <label for="username">Username</label>
+            <br />
+            <input type="text" id="username" name="username" class="text" size="20" />
+          </p>
+          <p>
+            <label for="password">Password</label>
+            <br />
+            <input type="password" id="password" name="password" class="text" size="20" />
+          </p>
+          <p>
+            <button type="submit" class="button positive">
+             <img alt="ok" src=
+             "http://www.blueprintcss.org/blueprint/plugins/buttons/icons/tick.png" /> 
+             Login
+            </button>
+          </p>
+        </fieldset>
+      </form>
+    </div>
+  </body>
+</html>

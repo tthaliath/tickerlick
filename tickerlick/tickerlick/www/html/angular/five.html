@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html >
+<style>
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+ 
+<div ng-app="myApp" ng-controller="customersCtrl">
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;">'
+<tr bgcolor="#00FFFF"><th colspan=12>Analyst Coverage</th></tr>
+<tr bgcolor="#00FFFF"><td>Brokerage Name</td><td>Date</td><td>Action</td><td>Rating From</td><td>Rating To</td><td>Price From</td><td>Price To</td></tr>
+  <tr ng-repeat="x in names">
+    <td>{{ x.brokeragename }}</td>
+    <td>{{ x.ratingdate }}</td>
+    <td>{{ x.updown }}</td>
+    <td>{{ x.ratingfrom }}</td>
+    <td>{{ x.ratingto }}</td>
+    <td>{{ x.pricefrom }}</td>
+    <td>{{ x.priceto }}</td>
+  </tr>
+</table>
+
+</div>
+<table>
+<tr>
+        <td>
+               <button value="mbux" >S&P 500 - MACD Bullish Crossover</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td> <button value="osx" >S&P 500 - MACD Oversold (Bullish)</button></td>
+        </td>
+        </tr>
+        <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+        </td>
+
+  </tr>
+   <tr>
+        <td>
+                <button value="rsx">S&P 500 - RSI Oversold (Bullish)</button>
+        </td>
+        <td><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=5></td>
+        <td>   <button value="ssx">S&P 500 - Stochastic Oversold (Bullish)</button>
+        </td>
+        </tr>
+
+        <tr><td><img src="http://tickerlick.com/images/spacer.gif" width = "100%" height=5></td></tr>
+        </td>
+  </tr>
+</table>
+<div ng-app="myApp" ng-controller="customersCtrl2">
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;">'
+<tr bgcolor="#00FFFF"><th colspan=12>Analyst Coverage</th></tr>
+<tr><td>ticker</td><td>company name</td><td>Sector</td><td>Industry</td></tr>
+   <tr ng-repeat="x in names1">
+    <td>{{ x.ticker }}</td>
+    <td>{{ x.comp_name }}</td>
+    <td>{{ x.sector }}</td>
+    <td>{{ x.industry }}</td>
+  </tr>
+</table>
+
+</div>
+
+<script>
+var app = angular.module('myApp', []);
+app.controller('customersCtrl', function($scope, $http) {
+   $http.get("http://www.tickerlick.com/angular/rating.php?q=9")
+   .then(function (response) {$scope.names = response.data.records;alert(response.data.records);});
+});
+var query  =  "SELECT a.ticker,a.comp_name,sector,industry FROM tickermaster a, report b where b.report_flag = 'SSR' and b.ticker_id = a.ticker_id order by val desc";
+app.controller('customersCtrl2', function($scope, $http) {
+   $http.get("http://www.tickerlick.com:8081/getsignal?q="+query)
+   .then(function (response) {$scope.names1 = response.data;alert(response.data);});
+});
+angular.bootstrap(document, ['myApp']);
+</script>
+
+</body>
+</html>

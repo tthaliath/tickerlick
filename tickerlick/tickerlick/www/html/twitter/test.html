@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Twitter Crawler Demo</title>
+  <style>
+  p {
+    margin: 0;
+    color: blue;
+  }
+  div,p {
+    margin-left: 10px;
+  }
+  span {
+    color: red;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+<form method="post" action="">
+  <p>
+  Twitter Profile Id (for example @elonmusk): <input type="text" name="screenname">
+  <br/>Key Word in tweet text: <input type="text" name="keyword">
+  <br/><input type="submit" value="submit" name="submit">
+  </form>
+  </p>
+</form>
+<span></span>
+ 
+<script>
+$( "form" ).submit(function( event ) {
+    $( "span" ).text( "Validated..." ).show();
+    return;
+  }
+ 
+  $( "span" ).text( "Not valid!" ).show().fadeOut( 1000 );
+  event.preventDefault();
+});
+</script>
+ 
+</body>
+</html>

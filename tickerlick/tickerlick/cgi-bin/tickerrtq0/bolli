@@ -1,0 +1,45 @@
+sub setDMASD
+{
+  my ($self) = shift;
+  my ($tickid) = shift;
+  my ($offset) = shift;
+  my ($query,$updatedma,$sth,@row,$ret);
+  while ($offset >= 0)
+ {
+ #$query = "select SQRT(avg((close_price - dma_10) * (close_price - dma_10))) from tickerprice where ticker_id = 9 and price_date > '20141215';
+ $query ="SELECT SQRT(avg((close_price - dma_20) * (close_price - dma_20)))  AS dma_20_sd, max(price_date) as pdate,count(1) as rec_cnt FROM (SELECT dma_20,close_price, price_date FROM tickerprice WHERE ticker_id = $tickid ORDER BY price_date DESC LIMIT $offset,$self->{dmadays}) AS abc;";
+ #print "$query\n";
+  $sth = $self->{dbh}->prepare($query);
+  $sth->execute or die "SQL Error: $DBI::errstr\n";
+    #print "$query\n";
+     while (@row = $sth->fetchrow_array) {
+      #print "$row[0]\t$row[1]]\t$row[2]\n";
+       if ($self->{dmadays} != $row[2]){next;}
+        $updatedma = "update tickerprice set dma_20_sd = $row[0] where ticker_id = $tickid and price_date = '$row[1]'";
+         #print "$updatedma\n";
+          $ret = $self->{dbh}->do($updatedma);
+       }
+       $offset--;
+       $sth->finish;
+    }
+  }
+
+#print "Calculating DMA20\n";
+$dmaday = 20;$tickid = 1;$offset = 0;
+my $dma20 = new DMA($dmaday,$dbh);
+while ($tickid <= $tickidmax)
+{
+ #print "$tickid\t$offset\n";
+  $dma20->setDMA($tickid,$offset);
+   $tickid++;
+}
+print "Calculating bollinger band sd\n";
+$tickid = 1;
+$offset = 0;
+while ($tickid <= $tickidmax)
+{
+ #print "$tickid\t$offset\n";
+   $dma20->setDMASD($tickid,$offset);
+      $tickid++;
+}
+

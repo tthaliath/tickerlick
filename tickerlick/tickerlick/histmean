@@ -1,0 +1,1000 @@
+   10  view routes/
+   11  view routes/index.js 
+   12  view controllers/locations.js 
+   13  cd loc8r/app_server/
+   14  view routes/index.js 
+   15  view controllers/locations.js 
+   16  view ../app_api/controllers/locations.js 
+   17  view routes/index.js 
+   18  cd loc8r/
+   19  npm start
+   20  cd loc8r/app_server/
+   21  view 
+   22  view controllers/locations.js 
+   23  view routes/index.js 
+   24  view controllers/locations.js 
+   25  view ../app_api/controllers/locations.js 
+   26  view ../app_api/routes/index.js 
+   27  view ../app_api/controllers/locations.js 
+   28  view ../app_api/routes/index.js 
+   29  view routes/index.js 
+   30  view controllers/locations.js 
+   31  view ../app_api/routes/index.js 
+   32  exit
+   33  cd loc8r/
+   34  view app_server/views
+   35  view app_server/views/location-info.jade
+   36  view app_api/models/db.js 
+   37  view app_api/models/locations.js 
+   38  view app_server/controllers/locations.js 
+   39  view app_server/views/location-info.jade 
+   40  view app_api/controllers/reviews.js 
+   41  cd app_server/controllers/locations.js 
+   42  view app_server/controllers/locations.js 
+   43  view app_server/routes/index.js 
+   44  view app_server/controllers/others.js 
+   45  view app_server/views/location-review-form.jade 
+   46  view app_server/controllers/locations.js 
+   47  view app_api/controllers/locations.js 
+   48  view app_api/controllers/reviews.js 
+   49  view app_api/controllers/locations.js 
+   50  view app_server/controllers/locations.js 
+   51  view app_api/controllers/locations.js 
+   52  view app_api/controllers/reviews.js 
+   53  view app_server/controllers/locations.js 
+   54  view app_api/controllers/reviews.js 
+   55  view app_server/controllers/locations.js 
+   56  view app_server/routes/index.js 
+   57  view app_server/controllers/locations.js 
+   58  cd app_server/views/
+   59  ;s
+   60  ls
+   61  cd _includes/
+   62  ;ls
+   63  ls
+   64  cd ../../
+   65  ls
+   66  cd ../
+   67  la
+   68  ls
+   69  cd public/
+   70  ls
+   71  cd javascripts/
+   72  ls
+   73  view jquery-1.11.3.min.js 
+   74  ls
+   75  cp /home/tthaliath/meantutorial/chapter7/getting-MEAN/public/javascripts/validation.js .
+   76  view validation.js 
+   77  cd -
+   78  cd
+   79  cd /home/tthaliath/loc8r/
+   80  view app_server/views/layout.jade 
+   81  view app_server/views/location-info.jade 
+   82  cd app_server/views/location
+   83  cd app_server/views/
+   84  grep layout *
+   85  cd 
+   86  view app_server/views/location-info.jade 
+   87  view app_server/views/layout.jade 
+   88  cd /home/tthaliath/meantutorial/
+   89  mkdir chapter8
+   90  cd chapter8
+   91  history | grep chapter07
+   92  history | grep git
+   93  git clone -b chapter-08 https://github.com/simonholmes/getting-MEAN.git
+   94  ls
+   95  exit
+   96  cd loc8r/app_server/
+   97  view routes/index.js 
+   98  view controllers/locations.js 
+   99  view ../app_api/routes/index.js 
+  100  view ../app_api/controllers/locations.js 
+  101  view ../app_api/controllers/reviews.js 
+  102  cd ../
+  103  npm start
+  104  exit
+  105  history | grep hrm;l
+  106  history | grep html
+  107  history | grep www
+  108  history | grep tickelick
+  109  exit
+  110  cd /home/tickerlick/www/html/
+  111  ls
+  112  ls -ltr
+  113  cd angular/
+  114  ls
+  115  ls -ltr
+  116  mkdir mean
+  117  cd mean
+  118  vire ../auto2.html 
+  119  view ../auto2.html 
+  120  cd ../
+  121  grep angular *.php
+  122  grep angular *.html
+  123  cd -
+  124  view ../test1.html
+  125  view test1.html
+  126  view ../test1.html
+  127  view test1.html
+  128  view ../test1.html
+  129  view test1.html
+  130  cd
+  131  cd /home/tthaliath/loc8r/public/
+  132  ls
+  133  mkdir angular
+  134  cd angular/
+  135  pw
+  136  pwd
+  137  view ../../app_server/views/layout.jade 
+  138  cd ../../
+  139  cd app_server/
+  140  view controllers/locations.js 
+  141  cd /home/tthaliath/meantutorial/chapter8/getting-MEAN/
+  142  ls
+  143  cd app_server/
+  144  ;s
+  145  ls
+  146  cd ../public/
+  147  ls
+  148  cd angular/
+  149  ls
+  150  pwd
+  151  ls
+  152  cd ../
+  153  ls
+  154  cd ../
+  155  ls
+  156  cd app_api/
+  157  ;s
+  158  ls
+  159  cd controllers/
+  160  ls
+  161  cd ../../
+  162  ;s
+  163  ls
+  164  cd public/
+  165  ls
+  166  cd angular/
+  167  ls
+  168  view rating-stars.html 
+  169  view loc8rApp.js 
+  170  view ../../app_server/views/layout.jade 
+  171  pwd
+  172  ls
+  173  view loc8rApp.js 
+  174  pwd
+  175  cd ../
+  176  ls
+  177  view loc8rApp.js
+  178  view ../app_server/views/layout.jade 
+  179  cd ../../
+  180  ls
+  181  history | grep clone
+  182  git clone -b chapter-08 https://github.com/simonholmes/getting-MEAN.git
+  183  cd ../
+  184  cd chapter
+  185  cd chapter8
+  186  git status
+  187  git update
+  188  rm -rf getting-MEAN/
+  189  git clone -b chapter-08 https://github.com/simonholmes/getting-MEAN.git
+  190  cd getting-MEAN/public/angular/
+  191  view loc8rApp.js 
+  192  cd ../../
+  193  cd public/angular/
+  194  view loc8rApp.js 
+  195  cd loc8r/app_server/
+  196  view controllers/locations.js 
+  197  pwd
+  198  cd ../
+  199  pwd
+  200  cd public/angular/
+  201  ls
+  202  pwd
+  203  view loc8rApp.js
+  204  pwd
+  205  view loc8rApp.js
+  206  pwd
+  207  cd ../../app_server/views/
+  208  pwd
+  209  ls -ltr
+  210  grep xs *
+  211  view locations-list.jade
+  212  view /home/tthaliath/loc8r/app_server/controllers/locations.js
+  213  view /home/tthaliath/loc8r/app_server/views/locations-list.jade
+  214  pwd
+  215  cd ../../public/
+  216  ls
+  217  cd angular/
+  218  ls
+  219  view loc8rApp.js 
+  220  cd loc8r/
+  221  npm start
+  222  cd loc8r/
+  223  npm start
+  224  pwd
+  225  view app_server/views/layout.jade 
+  226  ls -ltr public/javascripts/
+  227  view app_server/views/layout.jade 
+  228  cd app_server/views/
+  229  l;s
+  230  ls
+  231  ls -ltr
+  232  view locations-list.jade
+  233  cd loc8r/
+  234  cd public/angular/
+  235  ls
+  236  view loc8rApp.js 
+  237  cd ../../app_server/
+  238  cd views/
+  239  ls
+  240  ls -ltr
+  241  view locations-list.jade
+  242  ls -ltr
+  243  cd ../../public/
+  244  cd angular/
+  245  ls
+  246  cp /home/tthaliath/meantutorial/chapter8/getting-MEAN/public/angular/angular.min.js .
+  247  cd ../javascripts/
+  248  ls
+  249  pwd
+  250  cd ../../
+  251  npm start
+  252  cd loc8r/app_server/
+  253  ls -ltr
+  254  view views/
+  255  cd views/
+  256  ls
+  257  ls -ltr
+  258  view locations-list.jade
+  259  cd ../
+  260  view controllers/locations.js 
+  261  view views/locations-list.jade
+  262  view controllers/locations.js 
+  263  history
+  264  view ../public/angular/loc8rApp.js 
+  265  view views/layout.jade 
+  266  view ../public/angular/loc8rApp.js 
+  267  view ../public/angular/angular.min.js 
+  268  view ../public/angular/loc8rApp.js 
+  269  view views/layout.jade 
+  270  pwd
+  271  view views/layout.jade 
+  272  view ../public/angular/loc8rApp.js 
+  273  view views/locations-list.jade
+  274  exit
+  275  cd loc8r/
+  276  npm start
+  277  exit
+  278  pwd
+  279  cd /home/tickerlick/www/html/angular/me
+  280  cd /home/tickerlick/www/html/angular/mean
+  281  view test1.html 
+  282  cd
+  283  cd /home/tthaliath/tickerlick/www/html/
+  284  ls
+  285  ls -ltr
+  286  pwd
+  287  cd ../../
+  288  ls -ltr
+  289  cd www
+  290  ls
+  291  cd html
+  292  ls
+  293  history | grep www
+  294  cd /home/tickerlick/www/html/
+  295  ls -=ltr
+  296  cd angular/
+  297  ls
+  298  ls -ltr
+  299  cd mean
+  300  view test1.html 
+  301  cd
+  302  cd /home/tthaliath/loc8r/public/angular/
+  303  ;s
+  304  ls
+  305  view angular.min.js 
+  306  pwd
+  307  cp /home/tthaliath/angularver/1.4.8/angular.min.js .
+  308  cd
+  309  cd -
+  310  cd ../../
+  311  npm start
+  312  cleart
+  313  clear
+  314  cd ../tickerlick/www/html/angular/mean/
+  315  vim -r test1.html 
+  316  ls -la
+  317  view test1.html 
+  318  cd ../tickerlick/www/html/angular/mean/
+  319  view test1.html 
+  320  ls -ltr /home/tthaliath/angularver/1.2.19/angular.min.js 
+  321  view test1.html 
+  322  ls -lltr
+  323  pwd
+  324  view test1.html 
+  325  cp /home/tthaliath/angularver/1.4.8/angular.min.js .
+  326  view test1.html 
+  327  cp test1.html test2.html
+  328  view test2.html 
+  329  view ../test3.html 
+  330  view test2.html 
+  331  cd ../
+  332  ls
+  333  ls -ltr
+  334  ls -ltr *.html'
+  335  ';
+  336  ls -ltr *.html
+  337  view test1.html 
+  338  cd -
+  339  view test2.html 
+  340  view test3.html
+  341  view test4.html
+  342  view test2.html
+  343  pwd
+  344  cd /home/tthaliath/loc8r/public/
+  345  ls
+  346  cd angular/
+  347  ls
+  348  view loc8rApp.js 
+  349  cd ../
+  350  ls
+  351  cd angular/
+  352  ls
+  353  view angular.min.js 
+  354  cd ../../app_server/
+  355  ls
+  356  ls -ltr
+  357  rm 1
+  358  view views/locations-list.jade
+  359  view controllers/locations.js 
+  360  cd ../
+  361  npm start
+  362  exit
+  363  cd /home/tickerlick/www/html/angular/mean/
+  364  ls -ltr
+  365  view test4.html 
+  366  exit
+  367  cd ../tickerlick/www/html/angular/
+  368  cd /home/tickerlick/www/html/angular/mean
+  369  ls
+  370  view test5.html
+  371  exit
+  372  cd loc8r/public/angular/
+  373  ls -ltr
+  374  view  angular.min.js 
+  375  view loc8rApp.js 
+  376  cd ../app_se
+  377  cd ../../app_server/
+  378  ls -ltr
+  379  view controllers/locations.js 
+  380  view views/locations-list.jade
+  381  view ../public/angular/loc8rApp.js 
+  382  cd view
+  383  cd views
+  384  grep loc8rApp *
+  385  cd ../../
+  386  cd public/angular/
+  387  ls
+  388  cp loc8rApp.js loc8rApp.js.bak
+  389  cp /home/tthaliath/meantutorial/chapter8/getting-MEAN/public/angular/loc8rApp.js .
+  390  view loc8rApp.js
+  391  view loc8rApp.js.bak 
+  392  view loc8rApp.js
+  393  cd 
+  394  npm install formidable
+  395  npm install events
+  396  npm install nodemailer
+  397  cd node
+  398  l
+  399  ls
+  400  cd learn/
+  401  ls
+  402  view main.js 
+  403  view gmail.js
+  404  node gmail.js 
+  405  view gmail.js
+  406  node gmail.js 
+  407  view gmail.js
+  408  node gmail.js 
+  409  ls -ltr
+  410  view gmail.js
+  411  view mysql.js
+  412  node mysql.js 
+  413  view mysql.js
+  414  grep -i mysql *
+  415  view nodeticker.js
+  416  view mysql.js
+  417  node mysql.js 
+  418  view mysql.js
+  419  node mysql.js 
+  420  view mysql.js
+  421  grep tickmaster *
+  422  view nodemysql.js
+  423  view mysql.js
+  424  view nodemysql.js
+  425  node mysql.js 
+  426  view nodemysql.js
+  427  view mysql.js
+  428  node mysql.js 
+  429  view mysql.js
+  430  node mysql.js 
+  431  view mysql.js
+  432  node mysql.js 
+  433  view mysql.js
+  434  node mysql.js 
+  435  view mysql.js
+  436  node mysql.js 
+  437  view mysql.js
+  438  node mysql.js 
+  439  view mysql.js
+  440  cd
+  441  cd /home/tthaliath/loc8r/
+  442  npm satrt
+  443  npm start
+  444  cd loc8r/app_server/views/
+  445  cp /home/tthaliath/meantutorial/chapter8/getting-MEAN/app_server/views/locations-list.jade .
+  446  cp /home/tthaliath/meantutorial/chapter8/getting-MEAN/app_server/views/layout.jade .
+  447  view locations-list.jade
+  448  ls
+  449  view layout.jade 
+  450  view locations-list.jade
+  451  cd loc8r/
+  452  npm start
+  453  node -v
+  454  mkdir udemy
+  455  cd udemy/
+  456  mkdir mean
+  457  cd mean
+  458  view first.js
+  459  node first.js
+  460  pwd
+  461  cd /home/tickerlick/www/html/
+  462  mkdir udemy
+  463  cd udemy/
+  464  mkdir mean
+  465  cd mean/
+  466  view second.js
+  467  pwd
+  468  cd ../../angular/
+  469  grep listen *
+  470  pwd
+  471  cd mean
+  472  grep listen *
+  473  pwd
+  474  cd -
+  475  cd ../udemy/mean/
+  476  vie second.js 
+  477  view second.js 
+  478  node second.js 
+  479  view second.js 
+  480  node second.js 
+  481  view second.js 
+  482  node second.js 
+  483  view second.js 
+  484  ls
+  485  rm 1
+  486  node second.js 
+  487  view second.js 
+  488  node second.js 
+  489  view second.js 
+  490  node second.js 
+  491  view second.js 
+  492  node second.js 
+  493  view second.js 
+  494  node second.js 
+  495  view second.js 
+  496  rm 1
+  497  node second.js 
+  498  cd /home/tthaliath/
+  499  npm install -g bower
+  500  npm install -g grunt-cli
+  501  pwd
+  502  mkdir temp
+  503  cd temp/
+  504  npm install grunt
+  505  ls -ltr
+  506  pwd
+  507  grunt
+  508  view Gruntfile.js
+  509  grunt
+  510  cd -
+  511  npm install -g yo
+  512  npm install -g generator-meanjs
+  513  yo meanjs
+  514  cd /root/.config/configstore
+  515  ld
+  516  ls
+  517  ls -ltr
+  518  chmod 777 insight-yo.json
+  519  ls -ltr
+  520  cd -
+  521  yo meanjs
+  522  ls -ltr /root/.config/configstore/insight-yo.json
+  523  pwd
+  524  chmod 777 /root/.config/configstore/
+  525  chmod 777 /root/.config/configstore/insight-yo.json 
+  526  yo meanjs
+  527  yo meanjsexit
+  528  exit
+  529  ls
+  530  ls -ltr
+  531  pwd
+  532  mkdir codesnippets
+  533  ls -ltr
+  534  chmod 777 codesnippets
+  535  ls -ltr
+  536  exit
+  537  mkdir src
+  538  cd ../
+  539  chmod 777 codesnippets
+  540  exit
+  541  chmod 777 src
+  542  ls -la
+  543  exit
+  544  cd ../../
+  545  npm install node-sass
+  546  exit
+  547  ps -ef | grep node
+  548  ps -ef
+  549  exit
+  550  cd /home/tthaliath/
+  551  npm install -g 8.8.1
+  552  npm install -g n
+  553  npm install -g ls
+  554  npm install -g 8.2.0
+  555  node --version
+  556  npm install -g npm@8.8.1
+  557  npm install -g v8.8.1
+  558  cd codesnippets/src
+  559  ls
+  560  yo meanjs
+  561  exit
+  562  cd /home/tthaliath/
+  563  node-gyp --version
+  564  npm install node-gyp
+  565  exit
+  566  node --version
+  567  node
+  568  cd mean
+  569  ls
+  570  pwd
+  571  cd ../../tickerlick/
+  572  mkdir mean
+  573  cd mean/
+  574  view app.js
+  575  node app.js 
+  576  view app.js
+  577  node app.js 
+  578  view instantHellow.js
+  579  view app.js
+  580  node app.js 
+  581  ls -ltr
+  582  mv instantHellow.js instantHello.js
+  583  node app.js 
+  584  mkdir talk
+  585  cd talk/
+  586  view goodbye.js
+  587  cd ../
+  588  view app.js 
+  589  node app.js 
+  590  cd -
+  591  view index.js
+  592  cd -
+  593  view app.js 
+  594  c d-
+  595  view instantHello.js 
+  596  cd talk/
+  597  view index.js 
+  598  rm 1
+  599  c d-
+  600  cd -
+  601  view app.js 
+  602  node app.js 
+  603  view app.js 
+  604  node app.js 
+  605  cd -
+  606  view index.js 
+  607  cd -
+  608  node app.js 
+  609  view app.js 
+  610  cd ../tickerlick/mean/talk/
+  611  view question.js
+  612  cd -
+  613  cd ../
+  614  ls
+  615  view app.js 
+  616  node app.js 
+  617  cd -
+  618  view question.js 
+  619  cd ../
+  620  view app.js 
+  621  view setTimeout.js
+  622  node setTimeout.js 
+  623  view readFileSync.js
+  624  node readFileSync.js 
+  625  view readFileSync.js
+  626  node readFileSync.js 
+  627  view readFileSync.js
+  628  node readFileSync.js 
+  629  view fibonacci.js
+  630  nofde fibonacci.js 
+  631  node fibonacci.js 
+  632  view computational-blockng.js
+  633  node computational-blockng.js 
+  634  mv computational-blockng.js computational-blocking.js
+  635  node computational-blocking.js 
+  636  view computational-non-blocking.js
+  637  view computational-blockng.js
+  638  view computational-blocking.js 
+  639  view computational-non-blocking.js
+  640  node computational-non-blocking.js 
+  641  view computational-non-blocking.js
+  642  node computational-non-blocking.js 
+  643  view computational-non-blocking.js
+  644  node computational-non-blocking.js 
+  645  mv fibonacci.js _fibonacci.js
+  646  view computational-non-blocking.js
+  647  view app.js 
+  648  view computational-blocking.js 
+  649  node computational-blocking.js 
+  650  node computational-non-blocking.js 
+  651  view computational-non-blocking.js 
+  652  node computational-non-blocking.js 
+  653  view computational-non-blocking.js 
+  654  node computational-non-blocking.js 
+  655  view computational-non-blocking.js 
+  656  node computational-non-blocking.js 
+  657  view /home/tthaliath/loc8r/package.json 
+  658  npm init
+  659  ls -ltr
+  660  npm init
+  661  view package.json 
+  662  clear
+  663  npm install express --save
+  664  ls -ltr
+  665  cd node_modules
+  666  ;s
+  667  ls
+  668  cd express/
+  669  ls
+  670  pwd
+  671  cd ../../
+  672  ls
+  673  ls -ltr
+  674  view package.json 
+  675  npm install mocha --save-dev
+  676  ls -ltr
+  677  cd node_modules/
+  678  ls -ltr
+  679  cd mocha/
+  680  ls
+  681  cd ../../
+  682  view package.json 
+  683  exit
+  684  cd /home/tickerlick/mean
+  685  npm install --production
+  686  ls -ltr
+  687  cd node_modules/
+  688  ls
+  689  ls -ltr
+  690  cd ../
+  691  npm install
+  692  view package.json 
+  693  view readFime.md
+  694  view readme.md
+  695  view .gitignore
+  696  view package.json 
+  697  npm start
+  698  view package.json 
+  699  npm start
+  700  node app.js 
+  701  npm start
+  702  cd /home/tickerlick/mean
+  703  node app.js 
+  704  cd /home/tickerlick/mean
+  705  view app.js 
+  706  node app.js 
+  707  npm start
+  708  view app.js 
+  709  npm start
+  710  view app.js 
+  711  cd /home/tickerlick/mean/
+  712  view app.js 
+  713  vim -r app.js 
+  714  ls -al
+  715  rm .app.js.swp
+  716  view app.js 
+  717  npm start
+  718  view app.js 
+  719  npm start
+  720  view app.js 
+  721  cd /home/tickerlick/mean
+  722  ls -ltr
+  723  view app.js 
+  724  vim -r app.js 
+  725  npm start
+  726  view app.js 
+  727  ls -la
+  728  rm .app.js.swp
+  729  view app.js 
+  730  npm start
+  731  view app.js 
+  732  npm start
+  733  cd  
+  734  cd /home/tickerlick/mean
+  735  view app.js 
+  736  npm start
+  737  view app.js 
+  738  npm start
+  739  view app.js 
+  740  npm start
+  741  view app.js 
+  742  npm start
+  743  view app.js 
+  744  npm start
+  745  mkdir public
+  746  cd public/
+  747  view index.html
+  748  cd ../
+  749  view app.js 
+  750  npm start
+  751  view app.js 
+  752  npm start
+  753  view app.js 
+  754  npm start
+  755  view app.js 
+  756  npm start
+  757  view app.js 
+  758  npm start
+  759  view app.js 
+  760  q
+  761  cd public/
+  762  mkdir css
+  763  cd css/
+  764  view bootstrap.min.css
+  765  cd ../
+  766  view index.html 
+  767  cd ../../
+  768  cd -
+  769  cd ../
+  770  npm start
+  771  cd public/
+  772  mkdir jquery
+  773  cd jquery/
+  774  view jquery-2.1.4.min.js
+  775  cd ../
+  776  view index.html 
+  777  cd jquery/
+  778  ls
+  779  rm jquery-2.1.4.min.js 
+  780  cp /home/tthaliath/jquery-3.2.1.min.js .
+  781  cd ../
+  782  view index.html 
+  783  mkdir images
+  784  cd images/
+  785  cp /home/tthaliath/PandaWizard.png .
+  786  cd ../
+  787  view index.html 
+  788  ls -ltr images/
+  789  view index.html 
+  790  c d../
+  791  cd ../
+  792  npm start
+  793  cd ../
+  794  cd -
+  795  cd public/
+  796  view index.html 
+  797  cd ../
+  798  npm start
+  799  cd -
+  800  view index.html 
+  801  ls
+  802  rm 1
+  803  cd -
+  804  npm start
+  805  view index.html 
+  806  cd -
+  807  view index.html 
+  808  ls -ltr
+  809  cd images/
+  810  ls
+  811  cd ../
+  812  view index.html 
+  813  cd css/
+  814  view custom.css
+  815  rm 1
+  816  cd ../
+  817  view index.html 
+  818  rm 1
+  819  view index.html 
+  820  cd ../
+  821  view app.js 
+  822  mkdi routes
+  823  mkdir routes
+  824  cd routes/
+  825  view index.js
+  826  view ../app.js 
+  827  view index.js
+  828  view ../app.js 
+  829  view index.js
+  830  view ../app.js 
+  831  view index.js
+  832  view ../app.js 
+  833  view index.js
+  834  view ../app.js 
+  835  view index.js
+  836  view ../app.js 
+  837  view index.js
+  838  exit
+  839  cd /home/tickerlick/mean
+  840  npm start
+  841  function(req,res) {
+  842     console.log('get json');
+  843      res
+  844        .status(200)
+  845        .json("jsondata" : true);
+  846  npm start
+  847  cd /home/tickerlick/mean
+  848  npm start
+  849  cd /home/tickerlick/mean
+  850  ls
+  851  view app.js p
+  852  view app.js 
+  853  view public/index.html 
+  854  ls
+  855  view routes/index.js 
+  856  cd meantutorial/
+  857  mkdir udemy
+  858  cd udemy/
+  859  mkdir meanstack
+  860  cd meanstack/
+  861  history | grep clone
+  862  mkdir section1
+  863  cd section1/
+  864  git clone -b section-01 https://github.com/fullstacktraining/mean-stack-hero.git
+  865  ls
+  866  cd mean-stack-hero/
+  867  lks
+  868  ls
+  869  cd api
+  870  cd data/
+  871  ls
+  872  pwd
+  873  cd -
+  874  ls
+  875  cd ../
+  876  ls
+  877  cd ../
+  878  mkdir section2
+  879  cd section2/
+  880  cd -
+  881  rm -rf section2/
+  882  cd ../
+  883  mkdir section2
+  884  cd section2/
+  885  git clone -b section-02 https://github.com/fullstacktraining/mean-stack-hero.git
+  886  cd 
+  887  cd /home/tthaliath/meantutorial/udemy/meanstack/section1/mean-stack-hero/api/data
+  888  ls
+  889  view hotel-data.json 
+  890  pwd
+  891  cd ../
+  892  ls
+  893  cd routes/
+  894  ls
+  895  view index.js 
+  896  mongo
+  897  exit
+  898  cd mean
+  899  cd /home/tickerlick/mean
+  900  mkdir api
+  901  cd api/
+  902  cp -rf ../routes/ .
+  903  ls
+  904  cd routes/
+  905  ls
+  906  cd ../../
+  907  ls
+  908  rm -rf routes/
+  909  cd api/
+  910  mkdir controllers
+  911  cd controllers/
+  912  view hotels.controllers.js
+  913  ls
+  914  view hotels.controllers.js
+  915  rm 1
+  916  view hotels.controllers.js 
+  917  view ../routes/index.js 
+  918  ls
+  919  view hotels.controllers.js 
+  920  cd ../
+  921  mkdir data
+  922  cd data/
+  923  view hotel-data.json
+  924  cp /home/tthaliath/meantutorial/udemy/meanstack/section1/mean-stack-hero/api/data/hotel-data.json .
+  925  cd ../controllers/
+  926  view hotels.controllers.js 
+  927  view ../routes/index.js 
+  928  view hotels.controllers.js 
+  929  view ../routes/index.js 
+  930  view ../../app.js 
+  931  view hotels.controllers.js 
+  932  view ../../app.js 
+  933  view ../routes/index.js 
+  934  view ../../app.js 
+  935  cd ../../
+  936  view nodemon.json
+  937  cd public/b
+  938  cd public/
+  939  cd jquery/
+  940  ls
+  941  viee jquery-3.2.1.min.js 
+  942  view jquery-3.2.1.min.js 
+  943  exit
+  944  cd /home/tickerlick/mean
+  945  npm start
+  946  ls
+  947  grep routes *
+  948  view app.js 
+  949  npm start
+  950  view app.js 
+  951  npm start
+  952  npm install --save body-parser
+  953  view app.js 
+  954  npm start
+  955  view app.js 
+  956  npm start
+  957  nodemon
+  958  exit
+  959  cd /home/tickerlick/man
+  960  cd /home/tickerlick/mean
+  961  mongo
+  962  exit
+  963  mongodump --db meantest
+  964  ls -ltr
+  965  ls ~/dump
+  966  ls ~
+  967  mongodump --db meantest
+  968  ls ~
+  969  ls -ltr ~
+  970  pwd
+  971  ls -ltr
+  972  cd dump
+  973  s
+  974  ls
+  975  cd meantest/
+  976  ls
+  977  view tech.bson 
+  978  cd ../
+  979  rm -rf meantest/
+  980  cd ../
+  981  mongodump --db meantest --gzip
+  982  cd dump/meantest/
+  983  ls
+  984  cd ../../
+  985  clear
+  986  mongorestore --db mean2 --gzip dump/meantest
+  987  mongoexport --meantest --collection text
+  988  mongoexport --db meantest --collection text
+  989  mongoexport --db meantest --collection tech
+  990  mongoexport --db meantest --collection tech --out /home/tickerlick/mean/api/data/tech.json
+  991  view /home/tickerlick/mean/api/data/tech.json
+  992  ls -ltr /home/tickerlick/mean/api/data/tech.json
+  993  view /home/tickerlick/mean/api/data/tech.json
+  994  mongoexport --db meantest --collection tech --out /home/tickerlick/mean/api/data/tech.json --jsonArray
+  995  view /home/tickerlick/mean/api/data/tech.json
+  996  mongoexport --db meantest --collection tech --out /home/tickerlick/mean/api/data/tech.json --jsonArray --pretty
+  997  view /home/tickerlick/mean/api/data/tech.json
+  998  clear
+  999  mongoimport --db mean3 --collection tech --jsonArray /home/tickerlick/mean/api/data/tech.json
+ 1000  exit
+ 1001  cd mean
+ 1002  mangoimport --db mean3 --collection tech --jsonArray api/data/tecj.json
+ 1003  mongoimport --db mean3 --collection tech --jsonArray api/data/tecj.json
+ 1004  mongoimport --db mean3 --collection tech --jsonArray api/data/tech.json
+ 1005  cd /home/tickerlick/mean
+ 1006  mongoimport --db mean3 --collection tech --jsonArray api/data/tech.json
+ 1007  history
+ 1008  cd ../
+ 1009  history > histmean

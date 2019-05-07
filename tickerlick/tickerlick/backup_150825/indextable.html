@@ -1,0 +1,103 @@
+<!DOCTYPE html> 
+<head>
+<meta charset="utf-8">
+<!--[if lt IE 9]>
+   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <![endif]-->
+<title>TICKERLICK - Real time buy and sell signals based on technical indicators</title> 
+<meta name="keywords" lang="en-US" content="MACD, Stochastic, Bollinger, RSI, Oversold, Overbought, Stock Research, Investment Tools"/>
+<script language="javascript" type="text/javascript">
+function setFocus(){document.f.q.focus();}
+function submitform(obj ) {
+    var l = obj
+           var s = l.q.value.split(" ");
+           l.q.value = s[0];
+	   document.f.action = "/cgi-bin/gettickerdataone.cgi";
+	   document.f.submit();
+	   return true;
+
+}
+</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+
+  <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+<script>
+
+  $(function() {
+
+    var cache = {};
+
+    $( "#symbols" ).autocomplete({
+
+      minLength: 2,
+
+      source: function( request, response ) {
+
+        var term = request.term;
+
+        if ( term in cache ) {
+
+          response( cache[ term ] );
+
+          return;
+
+        }
+
+        $.getJSON( "searchsymbol.php", request, function( data, status, xhr ) {
+
+          cache[ term ] = data;
+          response( data );
+
+        });
+
+      },
+
+
+    });
+
+  });
+
+  </script>
+<style type="text/css">
+    .row { clear: left; padding: 6px; }
+    .row label { float: left; width: 10em; }
+    .row .field { display: block; margin-left: 10em; }
+    .row .field input, .row .field select {
+        width: 100%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -khtml-box-sizing: border-box;
+    }
+</style>
+
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $.get("php2/report.php",
+    {
+      r:$(this).attr("value"),
+    },
+    function(data){
+    $("#div1").html(data)
+    });
+  });
+});
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link=#0000cc vlink=#551a8b alink=#ff0000>
+
+<div class="row">
+    <label for="f-firstname">First name</label>
+    <span class="field"><input name="firstname" id="f-firstname" value="Bob" /></span>
+</div>
+<div class="row">
+    <label for="f-state">State</label>
+    <span class="field"><select name="state" id="f-state">
+        <option value="NY">NY</option>
+    </select></span>
+</div>
+</body>
+</html>
+

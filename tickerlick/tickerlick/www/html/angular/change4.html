@@ -1,0 +1,49 @@
+<html>
+ 
+<head>
+ 
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+ 
+<script>
+ 
+$(document).ready(function(){
+ 
+    $("#sel_change").change(function(){
+ 
+        alert ("change event occured with value: " + document.getElementById("sel_change").value);
+ 
+  });
+ 
+});
+ 
+</script>
+ 
+</head>
+ 
+<body>
+ 
+<p>Select a menu item to see change event!</p>
+ 
+<form id="changeform">
+ 
+select a value from dropdown:
+ 
+<select id="sel_change">
+ 
+  <option value="Jan">Jan</option>
+ 
+  <option value="Feb">Feb</option>
+ 
+  <option value="March">Mar</option>
+ 
+  <option value="April">Apr</option>
+ 
+</select>
+ 
+</form>
+ 
+</body>
+ 
+</html>
+
+

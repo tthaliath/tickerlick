@@ -1,0 +1,38 @@
+<?php
+$screenname = $_POST["screenname"];
+$keyword = $_POST["keyword"];
+?>
+
+<html>
+<head>
+<title>Twitter Crawler</title>
+</head>
+
+<body>
+
+<?php
+if (!isset($_POST['submit']))
+{
+  ?>
+  <p>
+  <form method="post" action="<?php $command = escapeshellcmd('/usr/bin/env python /home/tickerlick/www/html/twitter/parse_tweets.py @elonmusk linux'); $output = shell_exec($command); ?>">
+  Twitter Profile Id (for example @elonmusk): <input type="text" name="screenname">
+  <br/>Key Word in tweet text: <input type="text" name="keyword">
+  <br/><input type="submit" value="submit" name="submit">
+  </form>
+  </p>
+
+<?php
+}
+else
+{
+  echo "<p>";
+  echo "Twitter Profile Id: $screenname<br />";
+  echo "Key Word : $keyword<br />";
+  echo "Matched tweets :<?php echo $output; ?> <br />";
+  echo "</p>";
+}
+?>
+
+</body>
+</html>

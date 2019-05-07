@@ -1,0 +1,17 @@
+{
+	"mysql":{
+		"host":"localhost",
+		"user":"root",
+		"passwd":"Neha*2005",
+		"db":"tickmaster"
+    },
+	"email":{
+		"smtplibhost":"localhost",
+                "From":"info@tickerlick.com",
+                "To":"tthaliath@gmail.com",
+                "textfile":"msg"
+    },
+	"apikey":{
+		"alphaapikey":"19BF"
+    }
+}

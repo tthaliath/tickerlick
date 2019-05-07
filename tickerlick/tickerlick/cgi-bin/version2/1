@@ -1,0 +1,34 @@
+if ($tickerhash{invalidticker})
+my $tickid = $tickerhash{Ticker};
+if ($tickerhash{class} eq 'ETF')
+  $tophtml .= "<tr><td><table style=\"border-collapse: collapse;\"><tr><td>Ticker&nbsp;:&nbsp;$tickerhash{Ticker}</td><td>Name&nbsp;:&nbsp;$tickerhash{name}</td></tr></table></td></tr>";
+$result2html .= "<tr><td><table style=\"border-collapse: collapse;\"><tr><td>Last Trade&nbsp;:&nbsp;$tickerhash{LastTrade}</td><td>Prev Close&nbsp;:&nbsp;$tickerhash{PrevClose}</td><td>Volume&nbsp;:&nbsp;$tickerhash{vol}</td></tr><tr><td>Nav&nbsp;:&nbsp;$tickerhash{Nav}</td><td>52 Week Range&nbsp;:&nbsp;$tickerhash{wkRange}</td><td>Yield&nbsp;:&nbsp;$tickerhash{DivYield}</td></tr></table></td></tr>";
+ $tophtml .= "<tr><td><table style=\"border-collapse: collapse;\"><tr><td>Ticker&nbsp;:&nbsp$tickerhash{Ticker}</td><td>Name&nbsp;:&nbsp$tickerhash{name}</td><td>Sector&nbsp;:&nbsp$tickerhash{sector}</td><td>Industry&nbsp;:&nbsp$tickerhash{industry}</td></tr></table></td></tr>";
+$result2html = "<tr><td><table style=\"border-collapse: collapse;\"><tr><td>Last Trade&nbsp;:&nbsp$tickerhash{LastTrade}</td><td>Prev Close&nbsp;:&nbsp$tickerhash{PrevClose}</td><td>Volume&nbsp;:&nbsp$tickerhash{vol}</td><td>1 Year Target Est&nbsp;:&nbsp$tickerhash{yTargetEst}</td></tr><tr><td>52 Week Range&nbsp;:&nbsp$tickerhash{wkRange}</td></tr></table></td></tr>";
+$charthtml = $tophtml.'<tr><td><table style=\"border-collapse: collapse;\"><tr><td rowspan="2"><p align="justify"><b><font color="#000000" size="+2">'.$tickerhash{LastTrade}.'</font>';
+if ($tickerhash{PriceStat} eq  "up")
+  $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/up_g.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#05840C" size="+2">'.$tickerhash{pricediff}.' ('.$tickerhash{pricediffper}.'%)</font> from previous day  close.';
+  $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/down_r.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#FF0000" size="+2">'.$tickerhash{pricediff}.' ('.$tickerhash{pricediffper}.'%)</font> from previous day  close.';
+if ($tickerhash{difflowstat} eq "up")
+  $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/up_g.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#05840C" size="+2">'.$tickerhash{difflow}.' ('.$tickerhash{perdifflow}.'%)</font> from 52 week low.';
+  $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/down_r.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#FF0000" size="+2">'.$tickerhash{difflow}.' ('.$tickerhash{perdifflow}.'%)</font> from 52 week low.';
+if ($tickerhash{diffhightstat} eq "up")
+  $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/up_g.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#05840C" size="+2">'.$tickerhash{diffhigh}.' ('.$tickerhash{perdiffhigh}.'%)</font> from 52 week high.';
+  $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/down_r.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#FF0000" size="+2">'.$tickerhash{diffhigh}.' ('.$tickerhash{perdiffhigh}.'%)</font> from 52 week high.';
+if ($tickerhash{dma10} ne "N\/A")
+  if ($tickerhash{dma10stat} eq "up")
+    $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/up_g.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#05840C" size="+2">'.$tickerhash{dma10diff}.' ('.$tickerhash{dma10diffper}.'%)</font> from 10 Day moving average.';
+    $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/down_r.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#FF0000" size="+2">'.$tickerhash{dma10diff}.' ('.$tickerhash{dma10diffper}.'%)</font> from 10 Day moving average.';
+ if ($tickerhash{dma50} ne "N\/A")
+   if ($tickerhash{dma50stat} eq "up")
+     $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/up_g.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#05840C" size="+2">'.$tickerhash{dma50diff}.' ('.$tickerhash{dma50diffper}.'%)</font> from 50 Day moving average.';
+     $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/down_r.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#FF0000" size="+2">'.$tickerhash{dma50diff}.' ('.$tickerhash{dma50diffper}.'%)</font> from 50 Day moving average.';
+  if ($tickerhash{dma200} ne "N\/A")
+    if ($tickerhash{dma200stat} eq "up")
+      $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/up_g.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#05840C" size="+2">'.$tickerhash{dma200diff}.' ('.$tickerhash{dma200diffper}.'%)</font> from 200 Day moving average.';
+      $charthtml .= '<img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><img src="http://tickerlick.com/images/down_r.gif" height=20><img src="http://tickerlick.com/images/spacer.gif" width = "5" height=11><font color="#FF0000" size="+2">'.$tickerhash{dma200diff}.' ('.$tickerhash{dma200diffper}.'%)</font> from 200 Day moving average.';
+$resulthtml .= "<tr><td><table style=\"border-collapse: collapse;\"><tr><td>PE&nbsp;:&nbsp$tickerhash{PE}</td><td>Forward PE&nbsp;:&nbsp$tickerhash{ForwardPE}</td><td>EPS&nbsp;:&nbsp$tickerhash{EPS}</td></tr><tr><td>Market Cap&nbsp;:&nbsp$tickerhash{MarketCap}</td><td>Beta&nbsp;:&nbsp$tickerhash{Beta}</td></tr><tr><td>10 Day Moving Average&nbsp;:&nbsp$tickerhash{dma10}</td><td>50 Day Moving Average&nbsp;:&nbsp$tickerhash{dma50}</td><td>200 Day Moving Average&nbsp;:&nbsp$tickerhash{dma200}</td></tr>
+if ($tickerhash{Ticker})
+  my $ticker_id = getTickerID($tickerhash{Ticker});
+     updatecurrentprice($ticker_id,$tickerhash{LastTrade},$tickerhash{Ticker});
+  if ($tickerhash{tflag} eq 'Y')

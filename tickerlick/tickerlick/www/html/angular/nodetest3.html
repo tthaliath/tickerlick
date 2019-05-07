@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html >
+<style>
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+ 
+<div ng-app="myApp" ng-controller="customersCtrl">
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;"> 
+<tr bgcolor="#00FFFF"><th colspan=12>Analyst Coverage</th></tr>
+<tr bgcolor="#00FFFF"><td>Brokerage Name</td><td>Date</td><td>Action</td><td>Rating From</td><td>Rating To</td><td>Price From</td><td>Price To</td></tr>
+  <tr ng-repeat="x in names">
+    <td>{{ x.brokerage_name }}</td>
+    <td>{{ x.rating_date }}</td>
+    <td>{{ x.updown }}</td>
+    <td>{{ x.rating_from }}</td>
+    <td>{{ x.rating_to }}</td>
+    <td>{{ x.price_from }}</td>
+    <td>{{ x.price_to }}</td>
+
+  </tr>
+</table>
+ 
+</div>
+ 
+<script>
+var app = angular.module('myApp', []);
+var ticker_id = 1;
+app.controller('customersCtrl', function($scope, $http) {
+   $http.get("http://www.tickerlick.com:8081/deleteUser")
+   .then(function (response) {$scope.names = response.data.records;});
+   alert($scope.names);
+});
+</script>
+ 
+</body>
+</html>

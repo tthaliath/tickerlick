@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+
+<script>
+var triangle = {a:1, b:2, c:3};
+
+function ColoredTriangle() {
+  this.color = "red";
+}
+
+ColoredTriangle.prototype = triangle;
+
+var obj = new ColoredTriangle();
+
+for (var prop in obj) {
+    <p>My first paragraph.</p>
+  if( obj.hasOwnProperty( prop ) ) {
+    console.log("obj." + prop + " = " + obj[prop]);
+  } 
+}
+
+</script>
+
+</body>
+</html> 

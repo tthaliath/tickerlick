@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+
+<script>
+function foo1()
+{
+  return {
+      bar: "hello"
+  };
+}
+
+function foo2()
+{
+  return
+  {
+      bar: "hello"
+  };
+}
+
+console.log("foo1 returns:");
+document.write(foo1());
+document.write("foo2 returns:");
+document.write(foo2());
+function func(x){
+   document.write(typeof x, arguments.length);
+    document.write("<br>");
+}
+func();                //==> "undefined", 0
+func(1);               //==> "number", 1
+func("1", "2", "3");   //==> "string", 3
+
+function create() {
+   var counter = 0;
+   return {
+      increment: function() {
+         counter++;
+      },
+  
+      print: function() {
+          window.console.log(counter);
+      }
+   }
+}
+var c = create();
+c.increment();
+c.print();     // ==> 1
+</script>
+
+</body>
+</html> 

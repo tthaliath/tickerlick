@@ -1,0 +1,14 @@
+ul {
+ white-space: nowrap;
+ height: 1em;
+ width: 100%;
+}
+
+li {
+ list-style-type: none;
+ height: 200px;
+ width: 100px;
+ overflow-x: auto; /* change to hidden if that's what you want */
+ float: left;
+ margin-right: 10px;
+}

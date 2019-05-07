@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+<script src="angular.min.js"></script>
+<script>
+   angular.module('myApp', []);
+   var myController = function($scope) {
+       $scope.myInput = 'World!';
+        };
+   angular
+      .module('myApp')
+      .controller('myController',myController);
+</script>
+  <meta charset="utf-8">
+  <title>Angular binding test</title>
+</head>
+<body ng-controller="myController">
+  <input ng-model="myInput" />
+  <h1>Hello {{ myInput }}</h1>
+</body>
+</html>

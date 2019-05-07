@@ -1,0 +1,30 @@
+body
+{
+background-color:#b0c4de;
+background-image:url('http://www.ycombinator.com/images/yc500.gif')
+font-family: arial;
+a:link {color:#FF0000;}    /* unvisited link */
+a:visited {color:#00FF00;} /* visited link */
+a:hover {color:#FF00FF;}   /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+}
+h1
+{
+background-color:#6495ed;
+}
+p
+{
+background-color:#e0ffff;
+}
+div
+{
+background-color:#b0c4de;
+}
+table, td, th
+{
+border:1px solid black;
+}
+td
+{
+padding:15px;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html ng-app="MyApp">
+    <head>
+        <title>AngularJS  Tutorial Series</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body >
+        <div ng-controller="HelloController">Hi {{name}}, welcome to AngularJS Tutorial Series</div>
+	<div ng-controller="HelloController2">planning to convert {{site}} to angular</div>
+        <!-- JS Scripts -->
+        <script src="angular.min.js"></script>
+        <script src="main.js"></script>
+        <script>
+            angular.module("MyApp", [])
+                    .controller("HelloController", function($scope) {
+                        $scope.name = "Thomas"
+                    });
+	    angular.module("MyApp", [])
+                    .controller("HelloController2", function($scope) {
+                        $scope.site = "Tickerlick"
+                    });
+        </script>
+    </body>
+</html>

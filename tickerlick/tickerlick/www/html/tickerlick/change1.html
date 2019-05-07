@@ -1,0 +1,65 @@
+<!doctype html>
+<!--[if lt IE 7]>
+<html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>
+<html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>
+<html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Demo For: jQuery on change method Examples</title>
+
+    <link rel="stylesheet" href="http://www.theextremewebdesigns.com/blog/wp-content/themes/ewd_blog6/css/try_demo.css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+
+</head>
+<body>
+
+
+
+        <h1>Demo For: jQuery on change method Examples</h1>
+        <label for="states">States</label>
+<select name="states" id="states">
+<option value="Texas">Texas</option>
+<option value="Alabama">Alabama</option>
+<option value="Illinois">Illinois</option>
+</select>
+
+<div id="selected_value"></div>
+
+<label for="new_state">New State:</label>
+<input type="text" name="new_state" id="new_state" class="new_state">
+
+<script type="text/javascript">
+
+$('#states').on("change", function(){
+
+//Get the selected value
+var selected_value = $("#states option:selected").val();
+
+//1. Alert the selected value
+alert( selected_value );
+
+//2. Write the selected value to our div
+$('#selected_value').html('The new State value is: '+ selected_value);
+
+//3. Write the selected value to our input box with class .new_state
+$('.new_state').val(selected_value);
+
+});
+
+</script>
+
+<!-- END: Google Analytics --></body>
+</html>
+

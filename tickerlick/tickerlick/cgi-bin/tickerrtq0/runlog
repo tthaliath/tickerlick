@@ -1,0 +1,958 @@
+1: A
+undefined keystat:A
+2: AA
+3: AACPF
+undefined keystat:AACPF
+4: AACC
+invalid:1
+5: AAME
+6: AAN
+7: AAON
+8: AAP
+9: AAPL
+10: AAU
+11: AAV
+12: AAWW
+13: AB
+14: ABAT
+15: ABAX
+16: ABB
+17: ABC
+18: ABCB
+19: ABCD
+20: ABCO
+21: ABFS
+invalid:1
+22: ABG
+23: ABIO
+24: ABM
+25: ABMD
+26: ABR
+27: ABT
+28: ABTL
+29: ABV
+invalid:1
+30: ABVA
+invalid:1
+31: ABX
+32: ACAD
+33: ACAS
+34: ACAT
+35: ACC
+36: ACCL
+invalid:1
+37: ACE
+38: ACET
+39: ACFC
+40: ACFN
+41: ACGL
+42: ACH
+43: ACHN
+44: ACI
+undefined keystat:ACI
+45: ACIW
+undefined keystat:ACIW
+46: ACLS
+47: ACM
+48: ACN
+49: ACNB
+undefined keystat:ACNB
+50: ACO
+invalid:1
+51: ACOM
+invalid:1
+52: ACOR
+53: ACPW
+54: ACTG
+55: ACTS
+56: ACU
+57: ACUR
+58: ACW
+59: ACXM
+60: ACY
+61: ADAT
+62: ADBE
+63: ADC
+64: ADEP
+65: ADES
+66: ADGE
+67: ADI
+undefined keystat:ADI
+68: ADK
+69: ADM
+70: ADP
+71: ADS
+72: ADSK
+73: ADTN
+74: ADUS
+75: ADVS
+76: ADX
+77: ADY
+undefined keystat:ADY
+78: AE
+79: AEB
+80: AEC
+81: AED
+82: AEE
+83: AEG
+84: AEGR
+85: AEHR
+86: AEIS
+87: AEL
+88: AEM
+89: AEO
+90: AEP
+91: AEPI
+92: AER
+93: AERG
+94: AERL
+invalid:1
+95: AES
+96: AET
+undefined keystat:AET
+97: AETI
+98: AEV
+invalid:1
+99: AEY
+100: AEZS
+101: AF
+102: AFAM
+103: AFCB
+undefined keystat:AFCB
+104: AFCE
+invalid:1
+105: AFE
+invalid:1
+106: AFF
+invalid:1
+107: AFFX
+108: AFFY
+109: AFG
+110: AFL
+111: AFOP
+undefined keystat:AFOP
+112: AFQ
+113: AFSI
+114: AG
+115: AGCO
+116: AGEN
+117: AGII
+118: AGM
+119: AGN
+120: AGNC
+121: AGO
+undefined keystat:AGO
+122: AGP
+invalid:1
+123: AGU
+124: AGX
+125: AGYS
+126: AH
+invalid:1
+127: AHC
+128: AHGP
+129: AHL
+130: AHPI
+131: AHS
+132: AHT
+133: AI
+undefined keystat:AI
+134: AIG
+135: AIM
+invalid:1
+136: AIMC
+137: AIN
+138: AINV
+undefined keystat:AINV
+139: AIQ
+140: AIR
+141: AIRM
+142: AIRT
+143: AIT
+144: AIV
+145: AIXG
+146: AIZ
+147: AJG
+148: AKAM
+149: AKR
+150: AKRX
+151: AKS
+152: ALB
+153: ALC
+invalid:1
+154: ALCO
+155: ALE
+156: ALEX
+undefined keystat:ALEX
+157: ALG
+158: ALGN
+undefined keystat:ALGN
+159: ALGT
+160: ALIM
+161: ALJ
+undefined keystat:ALJ
+162: ALK
+163: ALKS
+164: ALL
+165: ALLB
+166: ALLT
+167: ALN
+168: ALNC
+invalid:1
+169: ALNY
+170: ALOG
+171: ALOT
+172: ALR
+173: ALRN
+invalid:1
+174: ALSK
+175: ALTE
+invalid:1
+176: ALTH
+invalid:1
+177: ALTI
+178: ALTR
+179: ALU
+180: ALV
+181: ALVR
+invalid:1
+182: ALX
+183: ALXA
+184: ALXN
+185: AM
+186: AMAG
+187: AMAP
+invalid:1
+188: AMAT
+189: AMBO
+invalid:1
+190: AMCC
+191: AMCF
+192: AMCN
+193: AMD
+194: AME
+195: AMED
+196: AMG
+197: AMGN
+undefined keystat:AMGN
+198: AMIC
+199: AMKR
+200: AMLN
+invalid:1
+201: AMN
+202: AMNB
+203: AMOT
+204: AMOV
+205: AMP
+206: AMPL
+undefined keystat:AMPL
+207: AMRB
+208: AMRC
+209: AMRI
+210: AMRN
+211: AMRS
+212: AMS
+213: AMSC
+214: AMSF
+215: AMSG
+216: AMSWA
+217: AMT
+218: AMTD
+219: AMWD
+220: AMX
+221: AMZN
+222: AN
+223: ANAC
+224: ANAD
+225: ANAT
+undefined keystat:ANAT
+226: ANCI
+227: ANCX
+228: ANDE
+229: ANEN
+invalid:1
+230: ANF
+231: ANGN
+undefined keystat:ANGN
+232: ANGO
+233: ANH
+234: ANIK
+235: ANLY
+invalid:1
+236: ANN
+undefined keystat:ANN
+237: ANNB
+undefined keystat:ANNB
+238: ANR
+239: ANSS
+240: ANTH
+undefined keystat:ANTH
+241: ANTP
+invalid:1
+242: ANV
+243: ANW
+244: ANX
+invalid:1
+245: AOI
+246: AOL
+247: AON
+248: AONE
+undefined keystat:AONE
+249: AOS
+250: AOSL
+251: AP
+252: APA
+undefined keystat:APA
+253: APAGF
+254: APC
+255: APD
+256: APEI
+undefined keystat:APEI
+257: APFC
+invalid:1
+258: APH
+259: API
+260: APKT
+undefined keystat:APKT
+261: APL
+262: APOG
+263: APOL
+undefined keystat:APOL
+264: APP
+265: APPY
+266: APRI
+267: APSA
+268: APT
+269: APU
+270: AQQ
+invalid:1
+271: ARAY
+272: ARB
+invalid:1
+273: ARBA
+invalid:1
+274: ARCI
+275: ARCW
+276: ARDNA
+invalid:1
+277: ARE
+278: AREX
+279: ARG
+280: ARI
+281: ARIA
+282: ARII
+283: ARKR
+284: ARL
+285: ARLP
+286: ARM
+287: ARMH
+undefined keystat:ARMH
+288: ARNA
+289: ARO
+290: AROW
+291: ARP
+292: ARQL
+293: ARRS
+294: ARRY
+295: ARSD
+invalid:1
+296: ART
+invalid:1
+297: ARTC
+invalid:1
+298: ARTNA
+299: ARTW
+300: ARTX
+301: ARUN
+302: ARW
+303: ARWR
+304: ARX
+invalid:1
+305: ARYX
+306: ASA
+307: ASBC
+invalid:1
+308: ASBI
+309: ASCA
+invalid:1
+310: ASCMA
+311: ASEI
+312: ASFI
+313: ASFN
+invalid:1
+314: ASGN
+315: ASH
+316: ASI
+invalid:1
+317: ASIA
+invalid:1
+318: ASMI
+319: ASML
+320: ASPS
+321: ASR
+322: ASRV
+323: ASTC
+324: ASTE
+325: ASTI
+326: ASTM
+invalid:1
+327: ASUR
+328: ASX
+329: ASYS
+undefined keystat:ASYS
+330: AT
+331: ATAI
+332: ATAX
+333: ATC
+invalid:1
+334: ATE
+335: ATEA
+undefined keystat:ATEA
+336: ATEC
+337: ATHN
+338: ATHX
+339: ATI
+340: ATK
+undefined keystat:ATK
+341: ATLO
+342: ATLS
+343: ATMI
+invalid:1
+344: ATML
+345: ATNI
+346: ATO
+347: ATPG
+undefined keystat:ATPG
+348: ATR
+349: ATRC
+350: ATRI
+351: ATRM
+352: ATRO
+undefined keystat:ATRO
+353: ATSG
+354: ATU
+355: ATV
+356: ATVI
+357: ATW
+358: ATX
+invalid:1
+359: AU
+360: AUBN
+361: AUDC
+362: AUMN
+363: AUO
+364: AUTH
+invalid:1
+365: AUXL
+366: AUY
+367: AV
+undefined keystat:AV
+368: AVA
+369: AVAV
+undefined keystat:AVAV
+370: AVB
+371: AVCA
+undefined keystat:AVCA
+372: AVD
+373: AVEO
+374: AVF
+invalid:1
+375: AVGO
+376: AVID
+377: AVL
+378: AVNR
+379: AVNW
+380: AVP
+381: AVT
+382: AVX
+383: AVY
+384: AWC
+invalid:1
+385: AWH
+386: AWI
+387: AWK
+388: AWR
+389: AWRE
+390: AXAS
+391: AXE
+392: AXK
+invalid:1
+393: AXL
+394: AXN
+395: AXP
+396: AXR
+397: AXS
+398: AXTI
+399: AXU
+undefined keystat:AXU
+400: AYI
+401: AYR
+402: AZC
+invalid:1
+403: AZK
+invalid:1
+404: AZN
+405: AZO
+406: AZPN
+407: AZZ
+408: B
+409: BA
+410: BAA
+411: BABY
+412: BAC
+413: BAGL
+invalid:1
+414: BAH
+415: BAK
+416: BALT
+417: BAM
+undefined keystat:BAM
+418: BAMM
+419: BANF
+420: BANR
+421: BAP
+undefined keystat:BAP
+422: BAS
+423: BASI
+424: BAX
+425: BBBY
+426: BBD
+427: BBEP
+428: BBG
+429: BBGI
+430: BBL
+431: BBNK
+undefined keystat:BBNK
+432: BBOX
+433: BBRG
+434: BBSI
+435: BBT
+436: BBVA
+undefined keystat:BBVA
+437: BBW
+undefined keystat:BBW
+438: BBX
+439: BBY
+440: BC
+undefined keystat:BC
+441: BCA
+442: BCBP
+443: BCE
+444: BCH
+445: BCO
+446: BCOV
+447: BCPC
+undefined keystat:BCPC
+448: BCR
+449: BCRX
+450: BCS
+451: BDC
+452: BDE
+453: BDGE
+454: BDMS
+455: BDN
+456: BDSI
+457: BDX
+458: BEAT
+459: BEAV
+460: BEBE
+undefined keystat:BEBE
+461: BECN
+462: BEE
+463: BELFA
+invalid:1
+464: BELFB
+465: BEN
+466: BERK
+invalid:1
+467: BEST
+invalid:1
+468: BFED
+undefined keystat:BFED
+469: BFIN
+470: BFR
+471: BFS
+472: BG
+473: BGC
+474: BGCP
+475: BGFV
+476: BGG
+477: BGS
+478: BH
+479: BHB
+480: BHE
+481: BHI
+482: BHLB
+483: BHP
+484: BID
+485: BIDU
+486: BIDZ
+undefined keystat:BIDZ
+487: BIG
+488: BIIB
+489: BIN
+490: BIO
+491: BIOC
+492: BIOD
+493: BIOF
+invalid:1
+494: BIOS
+495: BIP
+496: BIRT
+497: BITA
+498: BJRI
+499: BK
+500: BKCC
+undefined keystat:BKCC
+501: BKD
+502: BKE
+503: BKH
+504: BKI
+invalid:1
+505: BKJ
+506: BKMU
+507: BKOR
+invalid:1
+508: BKR
+invalid:1
+509: BKS
+510: BKYF
+511: BLC
+invalid:1
+512: BLDP
+513: BLDR
+514: BLIN
+515: BLKB
+516: BLL
+517: BLT
+undefined keystat:BLT
+518: BLX
+519: BMA
+520: BMC
+invalid:1
+521: BMI
+522: BMJ
+invalid:1
+523: BMO
+524: BMR
+525: BMRC
+526: BMRN
+527: BMS
+528: BMTC
+529: BMTI
+undefined keystat:BMTI
+530: BMY
+531: BNCL
+532: BNCN
+533: BNHN
+undefined keystat:BNHN
+534: BNS
+535: BNSO
+536: BNVI
+undefined keystat:BNVI
+537: BOBE
+538: BOCH
+539: BODY
+540: BOFI
+541: BOH
+542: BOKF
+543: BOLT
+invalid:1
+544: BONA
+545: BONT
+546: BOOM
+547: BOOT
+548: BORN
+549: BOSC
+550: BOX
+551: BP
+552: BPAX
+undefined keystat:BPAX
+553: BPFH
+554: BPHX
+invalid:1
+555: BPI
+556: BPL
+557: BPO
+invalid:1
+558: BPOP
+559: BPT
+560: BPZ
+561: BR
+562: BRC
+563: BRCD
+564: BRCM
+565: BRD
+invalid:1
+566: BRE
+invalid:1
+567: BRFS
+568: BRKL
+569: BRKR
+570: BRKS
+571: BRLI
+572: BRO
+573: BRS
+574: BRT
+575: BRY
+invalid:1
+576: BSBR
+577: BSDM
+578: BSET
+579: BSFT
+580: BSI
+581: BSPM
+582: BSQR
+undefined keystat:BSQR
+583: BSRR
+584: BSTC
+585: BSX
+586: BT
+587: BTC
+invalid:1
+588: BTE
+589: BTFG
+undefined keystat:BTFG
+590: BTH
+591: BTI
+undefined keystat:BTI
+592: BTN
+593: BTU
+594: BTUI
+595: BTX
+596: BUD
+597: BUSE
+598: BV
+599: BVN
+undefined keystat:BVN
+600: BVSN
+601: BVX
+602: BWA
+603: BWC
+604: BWEN
+605: BWINB
+606: BWLD
+607: BWOW
+undefined keystat:BWOW
+608: BWP
+609: BWS
+610: BX
+611: BXC
+612: BXG
+invalid:1
+613: BXP
+614: BXS
+615: BYD
+616: BYFC
+617: BYI
+invalid:1
+618: BZ
+invalid:1
+619: BZH
+620: C
+621: CA
+622: CAAS
+623: CAB
+624: CAC
+625: CACB
+626: CACC
+627: CACH
+628: CACI
+629: CADC
+630: CADX
+invalid:1
+631: CAE
+632: CAFI
+invalid:1
+633: CAG
+634: CAGC
+invalid:1
+635: CAH
+636: CAJ
+637: CAK
+638: CAKE
+639: CALD
+640: CALI
+641: CALL
+undefined keystat:CALL
+642: CALM
+643: CALX
+644: CAM
+645: CAMP
+646: CAMT
+647: CAP
+648: CAPS
+invalid:1
+649: CAR
+650: CARV
+invalid:1
+651: CAS
+652: CASC
+invalid:1
+653: CASH
+654: CASM
+655: CASS
+656: CASY
+657: CAT
+658: CATM
+659: CATO
+660: CATY
+661: CAVM
+662: CAVO
+invalid:1
+663: CAW
+664: CAZA
+invalid:1
+665: CB
+666: CBAK
+undefined keystat:CBAK
+667: CBAN
+668: CBB
+669: CBD
+670: CBE
+invalid:1
+671: CBEH
+invalid:1
+672: CBEY
+invalid:1
+673: CBG
+674: CBI
+675: CBIN
+676: CBK
+677: CBKN
+invalid:1
+678: CBL
+679: CBLI
+680: CBM
+681: CBMX
+undefined keystat:CBMX
+682: CBNJ
+683: CBOE
+undefined keystat:CBOE
+684: CBOU
+undefined keystat:CBOU
+685: CBP
+invalid:1
+686: CBPO
+687: CBR
+688: CBRL
+689: CBRX
+690: CBS
+691: CBSH
+692: CBST
+693: CBT
+694: CBU
+695: CBZ
+696: CCBG
+697: CCC
+698: CCCL
+699: CCE
+700: CCF
+701: CCG
+702: CCH
+invalid:1
+703: CCI
+undefined keystat:CCI
+704: CCIH
+705: CCIX
+invalid:1
+706: CCJ
+undefined keystat:CCJ
+707: CCK
+708: CCL
+709: CCM
+710: CCME
+invalid:1
+711: CCMP
+712: CCNE
+undefined keystat:CCNE
+713: CCO
+714: CCOI
+715: CCRN
+716: CCRT
+undefined keystat:CCRT
+717: CCSC
+718: CCU
+719: CCUR
+720: CDE
+721: CDI
+722: CDNS
+723: CDR
+724: CDTI
+725: CDXS
+726: CDY
+invalid:1
+727: CDZI
+728: CE
+729: CEA
+730: CEC
+invalid:1
+731: CECE
+732: CECO
+733: CEDC
+undefined keystat:CEDC
+734: CEDU
+invalid:1
+735: CEF
+undefined keystat:CEF
+736: CEL
+737: CELG
+738: CELH
+invalid:1
+739: CELL
+invalid:1
+740: CENT
+741: CENTA
+742: CENX
+743: CEO
+744: CEP
+invalid:1
+745: CERN
+746: CERP
+invalid:1
+747: CERS
+748: CETV
+749: CEVA
+750: CF
+751: CFBK
+752: CFFC
+invalid:1
+753: CFFI
+undefined keystat:CFFI
+754: CFI
+undefined keystat:CFI
+755: CFK
+invalid:1
+756: CFN
+757: CFNB
+undefined keystat:CFNB
+758: CFNL
+759: CFR
+760: CFX
+761: CGA
+762: CGEN
+763: CGI
+764: CGNX
+765: CGR
+invalid:1
+766: CGV
+invalid:1
+767: CGX
+invalid:1
+768: CHA
+769: CHBT
+invalid:1
+770: CHC
+invalid:1
+771: CHCI
+772: CHCO
+773: CHD
+774: CHDN
+775: CHDX
+invalid:1
+776: CHE
+777: CHEV
+778: CHFN
+779: CHG
+invalid:1
+780: CHGS

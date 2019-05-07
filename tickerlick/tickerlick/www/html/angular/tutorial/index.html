@@ -1,0 +1,55 @@
+<html>
+   <head>
+      <title>Angular JS Includes</title>
+      
+      <style>
+         table, th , td {
+            border: 1px solid grey;
+            border-collapse: collapse;
+            padding: 5px;
+         }
+         
+         table tr:nth-child(odd) {
+            background-color: #f2f2f2;
+         }
+         
+         table tr:nth-child(even) {
+            background-color: #ffffff;
+         }
+      </style>
+      
+   </head>
+   <body>
+      <h2>AngularJS Sample Application</h2>
+      <div ng-app = "" ng-controller = "studentController">
+      
+         <table>
+	   <tr><td>name</td><td>age</td><td>nationality</td></tr>
+   <tr ng-repeat="x in names">
+    <td>{{ x.name }}</td>
+    <td>{{ x.age }}</td>
+    <td>{{ x.nationality }}</td>
+  </tr>
+         </table>
+      </div>
+      
+      <script>
+       <script>
+         function studentController($scope,$http) {
+            var url = "http://www.tickerlick.com:3000/people";
+             console.log("fgggggggggggggggg");
+            $http.get(url).then( function(response) {
+               $scope.names = response.data;
+               $scope.$apply();
+	       console.log($scope.names);
+               console.log(response);
+               console.log("jkafjfjkofeewk");
+            });
+         }
+      </script>
+      </script>
+      
+      <script src = "https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+      
+   </body>
+</html>

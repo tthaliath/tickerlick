@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body ng-app="myApp">
+
+<w3-test-directive></w3-test-directive>
+
+<script>
+var app = angular.module("myApp", []);
+app.directive("w3TestDirective", function() {
+    return {
+        template : '<h1>Made by a directive!</h1> <FORM><TABLE BORDER CELLPADDING=3> <TR> <TD><NOBR>radius: <INPUT NAME="Circle_radius" SIZE=4></NOBR></TD> <TD><INPUT TYPE=BUTTON  VALUE="calculate"></TD> <TD ALIGN=RIGHT BGCOLOR="#AACCFF"> <NOBR>circumference: <INPUT NAME="Circle_circumference" SIZE=9></NOBR><BR> <NOBR>area: <INPUT NAME="Circle_area" SIZE=9></NOBR></TD> </TR> </TABLE> </FORM>'
+              
+    };
+});
+</script>
+
+</body>
+</html>
+

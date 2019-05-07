@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html >
+<style>
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+<div ng-app="app" ng-controller="WaitController">
+<button ng-click="GetAllData()">Get Data</button>
+<div ng-bind="ResponseDetails"></div>
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;">'
+<tr bgcolor="#00FFFF"><th colspan=12>Analyst Coverage</th></tr>
+<tr><td>ticker</td><td>company name</td><td>Sector</td><td>Industry</td></tr>
+   <tr ng-repeat="x in Details">
+    <td>{{ x.ticker }}</td>
+    <td>{{ x.comp_name }}</td>
+    <td>{{ x.sector }}</td>
+    <td>{{ x.industry }}</td>
+  </tr>
+</table>
+
+</div>
+
+<script>
+    var app = angular.module("app", []);
+    var query  =  "SELECT a.ticker,a.comp_name,sector,industry FROM tickermaster a, report b where b.report_flag = \'SSR\' and b.ticker_id = a.ticker_id order by val desc";
+    app.factory('myService', function ($http) {
+        return {
+            // 1st function
+            serverCall: function () {
+                return $http.get('http://www.tickerlick.com:8081/getsignal?q='+query).then(function (response) {
+                    alert(response.data);
+                    return response.data;
+                });
+            }
+        };
+    });
+
+    app.controller("WaitController", function ($scope, myService) {
+
+        $scope.GetAllData = function () {
+            var myData = myService.serverCall();
+            myData.then(function (result) {
+                $scope.Details = result;
+            });
+
+            //// this does't wa
+            //myService.serverCall();
+            //myService.anotherFunctionCall();
+        };
+    });
+</script>
+
+</body>
+</html>

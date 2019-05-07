@@ -1,0 +1,39 @@
+AAPL
+EEM
+ticker	Ticker
+hash(0x149e74e0)	HASH(0x149e74e0)
+no data	no data
+divyield	DivYield
+wkrange	wkRange
+dma200stat	dma200stat
+nav	Nav
+dma50diff	dma50diff
+dma10diffper	dma10diffper
+pricediff	pricediff
+prevclose	PrevClose
+dma50diffper	dma50diffper
+sector	sector
+difflowstat	difflowstat
+name	name
+dma10diff	dma10diff
+difflow	difflow
+lasttrade	LastTrade
+class	class
+dma50stat	dma50stat
+perdifflow	perdifflow
+yearlow	YearLow
+dma10	dma10
+dma200diffper	dma200diffper
+dma200	dma200
+dma50	dma50
+dma200diff	dma200diff
+yearhigh	YearHigh
+pricestat	PriceStat
+diffhighstat	diffhighstat
+vol	vol
+pricediffper	pricediffper
+industry	industry
+diffhigh	diffhigh
+dma10stat	dma10stat
+perdiffhigh	perdiffhigh
+pe	PE

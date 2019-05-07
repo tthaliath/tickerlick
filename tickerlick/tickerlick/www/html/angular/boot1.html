@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+       <title>Injecting modules as dependencies of the root app </title>
+</head>
+
+<body ng-app="rootApp">
+
+<div id="firstApp">
+       <div ng-controller="FirstController">
+              <p>1# {{ name }}</p>
+       </div>
+</div>
+
+<div id="secondApp">
+       <div ng-controller="SecondController">
+              <p>2# {{ name }}</p>
+       </div>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script type="text/javascript">
+
+    // passing the two modules as dependencies of the root module
+    var rootApp = angular.module('rootApp', ['firstApp','secondApp']);
+
+    var firstApp = angular.module('firstApp', []);
+         firstApp.controller('FirstController', function ($scope) {
+         $scope.name = "I'm the first app.";
+    });
+
+    var secondApp = angular.module('secondApp', []);
+    secondApp.controller('SecondController', function ($scope) {
+         $scope.name = "I'm the second app.";
+    });      
+
+</script>
+</body>
+</html>

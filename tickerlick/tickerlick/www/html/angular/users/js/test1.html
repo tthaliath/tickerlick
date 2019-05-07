@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+
+<script>
+document.write('fffffff');
+var o = {x:1, y:2, z:"3"};
+document.write(Object.getOwnPropertyDescriptor(o,"x"));
+document.write(JSON.stringify(o));
+p = JSON.parse(JSON.stringify(o));
+
+for (var k in p) 
+{
+    document.write(typeof(p[k]));
+     
+   if (typeof(p[k]) === "string")
+   { 
+     document.write(p[k]);
+  } 
+}
+</script>
+
+</body>
+</html> 

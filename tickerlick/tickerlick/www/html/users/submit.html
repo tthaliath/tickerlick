@@ -1,0 +1,28 @@
+<?PHP
+require_once("./include/membersite_config.php");
+?>
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("form").submit(function(){
+        alert("Submitted");
+    });
+});
+</script>
+</head>
+<body>
+<div id='fg_membersite' align="center">
+<form action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="post">
+                <div class='short_explanation'>Please check the reports you would like to subscribe</div><br/>
+                <div class='smallcontainer'><input type="checkbox" name="formAlert[]" value="OSD" <?php echo ($reports[0]); ?>/>Oversold - Daily at 10 PM PST</div><br />
+               <div class='smallcontainer'><input type="checkbox" name="formAlert[]" value="OBD" <?php echo ($reports[1]); ?> />Overbought - Daily at 10 PM PST</div><br />
+               <div class='smallcontainer'><input type="checkbox" name="formAlert[]" value="INT" <?php echo ($reports[2]); ?> />Intraday - Every 5 minutes during trading session</div><br />
+                <div class='short_explanation'><input type="submit" name="formSubmit" value="Submit" /></div>
+</form>
+</div>
+
+</body>
+</html>

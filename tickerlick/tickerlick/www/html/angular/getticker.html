@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html >
+<head>
+<style>
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="angular.min.js"></script>
+<script src="main.js"></script>
+</head>
+<body>
+ 
+<div ng-app="myApp" ng-controller="customersCtrl">
+<p>Click the button to run a function:</p>
+<button ng-click="myFunc()" value="SELECT a.ticker,a.comp_name,sector,industry FROM tickermaster a, report b where b.report_flag = 'SSR' and b.ticker_id = a.ticker_id order by val desc" >S&P 500 - Bollinger Oversold (Bullish)</button>
+<table border="1" cellpadding="1" cellspacing="1" width="70%" align="center" style="border-collapse: collapse;">' 
+<tr bgcolor="#00FFFF"><th colspan=12></th></tr>
+<tr><td>ticker</td><td>company name</td><td>Sector</td><td>Industry</td></tr>
+   <tr ng-repeat="x in names">
+    <td><a href=http://www.tickerlick.com/cgi-bin/gettickermain2.cgi?q={{x.ticker}}>{{x.ticker}}</a></td>
+    <td>{{x.comp_name}}</td>
+    <td>{{x.sector}}</td>
+    <td>{{x.industry}}</td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

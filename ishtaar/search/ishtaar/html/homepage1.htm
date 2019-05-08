@@ -1,0 +1,63 @@
+<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Ishtaar</title><style><!--
+body,td,a,p,.h{font-family:arial,sans-serif;}
+.h{font-size: 16px;}
+.q{text-decoration:none; color:#0000cc;}
+//-->
+</style>
+<script>
+<!--
+function sf(){document.f.q.focus();}
+function c(p,l,e){var f=document.f;if (f.action && document.getElementById) {var hf=document.getElementById("hf");if (hf) {var t = "<input type=hidden name=tab value="+l+">";hf.innerHTML=t;}f.action = 'http://'+p;e.cancelBubble=true;f.submit();return false;}return true;}
+function submitAdvSearch()
+{
+   document.advSearchForm.action ="advsearch1.htm";
+  document.advSearchForm.submit();
+ return true;
+}
+
+// -->
+</script>
+</head><body bgcolor=#ffffff text=#000000 link=#0000cc vlink=#551a8b alink=#ff0000 onLoad=sf()><center>
+<img src="image\ishtaarlogo.png" width=100 height=70 alt="ISHTAAR">
+  <br>
+  <table><tr>
+  <td><font color="#0000FF">I</font>nternational <font color="#CC0000">S</font>oftware, <font color="#0000FF">H</font>uman
+    Capital, <font color="#CC0000">T</font>echnology <font color="#0000FF">A</font>nd <font color="#CC0000">A</font>dvanced <font color="#0000FF">R</font>esources</td>
+  </tr></table>
+  
+  <form action="/cgi-bin/searchsinglekey.pl" name=f METHOD=GET>
+    <table cellspacing=0 cellpadding=0>
+      <!--DWLayoutTable-->
+      <tr><td>Type Keyword</td><td>&nbsp;&nbsp;</td>
+        <td align=center> 
+          <input maxLength=256 size=45 name=q value=""></td><td>&nbsp;&nbsp;</td><td>Location:</td>
+		  <td><select name=l multiple size=5>
+		  <option value=all>All</option>
+		  <option value=bangalore>Bangalore</option>
+		  <option value=chennai>Chennai</option>
+		  <option value=mumbai>Mumbai</option>
+		  <option value=trivandrum>Trivandrum</option>
+		  <option value=hyderabad>Hyderabad</option>
+                  <option value=pune>Pune</option>
+		  </select></td>
+         <td>&nbsp;&nbsp;</td>
+<td><input type=submit value="Search" name=s></td><br>
+  
+<td>&nbsp;</td>
+</tr></table>
+  </form>
+  <input type=submit value="Advanced Search" name=as onClick="javascript:submitAdvSearch()">
+  <input type=submit value="Browse Categories" name=bc>
+<input type=submit value="Register Your Firm" name=rf>
+<br>
+<p><br>
+<font size=-1><a href="/aboutus.htm">About&nbsp;Us</a> - <a href="/contactus.htm">Contact
+Us</a> <span id=hp style="behavior:url(#default#homepage)"></span>
+</font>
+<p><font size=-2>&copy;2003 Ishtaar - All Rights Reserved</font></p>
+</center>
+ <!-- New User Form -->
+<FORM NAME="advSearchForm" METHOD=POST> <!-- Action is set in JavaScript -->
+  <INPUT TYPE=HIDDEN NAME="TARGET" VALUE="">
+</form>
+</body></html>
